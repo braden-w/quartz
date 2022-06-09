@@ -37,7 +37,7 @@ paths: # colour specific nodes path off of their path
 
 
 ## Styling
-Want to go even more in-depth? You can add custom CSS styling and change existing colours through editing `assets/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. 
+Want to go even more in-depth? You can add custom CSS styling and change existing colours through editing `assets/styles/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. 
 
 ### Partials
 Partials are what dictate what actually gets rendered to the page. Want to change how pages are styled and structured? You can edit the appropriate layout in `/layouts`.
@@ -49,6 +49,8 @@ More info about partials on [Hugo's website.](https://gohugo.io/templates/partia
 Still having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
 
 ## Multilingual
+[CJK + Latex Support (测试)](notes/CJK%20+%20Latex%20Support%20(测试).md) comes out of the box with Quartz.
+
 Want to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Quartz) supports this natively.
 
 Follow the steps [Hugo provides here](https://gohugo.io/content-management/multilingual/#configure-languages) and modify your `config.toml`
