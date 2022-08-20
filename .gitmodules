@@ -4,3 +4,6 @@
 [submodule "content/obsidian"]
 	path = content/obsidian
 	url = https://github.com/braden-w/obsidian.git
+[submodule "content/notes/obsidian"]
+	path = content/notes/obsidian
+	url = https://github.com/braden-w/obsidian.git
