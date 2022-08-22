@@ -1,0 +1,79 @@
+---
+title: ShARE
+date: "2022-06-28"
+date modified: "2022-06-28"
+---
+
+# ShARE
+- MECE↔Mutually exclusive, Collectively exhaustive
+	- in practice with a problem, you→cut up into multiple sub-problems, ideally with little overlap
+- 80-20 Rule
+	- ![](https://remnote-user-data.s3.amazonaws.com/dpBxsgy50l92GGNdhTS62sNPAh084qoJ3C4caBwEn0xLcMQ7ZhWGbRd8Y7UbqMR6VJ1G3ybOJQbwfOc5iuLsheagugsNAdh6x8siypA6wjDE9SaAtMtCs41XeZZ6n-VJ) ![](https://remnote-user-data.s3.amazonaws.com/ZTVH1o2q82o2IQbBWIhroJsLgrZEi_ClosVJp43VaZ5MYBA6KY1mRIefSLg5ETZtMVR7HArDwvLbsDtydM6uQ2JdMU2cHl1XoFOinoIeEhEo4LLLcuet_AdhXbq4stls)
+	- Low-hanging fruit↔An initiative which is easy to do and yield high impact
+- 8 and 3
+	- why 8 and 3→8 steps, 3 times
+	- steps ↓
+		- Define the issue through [Mece](Mece.md)
+		- Set a hypothesis and initial story
+			- ![](https://remnote-user-data.s3.amazonaws.com/JIxIpGj92r6-wbPWK_00v2xZdVvB-K6suUvDThvqeMjTjkK2XyGkN4SLFMT7RGAUnOe6Uqx2YnRWjI94POqalnKuFUh_KAn2AOkk74-uxUe-4eA8gT7ZKownyU3YOFlR)
+		- Define analysis
+		- Prioritize and plan
+		- Research
+		- Distill your message
+		- Check your messages
+		- Reformulate your story
+- Powerpoint
+	- advantages ↓
+		- Easy to share
+		- Easy and fast to go through
+	- common mistakes ↓
+		- Focus on making slides pretty
+		- Only 3-4 points
+		- Used as a text placeholder/notebook
+	- methodology ↓
+		- [three components](Braden Wong/Notes/Yale Courses/First Semester/ShARE/Powerpoint/three components.md)
+			-
+		- Well-structured
+		- Self readable
+	- three components ↓
+		- Message
+			- crisp→short and concise
+			- fits within {{ 2 to 3 }} lines
+			- ![](https://remnote-user-data.s3.amazonaws.com/iemK51HMA5RrDUSID-xznsBT5iBE1vEoA5ewhHkVP4IRj2cKq9p6zgIkmEsEPoZNvFndYcwmmMzy1AJHlNL0KuRWJAcPIMktvSXHWBGKZsCWYcDWBOJNg32sON8kqYTN)
+		- Evidence
+			- well-structured to support your message
+			- do not forget unit, title, definition of chart
+			- ![](https://remnote-user-data.s3.amazonaws.com/rnlTJRwK22NPAUK-MwrwC91GO463bfvuzdkbUXrthjjCXn7bxzwe0VBaWr1mxemntRYUxUAAooPNVrnWeC6t9fEGIVdVes_Tkvp2Lc4T-WjLheVZVsdYrqe4Yr58kJww)
+		- Source
+			- strong and not fraudulent
+			- ![](https://remnote-user-data.s3.amazonaws.com/ALCCphoO3fzZOy_Md6jhOV8hXaz8LaK23HATDbWXqLzJxc6O1Bp7zhHMdj7MYBOX1SYAnDodcsyVRVnMzjqG3ShlqbVktLw7_vqbOyuRYVafbbW7lcBHRZSQLdU_QGCi)
+	- Slide rules
+		- Text and bulleting
+			- ![](https://remnote-user-data.s3.amazonaws.com/baSZr8XsjQqDkCHWB_VWOU3Tuid869kQYQGAYb3z3I0oWgGO-UBBFTqbAoh59EQ6sCshhzpmmRloHHttqC8IR6aGlPzzwry8v4JC7ibT8BSuhAqiU-Z1jM3qhPsu6dQB)
+		- Graph
+			- ![](https://remnote-user-data.s3.amazonaws.com/rAj5IpaiRdnZbZtHGXngRjL8Soa2hqpTRXCxn42fvCT7d2gM5UsJShLntHzuH6YsSOhOrYLjMkW0q0JmByuYxt2R4yN0R6H2tNmCxPj04brebsdXoaaVErWaZ3196MSl)
+		- Magic Tips
+			- ![](https://remnote-user-data.s3.amazonaws.com/u__hBNhjDbp8BdUk6SqP--DjS3R7Bc_6sT3dtMdJGMe2_k0q3AIZnKHebWuHzxMaLM8C6kcL-1wG3k6l11QSWrrFV2Uyljslu_YfDEDxNm7RJme7qyyip9rvgYbCLVAp)
+	- Slide types
+		- Basic![](https://remnote-user-data.s3.amazonaws.com/IYKaG5_khafiH8McPTU2fMNt99FkLR4OgRBUvkcHvHhJfG28Fiy46HdBjKxDKispUoxMYzR94OYL42TDin0KpxO9XImSfffmr0pMcW4ZUuNcJQS8FDwcVi5X7C_Li8gw)
+- Types of Slides
+	- Analytical Slide (aka chart slide)
+		- Common mistakes ↓
+			- No clear label
+			- No year for data
+			- No units
+			- Inconsistent decimal place
+			- Formatting
+			- Unnecessary elements
+			- Wrong choice of chart type
+		- Types of charts and their purpose ↓
+			- Bar chart↔For side-by-side comparison or change over time
+			- Line chart↔For showing trends over time
+				- Do not label every data point
+			- Waterfall↔The cumulative effect of sequentially introduced pos/neg values
+			- Clustered bar chart→![](https://remnote-user-data.s3.amazonaws.com/z9w8Op5WBBPLoiV-WfAXxZ2r-o4v4MJhbLP-ddGZv_MfTaCJvMSRbr6Dg7d4xhbUl-T8YtSuS8PzjYjTVH0Kia2DUd9nEp07Nf9HQeglCvGKXVgfG0mCk4hAgcLPqqvu)
+			- Use bubbles to make comments
+			- Value Chain↔Chevrons show where value is added along the supply chain
+				- ![](https://remnote-user-data.s3.amazonaws.com/yywWZ45LAeBYciYzI4PyDZhBMf9e7nHoq5TDhaBPP1DtG6zhuxlehBOhSxrPq6ENSiyY825biK6WBp1J2rWtUnD2d9j_vTYd_PzkBbSSOX_RUTKISCQyYfR0J3wQNrQO)
+					- vertical form→![](https://remnote-user-data.s3.amazonaws.com/dP9fN5i9vm9XyaG7XCXcg6aanogTalFlg9UEwpKKA8Z1OP1ljySpNtH2bjNYHKfSmPPtXoOTWhutxLxmo0Kisn3ujotx82DtetQVhKr1AqyC9MQcmKRGuAczE2055Pwn)
+					- feedback form→![](https://remnote-user-data.s3.amazonaws.com/OOLpu3rz-X6Lhx2cVKRixJ9PnrUhZl_XfHWlWEX_IYeabC67S20NHn2T8-mA8ncLRf-DdhEoHYKAsLDe7GxmKZK73l8oWDkAakb1BwiwfI_-HlsMTy1w3NTVF1HgY5Yq)

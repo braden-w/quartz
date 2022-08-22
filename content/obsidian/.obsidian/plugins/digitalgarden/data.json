@@ -1,0 +1,14 @@
+{
+  "githubRepo": "mydigitalgarden",
+  "githubToken": "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",
+  "githubUserName": "braden-w",
+  "gardenBaseUrl": "braden-wong.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/master/obsidian.css\"}",
+  "baseTheme": "light",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

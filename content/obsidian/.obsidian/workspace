@@ -1,0 +1,436 @@
+{
+  "main": {
+    "id": "6d3959407d6a4355",
+    "type": "split",
+    "children": [
+      {
+        "id": "8781ef193980f811",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8781ef193980f811",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/PSYC 179/Utilitarianism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Courses/PSYC 179/Utilitarianism.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7f6ac5240dbfbc67",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "7f6ac5240dbfbc67",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/“The Man You Need don’t Look Like the Man You want.”.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":10.884887459807073}"
+            },
+            {
+              "leaf": "7f6ac5240dbfbc67",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Talent.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7f6ac5240dbfbc67",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Why Do We Get Dark Circles Under Our Eyes? - YouTube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":13.804897314375987}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Talent.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "21b35f45cb3ca2d1",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "21b35f45cb3ca2d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":22},\"to\":{\"line\":13,\"ch\":22}},\"scroll\":12.824644549763033}"
+            },
+            {
+              "leaf": "21b35f45cb3ca2d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/How to Eat Healthy Without Thinking, Backed by Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":45.37690972222222}"
+            },
+            {
+              "leaf": "21b35f45cb3ca2d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Simplify Your Code Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":19.901571546732836}"
+            },
+            {
+              "leaf": "21b35f45cb3ca2d1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/CSS, Behavior Libraries, and Style Systems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":16.841232227488153}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "77f859b1d65be19e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "77f859b1d65be19e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":91.87756714060032}"
+            },
+            {
+              "leaf": "77f859b1d65be19e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.7948717948717947}"
+            },
+            {
+              "leaf": "77f859b1d65be19e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":365.77777777777777}"
+            },
+            {
+              "leaf": "77f859b1d65be19e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Is Full Stack RealIs GraphQL NecessaryIs tRPC Like gRPCDoes Tailwind Make Me Angry? STREAM VOD - YouTube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":14.886284722222221}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Remnote Export/PSYC 126 Attraction and Relationships.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2d2db3ce6129f6a6",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2d2db3ce6129f6a6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "98f922988ba75384",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "98f922988ba75384",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/RemNote Import/Daily Document.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/RemNote Import/Daily Document.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e30bc008b0c19afa",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": []
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22c1fca810400172",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ed3ba4bf26d09e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e646febc070497f2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58d68247139e88be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "126",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "6d14bf9411eca382",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sources/RemNote Import/Daily Document.md"
+              }
+            }
+          },
+          {
+            "id": "63ae9ba9f5f569ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "52839a4834cb6598",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "052cfcd0b324cd86",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a2cedfa15c23af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d30fd4d0e93b76d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13dff933c020158f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "147d13b97cfe8197",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9396ac4a88bacf30",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "52ff7fd12b440ce1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "580cfad99b72eb9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5eb092cb80f9d1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2222514fa09c6aa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "d2222514fa09c6aa",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/RemNote Import/Daily Document.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.10374450683594
+  },
+  "active": "98f922988ba75384",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
+  "lastOpenFiles": [
+    "Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md",
+    "Remnote Export/PSYC 126 Attraction and Relationships.md",
+    "Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships.md",
+    "Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships Final.md",
+    "Sources/Clippings/Why EAs Are Skeptical About AI Safety - EA Forum.md",
+    "Readwise/Readwise/Podcasts/EA - Why EAs are skeptical about AI Safety by Lukas Trötzmüller.md",
+    "Cards/Fleeting Notes/Speed of Inquiry.md",
+    "Cards/Quotes/Don't Kill What You Hate, Save What You Love.md",
+    "Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md",
+    "Cards/Fleeting Notes/Talent.md"
+  ]
+}

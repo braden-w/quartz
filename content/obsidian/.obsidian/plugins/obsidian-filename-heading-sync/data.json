@@ -1,0 +1,18 @@
+{
+  "userIllegalSymbols": [
+    "[",
+    "]"
+  ],
+  "ignoredFiles": {
+    "Template/References.md": null,
+    "Template/Note Template.md": null,
+    "Template/Templater.md": null,
+    "Fleeting Notes/New Note Prompt.md": null,
+    "Template/A New Note.md": null,
+    "Fleeting Notes/Note Template.md": null,
+    "Template/Edit Tags.md": null,
+    "Settings/Template/Note Template.md": null
+  },
+  "ignoreRegex": "(\\[\\[.*\\]\\]|Kanban Boards)",
+  "useFileOpenHook": true
+}

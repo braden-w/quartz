@@ -1,0 +1,272 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Braden}{Wong}{ % \urlstyle{same}\href{http://github.com/braden-w}{github.com/braden-w} | \href{http://bradenwong.com}{bradenwong.com} | \\
+\href{mailto:braden.wong@yale.edu}{braden.wong@yale.edu} | 626.627.4599
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.3\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \subsection{Stanford University}
+%\descript{M.S. in Computer Science}
+%\location{ May 2026 | New Haven, CT}
+%\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Yale University}
+\descript{Bachelor of Science}
+\location{ May 2024 | New Haven, CT}
+% \location{ GPA: Pending}
+Ethics, Politics, \& Economics and Computer Science \\
+
+% Magna Cum Laude\\
+% \location{ Cum. GPA: 3.83 / 4.0 \\
+% Major GPA: 3.9 / 4.0}
+\sectionsep
+
+\subsection{Arcadia High School}
+\descript{Valedictorian, 1/850}
+\location{June 2020 |  Arcadia, California}
+\location{ GPA UW: 4.0 / 4.0 }
+SAT 1560 (8th Grade) | ACT 36 \\
+18 AP Courses
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Undergraduate}
+Computer Science \\
+Vector Calculus (Advanced Theory Track) \\
+\sectionsep
+\subsection{Online Specializations}
+Cloud Engineering with Google Cloud\\
+Data Engineering with Google Cloud\\
+Wharton's Business Foundations\\
+\sectionsep
+\subsection{Online Courses}
+CS50's Intro to Computer Science \\
+Algorithmic Toolbox \\
+Data Structures \\
+% Game Theory \\
+% Data Science Math Skills \\
+% Alteryx Data Analytics Core Certified
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/braden-w}{\bf braden-w} \\
+LinkedIn://  \href{https://www.linkedin.com/in/braden-wong/}{\bf braden-wong} \\
+Medium://  \href{medium.com/@bmw02002turbo}{\bf bmw02002turbo} \\
+Medium Publication://  \href{medium.com/optim}{\bf optim}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Fellowships
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Fellowships}
+\textit{Application based, typically offered to upperclassmen and Master's students} \\
+EAGx Virtual \textbullet{} Yale EA Fellowship \\
+Oxford University In-Depth Fellowship
+
+\section{Hackathons}
+HackMIT \textbullet{} IvyHacks \textbullet{} YHack
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+Public Speaking \textbullet{} Team Leadership \\
+Creative Writing \textbullet{} Mathematics
+\sectionsep
+\subsection{Programming}
+Python \textbullet{} Web Scraping \textbullet{} Selenium \\ 
+Vue.js \textbullet{} Nuxt.js \textbullet{} Vuex \textbullet{} Vuetify
+Serverless \textbullet{} Firebase \textbullet{} NoSQL \\
+HTML \textbullet{} CSS \textbullet{} Javascript ES6 \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.69\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+
+\runsubsection{Google}
+\descript{| Computer Science Summer Institute Coursera Student }
+\location{June 2020 - Present}
+\bigskip
+\begin{tightemize}
+\item Weekly discussion sections with Google teaching assistants about algorithms, data structures, coursework, career advice, and project development
+\item Completed two certification courses in algorithms and data structures
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Essaytrack.app}
+\descript{| Collaborator/Backend Developer }
+\location{April 2020 – Present | Vue, Vuex, Firebase}
+\begin{tightemize}
+\item Deployed Firebase backend for Todo-list app which currently manages 40+ accounts
+\item Responsible for database management and resolution of 4 critical backend bug fixes
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Yale College Council}
+\descript{| First Year Council, Associate Senator}
+\location{September 2020 - Present | New Haven, CT}
+\begin{tightemize}
+\item Elected to serve 1,500. Responsible for execution of internal improvements and events in coordination with Dean and Head of College
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Yale Effective Altruism}
+\descript{| Webmaster, Board Member}
+\location{April 2020 - Present | New Haven, CT}
+\begin{tightemize}
+\item Responsible for transitioning website from Wordpress to Webflow platform
+\item Admitted to Yale and Oxford University's In-Depth intensive discussion Fellowships
+\end{tightemize}
+\sectionsep
+
+\runsubsection{The Wharton School}
+\descript{| Leadership in the Business World (LBW) }
+\location{July 2019 – August 2019 | Philadelphia, PA}
+\begin{tightemize}
+\item The Wharton School's premier business summer program
+\item Mentored by Wharton professors and pitched original business plan to panel of entrepreneurs, VC’s, and executives in business competition
+\item Franklin Institute Competition finalist, Final Competition Best Presentation Award
+\end{tightemize}
+\sectionsep
+
+\runsubsection{ASSOCIATED STUDENT BODY}
+\descript{| Executive President, Class President}
+\location{August 2016 – June 2020 | Arcadia, CA}
+\begin{tightemize}
+\item Served on behalf of 3,300. Delivered speech to 3000+ audience in 2019 all-school 9/11 Assembly with news coverage and strong positive reception
+\item Pioneered 5-department system based off C-Suite, revamped class grading system, and led file migration to Google Shared Drive, doubling events planned per year
+\item Cold called, developed relations, and arranged contracts with local movie theater, ice skating center, and Sky Zone trampoline park
+%\item Spearheaded creation of new dance, Winter Formal 2019, with over 500 attendees
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Arcadia City Manager}
+\descript{| First Student Intern}
+\location{2017 – 2020 | Arcadia, CA}
+\begin{tightemize}
+\item Recruited and led student development team to develop a working city inquiry website from scratch using HTML, CSS, JS, and PHP. 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Eagle Scout}
+\descript{| Troop Founder, President, Eagle Scout}
+\location{2013 – 2020 | Arcadia, CA}
+\begin{tightemize}
+\item Founded troop and recruited new scouts starting from zero to over twenty-five
+% \item Led planning for volunteer events and outdoor camping excursions. Created relationships with local Elks Lodge, leading to monthly service events. 
+\item National Youth Leadership Training, Gold \& Silver Palm, OA Honor Society
+\end{tightemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Awards} 
+\begin{tabular}{rll}
+2019	     &  Top <1\%   & Scholastics Writing National Silver Medalist  \\
+2019	     &  Top <2.5\%  & American Invitational Mathematics Examination Qualifier \\
+2020	     &  Top 500   & Elk's MVS National Finalist \\
+% 2019	     &  1,928/93,000   & Coca Cola National Semifinalist \\
+% 2019	     &  Top 1 \%   & National Merit Finalist \\
+2019     & Published
+& Noteworthy Journal, publication averaging 30,000+ readers  \\
+\end{tabular}
+\sectionsep
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}

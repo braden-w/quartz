@@ -1,0 +1,14 @@
+---
+tags:
+- Daily_Note/Writeup_Snippets
+date: "2022-06-15"
+date modified: "2022-06-16"
+title: Sun
+---
+
+# Sun
+Thursday, September 26, 2019
+
+7:00 PM
+
+There is a wonderful ray of sunshine right outside the window peering into my room in its unrequited brilliance. As the rays illuminate my room, I am reminded of how amazing it is that I am blessed to have the sun be here. The sun is man's lamp, the 24/7 creation in which one may gather light and strength from at any time. Much like many other extraterrestrial objects, the sun has no business being in the sky, but rather prefers to be hung on the ceiling in the form of a 3D model. It is for this reason that the sun is not just an enormous object, but a truly amazing creation. Staring into the sun is probably one of the most dangerous ventures one could embark on. I have given the sun several furtive glances; I cannot say I have been surprised by its vast pulchritude. Its blinding rays and ceaseless blinding has been a topic of amazement for quite some time. And yet, the most amazing part of the sun is the fact that it is always here. The permanence of a time so consciously etched into the heavens, as a timekeeper of inescapable measure, has neve ceased to surprise/impress me. As I look out of the window with a hopeful wistfulness, I see the rose bushes outside, in their pretty red allure. The fences stretch across the perimter of my house, their job having been to safeguard from the perils of the outside world. The garden hose, in its green glory, must embark on its daily venture to satiate the thirst of the greenery that surrounds it. Grass is always greener on the other side. It just depends on what side you are looking from. The earth underneath, however, will always be brown, the dullest shade there is, for it is not beauty but the mundaneness of earthiness which sustains the living. For every person which is placed on a pedestal requires the arduous toils of the many to sustain the brilliance of the few. IT is a tragedy in which many nations are bolsterd by a few elite which command absolute control over their processes, where as the others are left to the mundane drudgery of labor. Life is one which follows clear power structures, and without them, there may be a society yet not without the clearness or specialization in which we enjoy today. \*\*Such is the sun, the beautiful spectator of this indefinite struggle for power and competence, set among the beauty of a tiny inferno buried in the beauty of a vast blue-lit sky.\*\* Whether or not one may sympathesize with the few it enjoys, it is without a doubt that it has achieved its location not through luck or some skill, but through raw competence. Thus, we worship its entire being, as the supreme being which governs our entire existence. The sun is my eternal guardian, my companion throughout all space and time, that I will always meet regardless of my location in the solar system.

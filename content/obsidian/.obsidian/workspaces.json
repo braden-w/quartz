@@ -1,0 +1,1704 @@
+{
+  "workspaces": {
+    "Fleeting Notes": {
+      "main": {
+        "id": "bb4576e046ff1d7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2df17aee623ee775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Stress is Actually the Go Signal for Your Immune System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "2df17aee623ee775",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Stress is Actually the Go Signal for Your Immune System.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":13},\"to\":{\"line\":7,\"ch\":13}}}"
+                },
+                {
+                  "leaf": "2df17aee623ee775",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "67de2c4b6cbcfdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Watch These 55 Minutes if You Want to Be a Millionaire in 2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "67de2c4b6cbcfdb9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Watch These 55 Minutes if You Want to Be a Millionaire in 2022.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":25}},\"scroll\":1}"
+                },
+                {
+                  "leaf": "67de2c4b6cbcfdb9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/James Gosling - Java, JVM, Emacs, and the Early Days of Computing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "67de2c4b6cbcfdb9",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "d1ae24e3f0970997",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Fleeting Notes/FleetingNotes Database.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "d1ae24e3f0970997",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Fleeting Notes/FleetingNotes Database.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "d1ae24e3f0970997",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/I Only Believe 1% of Decisions Matter. The Rest of Them Are Irrelevant. The Difficulty is Understanding Which 1% of the 99% Are the Ones That Matter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "d1ae24e3f0970997",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fd11c1019cc01234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-05-22 Speech at Court of Honor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "fd11c1019cc01234",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/2022-01-31 Delicious Wasabi Peppercorn Steak with Amelie, Albert, Dante, and Josh. Joking About John Brockett story.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":91},\"to\":{\"line\":0,\"ch\":91}}}"
+                },
+                {
+                  "leaf": "fd11c1019cc01234",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Notes/2022-05-22 Speech at Court of Honor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "fd11c1019cc01234",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Researching Vs. Explaining Strategies.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "e79e856f3ef3902a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005 Writing/Favorite Questions/Entrepreneurship.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "e79e856f3ef3902a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Favorite Questions/Entrepreneurship.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e79e856f3ef3902a",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "a26742f4ebf19b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/collections.Counter(string).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/collections.Counter(string).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Fleeting Notes/FleetingNotes Database.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Automate the Boring Stuff with Python.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/3 Color Problem.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Favorite Questions/Descriptive Vs. Prescriptive, and Pragmatically Approaching the World.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "a26742f4ebf19b49",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fdb5db526b1bfdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/PSYC 130/PSYC 130 Introduction to Cognitive Science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "fdb5db526b1bfdb0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/PSYC 130/PSYC 130 Introduction to Cognitive Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "fdb5db526b1bfdb0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Cognitive Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "fdb5db526b1bfdb0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Posts/Fleventy Five.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "06d1f465b89d2957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Zettelkasten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "06d1f465b89d2957",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Map of Content.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "06d1f465b89d2957",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Zettelkasten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "06d1f465b89d2957",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Fleeting Notes/FleetingNotes Database.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "a70d4a331ba7e868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/333 - Excuses and Rationalizations Are Not Valid… And We Know That (Dan Cnossen).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a70d4a331ba7e868",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/333 - Excuses and Rationalizations Are Not Valid… And We Know That (Dan Cnossen).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":25},\"to\":{\"line\":11,\"ch\":25}}}"
+                },
+                {
+                  "leaf": "a70d4a331ba7e868",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e0856a037f880251",
+        "type": "split",
+        "children": [
+          {
+            "id": "37e4370be696fdf1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eef7ee777c7d824e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "48696608a38a72cd",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7be204e8debfe993",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 289
+      },
+      "right": {
+        "id": "f0b57e5ed4f138f8",
+        "type": "split",
+        "children": [
+          {
+            "id": "3d0a8c8f139f3482",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "947670733675c727",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "947670733675c727",
+                      "group": null,
+                      "state": "{\"type\":\"graph\",\"state\":{}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "947670733675c727",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Recruiting/Coding Interview Cheatsheet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}},\"scroll\":0.6031746031746031}"
+                    },
+                    {
+                      "leaf": "947670733675c727",
+                      "group": null,
+                      "state": "{\"type\":\"empty\",\"state\":{}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "da3ccf0ed3b04d90",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Fleeting Notes/FleetingNotes Database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f4eaa3326fd34ac9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94c37fd2a6c6b766",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "1ce8e0b8c23f21fc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Fleeting Notes/FleetingNotes Database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0c9f5e5bec3b6f75",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "7e6aac608ca0becb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Fleeting Notes/FleetingNotes Database.md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "f3d23ad08249ea96",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e33078d417abf04d",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 224.0188446044922
+      },
+      "active": "d1ae24e3f0970997"
+    },
+    "June 25, 2022": {
+      "main": {
+        "id": "adae44d043f909c1",
+        "type": "split",
+        "children": [
+          {
+            "id": "d40b512e84f735cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/Courses.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "d40b512e84f735cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/Courses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":16},\"to\":{\"line\":16,\"ch\":16}}}"
+                },
+                {
+                  "leaf": "d40b512e84f735cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/How McDonald's Evolved From Boomers to Zoomers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "24132c1136917b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/Courses.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "24132c1136917b9f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/Courses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "aaa1b4f581321df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Blog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "aaa1b4f581321df3",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Blog.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "aaa1b4f581321df3",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MOCs/Advice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "b2bc1038e424541d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Leetcode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b2bc1038e424541d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Leetcode.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":2},\"to\":{\"line\":18,\"ch\":2}},\"scroll\":27.024998748539055}"
+                },
+                {
+                  "leaf": "b2bc1038e424541d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/My Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "577b490068f7637e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Hyperplane.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "577b490068f7637e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":49},\"to\":{\"line\":28,\"ch\":49}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fc84295015fdfe19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Leetcode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "fc84295015fdfe19",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Leetcode.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":46},\"to\":{\"line\":44,\"ch\":46}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "fc84295015fdfe19",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Boring Advice Repository.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "c9e3c85289dd32d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RemNote Import/Braden Wong.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RemNote Import/Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":566},\"to\":{\"line\":81,\"ch\":566}},\"scroll\":7}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":54.36730519313767}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Asperity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Banal.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RemNote Import/Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RemNote Import/Braden Wong/Notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":48},\"to\":{\"line\":20,\"ch\":48}}}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Note Has Multiple Types/Why Keeping the Room Cool Helps Sleep.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"0. Note Has Multiple Types/Notes with Multiple Types.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Note Has Multiple Types/Normalize Following Up and Checking In On Slackers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"0. Note Has Multiple Types/Notes with Multiple Types.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Objective Morality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Posts/\\\"General Meeting\\\" Helps Interested People to Act Upon Their Own Initiative, Rather Than Placing the Onus on Us to \\\"Invite\\\" People to the Board Meetings.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Leibniz Vs. Lagrange Derivative.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/ML Safety Scholars Program.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "c9e3c85289dd32d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Why Serve and Volley Faded, Borg-McEnroe 1980 Wimbledon.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "11c27173fa85ddab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Note Has Multiple Types/2022-06-20 Post About Diversity in Effective Altruism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":245.86592584524362}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rem2Obs/Hegemonic Stability Theory.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/CPSC 201.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/2018 The Din Din List.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "11c27173fa85ddab",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "be35ca8bba8a87de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/CPSC 201.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "be35ca8bba8a87de",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/CPSC 201.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":200,\"ch\":150},\"to\":{\"line\":200,\"ch\":150}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "be35ca8bba8a87de",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Perceptron Algorithm.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":20.863837407685654}"
+                },
+                {
+                  "leaf": "be35ca8bba8a87de",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "240102ded1ebba53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Hyperplane.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "240102ded1ebba53",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":5},\"to\":{\"line\":34,\"ch\":5}}}"
+                },
+                {
+                  "leaf": "240102ded1ebba53",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/ML Safety Scholars Program.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":2},\"to\":{\"line\":51,\"ch\":2}},\"scroll\":18.46987173539064}"
+                },
+                {
+                  "leaf": "240102ded1ebba53",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "240102ded1ebba53",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Perceptron Algorithm.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":33},\"to\":{\"line\":2,\"ch\":33}}}"
+                },
+                {
+                  "leaf": "240102ded1ebba53",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Requesting Software Engineering Referrals From Nathan and Carolyn.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "c7245c711a5f3f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Perceptron Algorithm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "c7245c711a5f3f31",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Perceptron Algorithm.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":65},\"to\":{\"line\":28,\"ch\":65}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "c7245c711a5f3f31",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "3100d34e7eb2c73e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "3100d34e7eb2c73e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Perceptron Algorithm.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":21}}}"
+                },
+                {
+                  "leaf": "3100d34e7eb2c73e",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "b58fed0a74a6c1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Would I Want My Child Doing That?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b58fed0a74a6c1a0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideas/Would I Want My Child Doing That?.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":6},\"to\":{\"line\":4,\"ch\":6}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "65453a8b2e265807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Dr. Andrew Huberman’s Morning Routine | by PodClips | Medium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "65453a8b2e265807",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Dr. Andrew Huberman’s Morning Routine | by PodClips | Medium.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "65453a8b2e265807",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Yoga Nidra.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "65453a8b2e265807",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "205d56fa61b66ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Movies/Star Trek Beyond.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "205d56fa61b66ba2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes/Movies/Star Trek Beyond.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}}}"
+                },
+                {
+                  "leaf": "205d56fa61b66ba2",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "a3d8dd12e70b54b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Most Conflicts Start When One or Both Sides Miscalculate the Costs or Chances of Winning War.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a3d8dd12e70b54b4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Most Conflicts Start When One or Both Sides Miscalculate the Costs or Chances of Winning War.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "a3d8dd12e70b54b4",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ec8305be1a2d0a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Hyperplane.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "ec8305be1a2d0a80",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "ec8305be1a2d0a80",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "21a69d90f6a64c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Supervised Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "21a69d90f6a64c1a",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Supervised Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "21a69d90f6a64c1a",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "3b7dacceae52a7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Classification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "3b7dacceae52a7d5",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Classification.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "3b7dacceae52a7d5",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "39d2170464b73016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Note Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "39d2170464b73016",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template/Note Template.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "060c4d63da0f10bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Unsupervised Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "060c4d63da0f10bc",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Unsupervised Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}}}"
+                },
+                {
+                  "leaf": "060c4d63da0f10bc",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "5064fcef95b1b28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Unsupervised Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "5064fcef95b1b28f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Unsupervised Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "5064fcef95b1b28f",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "dc232b572d29100c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Notes/ML Safety Scholars Program/Supervised Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "dc232b572d29100c",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/ML Safety Scholars Program/Supervised Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "dc232b572d29100c",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "e27c79a5edcd8f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/You Should Frame Yourself as a Helper or Advisor for Your Kids, Not Their Opposition, or Their Discipliner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "e27c79a5edcd8f21",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/You Should Frame Yourself as a Helper or Advisor for Your Kids, Not Their Opposition, or Their Discipliner.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "e27c79a5edcd8f21",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "a5658930ca06b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/I Was Lucky That Much of Adversity Was Outside of My Family.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a5658930ca06b9ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/I Was Lucky That Much of Adversity Was Outside of My Family.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":202},\"to\":{\"line\":12,\"ch\":202}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "a5658930ca06b9ad",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3f4ee985b54e2ee6",
+        "type": "split",
+        "children": [
+          {
+            "id": "09e9f359b2d277f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "315477f0f71d6b6c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "5c691557082fb6f0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Abysmal",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "991a3260ac5e06ee",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "9778baecfd67855f",
+        "type": "split",
+        "children": [
+          {
+            "id": "12e4dfcab987546c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "72129510379f9362",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "ba737f5e4b9a48cd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md"
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "baa61ae7967f38c7",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.16762673921520968,
+                      "close": false
+                    }
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "baa61ae7967f38c7",
+                      "group": null,
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Fleeting Notes/2022-04-29 EAGx Prague Application.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "b2ba7ba90568ca38",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "e1fe51c9c1d13621",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "c178bdee3361c148",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-matrix",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "0b3102d81ceddbdc",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-tree",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "39f28f7441ed4fb6",
+                "type": "leaf",
+                "state": {
+                  "type": "BC-ducks",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "a12666e13a89b622",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "85fe99e68e71cd1d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "873d8ec655f209e9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              },
+              {
+                "id": "d2fb9ecdfb63c4c2",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. Note Has Multiple Types/AVAs in the Palms, Bottom of Feet, and Upper Half of Face Allow Cooling and Allow Us to Massively Improve Recovery..md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "2978ef4128d6d4a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c22c7c52c75a60bc",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": []
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 367.5
+      },
+      "active": "11c27173fa85ddab"
+    }
+  },
+  "active": "Fleeting Notes"
+}

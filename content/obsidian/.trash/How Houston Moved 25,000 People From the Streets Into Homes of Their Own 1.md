@@ -1,0 +1,1 @@
+![](https://static01.nyt.com/images/2022/05/31/multimedia/00HW-HOMEMEDICAID1/merlin_206651082_84218b63-754b-4520-ac83-873c38da80b8-articleLarge.jpg?quality

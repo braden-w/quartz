@@ -1,0 +1,24 @@
+{
+  "mobilePullAction": "daily-notes",
+  "showFrontmatter": true,
+  "mobileToolbarCommands": [
+    "command-palette:open",
+    "switcher:open",
+    "editor:insert-wikilink",
+    "file-explorer:new-file",
+    "editor:set-heading",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "showLineNumber": false,
+  "spellcheck": true
+}
