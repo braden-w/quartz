@@ -1,0 +1,11 @@
+{
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "naked-embeds"
+  ]
+}

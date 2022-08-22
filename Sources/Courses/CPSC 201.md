@@ -1,0 +1,591 @@
+---
+date: '2022-06-25'
+date modified: '2022-06-28'
+tags:
+- On/Computer_Science
+- Type/Source/Course
+title: CPSC 201
+---
+
+# CPSC 201
+- [[2020-09-20]] Learning Racket examples
+	- (+)―0
+	- +―#<procedure:+>
+- Lists
+	- Types
+		- empty list
+			- (list )→'()
+		- flat lists
+			- (list 'a 'b 'c)→'(a b c)
+		- don't use quotes when you want evaluation of list
+			- `(list 1 2 (* 9 8) #t quotient 'candy)→'(1 2 72 #t <#procedure:quotient> candy)`
+		- non-flat lists
+			- `('a b (2 c))→'(a b (2 c))`
+			- `(list 1 2 (* 9 8) (list #t #f '(a b c)))→'(1 2 72 (#t #f (a b c)))`
+	- ![](https://remnote-user-data.s3.amazonaws.com/Yhe8yS1RBCtJCAa_s2Ju7yllx2GoBvqp5XnJHfXWvi8ycIfqSN1Xv1l3FGwjdBTod1zuOK10b-2vgA6_1uQQwW8Dxqb0aUsKuqca4aVkCbc59R89cpbeHwtHOXcDXHuf)
+	- ![](https://remnote-user-data.s3.amazonaws.com/v-4NzXakxBao_8B-C4uvRQjwSB8313UkHTHvZfAj1EvYS8Q-ZBHC5WKG9GCehxe5XEaDrAzyLoP5EAy-fw2Ibp8eiibRIk64e7ecwFelzMv4sDRH6m97-W0pLid0DLOI)
+	- pairs
+		- produced when→(cons ) is called on only two object
+		- visualized→![](https://remnote-user-data.s3.amazonaws.com/qhMYdrShWdp22Cj34c4DFh4rivCWIX_IKZ790V5DbgyYK5GvxYkPpJxXHfq_pOeaxuFm6BywFtdbmqG6fQyzxG0f_0dwpxvccbGuclpD79bzIKsW132zN3TgT7EnffOn)
+		- why use ' in lists '(1 2 3 4)→so first item is not interpreted as an operator
+		- ![](https://remnote-user-data.s3.amazonaws.com/q5SZI6dx0GwDTH0sRluihjIxEolKoq9tBcpB2eyMMUKHcKNBv_9924o14LRRKvC-A2h2e-O3XcGry60lhCjLGBsBXU1fH6tdUXik4CRBL0cdNwPDXzB6SxfY7ho2LIX1)
+	- Procedures can be arguments for procedures
+- functions
+	- Lists
+		- cons
+			- (cons 1 '(2 3 4))→(1 2 3 4)
+		- append
+			- difference vs. cons→cons inserts first argument to into second list, append combines two lists
+			- (append '(1 2 3) '(4 5 6))↔'(1 2 3 4 5 6)
+			- (cons '(1 2 3) '(4 5 6))↔`((1 2 3) 4 5 6)
+		- first and rest
+			- (first '(a b))→a
+			- (rest '(a b))→b
+			- (first '((a b) c))→'(a b)
+			- (rest '(a))→'()
+			-
+		- list-ref (index function)
+			- (list-ref '(a b) 0)→a
+			- is like
+		- Cond→Case function, returns the FIRST true
+			- (cond ((< year 2020) less) ((> year 2020) greater) ((= year 2020) equal)
+			- (cond ((< n 100) 'a) ((= n 50) 'b )), n = 50↔'a
+		- let, let*
+			- allows you to assign temporary variable for the procedure
+			- ![](https://remnote-user-data.s3.amazonaws.com/5vHptnJ1mxyN_GECe2a558UO4nKxV9GrgmvzezvWdQtxoPc-CrfXgmHIlExa3I62rf5DsU3vRIvVqWv3haRE463xepeQ-3Rs5mHHP1E99I8L60yujxFe0ste9IbbqBZw)
+			- let vs. let*
+			- ![](https://remnote-user-data.s3.amazonaws.com/4w_49pjs8kI-bbnHw3J9RhjgHcF5H5l59jD7UTCD-ETh8kNBbpJPIEnMb6rpL4BXWPeJAxyiRc0hNq5G6lJlqpMT92ZWtRhgS_nhTv4w7Z_NogLTMQ_n0VHT6DjIF4Ex) gives an error but ![](https://remnote-user-data.s3.amazonaws.com/VU991DOm2qqK69YqS2-AaJ-qdWWY3K1G3qAHX-KgZkFv41wRIcaYUdJoPCmjGImhI2B-Ne23rUEHJavsC63InFW1CyVfp8IhovqTY62nlR89b5TNai6d0mbVU4faiW2h) does not
+		- length
+			- (length '(a b (c f) d))→4
+		- map function
+			- (map (lambda (n m) (+n m)) '(1 1) '(2 3))
+		- trace
+			- traces function's calls
+			- ![](https://remnote-user-data.s3.amazonaws.com/JU2EZB6gWWKf8yayHKTiR2OB5TEcv7pNOeVHBmHsSloub1jrE5VMSX7_3bleO9Sni9CstMfW7EpHBjkpYmDRsBNF1m-TdV1UJN5goaXqawVc0uDhw_yGs5PqpVBH6FIa)
+- Terminology
+	- Deep Recursion→search within lists of list. In our base case, we will need to check if the first element is a {{ list }}
+	- Symbols→anything that starts with ', or an operator
+	- Iteration vs. Recursion Processes
+		- Iterative process→only one recursive call of procedure at each level without further processing
+			- indentations in trace function? (yes/no)→no
+			- example→![](https://remnote-user-data.s3.amazonaws.com/MadPkqveNAbmvoVcx30uTkNi1uW_JQO7gqv40NxL_i_8Qp0kNBIvJjlXLHgaTZhjCK8heSERHNI9phk58hzLKU1wEp27tAsCxZMZE-ml-V62dijgf0puIplyuhhHbTOO)
+		- Recursive process→more than one recursive call at any level OR there is additional computation done before recursive call
+			- indentations in trace function? (yes/no)→yes
+			- example→![](https://remnote-user-data.s3.amazonaws.com/o0VQa7vdUQwhP4W_POU2Z7v20EdfGJWaLQdB05u5Zh7CJJUd_V3jG-4COn2AlFu3QyYwUOtgK9_TmTXo9sp-_HVMUs0phseDJGsGw4FmIifwRCL8rHlboFBTDRFyym3v)
+		- Convert from recursive to iterative→add an extra argument, put computation in that argument instead of outside the recursive call
+			- example→![](https://remnote-user-data.s3.amazonaws.com/eIoDZkP8ihSaohumljnCAELY9b1EAbb24Y_WalpEC9kgshpLxrr5Ng4qwXs1aUAuF98vVN1EugKKGoE7CS5isiTnzMePspafY57C1ADEri0T-T3KWluZ3vR22R7kdvWW)
+		- The biggest difference between recursive and iterative?→recursive places computation outside the called function, while iterative does computation within the called function's argument
+	- `Procedures` vs. `processes`→procedures generate processes
+	- Tail recursive sequences→recursive procedures that generate iterative processes
+		- how to tell they're tail recursive→all calculation is done in argument, not outside
+		- tail=` tuck `
+- Commands
+	- Any number or character other than zero is treated as true
+		- not 1―`#f`
+		- not 0―`#t`
+		- not 30―`#f`
+		- not +―`#f`
+	- Iteration―looping
+	- Recursion―breaking into smaller pieces
+	- and function―searches until it finds a false, returns first `#f`, or last value if all true
+		- `(and #t #t #t)` => `#t`
+		- `(and (loop-forever) #t)` => forever
+		- `(and 12 13)` => 13
+			- 12 and 13 are both true, but 13 is last
+	- or function―searches until it finds a true, returns `#t` or last value
+		- `(or #t #f #t)` => `#t`
+		- `(or #f (loop-forever))` => loops forever
+		- `(or #t (loop-forever))`―`#t`
+		- `(or 12 13)`―12
+			- 12 and 13 are both true, but 12 is first
+- Turing Machine ↓
+	- ![](https://remnote-user-data.s3.amazonaws.com/-6MI8Io58rNrgEiw8bb-YNDxw8jNkqwP3MiyGwi8IudTRq3SaZhBJWzHDe3Lk-iDTApzB_zk_xJTUcK0UY3GWcErkHynoZFqkKTSFs9suHyoB64i-wU07czgdmdlbp4R)
+	- Infinite one-dimensional {{ tape }} ![](https://remnote-user-data.s3.amazonaws.com/ofTININdCrKCxcL0JN8Qi9HpJswST49H_s64t90og9CkmpN-BVx4exd6AaHT-smYsG9JBy2lX1k3An1XcQpxTNS2TE_LvTr_iokHDhEZCpz4yjR9asgLmo3Gtp6npVY4)
+	- Finite alphabet written on tape (often zero and one)
+	- Locations can be blank
+	- Infinite blanks on either side
+	- Rules ($q_1, v_1, q_2, v_2, d$ )→Check state and value of current position and find matching rule for q1 and v1. Then change poisition to state q2 and value v2. Then move left or right direction
+	- ![](https://remnote-user-data.s3.amazonaws.com/dzfhmGnm-SW5LzzLoNazy8SJgwFRjeGN6t4KPAXHToQBVNPMpxBoA-pSKpD0ZDwetBsDOBythJ8j24dlmnggKCkI6yyWMra7_CyaAKdlootaycroEW3eVx7iGDRLbPE9)
+	- What to do when hit blank?? Flips and changes direction
+	- General problem solving strategies→move all the way left or right until blank, then apply map in one direction
+	- Copying String→Given Turing machine T and string t, does T eventually halt when started in state 1 with head on the leftmost symbol of t and the rest of the t blank?
+		- ![](https://remnote-user-data.s3.amazonaws.com/iUGF_9yrKbIaGzHvAoVTB57DXsy6jMB3qDaXxrk9yfJVyI2UQxPBxFI82eqG_nh9eDnE--AWbVZodCP4qCWW0z69zCjwUjHObJT3iewcFl-dNiNBTeCscq-y8-DeEQ0F)
+		- Proof by contradiction, assume there is a procedure
+			- ![](https://remnote-user-data.s3.amazonaws.com/uQUb7ic9i3cquPDpAHaFynqPOzlAwgJ9KEZfWZDxbkcJw79j7knbcwysEux3ovgNLATCgo8GnaWsx79k1ILfzUQ1az7ZbsVEIL-0ho84luhOg_Z0Ki9uxEAjcvy-vlgc)
+	- ![](https://remnote-user-data.s3.amazonaws.com/cQ7hWOX31knifTpvUX17xmhBB5vjNivgrjF0aRArDpmzhDEFF3tupOsDAdkUFH_pWJIrClE1NXHXwqL69djqGnVOUCJFkqC8EnCEbW33_RibOqU-FBKwtcMLlvdLWzze)
+	- ![](https://remnote-user-data.s3.amazonaws.com/bBdwsCue_pGunZxS_qlxwduiiPYHcBxvREqbT734NhwHSCnp6OpM4XcxVKy-HaKddrnxgSKiwQOXnv-LumHW1Ay2UelorPQffuw1g8pmGpl8XJlAuIpXcW1M_QGek2Ol)→Subtract 1 from string
+- Lecture 12
+	- symbols (in order of operations) ↓
+		- not―'
+		- and―*
+		- or―+
+	- ![](https://remnote-user-data.s3.amazonaws.com/jjgNJbRc7DEiyEmAtVjFT_KKKrCSFZ7SvxWHSXIXdzrdziRs2Qi0x8b9-jsnAq4bJqPTiR5xhrB-a_T5Uhn7oD5gsU616n5hg8Plfo_3KP0QtDp9FlppsssIH40psQa9)
+	- Truth table
+		- example―![](https://remnote-user-data.s3.amazonaws.com/1dO8wsZplgjkyb_T9pNMljfmxOcT56GqvhKzd8oQov4rdbb1YWoDHH9ZYKPEv9f1meZXS7v-t4Z3Tv-R-ovZwMKc_XAP4rdbqWVdm_shxnmznZlOve4TuIaJ8dCMgmWV)
+		- [Conjunctive Normal Form (CNF)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 12/Truth table/Conjunctive Normal Form (CNF) vs. Disjunctive Normal Form (DNF)/Conjunctive Normal Form (CNF).md) vs. [Disjunctive Normal Form (DNF)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 12/Truth table/Conjunctive Normal Form (CNF) vs. Disjunctive Normal Form (DNF)/Disjunctive Normal Form (DNF).md)
+			- Conjunctive Normal Form (CNF)→make all expressions 0's with or's, then use and (*) them together
+				- ![](https://remnote-user-data.s3.amazonaws.com/jQy4iRMXK0WYd1pj8vxpUY1SRiyJYKgqB83vGgQmwX-q8MGA4JUUIY-heSNhtRfQ19hWxG6XPKZFC6Gm5tv_Z92yk5h_7rziab51gpihl5w_TKKs890NaiNXB8oajs5H)
+			- Disjunctive Normal Form (DNF)→make all expressions 1's with and's, then use or (+) them together (x'*y*z + x*y'*z…)
+				- ![](https://remnote-user-data.s3.amazonaws.com/mI0nrc0LCYUdquh97tSEnGegv_6fu75t3m-hX_bvtaBXT52LPY5ZvzU-N0sOm-ZSbMreINV9LISMM1W2a_4zyIaqLvrzeDClroUndytqedz7YbKX7hENACE4a-hLUzMW)
+		- convert![](https://remnote-user-data.s3.amazonaws.com/9cYdFfsCwmnNSZsm6VQmhL4x6LNzfZ_bmmRRwwVSgW1jIU38AjgPSfBgzCR2g7wy1uimCHwqCMtAkSMdYwQs3I54yoHa3s8k_9CIiTLIU2vAmN783pqHlYE73osksksC)
+	- How to approach truth table ↓
+		- 1. Find all the true values in the output column
+		- 2. Write Boolean expressions for the corresponding rows ![](https://remnote-user-data.s3.amazonaws.com/62FAvcBvKxsd54aKw9KotWZU9QwTa6Ps1uIcb6bN_1DuV2U3Z5jk9kvWQw5t2pwz9fXcom-JSIzTOBESvXX8KOnvkLHDBQ_Bis4nTMbN8oKIu2PwBSHrZ-_gTw1wFkyK)
+		- 3. Add these expressions together to get your final sum of products: (x’*y*z)+(x*y’*z)+(x*y*z’)+(x*y*z)
+	- Boolean Algebra
+		- ![](https://remnote-user-data.s3.amazonaws.com/f5FRMNWd3bPTpH02lUKVCtv_VIvwLrqVl6our0qJSWBcpcpPUXtV_Y-3L_0wP1Kf2-vNIBK0fPyQkkJiYmi0qZXpKE6ZOx_CEDN-CXKbKGdXjQ-QRinigDl0_fXDuTqW)
+- Lecture 13: Boolean Gates ↓
+	- ![](https://remnote-user-data.s3.amazonaws.com/oCh4TCCK4wEhGm32ojnWeetBnWQa4lKNzcl4BwRta0CUMb3Ug3-97dVmOC7Sqw_OQ-C4A-aryIhVwBN_WXssHP9dR1Afq6QJl2ldzjF70U3pbJo3AbzBSwYy0FLsj-bX)
+	- NOT Boolean Gate―![](https://remnote-user-data.s3.amazonaws.com/r4mIWkVec3my16Qa2wthcznDKqOnqJlcrzPZ5VrEP8CB60H2lquhmCR_xCb9Dzmy52cS9ELsf0Gs1fVmg_TvxHyVtYyiwyIqC2dqHIr1HeYwveyMpjoUiK5FJQ5-wG6j)
+	- AND Boolean Gate―![](https://remnote-user-data.s3.amazonaws.com/uW2qT8knoNRmJSM4gfFGvE1YvVhPgxQ8aY2oq7LLAc_AfjJppLcK__K9ZRf11mA97si5EsM0LpnGxp-_YVLhoCLY7okTSQwqoeRW_9j-R8dgmE7DXhfVvw78oLLd65V0)
+	- OR Boolean Gate―![](https://remnote-user-data.s3.amazonaws.com/bp_7Gjgkpb4Fpz9uyxzmdm88DPW9La7TWQQqh5_BBD-wcHp1UWB6d3oYUVj_lnAhxqDWHoHDVYHxceE6-QsFudOSYz8wtaMluU0JYZmPQKUltVesQ5i0ukT4BfhHHrt6)
+	- NAND Gate→Not and. Negates result of and![](https://remnote-user-data.s3.amazonaws.com/bUbpEh2zlEwdIk3rrDHJx9MA58sLGBWRNLLgyeKrr97Cd5eqfxfWsvDzwISd_HHQ27oCbnmBcilCtBSz9ahgQBSXZAgENiMWPXqOAYYN-iSrCTpvDfNY1g0OYOClaWcO)
+		- x*y in terms of NAND→NAND (NAND X Y) (NAND X Y)
+		- x+y in terms of NAND→NAND (NAND X X) (NAND Y Y)
+	- NOR Gate→Not or. Negates result of or![](https://remnote-user-data.s3.amazonaws.com/h4r-81VCCTzB_RAyoY_lL0eQNmQjdLoYHOubfZjMINwarCkppHWMMwA4ca554fX6GsaCeXk37K1_vzWd7kwOvKgtZ9UAKfSPk9gxdIqAmlQa4FkAnmvIHg8DJ62IjcYZ)
+	- Exclusive-OR Gate→Either x is true or y is true, but not both ![](https://remnote-user-data.s3.amazonaws.com/RKeDh7A7cYm1sQVl-NXeMGWfavIh1BtxAKKZitpC_zGvC7Vw5RLOti50x2U5zrAJIVThBFKuAoXaaVB9mnRv3-AjBgKx1GrYegzr6B02K4R3kW-t2Uq9juFKyxJcmjBr)
+	- DeMorgan's Theorem→Apply not to all variables, change AND to OR and to AND, and then apply not to the result
+		- x and y→(x' OR y')'
+		- x or y→(x' AND y')'
+		- (x+y')' is equivalent to→x'*y
+	- Given an infinite number of operators, we only need two—{{AND}}, {{NOT}} or {{OR}}, {{NOT}}—to represent all circuitry because of [DeMorgan's Theorem](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 13: Boolean Gates/DeMorgan's Theorem.md)
+	- Comparison for Equality
+		- goal→![](https://remnote-user-data.s3.amazonaws.com/ZmkxrTGgPGLh5QxnXRAoqUWlYaOdPXEDDqLq8Ps6vymqgI-73cnc9AgcgiABfEU5XubDaNjBt8fTDoYYFG0tbuFZII0jOkbzu61zFMq22Pqj7bRdVNQNYEAc_bkM2TuJ)
+		- 1-CE↔Compares expression of single values together and returns if they are equal
+			- expression using disjunctive normal form↔![](https://remnote-user-data.s3.amazonaws.com/5RCrPZRmI_T2aSzHB6rtVK_ZfUevIF9J5spfEgba1No9znD6Lxaj-DouoERELMHWgy0xtzsrkwe4iu0z5Qh6VcOEz4alEdbdVEGvMt79rfHGuOAFRef1iLz4f4npRGnP)
+			- circuitry using and and or→![](https://remnote-user-data.s3.amazonaws.com/tBbR1hzQpB1TdxPE034q5RMlWNPU9Z-mKvMGRopszvaxDpOX0rAZOo_gJcSfSA2oOzHPZuFdvYn0k-pYyImGVIWR1cnchXKbwU908YpiAAal2RZ8zfIT3Z4zyiGyLxvn)
+			- circuitry using xor→![](https://remnote-user-data.s3.amazonaws.com/G2zt09acrOEHtoMvJjr0C-xvFa15_uhtJ1BcKfGGIND11_YG0861OtKLzL4SwiGeDaWA1fXY0WoUPUcxrxrLEw9lN0aQsbnVrYb8STigbm54f9ReViN-E-HpuyoAFFCH) ![](https://remnote-user-data.s3.amazonaws.com/P4eoX9zgYlLBxoz_HsVlU0zuyHv8pgb4VEilrsivRrAxDC5XVw962Hk2zv7nh5P4AOVUCtELxKPM2Rp8iUU7hYmsb-8X3jgsbECA6tJlsZZ3OoM5Sxw-p4iqQWik2NT1)
+			- final design for 4 digits comparison→![](https://remnote-user-data.s3.amazonaws.com/YEpIMFE0nfiVt9ZfLUNIzT0IGnHnECzxbGTvIo8K7793o9YJZ9Fk9DmTS3PrfwpaUTzURFzrw_9eJHjQTOUFQ8V3IPsDcp0IXUtokQmG6z-WVfX5u9E2FwMWw_BZAg6p)
+- Lecture 14: Adders, Carry Bits
+	- Half Adder
+		- Unlike the [Full Adder](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Full Adder.md), it can output but does not take in a {{carry bit}}
+		- recognize from the following truth table![](https://remnote-user-data.s3.amazonaws.com/J8ZrAbT-jhGE2y_exNzUEQdfiMz3T-o5lGlTwkYx0sRK2VWSdnI3H1J9NBKXLYuzNdJZNRB4plteQ1-mSu5AJ2JK_-I0c4jW_HPT7RVFRuzeq1KFgla5OeD8U-PJApz9)
+		- ![](https://remnote-user-data.s3.amazonaws.com/birQWf59Aiqs3HdzIv5K0VBKIAjn68VZfVdJMGUI6BScZ0xxkH3LUwsR811aJ9jA5qRZLx0qkqQ2sP28mJdwmjZdzY-_cLES2o6FN5WpR3mJk7yTasHevbPTYsj_g1Xg)
+		- ![](https://remnote-user-data.s3.amazonaws.com/heLNB570ALmFzaj2X6ZBobo_rKUsxvNmfEDzrbD6U5GFPviSHIw9PjzzdsI0dSsxsq1YUPJ8XI6iiOjsyhNqgvcsPpfhECrwJLoHAbSluNfUy6gDt3Vo-o1ibt8ZBrzf)
+	- Full Adder
+		- carry bit is required for {{all}} digits except {{rightmost}} one
+		- ![](https://remnote-user-data.s3.amazonaws.com/IpCSCYIX-VcMNuVz-3RbyEO1dBTN3s03Ew30ceLVc3RT-Vx58alNLEgnzP1B-dahq_gAR1jwOS_qMVQLYBKAz3Lvx-fS-g0HkKcL6vwBIT7pCEazynUmQfeAZc-BvqWH)
+		- explain the following diagram![](https://remnote-user-data.s3.amazonaws.com/3Yf4yBABBeyZbLf8ECbwVnWEdaPANNkwYFs88rEj7RyWm5VlvOOMeXvVLBCl_6ZrMDkXnmQIaerYjqbevXWRfsyyl8poa1d3EUyDd7RbRt3UqSdPnznRwO02ue0YlPVO)→the outputted carry bit for each adder is inputted in the next adder. Except for the leftmost one, where it is wired to the error bit (if we have to carry past the leftmost, something's wrong and it won't fit)
+	- Decoder
+		- purpose→selects the right one of many outputs that corresponds to the input
+		- Reverse of a [Multiplexor](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Multiplexor.md)
+		- Basic [Decoder](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Decoder.md)![](https://remnote-user-data.s3.amazonaws.com/3KeGHJgPjk801H9EXFYley_3dRvoutrBVMtTSSyPFJF4_KGWdpUN-sPMXNQrWOSD2WsAoVbY9gNskCklZqVWMoI1lGGvD_hh0b0pLo6gG7xur6h2BbzyxnHKtSyDg3eA)
+		- Decoder for 4 output values![](https://remnote-user-data.s3.amazonaws.com/4y85-Hltl8u_kXTfbqRgkrBDXkcq1XulRFQDqgh7mGZxksr1x6xBd6w_MvESrVx6c1Qpro1w7_-a4C1yGIkoGWG55joa7fYsRRVezzTABM6Ms3gOPVVwiQMwwScKsfSl) ![](https://remnote-user-data.s3.amazonaws.com/HXHqIj6qkN76YlI2OmVNELHSLoe-d_OJpFJyfDYlOBsWXirQpjAtVGqxpOieTlPXGctqeUFMog7T3Xl30WrD3QJWHVa4IlH1zkFIuGD63uPH9qrRytCRNGEz89wOgUP6) ![](https://remnote-user-data.s3.amazonaws.com/Pbtr275E2CYk_5BQ3vL_rAc1FT42zZ9VcMcRr-XhL30vmHQrvqQPRP9wwgUJT9qW4Qi2lDZHyGCYbUMFZbeXD9BSXX9tU6pbkPCyDRadRE0wpufXrDI9O5eaxV3MYbXY)
+	- Multiplexor
+		- purpose→selects the right output that corresponds to the many inputs. Often, one value of the inputs determines which input to select as output
+		- Reverse of a [Decoder](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Decoder.md) , used in the [The Arithmetic/Logic unit (ALU)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/The Arithmetic-Logic unit (ALU).md)
+		- Basic [Multiplexor](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Multiplexor.md)![](https://remnote-user-data.s3.amazonaws.com/thyTm1evBoxmDknkrRSx-yrXiPzneRk-oE5jDC-UxBmJmWV0FlgYT0SJXgoKnw2VM1w6YPz5L4QlkTNtAjUwtUPFOnbZrYPnBSkfqzTJ9a9Tjdak_3IYqt2NApGhzlUo)
+		- Using a [Decoder](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Decoder.md) to build a [Multiplexor](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Multiplexor.md) ![](https://remnote-user-data.s3.amazonaws.com/TnJW1Xy36NVxUa4l4sJUOQl92BygXCQ3OyX8c8WiGT3I_Wvx8_w5lj75XTrBkWLTFtnrjH5nJt077TcdPbtaGUYBMKxgBa2oBuJnQu7AQPYzA1_rVMtFNvpZIsNdzvxG)
+	- Combinational Circuits↔Output depends only on input, not history of input. Also known as feedforward.
+	- Sequential circuits↔have path of wires that feeds output back into {{input. }} Also known as feedback.
+- Lecture 17: Sequential Circuits, Storing Values
+	- [Sequential circuits](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Sequential circuits.md)
+		- NAND latch
+			- ![](https://remnote-user-data.s3.amazonaws.com/282yp_Svc5XnF2D0S3m0e0WULfhRpPt1B4rp1NtQPMO41wJnFNpFT_f5_1DT2ac56ABjIRPIXnAoI60sRwf-Ko7YkGh8xcpNDOhF_tPPEq6itNcMHDks49Dhm1VeSUV3)
+			- notice the properties of this truth table→![](https://remnote-user-data.s3.amazonaws.com/S7L0lS2j1-_9s34SQhSrweu45loOFxAlO-0BRh-4EOm_9lUQ4Gu6axpFvUPDi_UZeuGcU4N1jQwx76rcHfLOQC-cmFhl7DDWKX-Au30qfraNEoBQqDK7arrYRGdImQJf)
+				- Let's create a new sub-goal from this table: design a circuit so that we always have q=u'
+					- We need to remove the row where x,y=0, which would give us the following![](https://remnote-user-data.s3.amazonaws.com/8vWaVRpvJh6w49oeKpwxA-DaCbjX_Cnv0KMOpc6DQvQ5HbQlssD33gSK9uHm__DTG5u-OKZdoLG6-j3szOoPan3mwmJtGJBQcmpA7D2f2ctq3DqSjXz9KqfA8zjgto1b)
+						- note that when x,y=1, there are two {{equally stable}} outputs: q=0 and q=1
+						- once the system enters a state where x,y=1, the value of q will stay as the value before and become {{stable}} . This is the key to designing a circuit with {{memory}}
+					- We design the following circuit to never allow x,y = 0![](https://remnote-user-data.s3.amazonaws.com/ZKpuKVc78x7cmg3_Syr57pMjrqJEDQhQTVLh7qK7iDJogD1ff737y7Rm4IuYHtEe3IaBYc7dYIB9BdypHo1G_EgxYttFYYzHZObKTT1YwsQiGndLwOl483XFGl9O3DSH) ![](https://remnote-user-data.s3.amazonaws.com/xBhqxiR9TJZi_NT2UMA1NwI2fKdTu8gD_APhhQ1Jg6in4jk6HAXFoxSBgRNxwU5IryJSF9CDME38DW1RXn9xuSFYn2J9egChoxYboD5J8i1A572Imat0w8ACl9NM3JId)
+						- Data Bit (d)→the input, which we wish to store
+						- Set Value (s)→if the circuit will allow a new value to be stored or not
+						- One-bit→we simplify this with the following diagram![](https://remnote-user-data.s3.amazonaws.com/dcF1B8U3JaDqDUZc7ffs_gFuL2xB-kQDMbfV8xevjOYQM29jykyYAIi-D93p7SDLyPH0E20M1M-dyL2LD_stLLfGjkdiraoAKrTbn-fJodT82Jhm-OVFLIyI-rj-kbOI)
+		- Garden of Eden
+			- ![](https://remnote-user-data.s3.amazonaws.com/ypocuaflnG69_Y_Qzg15zFasEmWhctHbglTmX8kit9WpGs3jbx6OWsfyOOTt6_lfqOFCnTe73wnbpOBejic53Y6Hdhmx62umPelG5XR8TOoQOx1soE8KBweA_huBKaiU) z = x OR z
+				- Called "Garden of Eden" because once we leave it, we cannot {{re-enter it}}
+		- Infinite Loop
+			- ![](https://remnote-user-data.s3.amazonaws.com/vSDn5O-K4_va9ks5BSZp-3kyl9Xr05TfQmHnb54OqC4nIjD55tbEYx8-pcdC_oxQ3oiDWDZzcQcP5EBRBGHvgQ02gATorJjLwR3wq6tTaJBbL3x17s7Q-d_9IWAZpOSW)
+				- times the interval of one {{gate delay}}
+	- Memory Register (aka register)↔A register consists of N [One-bit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 17: Sequential Circuits, Storing Values/Sequential circuits /NAND latch/notice the properties of this truth table/Let's create a new sub-goal from this table: design a circuit so that we always have q=u'/We design the following circuit to never allow x,y = 0https:--remnote-user-data.s3.amazonaws.com-ZKpuKVc78x7cmg3_Syr57pMjrqJEDQhQTVLh7qK7iDJogD1ff737y7Rm4IuYHtEe3IaBYc7dYIB9BdypHo1G_EgxYttFYYzHZObKTT1YwsQiGndLwOl483XFGl9O3DSH  https:--remnote-user-data.s3.amazonaws.com-xBhqxiR9TJZi_NT2UMA1NwI2fKdTu8gD_APhhQ1Jg6in4jk6HAXFoxSBgRNxwU5IryJSF9CDME38DW1RXn9xuSFYn2J9egChoxYboD5J8i1A572Imat0w8ACl9NM3JId/One-bit.md) memory circuits that all share the same{{ }}[Set Value (s)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 17: Sequential Circuits, Storing Values/Sequential circuits /NAND latch/notice the properties of this truth table/Let's create a new sub-goal from this table: design a circuit so that we always have q=u'/We design the following circuit to never allow x,y = 0https:--remnote-user-data.s3.amazonaws.com-ZKpuKVc78x7cmg3_Syr57pMjrqJEDQhQTVLh7qK7iDJogD1ff737y7Rm4IuYHtEe3IaBYc7dYIB9BdypHo1G_EgxYttFYYzHZObKTT1YwsQiGndLwOl483XFGl9O3DSH  https:--remnote-user-data.s3.amazonaws.com-xBhqxiR9TJZi_NT2UMA1NwI2fKdTu8gD_APhhQ1Jg6in4jk6HAXFoxSBgRNxwU5IryJSF9CDME38DW1RXn9xuSFYn2J9egChoxYboD5J8i1A572Imat0w8ACl9NM3JId/Set Value (s).md){{ }}
+		- ![](https://remnote-user-data.s3.amazonaws.com/IwuNbBtcnfRwjcneTqnSsKIrnZ74UKKMhm-VebEQIJVLcfnP6Fg_dJbVAa8QOqbCHkrlptqO08JJrwKCy49VE_PDsCJj5ckh_-hyLdJo31NIL0VHWOH0tSDjrXX5qRRq)
+		- ![](https://remnote-user-data.s3.amazonaws.com/1eV-kaUPhE4WjXTUhEJbjnAl06ZcnqxZf2lJCr4Nhis2fcGF5kYhLLZGmf7dVE6RTnh-faMBq5d2XpVuk9POV5_FWlMDEMC21yHgOaZMYquY_ke7B633oMdQ_9YVVhdX)
+			- we put ANDs under each of these memory registers. We will be ANDing with 0's for all registers {{except for one}}, which is our {{desired register}}.
+		- putting it all together![](https://remnote-user-data.s3.amazonaws.com/hXDWCIiE8jautcO6uYZ21qalvsKNpDv92jezH7eCe0hTwPxX1nm0UklkCDGsMKvPcuz_RHOzE9F1ubBmXBBk6FTBvyyyxBk2wp65GPbHO1jogsm4r4Qg9Mdnz18SO8BP)
+			- The [Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md) in this example holds 2 bits to represent all {{four}} possible addresses, feeding it to the decoder.
+			- The decoder sends out a yes to {{one}} of the four streams to the {{memory registers}}
+			- For each register, the output of the decoder is {{AND'd}} with {{each bit }}{{of each}} [Memory Register (aka register)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 17: Sequential Circuits, Storing Values/Memory Register (aka register).md), and the output of these ANDs are OR'd
+		- ![](https://remnote-user-data.s3.amazonaws.com/hxE6CV1rZqTaHgKEXNbPKEG1Vyk7LHHVrke-4cbKkLkJ3a7jiqH4d_B1MFDdssdeMC5hxIsfCWG9IBmb_hEFGCQpwN_gqJnsFn2ZCeLRNRLq9BPJNN20iiUvWU9PirUC) explain the following diagram step by step→![](https://remnote-user-data.s3.amazonaws.com/VrcQmvBmVLDb10U2TLWLEuOuU0bVFVY6FdtIHoCGoZ2ofuLLfVarbBbsu8KhO6zEDGj0g9mir1o7RhuWiL6JKEbzc0g1_V8gVwruaHrxnLdkUX3-lFflvHfIQwBH481d) ![](https://remnote-user-data.s3.amazonaws.com/YU0OEXe4RdLVAsG_xGI79r0IMK9oyFEYLzPypxdRoTACqFBGX2CMAE1WBKW82Nibmmsz3smwe9wfkPUElcrnpiGq1rLrYjE-8ZiGQ3YL0Wh2mvs_gw29vPRZ4U-bxk3B)MAR matches the corresponding memory register. Each left-most bit is ANDed with the corresponding stream, and the result of all of these are OR'd together to create the left-most bit in the result
+		- If [Memory Register (aka register)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 17: Sequential Circuits, Storing Values/Memory Register (aka register).md) has M bits, how many bits should the [Memory Data Register (MDR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Data Register (MDR).md) have?→M bits
+	-
+- Lecture 18: Von Neuman Machines
+	- Von Neuman Machines
+		- The distinguishing trait was that instructions are stored with {{data}}. There is no real difference with data and instructions.
+		- It was revolutionary that the [Program](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 19: Von Neuman Machines Continued, Fetch-Execute Cycle/Program.md) was stored in {{computer memory. }}Program is stored in the same area as data
+		- diagram→![](https://remnote-user-data.s3.amazonaws.com/G_WM9V-pbPs41L5gsS7ryLn6lIcvlrRF_vg2S2QKhJOc_tvSAMVQCY7ZLmCiwkepceK0QoU3BbHnUivntVpzQUWxLyk3jJt626SXNb0UtaatOqkNyZDf5Qo1tjQN2BZt)
+		- parts ↓
+			- Memory Unit↔![](https://remnote-user-data.s3.amazonaws.com/008wl1Jdmce80Zl6Hogd81FdnoFgJm5qy3CxrSMrVBFKAXQ1BYXJMekU7gKRCM7vN3W8x9UNQkpjqi_bevHMh4lYLBgxTyW5TOiBAWrrGV_qVNvcrbIKYgC1rbBQ9M5v)![](https://remnote-user-data.s3.amazonaws.com/naoiSxTHgqDbcfcd6EuXfhZtA3H-lth-CMTO_WVr5Yh5hf_cV-NmbhvWhdRHfm9UZt9TAhdyNOx3PwbfTcy2XHxZxhPydVYxwpiBZjRD6NMttvsqY5WbWzS2zKm1bPjI)
+				- Structure of Random Access Memory↔![](https://remnote-user-data.s3.amazonaws.com/CGLWZuC6cATz5e1d6OFQKDj-XCyatNUchyIk-vM6dQfiHWmttafVouPgYgOSUasGfxHcZj-t5-v02MCw565UXK4KRiTm9gYsQKtqw3e_yhGpgsHoLIH-bjl2l30SQALg)
+					- height is equal to {{2^(length of MAR)}}
+					- width is equal to length of {{MDR}} or a factor of the length of {{ MDR }}
+				- We can address locations in equal amounts of time. The time it takes to access location 10000 is equal to accessing location 0. This is called {{Random Access Memory}}
+				- How many memory registers can we address with N bits?→2^N
+				- Parts of the memory subsystem
+					- Memory Address Register (MAR)↔Holds Address
+					- Memory Data Register (MDR)↔Holds Value
+					- Fetch/store controller↔Stores and retrieves values from memory
+						- Fetch process ↓
+							1. Desired address is moved to {{MAR}}.
+							2. Controller signals a fetch.
+							3. The memory location is accessed at the location specified in {{MAR}}.
+							4. This value flows into the {{MDR}}
+						- Store process ↓
+							1. Desired address is moved to {{MAR}}.
+							2. New value is placed in {{MDR}}.
+							3. Controller signals a store.
+							4. The {{MDR's}} value is copied into the desired location
+				- Memory cells with decoder(s) to select individual cells
+			- Input/Output and Mass Storage↔Human interfaces, archival storage, external devices
+			- The Arithmetic/Logic unit (ALU)↔Where actual computations are performed. Primitive operation circuits (ADD, CE, AND) here
+				- ALU Process ↓
+					1. Values for operations copied into ALU's input register locations
+					2. All circuits compute results
+					3. {{Multiplexor}} selects the desired result [Multiplexor](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 14: Adders, Carry Bits/Multiplexor.md)
+					4. Result copied to desired {{result registers}}
+					5. ![](https://remnote-user-data.s3.amazonaws.com/6Q1rmqjSsBwmZD9YeTG07KJwnjuTR5G0F8234xxr3lEl6fGzVGuht7tfNA0PuDKBD36H68QMD0e2w1mZYDf5ayRWOkLlSyzHP2K7YHaCFHwhKPPDv8iZd1IxQsKHx64m)
+			- Control Unit↔Manages stored program execution
+				- Fetch Execute Cycle ↓
+					1. Fetch from memory the next instruction to be executed specified by the program counter [Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lectures 19: Commands, Fetch-Execute Cycle/Fetch-Execute Cycle/Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR).md)
+					2. Decode it. Understand what the next instruction is asking for.
+					3. Execute it. Issue the appropriate commands to ALU, memory, and I/O controllers [Execute Cycle (Decode the IR given IR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lectures 19: Commands, Fetch-Execute Cycle/Fetch-Execute Cycle/Execute Cycle (Decode the IR given IR).md)
+				- Parts of a [Control Unit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit.md)
+					- Links to other subsystems
+					- Instruction decoder circuit
+					- Instruction register (IR)↔stores {{code}} for current instruction
+					- Program counter (PC)↔Stores{{ memory address}} of the next instruction to be executed
+						- [Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md) vs. [Program counter (PC)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Program counter (PC).md)→[Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md) holds current instruction, [Program counter (PC)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Program counter (PC).md) holds next instruction #[[Program counter (PC)]]
+					- ![](https://remnote-user-data.s3.amazonaws.com/PmZL4xou79ttsiQZvT2teASIc8T6kRET3g2RuQnVuoKX-_Ry99oWAXbh3aUxQsW4SpRhn6LYAOtB7NZ0J25YY9-Djr5FPGHQj7SudIo6Acb9fL33e15MQOIeqO-v3AFw)
+				- Assembly Language↔Human readable syntax
+					- Machine Language↔[Assembly Language](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Assembly Language.md) encoded in 0's and 1's
+						- Parts of Instruction
+							- Opcode (operation code)↔Unique unsigned-integer code assigned to each machine language operation. In TC201, first 4 (highest order) bits.
+							- Operand (address field)↔In TC201, next 12 (lowest order) bits
+							- 4 + 12 as [Opcode (operation code)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Assembly Language/Machine Language/Parts of Instruction/Opcode (operation code).md) (4 bits) + [Operand (address field)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Assembly Language/Machine Language/Parts of Instruction/Operand (address field).md) (12 bits)
+							- Typical instruction example ![](https://remnote-user-data.s3.amazonaws.com/CcI3LeRdpvrtApgPQP6HsvELGGQdIXsT7_W76HmEtLFjk9a2xtY6-Cmd4ERjZz7PUDnYZ4L6IKK4xx5UX2FI0gkh_NVNkGwRGdrUq_bLBBdDdNsR3Vuqx1Bu1pHjZSjx)
+	- TC201
+		- vs. Von Neuman ![](https://remnote-user-data.s3.amazonaws.com/7FzvDWh6LF6FvKps2OP2Y2LRAfkEfTA0aMEHh9EIeLVMOJLifz4g5bxpxis3rQ_7-BiWQTdCHOZ7n_y7wylD8qEyid8wE4--AOWKwY8wpU-Mg_R61_dgYse6R-NL7zUw)→![](https://remnote-user-data.s3.amazonaws.com/PqzuSkFCbeoixZ7q6pGvs3FLGTMkOzSyVwuemHceBB7SPRymYthfalBcFWL0Crx1H0gkICrrqooDd5NITqDrqivbS1G5y4SrkTzYCBu5AJ9XmLF1al5BJwFNVC-BpQ2P)
+- Lectures 19: Commands, Fetch/Execute Cycle
+	- Fetch/Execute Cycle
+		- Occurs in the {{Control Unit}} but modifies the Memory Unit too
+		- [Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lectures 19: Commands, Fetch-Execute Cycle/Fetch-Execute Cycle/Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR).md)→Takes in PC, Modifies [Control Unit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit.md) and [Memory Unit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit.md) #[[Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR)]]
+		- [Execute Cycle (Decode the IR given IR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lectures 19: Commands, Fetch-Execute Cycle/Fetch-Execute Cycle/Execute Cycle (Decode the IR given IR).md)→Takes in IR, Modifies [Memory Unit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit.md) #[[Execute Cycle (Decode the IR given IR)]]
+		- Fetch Cycle (Take the PC and Use MAR to fetch MDR, Place in IR) ↓
+			1. Set [Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md) to the same value as the [Program counter (PC)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Program counter (PC).md) . This is because the {{definition of a }}[Program counter (PC)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Program counter (PC).md){{ is the address of next instruction}}.
+			2. [Memory Data Register (MDR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Data Register (MDR).md) is set to contents at address of [Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md)
+			3. [Program counter (PC)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Program counter (PC).md) incremented by 1 (at same time as step 2 because this takes place at a different location in the [Control Unit](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit.md))
+			4. [Instruction register (IR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Control Unit/Parts of a Control Unit/Instruction register (IR).md) set to contents of [Memory Data Register (MDR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Data Register (MDR).md)
+		- Execute Cycle (Decode the IR given IR) ↓
+			- [Memory Address Register (MAR)](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 18: Von Neuman Machines/Von Neuman Machines/parts/Memory Unit/Parts of the memory subsystem/Memory Address Register (MAR).md)  set to address in the instruction (last 12 bits of instruction)
+			- MDR set to contents of address in MAR
+			- LOAD op code indicates MDR should be copied into ACC, ADD op code adds contents of MDR to ACC and leaves it in ACC, etc.
+			- Fetch new instruction by setting MAR to PC value
+	- Commands
+		- INPUT address↔Prompt for input, number is stored into the address specified
+		- OUTPUT address↔Outputs the number that is stored in the address
+		- LOAD address↔Places val at address into the accumulator
+		- STORE address↔Copies the value in the accumulator into the location
+		- JUMP↔Jumps counter to skip over some steps (such as a halt step)
+			- ![](https://remnote-user-data.s3.amazonaws.com/E0Y-iDD_RuyGwpMqxgzOrQCISX1c7rHKfVyTZlu7Et7ROmf5ihtUOWrGH2TRGbWwZISmqNxnDL23A9fDVW3lLcnHgeAQnvszdlaxAUbUO5rzlYLJSDAzz-S6PIp-Venk)
+		- ADD val↔Add val into accumlator
+			- incremental approach
+			- ![](https://remnote-user-data.s3.amazonaws.com/jYyRiUiJyyqmlfrs3qtYVXGz7Qa7AYAZeDuhwEdfrtEPkMLrdxglS_8CXICJyx69I0Gmcm-IdWosFDtHA1KvPGkjv2k9WSK9KEodg-BeDCoeb6nZ6k6kmrpyZqnMe6_8) ↓
+				1. Note we load 1 at address 109 into ACC first
+				2. Then we add the contents of ACC, 1, to the address 5 to add to the "store 110" to get "store 111"
+				3. We store this result to overwrite command at address 5
+				-
+		- SKIPZERO↔Skips if accumulator is zero
+		- Indirect addressing
+			- Go to address, and in that address find another address that contains where you should store the data
+			- LOADI pointer↔Use value at pointer as the address to read to place into the ACC
+			- STOREI pointer↔Stores value from accumulator at command line # equal to value at pointer
+	- Procedures![](https://remnote-user-data.s3.amazonaws.com/GEQlHSnCHmHLHbhHdJs19ajcPc0XZgkHKT3On36NcRhCuXFAStlMSNIwiAJ9dmmsomETDtKpc7V63hkHqYySoGpn4xI-NVaGtI0PYX74BFdAtqshS89SYgJmTO2Rzk7q)
+- Lecture 19: Von Neuman Machines Continued, Fetch/Execute Cycle
+	- Program
+		- Line
+			- Label↔Tags that give a name to certain address numbers
+				- Must end in a {{ colon: }}
+- Lecture 20
+	- Sign Magnitude↔-1, 1, then number
+	- Maximum value of TC-201 machine↔2^15 - 1. Because there are 15 slots with the highest being 2^14. So if all 15 slots are 1, this is equal to 2^15-1
+	- Ones Complement↔Flip the bits of positive P to represent -P
+		- causes incompatibility with {{ addition }} operation
+		- 10001111↔113
+		- 01110001↔-112
+		- ![](https://remnote-user-data.s3.amazonaws.com/S53JRkrhHCHHQ0xLblG27UiIDbCgJ0NuE7sByKoNJJQJLEN6yh75940NHXyqcCDOLKS-nYAys4E7cZfHassjqNSncq7C-9oK0xhOU491gXR3IOiX3l94xP4l-WJ5OlcY)
+	- Twos Complement↔Flip all bits, then add 1. Addition to work if - P = 2 ^ N - P
+		- This works because complementing its bits is equivalent to subtracting it from {{15}}, and then adding 1 gives the result of subtracting it from 16
+		- Twos Complement is its own inverse (except for some edge cases)
+		- Twos Complement works because - P = {{2^N-1}}
+		- Error if the carry bit for the two {{rightmost columns}} are different
+			- ![](https://remnote-user-data.s3.amazonaws.com/TkuJKjFyNFDx7hc788yO0wKanhYZYKayIHQTa0p4x5w6-Pm7HiiSQZjcz3sMQ4SYLH9il7g9qG0AzrwZz7bzD8hhZfxIQvXgt2oLOeIRZR1WSrkw89pZgRm7bK3IySOm)![](https://remnote-user-data.s3.amazonaws.com/nz6k_3Yoyln-BDBjyp6XDFW2cTgUCcXiki7uzFFUYIT7RC3XNlUSTID5PAH6bE-PoSaoELWgMUvbj6TZHjoFWn2ln-et0IhAVLjTqWQkYW5xkYAkCJCdwLzEL1SbZ8Sy) ![](https://remnote-user-data.s3.amazonaws.com/hUWeX9fhmusPSae7csn5aAVROvdzECnGd6O0w1xJDGy_ZskCinwNlbLBoZezfHQf2nLUjqxv3sp5XJSUjpZ6t0uBmGmUMSSIUmTkwQHfmDtC5s_039lnpQtb9niuccKi)
+		- The main difference between 1′ s complement and 2′ s complement is that 1′ s complement has two representations of 0 (zero) – 00000000, which is positive zero (+0) and 11111111, which is negative zero (-0); whereas in 2′ s complement, there is only one representation for zero – 00000000 (+0) because if we add 1 to 11111111 (-1), we get 00000000 (+0) which is the same as positive zero. This is the reason why 2′ s complement is generally used.
+		- Another difference is that while adding numbers using 1′ s complement, we first do binary addition, then add in an end-around carry value. But, 2′ s complement has only one value for zero, and doesn’t require carry values.
+	- If the first number is 0, then we do not need to unconvert
+	- Error if↔Carry bits for the two left most columns differ. Left most column overflow does not mean error
+- Lecture 21
+	- Arrays↔Pointer to zero index, Length, then array
+		- ![](https://remnote-user-data.s3.amazonaws.com/l8DMo6HP5daEYtgMNktNQrmY7EBxAM253AJLvE0fyvTu4yFJSWWdqQuGWANVODEnugxkECLB6NobX0U0w96YjlVjs0MQ_oZtfh6Tv6sZyVKCusC-SSM-1ceUP8YAqJaJ)
+	- Load, modify, store, repeat
+- Midterm Practice
+	- Sample Von Neuman Machine
+		- start: input x
+		- input y
+		- load x
+		- sub y
+		- skippos
+		- jump ygreater
+		- jump xgreater
+		- ygreater: load x
+		- skippos
+		- xgreater:
+		- loop:
+		- data x 0
+		- data y 0
+		- skippos
+- Lecture 22
+	- Arrays
+		- Representing an array
+			- Pointer to the first cell
+			- Length
+			- Start contents
+		- Practice Array Access
+			- ![](https://remnote-user-data.s3.amazonaws.com/6yi-9TTWVdHfV2iN1dl3UIvKPEKGsBuiBqIEAuTmZR7eR2DZU0ZwpNFOrgaC_tqY4t-oTvGAfbDXi7USljszO1Yav6ehCGFP7G6IVZPLcEW_H-olmSXYSZimplCTDDcu)
+	- Lists
+		- Representing a list
+			- Start the list with two memory locations: one indicating that this is a pointer, the second giving the address of the first cell
+			- Cons Cells
+				- Requires {{ 4 }} continuous memory locations: {{ 2 }} for the left hand and {{ 2 }} for the right hand box (Pair of memory locations)
+				- Left hand and right hand (Pairs of 2)
+					- First address contains code: ↓
+						- 0: Box is data
+						- 1: Box is pointer
+						- -1: This is the empty list
+					- Second address contains {{data, pointer, or is irrelevant}}
+		- Sample List (Notice the first x0 and x1 is a pointer to the start of the list)
+			- x0: 110: 1
+			- x1: 111: 304
+			- …
+			- 220: 0
+			- 221: 3
+			- 222: 1
+			- 223: 244
+			- …
+			- 244: 0
+			- 245: 22
+			- 246: -1
+			- 247: -1
+			- …
+			- 304: 0
+			- 305: 6
+			- 306: 1
+			- 307: 220
+		- First and Rest implementations
+			- first implementation→jump to location indicated by x1 pointer, add 1
+			- rest implementation→jump to location indicated by x1 pointer, then add 3
+			- ![](https://remnote-user-data.s3.amazonaws.com/GN0cPK7N_9-ukz71hCVE-ym4vPxev-t7izdWyrHXiyK81VgYPkrT7iZwQIIEQSy3lz_fYtDkcDvE2YLYaP4lOmLqHGoMaYahm3Ymg_75YaOQx8jO6uKDuOCrBC5wJEII)
+			- ![](https://remnote-user-data.s3.amazonaws.com/YJP7Q2grm64rANEnbMrzFSu1LqzQmy6iMml-v3cwSJoBIxbI_a1yvCvatQXOHfUepnl80WtTpTo1VId1QDe4JMRvEbY7ODYbVw7JUPZVgEx9ShWZqBfHd5JQLoNcthCi)
+			- ![](https://remnote-user-data.s3.amazonaws.com/ZtTJkxkJhhmmwGouBhmy6XBVHtuaGLlc47e9sx_kwdmiR8H-1puDc02LUVgf7RQugTJ1xNdcPc_bQwjHkIopGQAsoPFM2mGhD8QDT7wCUDkwVXlpSNBQ_SptEcW5YCdr)
+- Lecture 23
+	- Object↔a bundle of data
+		- methods→operate on an [Object](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 23/Object.md) and are bundled with it
+		- templates→patterns for defining [Object](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 23/Object.md)s
+	- ![](https://remnote-user-data.s3.amazonaws.com/9Tbg5Zgea70blVw0U3eIdqUyg3b-2HzlOW_6bcUTd64oNa4vuTg-IFWcx9O43fA5Ud1QXSHmLPgR2qlVI4Xru3xsqi536HWtg8gKfVuFNwjIjOp10ikQr80URnOH2Vzi)
+	- New commands
+		- case: syntactic sugar for cond
+		- (command . args)
+			- args will store all additional args as a list
+			- ![](https://remnote-user-data.s3.amazonaws.com/ePzS_QxxMHCxe9KBohj7--K0ecVcKRZt4hfkIOiRuVE8b8HYzqUy09deW1c85Pi-iaWG8rXEVWqY3FeLR-_ZXsCuOhZO-IAUQtVjhwIpsKXDAqIfwD9Kiib1j2aDsr-5)
+		- pass by value vs. reference
+			- ![](https://remnote-user-data.s3.amazonaws.com/pK9rFaOTInFhrKnM30UsTBpob5vHuizmmPvfxUclbVJKAgGXoV5IlOg0_QkmiXPKPbgWl5jK47p5a41FLTPBx7VdpJQopmJgx4fHrKruN_CqN4_vofv2pLwVCYRaPbQZ)
+		- set!
+			- on lists: changes address
+			- ![](https://remnote-user-data.s3.amazonaws.com/HqhI5GU49Zj8SNUwdzAH0-DxB5GD7XDWEFprZ6i3Or8sW0GEMjXECCy_v3ZGO-D1gDXhkJz4n_3lVURswbf5ShCzmU-p2E_UUhtnOFKkyjj7OgeFMbuRqElpERoC4MKb)
+		- we can call multiple commands in a single line ![](https://remnote-user-data.s3.amazonaws.com/GOXrxLWXjNRpbAQ1smemcjLlipz7H_PEAtlCQsiZStfRJtMKLQ49moVPBN7tTn2wDPRXD9b9v3xzpeWLUeKCp2A2NAnt4S2Q5DUkJQGWajocyCsOXoVJzoD1yBpoawS8)
+- Lecture 24
+	- Top level environment↔Persistent
+		- define modifies the persistent top level environment
+			- ![](https://remnote-user-data.s3.amazonaws.com/c_e_Y0WyPROOi2BAdeAEpLIXJ7EUWxSdN9Ty435V0jatqGXHwe3gaeDx4aJbnSMeN71BwlBscUuoH6iCcNH0BKYtXs7IRbfst_YM74BmAFodg1P4mU_Io2Sd2-YbiZyM)
+		- set also modifies the persistent top level environment
+			- ![](https://remnote-user-data.s3.amazonaws.com/IWGxG4m7aiYEOK1RSdB6_nhfz2pBurLCUGWb6MnSxDtMN8X_HqT2YDe1g7KBrMdtmtXPMTaiHQhYpfh7JJtUDA8wfFUlTQT38lV5Dtse8fGaIiobRPKOaBlGHR7piRLx)
+		- running procedures does not modify the top level environment
+			- ![](https://remnote-user-data.s3.amazonaws.com/sbaWGPIxC2pvNys6mGhveyWYuQ0FBgc7SXefBWuR4oDLTwh27T180_-HN_-kisD-L41wueqEJBKo5lGDMcdxGo6UvIFBAfCsTR-d3ORJR13EbNzoMnCmyZ2LZJATgxxz)
+		- environment after calling (define counter1 (make-counter 0)) and (counter1 'increment)
+			- ![](https://remnote-user-data.s3.amazonaws.com/8L79hzz1pLCQ03pOByaCxD739K_EtfecEQgKKtBsKlc6E4jPiwtPDTu93kAQPh_Ve6wjs-RnpKx4PlMCUc7gUzjP0lGroHM-GsscaHVgf1lTIvsHmsIw0t-8-Wax5Xho)
+	- Stack implementation
+		- ![](https://remnote-user-data.s3.amazonaws.com/vkxtDCBukQPNIRQ7YYRmGztdS_oEgYh9Ms4oA247ZuZrla3HE1PBfML_PG2hPy_G-EcvEyX4Wi89MlrXsRZmSBc8ATVlaXcZxm4QGWbTfEbnWHnFncdpZT6HvvzEcEyG)
+- Lecture 25
+	- ![](https://remnote-user-data.s3.amazonaws.com/j5kQWXePMSRTdH9wePZaz3pl5ZCHF3jkQhKIHKbSa1Rm6BL32_0soZKkZLB6g5OwogDpUVYCOjiSOaNep8Jq-IuH8_lrNC_7Q0UQ9jE1MiA6C0klYSMcqlkFhHpvx21M)
+	- How to represent queues↔![](https://remnote-user-data.s3.amazonaws.com/XcrbOXRXb-7zsMXXfyZ_oeJWedKppl6DDNG3KXFBlw73zg7pgtXCW2dsOymNj4R0-htSYV5u6bExmtvdYTiP3sbGbgm99ePZA73FT9GbTk_do3fFwl08GzEqXTRab76S)
+	- eq? vs. equal?→eq compares address, while equal compares value
+	- ![](https://remnote-user-data.s3.amazonaws.com/JCWcHCLZqtrt-PN6l4fjYlzfO3VzSGbYQlXae7KptmRglXmfu7-uXZinyLNFF31Txx7yCyvCp4jkYoRWIJg43O3m8C8z33cX5SDCwwDS--6n6ffZRVlMThfl91MqihHr)
+	- ![](https://remnote-user-data.s3.amazonaws.com/km4n8iAL2u-8cYbm6abnMtm9cJqEwnLl3hYD8MC98zZQnvP4ATXyRaHPVrJ_-QUvH4t_mbALY17loRMls5rsHISXanAMNXz6TNuvGogDg5oBxsQqaWqe7pE25_BiCN_h)
+	- Car and Cdr
+		- car represents the first half of a cons cell
+		- cdr represents the second half of a cons cell
+		- set-car! sets the first half of a cons cell
+		- set-cdr! sets the second half of a cons cell
+			- set-cdr! a creates a in the second half of the cons cell, but set-cdr! '(a) creates a pointer to that list in the cons cell
+			- cdr is often a pointer of the first element of a list
+	- cdr is a pointer which points to another car (consult notebook)
+- Lecture 28
+	- How do we define a programming language? Acceptable combinations of strings
+	- Strings↔finite sequence of characters chosen from finite alphabet
+		- Sets of strings we can automatically reduce to machine code
+		- Concatenation operator↔.
+		- Empty string↔Epsiilon
+	- Language↔A set of strings
+		- L(a)={a} consists of the set ofa
+		- L(E1 | E2) = L(E1) U L(E2)
+		- L(E1*E2) = L(E1)*L(E2)
+		- L((E1)*) = L(l(E1))*
+		- (L)* = {} U L U L*L U L*L*L…
+	- Regular Expressions
+		- Inductive Definition
+			- ![](https://remnote-user-data.s3.amazonaws.com/MEoBguiBjVfYfQA1WevNFG0_0j7kGddm1Kk4FbKhz4oEDLAlaKT7Q66FpKH6VwbRcEr13haZT4CWkwjS3Uqd5HlJhrRxmsBw9_7CA4Jb4bmfg-NHKEkKdobm6eW6K4L0)
+		- Kleene star↔Concatenation of an arbitrary number of strings in the set E1, including the empty string
+			- a*→null, a, aa, aaa, etc.
+			- (a|b)*↔null, a, b, baa, abb, etc.
+			- (a|b)*bbb↔bbb, abbb, bbbb, baabbb, abbbbb, etc. (concat result from [(a|b)*](Braden Wong/Notes/Yale Courses/First Semester/CS 201/Lecture 28/Regular Expressions/Kleene star/(a|b)*.md))
+		- example→all car/cad combinations
+			- ![](https://remnote-user-data.s3.amazonaws.com/TcVbgrzGNY8VFZ75tcDdwfPYcYjwTRkXe9ClI1keld2cIhimqGmvG2PjMITUmDWkCh-tUlupkaYp9fgkqUqQ4Wx1yGmfn6DC6sSsxghepo7BsPamSzwz9DXAeP8nvg2a)
+- Lecture 29
+	- Deterministic Finite Acceptors (DFA)
+		- Starts with state 1, has accepting states. String is in language if end state is an {{accepting state}}
+		- ![](https://remnote-user-data.s3.amazonaws.com/nrYHWvdx4IR2MVf-Oz0V56iYbvo3O8pb5isPUDVf2cVVm2fnrbOTvu0SGANK7bcTIHOVu7j-mLkfgxsFK-ZubBCmsXApGTGaibXr9XnH_tUgmjNxbS0S9oMokvHyLanS) ![](https://remnote-user-data.s3.amazonaws.com/fo9jspD0EAmmjEDzIs-Q5rWFaBgKFF3S-tUbXFvwvyHKliuHT2YBXIdNl-2s5VVW60w4J94DNLfAJJ1JDlHP66xvJRBQ0lQvAO5-GT2aqiXWeKInq0XeBtG25vbZWyZU) ![](https://remnote-user-data.s3.amazonaws.com/af9BZ23ngUhA2kW8uMknX9iOOZGQWRl8QLV6VybmKP2p_Ee3jByf3ND0OCxBl-0zm7onNi4VAx_2cObDozPytbcNrtW6uhpsh_-HA6_wR2Ex4GdFNgK6Mm93v2tonvA1)
+		- ![](https://remnote-user-data.s3.amazonaws.com/6VdMF5sknuu7oMxtc_A7QX5UmbzxTsRY7P4_SU3yAzL6OUwVHJgeLhC-vFsY-5LBIKIy9Zs4tkySZYKAewJrydHjka5r0IiRQj38xBrD-CbVj-zX7pN8dx1zSveNvqvn)
+		- ![](https://remnote-user-data.s3.amazonaws.com/af9BZ23ngUhA2kW8uMknX9iOOZGQWRl8QLV6VybmKP2p_Ee3jByf3ND0OCxBl-0zm7onNi4VAx_2cObDozPytbcNrtW6uhpsh_-HA6_wR2Ex4GdFNgK6Mm93v2tonvA1)
+	- Regular
+		- A set of strings is regular if it can be defined by a regular expression
+		- A set of strings is regular if and only if it can be represented by a deterministic finite acceptor
+	- DFA Example: CAR and CDR
+		- ![](https://remnote-user-data.s3.amazonaws.com/bBwOT0LfGuq_uuKUQdnyS5DLDluaqX-SY4-Nqq5YjONmN8FPF2eUCoWn_HZQYR9i1BParaa-otNugxDjVkBrayCw2WydYt8m31y7KkRUTFntBT0JgmxRCs4bxQcEwy2_) ![](https://remnote-user-data.s3.amazonaws.com/KcRUSgAuEXYbPzPaT-Akci_JMVUY-YsIc77iVgpTmtSHI6hqNIlGkn3opQTitW0o4C3fO_nBifO59cMSlHmfsSQG5zAHBhyGjoEG1bwXV_CB3OEFopNzrgn5t5ne69bP)
+	- Search in file UNIX
+		- GREP
+			- ![](https://remnote-user-data.s3.amazonaws.com/HiAQUJLsurYHvtNMal3U49zVEg7WZc2V8MKWZcOJ8IUhz1vt6mXW_BcGFoCUMsVdk-gxB4Ifm1FP80-_3MxflX34z6D8DFh7raaVHbbs85uS05eR89f2b3zWAaEPsVQH)
+	- Palindromes cannot be represented by a DFA and Regex because of lack of expressive power and to "mark" progress on tape like Turing machine
+- Lecture 30
+	- ![](https://remnote-user-data.s3.amazonaws.com/asxKRK_do3JX82xCLPKt9kXsB6fbRQ98mkGvGQp4aQuyGl6-EhNRMRlyCdO0IJhVd9xA3ZO8WGUzPhFhjPzxi50ThGoLCrfU3FXbltFyOFZjKTASLVAWozvm6A9dhPKB)
+	- Palindromes cannot be expressed through DFA
+		- ![](https://remnote-user-data.s3.amazonaws.com/zBVh5SaVt3ib1guY6EZQH8YpGUBJ5ZdHG43GEySg-lk4WYJnSUZBbckn88ApiFL7cCtpM8libFht2jBhu-PypzUFO1C0BDjSs7y9dB6LuM907G7WKhsaWgrDkBwmv8Sr)
+	- Context Free Grammars
+		- Form
+			- Two finite alphabets
+				- Terminal alphabet T
+				- Nonterminal alphabet N
+			- Starting symbol from N
+			- Finite set of rules, each of form X-> Y
+				- X is a single nonterminal symbol
+				- Y is a string of terminal and nonterminal symbols
+		- Example Grammar for Palindrome
+			- T = {a, b}
+			- N = {S}
+			- Starting symbol is S
+			- Finite set of rules
+				- S-> empty
+				- S-> a
+				- S-> b
+				- S-> aSa
+				- S-> bSb
+		- S produces aSa, produces abba↔S![](https://remnote-user-data.s3.amazonaws.com/jW6kRbFaNvcdaZtHNOKHkVzkrYxv2ZowP5fYeiP3lDYs7ZGw6leYMI2jmRYbj0OL7UtXY2-sjYK0kcPK6jWXzvA0TwDs4dHjsOXJCa6ZWcIQ8x6yDUuqdqV3-WPCksqz) aSa![](https://remnote-user-data.s3.amazonaws.com/jW6kRbFaNvcdaZtHNOKHkVzkrYxv2ZowP5fYeiP3lDYs7ZGw6leYMI2jmRYbj0OL7UtXY2-sjYK0kcPK6jWXzvA0TwDs4dHjsOXJCa6ZWcIQ8x6yDUuqdqV3-WPCksqz) abb
+		- Backus Naur Form (BNF)↔Uses S as characters and ::= as -> ![](https://remnote-user-data.s3.amazonaws.com/q3O3XjHAHcCFYc7EBsZjmLEicTEQvN85EWswhhg1hvyXL8eNnGK72x87PRrmbm3rtF6nfoyI7LW0dTCyliukXiHw0xfnK_-fOlMKQWmXC2arJqxcVY1IsYfrG0jErIl9)
+			- Parse Trees↔Splits at every S
+			- ![](https://remnote-user-data.s3.amazonaws.com/RnEDUbcXhwqK_aiyNtcJj3_lg8XwqG93JYOwX3HFjNVeSkzrZPG8EAHQULGNJI4IuOFxoUNU8hVxaRpj87F0EsvqBMxVa-8r9HIfpS1jkvTNpMB5MVVZSo93cPHauzjh)
+- Lecture 31
+	- Goal: Compile high level language to assembly code ![](https://remnote-user-data.s3.amazonaws.com/bt1e05d8IBJMAl4z5kbq8B68W6ipLXNFOdQnJohM2eSJL_VkLfjns9V48QwRjj53a9rcx4GWhUxtMftrYXJOL7_D4_gkgCCAvhpt2shG5aB8tZd9zQSjDofO3OLlix7q)
+	- Lexical analysis
+		- Divide and classify characters as "{{ tokens .}}"
+		- Steps
+			- Classify each token (Lexical analysis)
+			- With each token classified, match it to the corresponding template (Syntax analysis)
+		- Takes the string of characters in the input and divides it into a sequence of “{{tokens}}.”
+		- lexical analysis of x := y + 13
+			- ![](https://remnote-user-data.s3.amazonaws.com/lgJ5fkBWSLvuigMI6yqNU3YQRdvMpjuYcosSRH1Alh_nIcsXMLCC_Cn35XWEh5qv8tLog8x0YPxIlK96YRE-D6432DGixdqoVAVIL2c4ufm5c1mLlKgK_CPJsMzUyxC8)
+			- ![](https://remnote-user-data.s3.amazonaws.com/gD1fJU4Oeg355e3LOXJyuw1CzpPnfjRWA9CXj01pd2_XRWDIbuyi3kJldkF-acIsVB33wtpXxcoztaxc8XoEJ7OTRu_q-DinWxq0fxhC7G_8w51t911r79GyY5zf5gBz) ![](https://remnote-user-data.s3.amazonaws.com/O5Tf9vqKuXOm9n7t-Nj4ileoiRUToPD6q8P2C8weKIfuRz0uud_oEUdrt-WyoA7mJ6HXXU3AfUAubDKrXcN4484csEgXO813hoXN3Ci_Fb35mOtpgoi48sS_Gx_AtFs1)
+			-
+		- Avoid Ambiguity: parsing x = x - y - z has multiple methods
+			- ![](https://remnote-user-data.s3.amazonaws.com/W1E6Yz8TjnNu3no-RCKaxpm5pdxFQIt-k4AzpuhNMXgbwImvdmaIJcWmB8AiDT8V2xfijF5HqxwnhPvUaBbNcIbQ2HGo6JgjZoVX27AIoeb4qJzTZjsA5bunYdkEtTcf)
+			- How to fix: `<exp> <op> <exp>` becomes `<var> <op> <var>`
+- Lecture 32
+	- ![](https://remnote-user-data.s3.amazonaws.com/taEf4bve5afbDAuWK9jdthcq2stWXn-w97Ss-UQkQzggfyHSnxSGp3sgEyx7FdCxoAqYUDsnqtCogKawX4wSdopWO4obfhEXHtnknGQHsCPJmJewMQYd3u79uRmykPKH)
+- Lecture 33
+	- Algorithms
+		- Rules
+			- Finiteness
+			- Definiteness
+			- Input
+			- Output
+			- Effectiveness
+		- Complexity Analysis
+			- ![](https://remnote-user-data.s3.amazonaws.com/8bpcpKQtOLNTHzi6qGUB0M3ymk7PbldWMkmX0FL2WQD0euPXixZrSCow1LqCSfCZKJgdntn65l9hK4okBMbLMlSX_Q9cisilZNUwtmkgqJmP8_i9JhUPaQC1tes1QZEY)
+			- We don't care about 11 and 8 because those could always be made better. What matters is that it's a linear functino
+			- Big O Notation
+				- O Notation
+					- ![](https://remnote-user-data.s3.amazonaws.com/d3DUmNU0R4lRnF08H29w81pPdNV7ZGBzyWakTkmYSYZc9XMy2wH5WK7YPFDBHgqeWT3FzTYrHSVUrdDPj1nRdsh52uEAy5MMta01FWkkGxC4Ecby_mMxj7bar6P4jiDT)
+					- Note that O does not have to fit the function exactly
+					- ![](https://remnote-user-data.s3.amazonaws.com/Nq3dVPzlSWLziCJe_BkjajpzTmDQVSntovtgG8tTRzzWBP-g5sDMh-9h4PtwfTmRxZJcZJYj8-ywdTx2EJtN6rcMditHBJJZJGTBdeBmJEuMvcyjsVUMM5C1jWMPqjlO)
+				- Omega Notation
+					- ![](https://remnote-user-data.s3.amazonaws.com/1GqzH8liu6ULQn7R4AK2_Fb7R6uN1vNL0gw3bguDkZdaPkuM4MKIrrrQs9Onhza0gPF3CYq9n17JKuy-BwWAjaq-GW2QXbIHa2NPBTqrBtF3qpm8n2DPCYynSVQYST6V)
+				- Theta Notation
+					- ![](https://remnote-user-data.s3.amazonaws.com/QvSUCJCPvOg-MkeRfgG-YzJO54NKXYf9W_b-x8yC6mSJaOD3AykmgGtbKIrH1NfOtHMThEAzkzK3u4lYrQAYf4EqF1VX_uIO1FGzI4-gZKAVl68Yx9S493Ey848bSkMg)
+			- Insertion Sort
+				- Complexity:
+					- Insert into list size 0
+					- Insert into list size 1
+					- Insert into list size 2
+					- …
+					- Insert into list size n
+					- n(n+1)/2 is O(n^2)
+- Lecture 35
+	- Comparison Sorts
+		- Any sort that compares different arrangements of elements
+			- ![](https://remnote-user-data.s3.amazonaws.com/Ar88Q2gaZVc27DgpypjxlT9r_KFiMz3WRZYPFV0QkXwHHaCUz5DNqAQTFHvIjmMJNr3emrdGK11Av_AzhCndjNKeL9bpkkZ18kuVo5O4_6ZaQc4XIJvyPgG-eZYZrMaC)
+			- There are n! possible combinations of the list
+			- ![](https://remnote-user-data.s3.amazonaws.com/iXCGF6XlIKNhKwCloEdxPkYU3jnMiGFgXrkpA8jHkcRdB2SbWv7YSwmEWa6XDQBpRWFgS8RTlmUE9K8srpzzs1TyrDzQGXkXB4KNVIYuzN5hXfhNqSbdIN1CNE0hzrjw)
+			- ![](https://remnote-user-data.s3.amazonaws.com/VtLyBcs5F4hQUsJT3VzV-4Rw6cuhFgrI9rK8KULQxfo425rR58ZI6Oa_oDNZMxcL9va6Qk8G0XuoXbP1YR3GCBrl7r-o7BBMQVb6V_BvgXipnFE4yHvofRYzL788lCIP)
+	- Counting Sort
+		- Use value of number as index in new array
+		- Inspiration:
+		- ![](https://remnote-user-data.s3.amazonaws.com/KQ-IOjYWoeHwu2Lkh3n2ZZInPQWtbtLKpPoZ3LEt8Tba4RSC4-UAdSnodnEpcMbLvKXbqRxNQtIH_czEWI9JD7ttHBuiPJsy1bVD3nNTcVto0SJlqhIxpXSpRDKcu4F_)
+		- Generalizes
+		- ![](https://remnote-user-data.s3.amazonaws.com/mjzdymvpJATxePJoAEJB4jvS6ykdHASlOZC61g4WhVaH0KnVxzHDTB7as4UHBC6nEO_e45nQziIy0VAvJbQ_nstlTKO0gLqVEBevWhEosmLmjaoyn7TCANYgw-YvV_i4)
+		- ![](https://remnote-user-data.s3.amazonaws.com/sesVLbh7XTC48phjoZBTgKVDkaqe23g7XsP9sIR2rGY3Xo3dHefbxCp_AVR0yiuFI6U7-_A2IAUW62P0WM4spseq0V16QFCKK82pn1OUmKveTK2CRHyDiJ9rRuEUdx5k)
+		- Complexity O(n+k)
+		- Implementation
+		- ![](https://remnote-user-data.s3.amazonaws.com/-VzEU_qXPOYCsoIY-AHcPrUAEY9JATz7RZ0uPwuuCeSYW3yW1qWtwvQ4Lx9mEWm_UvBUPvJnpJl5hsLeVjW9XIg3GEjgvd1UmBzcpaxMOYxz22jHcAqykhBcJSlKS0Au)
+	- Bucket Sort
+		- ![](https://remnote-user-data.s3.amazonaws.com/Tb318oRxrJbWqgpzd06V-YAzNpKz-LcxBaBvecpiU8LYdXJA2lZR8U2BgO2otJm32_7hbsFaHZ2IYP0gNsspYrqNOXlXrcbDMGJU10xdvkDuQdKU5joTw1_MGXJRwA0X)
+		- ![](https://remnote-user-data.s3.amazonaws.com/XUm3-0hU96aTEL7z3FqNBfZcs2APqmWhlchAwMXVlRR4ANY8gZmEl0u7o0_jEtTojE9FfS0AcjrXv0FSPVJeCCHmpu5ZalUSTl-l6641R12iuXz4wq9l7lUZchpHb9MR)
+- Lecture 36
+	- Linear Programming
+		- definition→model seeks to minimize a linear function, subject to a set of constraints
+		- components ↓
+			- a set of decision variables
+			- an objective function
+			- a set of constraints
+	- P=NP
+		- Polynomial vs. exponential time![](https://remnote-user-data.s3.amazonaws.com/_Gjn61zRp7Dp8qoPWr5sj2aDwCptRwrZ6ipLlRElrevfRsU8ysLvF4vJhAwdUahjv8dj-RsNWolhdj34WlD13Y-u7RpYhW1F8O-Sy4GK1LfXMEFhWARKhaqROU3cktRL)
+		- ![](https://remnote-user-data.s3.amazonaws.com/YQ0wff2-5Hdd5CmsUXLRB10Ckn7ULDeb0ka5iZbmpya2z9qZXHA9hhlyydU42wKVu73MqBnCGiYEkIm_Lf18DAya43Ca-hIBXyitxOC61OcXWF5maZgMALGVkLcQusbl)
+		- P↔Problems that can be solved in polynomial time
+		- NP (nondeterministic polynomial time)↔the set of problems whose solutions can be verified in polynomial time. However, many of those problems take exponential time to solve. We cannot solve in polynomial time necessarily, but we can verify in polynomial time
+		- significance→do efficient simple polynomial time solutions exist to these NP problems, and if so there's a special algorithm solution
+		- example→Satisfiability problem
+			- ![](https://remnote-user-data.s3.amazonaws.com/fBmsl3yMZ6TeBKuVdRKuptOalfRpYRbKyxaNdobvPc8-ufBXsVzodfFGLG6tPSnP1PAqDbSAPq4A4c0rHLpDWkVbm2uLkCM1FYAZR9xyMb0t7c50e6OqcNlDj7tqIxfA)
+			- ![](https://remnote-user-data.s3.amazonaws.com/WDyhpfWWlDhMVg5JTxD-AQG6BnDUzYAz1Al41MiuC85O0ONJQZMGEn89vOmn9QqAKiV9JyvcYxSqdru5HHpgjIcriAUIRKSLCygGyv1EQlK_X0ILwiIJcNQ6UgXoTzAv)
+			- ![](https://remnote-user-data.s3.amazonaws.com/LyRHF9cVwUx26wRk88M-AgJzYTTOikKpJDjAl6Gf-Hcx_EZehYBNvcgrh0k04eB2dLq1hiQBVpgehgiNFruMpKArMhPUd8V_dy-vNMVkUo2EaGixIKoHAdk-KB2ADMop)
+			- finding a polynomial that satisfies SAT would prove P = NP
+		-
+- Lecture 37
+	- How to reverse a regular expression
+		- ![](https://remnote-user-data.s3.amazonaws.com/niHgP1mA9cOzw8b-TCpfovmVPKTFgeYO1ZFmOdkgTLKrKeZ-_qY3RqVE-JPQfCKMKHhnJea2XZVl_CKf3-FxgLmxqbcmMkG7ZAwecOGO08Aacxh8jSYvpgrZ-7BzjPnU)
+- Commands
+	- ssh bmw52@node.zoo.cs.yale.edu―log in
+	- scp bmw52@node.zoo.cs.yale.edu:/c/cs201/hws/hw<as_no>.rkt "/Users/braden/Google Drive (braden.wong@yale.edu)/Yale/CS201/": retrieve file
+	- scp -r "/Users/braden/Google Drive (braden.wong@yale.edu)/Yale/CS201/hw#" bmw52@node.zoo.cs.yale.edu:~/cs201/―send file
+	- While cd cs201
+		- /c/cs201/bin/autograde --test 0―autograde
+		- /c/cs201/bin/submit 0 hw0.rkt―submit
+		- /c/cs201/bin/check 0―check
+		- /c/cs201/bin/unsubmit <hw#> oops.rkt―remove submitted file
+		- /c/cs201/bin/protect <hw#> hw<hw#>.rkt―protect from deletion
+		- /c/cs201/bin/unprotect <hw#> hw<hw#>.rkt―unprotect
+		- /c/cs201/bin/retrieve <hw#> hw<hw#>.rkt―retrieve in case you deleted your local copy

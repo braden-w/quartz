@@ -1,0 +1,805 @@
+---
+---
+# Barron's 800 High-Frequency GRE Word List
+- 
+- Definition
+    - [Abate](../../../Abate.md)―subside or moderate. #Abate
+    - [Abdicate](../../../Abdicate.md)―renounce; give up. #Abdicate
+    - [Aberrant](../../../Aberrant.md)―abnormal or deviant. #Aberrant
+    - [Abeyance](../../../Abeyance.md)―suspended action. #Abeyance
+    - [Abject](../../../Abject.md)―wretched; lacking pride. #Abject
+    - [Abjure](../../../Abjure.md)―renounce upon oath. #Abjure
+    - [Abscission](../../../Abscission.md)―the act of cutting; the natural separation of a leaf or other part of a plant #Abscission
+    - [Abscond](../../../Abscond.md)―depart secretly and hide. #Abscond
+    - [Abstemious](../../../Abstemious.md)―moderate in appetite #Abstemious
+    - [Abstinence](../../../Abstinence.md)―the giving up of certain pleasures #Abstinence
+    - [Abysmal](../../../Abysmal.md)―bottomless. #Abysmal
+    - [Accretion](../../../Accretion.md)―growth; increase. #Accretion
+    - [Accrue](../../../Accrue.md)―come about by addition. #Accrue
+    - [Adamant](../../../Adamant.md)―hard, inflexible. #Adamant
+    - [Adjunct](../../../Adjunct.md)―something attached to but holding an inferior position. #Adjunct
+    - [Admonish](../../../Admonish.md)―warn; reprove. #Admonish
+    - [Adulterate](../../../Adulterate.md)―make impure by mixing with baser substances It is a crime to adulterate foods without informing the buyer. #Adulterate
+    - [Aesthetic](../../../Aesthetic.md)―relating to beauty or the arts #Aesthetic
+    - [Affected](../../../Affected.md)―artificial; pretended. #Affected
+    - [Affinity](../../../Affinity.md)―kinship. #Affinity
+    - [Aggrandize](../../../Aggrandize.md)―increase or intensify; raise in power, wealth, rank or honor. #Aggrandize
+    - [Aggregate](../../../Aggregate.md)―sum; total. #Aggregate
+    - [Alacrity](../../../Alacrity.md)―cheerful promptness. #Alacrity
+    - [Alchemy](../../../Alchemy.md)―medieval chemistry. #Alchemy
+    - [Allay](../../../Allay.md)―calm; pacify. #Allay
+    - [Alleviate](../../../Alleviate.md)―relieve. #Alleviate
+    - [Alloy](../../../Alloy.md)―mixture as of metals. #Alloy
+    - [Allure](../../../Allure.md)―entice; attract. #Allure
+    - [Amalgamate](../../../Amalgamate.md)―combine; unite in one body. #Amalgamate
+    - [Ambiguous](../../../Ambiguous.md)―unclear or doubtful in meaning. #Ambiguous
+    - [Ambivalence](../../../Ambivalence.md)―the state of having contradictory or conflicting emotional attitudes. #Ambivalence
+    - [Ambrosia](../../../Ambrosia.md)―food of the gods. #Ambrosia
+    - [Ameliorate](../../../Ameliorate.md)―improve. #Ameliorate
+    - [Amenable](../../../Amenable.md)―readily managed; willing to be led. #Amenable
+    - [Amenity](../../../Amenity.md)―something that increases comfort #Amenity
+    - [Amulet](../../../Amulet.md)―charm; talisman. #Amulet
+    - [Anachronism](../../../Anachronism.md)―something or someone misplaced in time. #Anachronism
+    - [Analgesic](../../../Analgesic.md)―causing insensitivity to pain. #Analgesic
+    - [Analogous](../../../Analogous.md)―comparable. #Analogous
+    - [Anarchy](../../../Anarchy.md)―absence of governing body; state of disorder. #Anarchy
+    - [Anodyne](../../../Anodyne.md)―drug that relieves pain; opiate. #Anodyne
+    - [Anomalous](../../../Anomalous.md)―abnormal; irregular. #Anomalous
+    - [Antecedent](../../../Antecedent.md)―something that comes before #Antecedent
+    - [Antediluvian](../../../Antediluvian.md)―antiquated; ancient. #Antediluvian
+    - [Antipathy](../../../Antipathy.md)―aversion; dislike. #Antipathy
+    - [Apathy](../../../Apathy.md)―lack of caring; indifference. #Apathy
+    - [Apex](../../../Apex.md)―tip; summit; climax. #Apex
+    - [Apogee](../../../Apogee.md)―highest point. #Apogee
+    - [Apothegm](../../../Apothegm.md)―pithy, compact saying. #Apothegm
+    - [Appease](../../../Appease.md)―pacify; soothe. #Appease
+    - [Appellation](../../../Appellation.md)―name; title. #Appellation
+    - [Apposite](../../../Apposite.md)―appropriate; fitting. #Apposite
+    - [Apprise](../../../Apprise.md)―inform. #Apprise
+    - [Approbation](../../../Approbation.md)―approval. #Approbation
+    - [Appropriate](../../../Appropriate.md)―acquire; take possession of for one's own use. #Appropriate
+    - [Apropos](../../../Apropos.md)―with reference to; regarding. #Apropos
+    - [Arabesque](../../../Arabesque.md)―ornate design featuring intertwined curves; a ballet position in which one leg is extended in back while the other supports the weight of the body #Arabesque
+    - [Archeology](../../../Archeology.md)―the study of material evidence of past human life #Archeology
+    - [Ardor](../../../Ardor.md)―heat; passion; zeal. #Ardor
+    - [Arduous](../../../Arduous.md)―hard; strenuous. #Arduous
+    - [Argot](../../../Argot.md)―slang. #Argot
+    - [Artless](../../../Artless.md)―without guile; open and honest. #Artless
+    - [Ascetic](../../../Ascetic.md)―practicing self-denial; austere. #Ascetic
+    - [Asperity](../../../Asperity.md)―sharpness (of temper). #Asperity
+    - [Aspersion](../../../Aspersion.md)―slanderous remark. #Aspersion
+    - [Assiduous](../../../Assiduous.md)―diligent. #Assiduous
+    - [Assuage](../../../Assuage.md)―ease; lessen(pain). #Assuage
+    - [Astringent](../../../Astringent.md)―binding; causing contraction; harsh or severe. #Astringent
+    - [Asylum](../../../Asylum.md)―place of refuge or shelter; protection. #Asylum
+    - [Atavism](../../../Atavism.md)―resemblance to remote ancestors rather than to parents; reversion to an earlier type;. #Atavism
+    - [Attenuate](../../../Attenuate.md)―make thin; weaken. #Attenuate
+    - [Audacious](../../../Audacious.md)―daring; bold. #Audacious
+    - [Austere](../../../Austere.md)―strict, stern. #Austere
+    - [Autonomous](../../../Autonomous.md)―self-governing. #Autonomous
+    - [Avarice](../../../Avarice.md)―greed for wealth. #Avarice
+    - [Aver](../../../Aver.md)―state confidently. #Aver
+    - [Avocation](../../../Avocation.md)―secondary or minor occupation. #Avocation
+    - [Avuncular](../../../Avuncular.md)―like an uncle. #Avuncular
+    - [Axiomatic](../../../Axiomatic.md)―taken for granted; self-evident truth #Axiomatic
+    - [Bacchanalian](../../../Bacchanalian.md)―drunken. #Bacchanalian
+    - [Banal](../../../Banal.md)―hackneyed; commonplace; trite. #Banal
+    - [Banter](../../../Banter.md)―playful conversation #Banter
+    - [Bard](../../../Bard.md)―poet. #Bard
+    - [Bawdy](../../../Bawdy.md)―indecent; obscene. #Bawdy
+    - [Bedizen](../../../Bedizen.md)―dress with vulgar finery. #Bedizen
+    - [Behemoth](../../../Behemoth.md)―huge creature; something of monstrous size or power. #Behemoth
+    - [Belie](../../../Belie.md)―contradict; give a false impression. #Belie
+    - [Beneficent](../../../Beneficent.md)―kindly; doing good. #Beneficent
+    - [Bifurcate](../../../Bifurcate.md)―to divide into two parts #Bifurcate
+    - [Blandishment](../../../Blandishment.md)―flattery. #Blandishment
+    - [Blase](../../../Blase.md)―bored with pleasure or dissipation. #Blase
+    - [Bolster](../../../Bolster.md)―support; reinforce. #Bolster
+    - [Bombastic](../../../Bombastic.md)―pompous; using inflated language #Bombastic
+    - [Boorish](../../../Boorish.md)―rude; insensitive. #Boorish
+    - [Bovine](../../../Bovine.md)―cowlike; placid and dull. #Bovine
+    - [Brazen](../../../Brazen.md)―insolent. #Brazen
+    - [Broach](../../../Broach.md)―open up. #Broach
+    - [Bucolic](../../../Bucolic.md)―rustic; pastoral The meadow was the scene of bucolic gaiety. #Bucolic
+    - [Burgeon](../../../Burgeon.md)―grow forth; send out buds. #Burgeon
+    - [Burnish](../../../Burnish.md)―make shiny by rubbing; polish. #Burnish
+    - [Buttress](../../../Buttress.md)―support; prop up. #Buttress
+    - [Cacaphonous](../../../Cacaphonous.md)―unpleasant or harsh-sounding #Cacaphonous
+    - [Cadge](../../../Cadge.md)―to beg; sponge #Cadge
+    - [Callous](../../../Callous.md)―hardened; unfeeling. #Callous
+    - [Calumny](../../../Calumny.md)―malicious misrepresentation. #Calumny
+    - [Canard](../../../Canard.md)―unfounded rumor. #Canard
+    - [Canon](../../../Canon.md)―an established set of principles; a basis or standard for judgment; a group of literary works #Canon
+    - [Cant](../../../Cant.md)―pious phraseology; jargon of criminals. #Cant
+    - [Cantankerous](../../../Cantankerous.md)―ill-humored; irritable. #Cantankerous
+    - [Capricous](../../../Capricous.md)―fickle #Capricous
+    - [Captious](../../../Captious.md)―faultfinding. #Captious
+    - [Cardinal](../../../Cardinal.md)―chief. #Cardinal
+    - [Carnal](../../../Carnal.md)―fleshly. #Carnal
+    - [Carping](../../../Carping.md)―petty criticism; fault-finding. #Carping
+    - [Caste](../../../Caste.md)―one of the hereditary classes in Hindu society, social stratification; prestige. #Caste
+    - [Castigation](../../../Castigation.md)―punishment; severe criticism. #Castigation
+    - [Cataclysm](../../../Cataclysm.md)―deluge; upheaval. #Cataclysm
+    - [Catalyst](../../../Catalyst.md)―agent that brings about a chemical change while it remains unaffected and unchanged. #Catalyst
+    - [Categorical](../../../Categorical.md)―without exceptions; unqualified; absolute. #Categorical
+    - [Caucus](../../../Caucus.md)―private meeting of members of a party to select officers or determine policy. #Caucus
+    - [Causal](../../../Causal.md)―implying a cause-and-effect relationship. #Causal
+    - [Caustic](../../../Caustic.md)―burning; sarcastically biting. #Caustic
+    - [Celestial](../../../Celestial.md)―heavenly. #Celestial
+    - [Centrifugal](../../../Centrifugal.md)―radiating; departing from the center. #Centrifugal
+    - [Centripetal](../../../Centripetal.md)―tending toward the center. #Centripetal
+    - [Champion](../../../Champion.md)―support militantly Martin Luther King, Jr., won the Nobel Peace Prize because he championed the oppressed in their struggle. #Champion
+    - [Chasten](../../../Chasten.md)―discipline; punish in order to correct. #Chasten
+    - [Chicanery](../../../Chicanery.md)―trickery. #Chicanery
+    - [Chivalry](../../../Chivalry.md)―the qualities idealized by knighthood such as bravery and gallantry toward women #Chivalry
+    - [Churlish](../../../Churlish.md)―boorish; rude. #Churlish
+    - [Circuitous](../../../Circuitous.md)―roundabout. #Circuitous
+    - [Clairvoyant](../../../Clairvoyant.md)―having foresight; fortuneteller. #Clairvoyant
+    - [Clamor](../../../Clamor.md)―noise. #Clamor
+    - [Clique](../../../Clique.md)―small, exclusive group. #Clique
+    - [Cloister](../../../Cloister.md)―monastery or convent. #Cloister
+    - [Coalesce](../../../Coalesce.md)―combine; fuse. #Coalesce
+    - [Coda](../../../Coda.md)―concluding section of a musical or literary composition. #Coda
+    - [Codify](../../../Codify.md)―arrange (laws, rules) as a code; classify We need to take the varying rules and regulations of the different health agencies and codify them into a. #Codify
+    - [Cognizant](../../../Cognizant.md)―informed; conscious; aware #Cognizant
+    - [Commensurate](../../../Commensurate.md)―equal in extent. #Commensurate
+    - [Compendium](../../../Compendium.md)―brief, comprehensive summary. #Compendium
+    - [Complacent](../../../Complacent.md)―self-satisfied. #Complacent
+    - [Complaisant](../../../Complaisant.md)―trying to please; obliging. #Complaisant
+    - [Complement](../../../Complement.md)―complete; consummate; make perfect. #Complement
+    - [Compliant](../../../Compliant.md)―yielding. #Compliant
+    - [Compunction](../../../Compunction.md)―remorse. #Compunction
+    - [Concave](../../../Concave.md)―hollow. #Concave
+    - [Conciliatory](../../../Conciliatory.md)―reconciling; soothing. #Conciliatory
+    - [Concoct](../../../Concoct.md)―prepare by combining; make up in concert. #Concoct
+    - [Concomitant](../../../Concomitant.md)―that which accompanies. #Concomitant
+    - [Condone](../../../Condone.md)―overlook; forgive; give tacit approval; excuse. #Condone
+    - [Confound](../../../Confound.md)―confuse; puzzle. #Confound
+    - [Congenial](../../../Congenial.md)―pleasant; friendly My father loved to go out for a meal with congenial companions. #Congenial
+    - [Conjugal](../../../Conjugal.md)―pertaining to marriage. #Conjugal
+    - [Connoisseur](../../../Connoisseur.md)―person competent to act as judge of art, ect.; a lover of an art. #Connoisseur
+    - [Conscript](../../../Conscript.md)―draftee; person forced into military service. #Conscript
+    - [Consecrate](../../../Consecrate.md)―dedicate; sanctify. #Consecrate
+    - [Contend](../../../Contend.md)―struggle; compete; assert earnestly. #Contend
+    - [Contentious](../../../Contentious.md)―quarrelsome. #Contentious
+    - [Continence](../../../Continence.md)―self-restraint; sexual chastity. #Continence
+    - [Contrite](../../../Contrite.md)―penitent. #Contrite
+    - [Contumacious](../../../Contumacious.md)―disobedient; resisting authority. #Contumacious
+    - [Conundrum](../../../Conundrum.md)―riddle; difficult problem. #Conundrum
+    - [Convention](../../../Convention.md)―social or moral custom; established practice. #Convention
+    - [Converge](../../../Converge.md)―come together. #Converge
+    - [Convex](../../../Convex.md)―curving outward. #Convex
+    - [Convivial](../../../Convivial.md)―sociable #Convivial
+    - [Convoluted](../../../Convoluted.md)―twisted; complicated #Convoluted
+    - [Copious](../../../Copious.md)―abundant; plentiful #Copious
+    - [Coquette](../../../Coquette.md)―woman who flirts #Coquette
+    - [Cornucopia](../../../Cornucopia.md)―horn overflowing with fruit and grain; state of abundance #Cornucopia
+    - [Cosmology](../../../Cosmology.md)―study of the universe as a totality; theory of the origin and structure of the universe #Cosmology
+    - [Covert](../../../Covert.md)―hidden; secret #Covert
+    - [Covetous](../../../Covetous.md)―desiring something owned by another #Covetous
+    - [Cozen](../../../Cozen.md)―to mislead by trick or fraud; decieve #Cozen
+    - [Craven](../../../Craven.md)―cowardly #Craven
+    - [Credence](../../../Credence.md)―acceptance of something as true #Credence
+    - [Credo](../../../Credo.md)―statement of belief or principle; creed #Credo
+    - [Daunt](../../../Daunt.md)―intimidate. #Daunt
+    - [Dearth](../../../Dearth.md)―scarcity. #Dearth
+    - [Debauchery](../../../Debauchery.md)―corruption #Debauchery
+    - [Decorum](../../../Decorum.md)―propriety; seemliness. #Decorum
+    - [Defame](../../../Defame.md)―to malign; harm someone's reputation #Defame
+    - [Default](../../../Default.md)―failure to do. #Default
+    - [Deference](../../../Deference.md)―courteous regard for another's wish. #Deference
+    - [Defunct](../../../Defunct.md)―dead; no longer in use or existence. #Defunct
+    - [Delineate](../../../Delineate.md)―portray. #Delineate
+    - [Demographic](../../../Demographic.md)―related to population balance. #Demographic
+    - [Demotic](../../../Demotic.md)―pertaining to the people. #Demotic
+    - [Demur](../../../Demur.md)―delay; object. #Demur
+    - [Denigrate](../../../Denigrate.md)―blacken. #Denigrate
+    - [Denizen](../../../Denizen.md)―inhabitant of. #Denizen
+    - [Denouement](../../../Denouement.md)―outcome; final development of the plot of a play or other literary work. #Denouement
+    - [Deride](../../../Deride.md)―scoff at. #Deride
+    - [Derivative](../../../Derivative.md)―unoriginal; obtained from another source. #Derivative
+    - [Desiccate](../../../Desiccate.md)―dry up. #Desiccate
+    - [Desuetude](../../../Desuetude.md)―state of disuse #Desuetude
+    - [Desultory](../../../Desultory.md)―aimless; haphazard; digressing at random. #Desultory
+    - [Deterrent](../../../Deterrent.md)―something that discourages; hindrance. #Deterrent
+    - [Detraction](../../../Detraction.md)―slandering; aspersion. #Detraction
+    - [Diaphanous](../../../Diaphanous.md)―sheer; transparent. #Diaphanous
+    - [Diatribe](../../../Diatribe.md)―bitter scolding; invective. #Diatribe
+    - [Dichotomy](../../../Dichotomy.md)―branching into two parts. #Dichotomy
+    - [Diffidence](../../../Diffidence.md)―shyness. #Diffidence
+    - [Diffuse](../../../Diffuse.md)―to spread out #Diffuse
+    - [Digression](../../../Digression.md)―wandering away from the subject. #Digression
+    - [Dirge](../../../Dirge.md)―lament with music. #Dirge
+    - [Disabuse](../../../Disabuse.md)―correct a false impression; undeceive. #Disabuse
+    - [Discerning](../../../Discerning.md)―mentally quick and observant; having insight. #Discerning
+    - [Discomfit](../../../Discomfit.md)―put to rout; defeat; disconcert. #Discomfit
+    - [Discordant](../../../Discordant.md)―inharmonious; conflicting. #Discordant
+    - [Discrepancy](../../../Discrepancy.md)―lack of consistency; difference. #Discrepancy
+    - [Discrete](../../../Discrete.md)―separate; unconnected. #Discrete
+    - [Discretion](../../../Discretion.md)―prudence; ability to adjust actions to circumstances. #Discretion
+    - [Disingenuous](../../../Disingenuous.md)―not naive; sophisticated Although he was young, his remarks indicated that he was disingenous. #Disingenuous
+    - [Disinterested](../../../Disinterested.md)―unprejudiced. #Disinterested
+    - [Disjointed](../../../Disjointed.md)―disconnected. #Disjointed
+    - [Dismiss](../../../Dismiss.md)―eliminate from consideration; reject. #Dismiss
+    - [Disparage](../../../Disparage.md)―belittle. #Disparage
+    - [Disparate](../../../Disparate.md)―basically different; unrelated. #Disparate
+    - [Dissemble](../../../Dissemble.md)―disguise; pretend. #Dissemble
+    - [Disseminate](../../../Disseminate.md)―scatter (like seeds). #Disseminate
+    - [Dissident](../../../Dissident.md)―dissenting; rebellious. #Dissident
+    - [Dissolution](../../../Dissolution.md)―disintegration; looseness in morals. #Dissolution
+    - [Dissonance](../../../Dissonance.md)―discord. #Dissonance
+    - [Distend](../../../Distend.md)―expand;swell out. #Distend
+    - [Distill](../../../Distill.md)―purify; refine; concentrate. #Distill
+    - [Distrait](../../../Distrait.md)―absentminded. #Distrait
+    - [Diverge](../../../Diverge.md)―vary; go in different directionsfrom the same point. #Diverge
+    - [Divest](../../../Divest.md)―strip; deprive. #Divest
+    - [Divulge](../../../Divulge.md)―reveal. #Divulge
+    - [Doctrinaire](../../../Doctrinaire.md)―unable to compromise about points of doctrine; dogmatic; unyielding. #Doctrinaire
+    - [Document](../../../Document (1).md)―provide written evidence. #Document
+    - [Doggerel](../../../Doggerel.md)―poorverse. #Doggerel
+    - [Dogmatic](../../../Dogmatic.md)―positive; arbitrary. #Dogmatic
+    - [Dormant](../../../Dormant.md)―sleeping; lethargic; torpid. #Dormant
+    - [Dross](../../../Dross.md)―waste matter; worhtless impurities. #Dross
+    - [Dupe](../../../Dupe.md)―someone easily fooled. #Dupe
+    - [Ebullient](../../../Ebullient.md)―showing excitement; overflowing with enthusiasm His ebullient nature could not be repressed. #Ebullient
+    - [Eclectic](../../../Eclectic.md)―selective; composed of elements drawn from disparate sources. #Eclectic
+    - [Effervescence](../../../Effervescence.md)―inner excitement; exuberance. #Effervescence
+    - [Effete](../../../Effete.md)―worn out; exhausted; barren. #Effete
+    - [Efficacy](../../../Efficacy.md)―power to produce desired effect. #Efficacy
+    - [Effrontery](../../../Effrontery.md)―shameless boldness. #Effrontery
+    - [Egoism](../../../Egoism.md)―excessive interest in one's self; belief that one should be interested in one's self rather than in. #Egoism
+    - [Egotistical](../../../Egotistical.md)―excessively self-centered; conceited #Egotistical
+    - [Elegy](../../../Elegy.md)―poem or song expressing lamentation On the death of Edward King, Milton composed the elegy "Lycidas.". #Elegy
+    - [Elicit](../../../Elicit.md)―draw out by discussion. #Elicit
+    - [Elixir](../../../Elixir.md)―cure-all; something invigorating. #Elixir
+    - [Elysian](../../../Elysian.md)―delightful; blissful #Elysian
+    - [Emaciated](../../../Emaciated.md)―thin and wasted. #Emaciated
+    - [Embellish](../../../Embellish.md)―adorn My mother-in-law's stories about her journey from Russia made us laugh because she embellished the bare. #Embellish
+    - [Emollient](../../../Emollient.md)―soothing or softening remedy. #Emollient
+    - [Empirical](../../../Empirical.md)―based on experience. #Empirical
+    - [Emulate](../../../Emulate.md)―rival; imitate. #Emulate
+    - [Encomium](../../../Encomium.md)―high praise; eulogy. #Encomium
+    - [Endemic](../../../Endemic.md)―prevailinig among a specific group of people or in a specific are or country. #Endemic
+    - [Enervate](../../../Enervate.md)―weaken. #Enervate
+    - [Engender](../../../Engender.md)―cause; produce. #Engender
+    - [Enhance](../../../Enhance.md)―advance; improve. #Enhance
+    - [Entomology](../../../Entomology.md)―study of insects. #Entomology
+    - [Enunciate](../../../Enunciate.md)―speak distinctly. #Enunciate
+    - [Ephemeral](../../../Ephemeral.md)―short-lived; fleeting. #Ephemeral
+    - [Epistemology](../../../Epistemology.md)―branch of philosophy tha texamines the nature of knowledge #Epistemology
+    - [Equable](../../../Equable.md)―tranquil; steady; uniform. #Equable
+    - [Equanimity](../../../Equanimity.md)―calmness of temperament. #Equanimity
+    - [Equivocate](../../../Equivocate.md)―lie; mislead; attempt to conceal the truth. #Equivocate
+    - [Errant](../../../Errant.md)―wandering. #Errant
+    - [Erudite](../../../Erudite.md)―learned; scholarly. #Erudite
+    - [Esoteric](../../../Esoteric.md)―hard to understand; known only to the chosen few. #Esoteric
+    - [Essay](../../../Essay.md)―to make an attempt; subject to a test #Essay
+    - [Estimable](../../../Estimable.md)―admirable; possible to estimate #Estimable
+    - [Ethnocentric](../../../Ethnocentric.md)―based on the attitude tha one's group is superior #Ethnocentric
+    - [Etiology](../../../Etiology.md)―causes or origins #Etiology
+    - [Etymology](../../../Etymology.md)―study of word parts. #Etymology
+    - [Eugenics](../../../Eugenics.md)―study of factors that influence the hereditary qualities of the human race and ways to improve those qualities #Eugenics
+    - [Eulogy](../../../Eulogy.md)―praise. #Eulogy
+    - [Euphemism](../../../Euphemism.md)―mild expression in place of an unpleasant one. #Euphemism
+    - [Euphoria](../../../Euphoria.md)―feeling of exaggerated (or unfounded) well-being. #Euphoria
+    - [Euthanasia](../../../Euthanasia.md)―mercy killing. #Euthanasia
+    - [Evince](../../../Evince.md)―show clearly. #Evince
+    - [Evocative](../../../Evocative.md)―tending to call to mind or produce a reaction #Evocative
+    - [Exacerbate](../../../Exacerbate.md)―worsen; embitter. #Exacerbate
+    - [Exact](../../../Exact.md)―to force the payment of; demand and obtain by authority #Exact
+    - [Exculpate](../../../Exculpate.md)―clear from blame. #Exculpate
+    - [Execrable](../../../Execrable.md)―very bad. #Execrable
+    - [Exhort](../../../Exhort.md)―urge. #Exhort
+    - [Exigency](../../../Exigency.md)―urgent situation. #Exigency
+    - [Existential](../../../Existential.md)―pertaining to existence; pertaining to the philosophy of existentialism. #Existential
+    - [Exorcise](../../../Exorcise.md)―drive our evil spirits. #Exorcise
+    - [Expatiate](../../../Expatiate.md)―talk at length. #Expatiate
+    - [Expatriate](../../../Expatriate.md)―exile; someone who has withdrawn from his native land. #Expatriate
+    - [Expiate](../../../Expiate.md)―make amends for (a sin). #Expiate
+    - [Explicate](../../../Explicate.md)―explain; interpret; clarify. #Explicate
+    - [Expository](../../../Expository.md)―explanatory; serving to explain. #Expository
+    - [Extant](../../../Extant.md)―still in existence. #Extant
+    - [Extemporaneous](../../../Extemporaneous.md)―not planned; impromtu. #Extemporaneous
+    - [Extirpate](../../../Extirpate.md)―root up. #Extirpate
+    - [Extraneous](../../../Extraneous.md)―not essential; external. #Extraneous
+    - [Extrapolation](../../../Extrapolation.md)―projection; conjecture. #Extrapolation
+    - [Extrinsic](../../../Extrinsic.md)―external; not inherent; foreign. #Extrinsic
+    - [Facetious](../../../Facetious.md)―humorous; jocular. #Facetious
+    - [Facilitate](../../../Facilitate.md)―make less difficult. #Facilitate
+    - [Factotum](../../../Factotum.md)―handyman; person who does all kinds of work. #Factotum
+    - [Fallacious](../../../Fallacious.md)―misleading. #Fallacious
+    - [Fallow](../../../Fallow.md)―plowed but sowed; uncultivated Farmers have learned that it is advisable to permit land to le fallow every few years. #Fallow
+    - [Fatuous](../../../Fatuous.md)―foolish; inane. #Fatuous
+    - [Fauna](../../../Fauna.md)―animals of a period or region. #Fauna
+    - [Fawning](../../../Fawning.md)―courting favor by cringing and flattering. #Fawning
+    - [Felicitous](../../../Felicitous.md)―apt; suitably expressed; well chosen. #Felicitous
+    - [Feral](../../../Feral.md)―existing in a wild or untamed state #Feral
+    - [Fervor](../../../Fervor.md)―glowing ardor. #Fervor
+    - [Fetid](../../../Fetid.md)―malodorous. #Fetid
+    - [Fetter](../../../Fetter.md)―shackle. #Fetter
+    - [Fiat](../../../Fiat.md)―command. #Fiat
+    - [Fidelity](../../../Fidelity.md)―loyalty. #Fidelity
+    - [Filibuster](../../../Filibuster.md)―block legislation by making long speeches. #Filibuster
+    - [Finesse](../../../Finesse.md)―delicate skill. #Finesse
+    - [Fissure](../../../Fissure.md)―crevice. #Fissure
+    - [Flag](../../../Flag.md)―droop; grow feeble. #Flag
+    - [Fledging](../../../Fledging.md)―beginner; novice #Fledging
+    - [Flora](../../../Flora.md)―plants of a region or era. #Flora
+    - [Florid](../../../Florid.md)―flowery; ruddy. #Florid
+    - [Flourish](../../../Flourish.md)―grow well; prosper; make sweeping gestures. #Flourish
+    - [Flout](../../../Flout.md)―reject; mock. #Flout
+    - [Flux](../../../Flux.md)―flowing; series of changes. #Flux
+    - [Foment](../../../Foment.md)―stir up; instigate. #Foment
+    - [Forbearance](../../../Forbearance.md)―patience #Forbearance
+    - [Forestall](../../../Forestall.md)―prevent by taking action in advance. #Forestall
+    - [Formidable](../../../Formidable.md)―menacing; threatening. #Formidable
+    - [Forswear](../../../Forswear.md)―renounce; abandon. #Forswear
+    - [Founder](../../../Founder.md)―fail completely; sink. #Founder
+    - [Founder](../../../Founder.md)―person who establishes (an organization, business). #Founder
+    - [Fracas](../../../Fracas.md)―brawl; melee. #Fracas
+    - [Fractious](../../../Fractious.md)―unruly. #Fractious
+    - [Fresco](../../../Fresco.md)―painting in plaste (usually fresh). #Fresco
+    - [Frieze](../../../Frieze.md)―ornamental band on a wall. #Frieze
+    - [Froward](../../../Froward.md)―stubbornly contrary; obstinately disobedient #Froward
+    - [Frugality](../../../Frugality.md)―thrift; economy. #Frugality
+    - [Fulminate](../../../Fulminate.md)―thunder; explode. #Fulminate
+    - [Fulsome](../../../Fulsome.md)―disgustingly excessive. #Fulsome
+    - [Fusion](../../../Fusion.md)―union; coalition. #Fusion
+    - [Futile](../../../Futile.md)―ineffective; fruitless. #Futile
+    - [Gainsay](../../../Gainsay.md)―deny. #Gainsay
+    - [Gambol](../../../Gambol.md)―skip; leap playfully. #Gambol
+    - [Garrulous](../../../Garrulous.md)―excessively talkative, especially about unimportant subjects; loquacious; wordy. #Garrulous
+    - [Gauche](../../../Gauche.md)―clumsy; boorish. #Gauche
+    - [Geniality](../../../Geniality.md)―cheerfulness; kindliness; sympathy. #Geniality
+    - [Gerrymander](../../../Gerrymander.md)―change in voting district lines in order to favor a political party. #Gerrymander
+    - [Glib](../../../Glib.md)―fluent. #Glib
+    - [Goad](../../../Goad.md)―urge on. #Goad
+    - [Gossamer](../../../Gossamer.md)―sheer; like cobwebs. #Gossamer
+    - [Gouge](../../../Gouge.md)―tear out. #Gouge
+    - [Grandiloquent](../../../Grandiloquent.md)―pompous; bombastic; using high-sounding language. #Grandiloquent
+    - [Gregarious](../../../Gregarious.md)―sociable. #Gregarious
+    - [Grouse](../../../Grouse.md)―complain; fuss. #Grouse
+    - [Guileless](../../../Guileless.md)―without deceit. #Guileless
+    - [Guise](../../../Guise.md)―appearance; costume. #Guise
+    - [Gullible](../../../Gullible.md)―easily deceived. #Gullible
+    - [Gustatory](../../../Gustatory.md)―affecting the sense of taste. #Gustatory
+    - [Halcyon](../../../Halcyon.md)―calm; peaceful. #Halcyon
+    - [Hallowed](../../../Hallowed.md)―blessed; consecrated. #Hallowed
+    - [Harangue](../../../Harangue.md)―long, passionate, and vehement speech. #Harangue
+    - [Harrowing](../../../Harrowing.md)―extremely distressing; terrifying #Harrowing
+    - [Herbivorous](../../../Herbivorous.md)―grain-eating. #Herbivorous
+    - [Hermetic](../../../Hermetic.md)―sealed by fusion so as to be airtight. #Hermetic
+    - [Hermetic](../../../Hermetic.md)―obscure and mysterious; occult. #Hermetic
+    - [Heterodox](../../../Heterodox.md)―unorthodox; unconventional. #Heterodox
+    - [Hieroglyphics](../../../Hieroglyphics.md)―a system of writing in which pictorial symbols represent meanings or sounds; wirting or symbols that are difficult to decipher #Hieroglyphics
+    - [Hirsute](../../../Hirsute.md)―hairy. #Hirsute
+    - [Histrionic](../../../Histrionic.md)―theatrical. #Histrionic
+    - [Homeostasis](../../../Homeostasis.md)―tendency of a system to maintain relative stability. #Homeostasis
+    - [Homily](../../../Homily.md)―sermon; serious warning. #Homily
+    - [Homogeneous](../../../Homogeneous.md)―of the same kind. #Homogeneous
+    - [Hyperbole](../../../Hyperbole.md)―exaggeration; overstatement. #Hyperbole
+    - [Iconoclastic](../../../Iconoclastic.md)―attacking cherished traditions. #Iconoclastic
+    - [Idolatry](../../../Idolatry.md)―worship of idols; excessive admiration. #Idolatry
+    - [Igneous](../../../Igneous.md)―produced by fire; volcanic. #Igneous
+    - [Imbroglio](../../../Imbroglio.md)―complicated situation; perplexity; entanglement. #Imbroglio
+    - [Immutable](../../../Immutable.md)―unchangeable. #Immutable
+    - [Impair](../../../Impair.md)―worsen; diminish in value. #Impair
+    - [Impassive](../../../Impassive.md)―without feeling; not affected by pain. #Impassive
+    - [Impecunious](../../../Impecunious.md)―without money. #Impecunious
+    - [Impede](../../../Impede.md)―hinder; block. #Impede
+    - [Impermeable](../../../Impermeable.md)―impervious; not permitting passage through its substance. #Impermeable
+    - [Imperturbable](../../../Imperturbable.md)―calm; placid. #Imperturbable
+    - [Impervious](../../../Impervious.md)―not penetrable; not permitting passage through. #Impervious
+    - [Impinge](../../../Impinge.md)―infringe; touch; collide with. #Impinge
+    - [Implacable](../../../Implacable.md)―incapable of being pacified. #Implacable
+    - [Implausible](../../../Implausible.md)―unlikely; unbelievable. #Implausible
+    - [Implicit](../../../Implicit.md)―understood but not stated. #Implicit
+    - [Implode](../../../Implode.md)―collapse inward violently #Implode
+    - [Imprecation](../../../Imprecation.md)―curse. #Imprecation
+    - [Impute](../../../Impute.md)―attribute; ascribe. #Impute
+    - [Inadvertenly](../../../Inadvertenly.md)―carelessly; unintentionally #Inadvertenly
+    - [Incarnate](../../../Incarnate.md)―endowed with flesh; personified. #Incarnate
+    - [Inchoate](../../../Inchoate.md)―recently begun; rudimentary; elementary. #Inchoate
+    - [Incongruity](../../../Incongruity.md)―lack of harmony; absurdity. #Incongruity
+    - [Inconsequencial](../../../Inconsequencial.md)―insgnificant; unimportant #Inconsequencial
+    - [Incorporate](../../../Incorporate.md)―introduce something into a larger whole; combine; unite. #Incorporate
+    - [Incursion](../../../Incursion.md)―temporary invasion. #Incursion
+    - [Indeterminate](../../../Indeterminate.md)―uncertain; not clearly fixed; indefinite. #Indeterminate
+    - [Indigence](../../../Indigence.md)―poverty. #Indigence
+    - [Indolent](../../../Indolent.md)―habitually lazy; idle #Indolent
+    - [Ineluctable](../../../Ineluctable.md)―irresistable; not to be escaped. #Ineluctable
+    - [Inert](../../../Inert.md)―unable to move; sluggish #Inert
+    - [Ingenous](../../../Ingenous.md)―naive and trusting; lacking sophistication #Ingenous
+    - [Inherent](../../../Inherent.md)―firmly established by nature or habit. #Inherent
+    - [Innocuous](../../../Innocuous.md)―harmless. #Innocuous
+    - [Insensible](../../../Insensible.md)―unconscious; unresponsive. #Insensible
+    - [Insinuate](../../../Insinuate.md)―hint; imply. #Insinuate
+    - [Insipid](../../../Insipid.md)―lacking in flavor; dull. #Insipid
+    - [Insouciant](../../../Insouciant.md)―indifferent; without concern or care. #Insouciant
+    - [Insularity](../../../Insularity.md)―narrow-mindedness; isolation. #Insularity
+    - [Insuperable](../../../Insuperable.md)―insurmountable; invincible. #Insuperable
+    - [Intangible](../../../Intangible.md)―not able to be perceived by touch; vague. #Intangible
+    - [Interdict](../../../Interdict.md)―prohibit; forbid. #Interdict
+    - [Internecine](../../../Internecine.md)―mutually destructive. #Internecine
+    - [Interpolate](../../../Interpolate.md)―insert between. #Interpolate
+    - [Interregnum](../../../Interregnum.md)―period between two reigns. #Interregnum
+    - [Intimate](../../../Intimate.md)―hint. #Intimate
+    - [Intractable](../../../Intractable.md)―unruly; refractory. #Intractable
+    - [Intransigence](../../../Intransigence.md)―state of stubborn unwillingness to compromise. #Intransigence
+    - [Introspective](../../../Introspective.md)―looking within oneself. #Introspective
+    - [Inundate](../../../Inundate.md)―overflow; flood. #Inundate
+    - [Inured](../../../Inured.md)―accustomed; hardened. #Inured
+    - [Invective](../../../Invective.md)―abuse. #Invective
+    - [Inveigh](../../../Inveigh.md)―denounce; utter censure or invective He inveighed against the demagoguery of the previous speaker and urged that the audience reject his. #Inveigh
+    - [Inveigle](../../../Inveigle.md)―lead astray; wheedle. #Inveigle
+    - [Inveterate](../../../Inveterate.md)―deep-rooted; habitual. #Inveterate
+    - [Invidious](../../../Invidious.md)―designed to create ill will or envy. #Invidious
+    - [Irascible](../../../Irascible.md)―irritable; easily angered. #Irascible
+    - [Irresolute](../../../Irresolute.md)―uncertain how to act; weak. #Irresolute
+    - [Itinerant](../../../Itinerant.md)―wandering; traveling. #Itinerant
+    - [Itinerary](../../../Itinerary.md)―plan of a trip. #Itinerary
+    - [Jaundiced](../../../Jaundiced.md)―yellowed; prejudiced; envious. #Jaundiced
+    - [Jibe](../../../Jibe.md)―to be in agreement #Jibe
+    - [Jocose](../../../Jocose.md)―given to joking. #Jocose
+    - [Juggernaut](../../../Juggernaut.md)―irresistible crushin force. #Juggernaut
+    - [Junta](../../../Junta.md)―group of persons joined in political intrigue; cabal. #Junta
+    - [Juxtapose](../../../Juxtapose.md)―place side by side. #Juxtapose
+    - [Kudos](../../../Kudos.md)―honor; glory; praise. #Kudos
+    - [Labile](../../../Labile.md)―likely to change; unstable. #Labile
+    - [Laconic](../../../Laconic.md)―brief and to the point. #Laconic
+    - [Lambaste](../../../Lambaste.md)―beat; thrash verbally or physically. #Lambaste
+    - [Lascivious](../../../Lascivious.md)―lustful. #Lascivious
+    - [Lassitude](../../../Lassitude.md)―languor; weariness. #Lassitude
+    - [Latent](../../../Latent.md)―dormant; hidden. #Latent
+    - [Laud](../../../Laud.md)―praise #Laud
+    - [Lethargic](../../../Lethargic.md)―drowsy; dull. #Lethargic
+    - [Levee](../../../Levee.md)―earthen or stone embankment to prevent flooding. #Levee
+    - [Levity](../../../Levity.md)―lack of seriousness or steadiness; frivolity. #Levity
+    - [Liberal](../../../Liberal.md)―tolerant; broad-minded #Liberal
+    - [Libertine](../../../Libertine.md)―debauched person, roué. Although she was aware of his reputation as a libertine, she felt she could reform him and help him break his dissolute way of life. #Libertine
+    - [Libido](../../../Libido.md)―emotional urges behind human activity. #Libido
+    - [Lilliputian](../../../Lilliputian.md)―extremely small. #Lilliputian
+    - [Limn](../../../Limn.md)―draw; outline; describe. #Limn
+    - [Limpid](../../../Limpid.md)―clear. #Limpid
+    - [Linguistic](../../../Linguistic.md)―pertaining to language. #Linguistic
+    - [Litany](../../../Litany.md)―supplicatory prayer. #Litany
+    - [Literati](../../../Literati.md)―scholarly or learned persons #Literati
+    - [Litigation](../../../Litigation.md)―lawsuit. #Litigation
+    - [Log](../../../Log.md)―record of a voyage; record of daily activities #Log
+    - [Loquacious](../../../Loquacious.md)―talkative. #Loquacious
+    - [Lucid](../../../Lucid.md)―easily understood; clear; intelligible. #Lucid
+    - [Lucre](../../../Lucre.md)―money. #Lucre
+    - [Luminous](../../../Luminous.md)―shining; issuing light. #Luminous
+    - [Lustrous](../../../Lustrous.md)―shining. #Lustrous
+    - [Machiavellian](../../../Machiavellian.md)―crafty; double-dealing. #Machiavellian
+    - [Machinations](../../../Machinations.md)―schemes. #Machinations
+    - [Maelstrom](../../../Maelstrom.md)―whirlpool. #Maelstrom
+    - [Magnanimity](../../../Magnanimity.md)―generosity; nobility #Magnanimity
+    - [Malign](../../../Malign.md)―speak evil of; defame. #Malign
+    - [Malinger](../../../Malinger.md)―to feign illness to escape duty #Malinger
+    - [Malleable](../../../Malleable.md)―capable of being shaped by pounding. #Malleable
+    - [Maverick](../../../Maverick.md)―rebel; nonconformist. #Maverick
+    - [Megalomania](../../../Megalomania.md)―mania for doing grandiose things. #Megalomania
+    - [Menagerie](../../../Menagerie.md)―a variety of animals kept together #Menagerie
+    - [Mendacious](../../../Mendacious.md)―lying; false. #Mendacious
+    - [Mendicant](../../../Mendicant.md)―beggar. #Mendicant
+    - [Meretricious](../../../Meretricious.md)―flashy; tawdry; falsely attractive. #Meretricious
+    - [Mesmerize](../../../Mesmerize.md)―hypnotize. #Mesmerize
+    - [Metamorphosis](../../../Metamorphosis.md)―change of form. #Metamorphosis
+    - [Metaphysics](../../../Metaphysics.md)―a branch of philosophy tha tinvestigates the ultimate nature of reality #Metaphysics
+    - [Metereological](../../../Metereological.md)―concerned with the weather #Metereological
+    - [Meticulous](../../../Meticulous.md)―excessively careful. #Meticulous
+    - [Mettle](../../../Mettle.md)―courage; spirit. #Mettle
+    - [Mettlesome](../../../Mettlesome.md)―full of courage and fortitude #Mettlesome
+    - [Microcosm](../../../Microcosm.md)―small world. #Microcosm
+    - [Militate](../../../Militate.md)―work against. #Militate
+    - [Minatory](../../../Minatory.md)―menacing; threatening. #Minatory
+    - [Minuscule](../../../Minuscule.md)―extremely small. #Minuscule
+    - [Minutia](../../../Minutia.md)―petty details #Minutia
+    - [Misanthrope](../../../Misanthrope.md)―one who hates mankind. #Misanthrope
+    - [Miscellany](../../../Miscellany.md)―mixture of writings on various subjects. #Miscellany
+    - [Miscreant](../../../Miscreant.md)―wretch; villain. #Miscreant
+    - [Misogynist](../../../Misogynist.md)―hater of women. #Misogynist
+    - [Mitigate](../../../Mitigate.md)―appease. #Mitigate
+    - [Mnemonic](../../../Mnemonic.md)―pertaining to memory. #Mnemonic
+    - [Modicum](../../../Modicum.md)―limited quantity. #Modicum
+    - [Mollify](../../../Mollify.md)―soothe. #Mollify
+    - [Monolithic](../../../Monolithic.md)―solidly uniform; unyielding. #Monolithic
+    - [Morose](../../../Morose.md)―ill-humored; sullen. #Morose
+    - [Motley](../../../Motley.md)―parti-colored; mixed. #Motley
+    - [Multifarious](../../../Multifarious.md)―varied; greatly diversified. #Multifarious
+    - [Mundane](../../../Mundane.md)―worldly as opposed to spiritual. #Mundane
+    - [Necromancy](../../../Necromancy.md)―black magic; dealings with the dead. #Necromancy
+    - [Negate](../../../Negate.md)―to cancel out; nullify #Negate
+    - [Neologism](../../../Neologism.md)―new or newly coined word or phrase. #Neologism
+    - [Neophyte](../../../Neophyte.md)―recent convert; beginner. #Neophyte
+    - [Nexus](../../../Nexus.md)―connection. #Nexus
+    - [Nonplussed](../../../Nonplussed.md)―bewildered #Nonplussed
+    - [Nostalgia](../../../Nostalgia.md)―homesickness; longing for the past. #Nostalgia
+    - [Nostrum](../../../Nostrum.md)―questionable medicine. #Nostrum
+    - [Nugatory](../../../Nugatory.md)―futile; worthless. #Nugatory
+    - [Obdurate](../../../Obdurate.md)―stubborn. #Obdurate
+    - [Obsequious](../../../Obsequious.md)―slavishly attentive; servile; sycophantic. #Obsequious
+    - [Obsequy](../../../Obsequy.md)―funeral ceremony. #Obsequy
+    - [Obviate](../../../Obviate.md)―make unnecessary; get rid of. #Obviate
+    - [Occlude](../../../Occlude.md)―shut; close. #Occlude
+    - [Occult](../../../Occult.md)―mysterious; secret; supernatural. #Occult
+    - [Odyssey](../../../Odyssey.md)―long, evenful journey. #Odyssey
+    - [Officious](../../../Officious.md)―meddlesome; excessively pushy in offering one's services. #Officious
+    - [Olfactory](../../../Olfactory.md)―concerning the sense of smell. #Olfactory
+    - [Oligarchy](../../../Oligarchy.md)―government by a few. #Oligarchy
+    - [Onerous](../../../Onerous.md)―burdensome. #Onerous
+    - [Onomatopoeia](../../../Onomatopoeia.md)―formation or use of words that imitate sounds of the actions they refer to #Onomatopoeia
+    - [Opprobium](../../../Opprobium.md)―public disgrace; contempt #Opprobium
+    - [Ornithologist](../../../Ornithologist.md)―scientific student of birds. #Ornithologist
+    - [Oscillate](../../../Oscillate.md)―vibrate pendulumlike; waver. #Oscillate
+    - [Ostentatious](../../../Ostentatious.md)―showy; pretentious; trying to attract attention. #Ostentatious
+    - [Overweening](../../../Overweening.md)―presumptuous; arrogant. #Overweening
+    - [Paean](../../../Paean.md)―song of praise or joy. #Paean
+    - [Paleontology](../../../Paleontology.md)―study of past geological eras through fossil remains #Paleontology
+    - [Pallid](../../../Pallid.md)―pale; wan. #Pallid
+    - [Panegyric](../../../Panegyric.md)―formal praise. #Panegyric
+    - [Paragon](../../../Paragon.md)―model of perfection. #Paragon
+    - [Partisan](../../../Partisan.md)―one-sided; prejudiced; committed to a party. #Partisan
+    - [Pathological](../../../Pathological.md)―pertaining to disease. #Pathological
+    - [Patois](../../../Patois.md)―local or provincial dialect. #Patois
+    - [Paucity](../../../Paucity.md)―scarcity. #Paucity
+    - [Pedantic](../../../Pedantic.md)―showing off learning; bookish. #Pedantic
+    - [Pellucid](../../../Pellucid.md)―transparent; limpid; easy to understand. #Pellucid
+    - [Penchant](../../../Penchant.md)―strong inclination; liking. #Penchant
+    - [Penury](../../../Penury.md)―extreme poverty. #Penury
+    - [Peregrination](../../../Peregrination.md)―journey. #Peregrination
+    - [Peremptory](../../../Peremptory.md)―demanding and leaving no choice. #Peremptory
+    - [Perennial](../../../Perennial.md)―something long-lasting. #Perennial
+    - [Perfidious](../../../Perfidious.md)―faithless; disloyal; untrustworthy #Perfidious
+    - [Perfunctory](../../../Perfunctory.md)―superficial; not thorough; lacking interest, care, or enthusiasm. #Perfunctory
+    - [Perigee](../../../Perigee.md)―point of moon's orbit when it is nearest the earth. #Perigee
+    - [Permeable](../../../Permeable.md)―porous; allowing passage through. #Permeable
+    - [Perturb](../../../Perturb.md)―disturb greatly. #Perturb
+    - [Pervasive](../../../Pervasive.md)―spread throughout. #Pervasive
+    - [Petulant](../../../Petulant.md)―touchy; peevish. #Petulant
+    - [Phlegmatic](../../../Phlegmatic.md)―calm; not easily disturbed. #Phlegmatic
+    - [Phoenix](../../../Phoenix.md)―anything that is restored after suffering great destruction #Phoenix
+    - [Physiognomy](../../../Physiognomy.md)―face. #Physiognomy
+    - [Piety](../../../Piety.md)―devoutness; reverence for God. #Piety
+    - [Piquant](../../../Piquant.md)―pleasantly tart-tasting; stimulating. #Piquant
+    - [Pique](../../../Pique.md)―irritation; resentment. #Pique
+    - [Placate](../../../Placate.md)―pacify; conciliate. #Placate
+    - [Placid](../../../Placid.md)―peaceful; calm. #Placid
+    - [Plaintive](../../../Plaintive.md)―mournful. #Plaintive
+    - [Plasticity](../../../Plasticity.md)―ability to be molded. #Plasticity
+    - [Platitude](../../../Platitude.md)―trite remark; commonplace statement. #Platitude
+    - [Platonic](../../../Platonic.md)―purely spiritual; theoretical; without sensual desire. #Platonic
+    - [Plethora](../../../Plethora.md)―excess; overabundance. #Plethora
+    - [Plumb](../../../Plumb.md)―vertical. #Plumb
+    - [Plummet](../../../Plummet.md)―fall sharply. Stock prices plummeted as Wall Street reacted to the rise in interest rates. #Plummet
+    - [Plutocracy](../../../Plutocracy.md)―society ruled by the wealthy. #Plutocracy
+    - [Porous](../../../Porous.md)―full of pores; like a sieve Dancers like to wear porous clothing because it allows the ready passage of water and air. #Porous
+    - [Poseur](../../../Poseur.md)―person who pretends to be sophisticated, elegant, etc., to impress others. #Poseur
+    - [Pragmatic](../../../Pragmatic.md)―practical (as opposed to idealistic); concerned with the practical worth or impact of something. #Pragmatic
+    - [Prate](../../../Prate.md)―speak foolishly; boast idly. #Prate
+    - [Prattle](../../../Prattle.md)―babble. #Prattle
+    - [Preamble](../../../Preamble.md)―introductory statement. #Preamble
+    - [Precarious](../../../Precarious.md)―uncertain; risky. #Precarious
+    - [Precept](../../../Precept.md)―practical rule guiding conduct. #Precept
+    - [Precipitate](../../../Precipitate.md)―headlong; rash. #Precipitate
+    - [Precipitate](../../../Precipitate.md)―throw headlong; hasten. #Precipitate
+    - [Precursor](../../../Precursor.md)―forerunner. #Precursor
+    - [Preempt](../../../Preempt.md)―head off; forestall by acting first; appropriate for oneself; supplant. #Preempt
+    - [Prehensile](../../../Prehensile.md)―capable of grasping or holding. #Prehensile
+    - [Premonition](../../../Premonition.md)―forewarning. #Premonition
+    - [Presage](../../../Presage.md)―foretell. #Presage
+    - [Presumptuous](../../../Presumptuous.md)―rude; improperly bold #Presumptuous
+    - [Preternatural](../../../Preternatural.md)―beyond that which is normal in nature. #Preternatural
+    - [Prevaricate](../../../Prevaricate.md)―lie. #Prevaricate
+    - [Primordial](../../../Primordial.md)―existing at the beginning (of time); rudimentary. #Primordial
+    - [Pristine](../../../Pristine.md)―characteristic of earlier times; primitive, unspoiled. #Pristine
+    - [Probity](../../../Probity.md)―uprightness; incorruptibility. #Probity
+    - [Problematic](../../../Problematic.md)―perplexing; unsettled: questionable. #Problematic
+    - [Prodigal](../../../Prodigal.md)―wasteful; reckless with money. #Prodigal
+    - [Profound](../../../Profound.md)―deep; not superficial; complete. #Profound
+    - [Prohibitive](../../../Prohibitive.md)―extremely high (of prices etc.). #Prohibitive
+    - [Proliferate](../../../Proliferate.md)―grow rapidly; spread; multiply. #Proliferate
+    - [Propensity](../../../Propensity.md)―natural inclination. #Propensity
+    - [Propitiate](../../../Propitiate.md)―appease. #Propitiate
+    - [Propriety](../../../Propriety.md)―fitness; correct conduct. #Propriety
+    - [Proscribe](../../../Proscribe.md)―ostracize; banish; outlaw. #Proscribe
+    - [Provident](../../../Provident.md)―displaying foresight; thrifty; preparing for emergencies. #Provident
+    - [Puissant](../../../Puissant.md)―powerful; strong; potent. #Puissant
+    - [Punctilious](../../../Punctilious.md)―laying stress on niceties of conduct or form; precise. #Punctilious
+    - [Pungent](../../../Pungent.md)―penetrating, caustic, to the point #Pungent
+    - [Purport](../../../Purport.md)―intention; meaning. #Purport
+    - [Pusillanimous](../../../Pusillanimous.md)―cowardly; fainthearted. #Pusillanimous
+    - [Quagmire](../../../Quagmire.md)―soft, wet, boggy land; complex or dangerous situation from which it is difficult to free oneself. #Quagmire
+    - [Quail](../../../Quail.md)―cower; lose heart. #Quail
+    - [Qualified](../../../Qualified.md)―limited; restricted. #Qualified
+    - [Qualm](../../../Qualm.md)―sudden feeling of faintness or nausea #Qualm
+    - [Query](../../../Query.md)―question #Query
+    - [Quibble](../../../Quibble.md)―equivocate; play on words. #Quibble
+    - [Quiescent](../../../Quiescent.md)―at rest; dormant. #Quiescent
+    - [Quorum](../../../Quorum.md)―number of members necessary to conduct a meeting. #Quorum
+    - [Raconteur](../../../Raconteur.md)―story-teller. #Raconteur
+    - [Rail](../../../Rail.md)―scold; rant. #Rail
+    - [Raiment](../../../Raiment.md)―clothing. #Raiment
+    - [Ramification](../../../Ramification.md)―branching out; subdivision. #Ramification
+    - [Rarefied](../../../Rarefied.md)―made less dense [of a gas]. #Rarefied
+    - [Rationale](../../../Rationale.md)―fundamental reason #Rationale
+    - [Rebus](../../../Rebus.md)―puzzle in whic pictures or symbols represent words #Rebus
+    - [Recalcitrant](../../../Recalcitrant.md)―obstinately stubborn. #Recalcitrant
+    - [Recant](../../../Recant.md)―repudiate; withdraw previous statement. #Recant
+    - [Recluse](../../../Recluse.md)―hermit. #Recluse
+    - [Recondite](../../../Recondite.md)―abstruse; profound; secret. #Recondite
+    - [Redoubtable](../../../Redoubtable.md)―formidable; causing fear. #Redoubtable
+    - [Refractory](../../../Refractory.md)―stubborn; unmanageable. #Refractory
+    - [Refulgent](../../../Refulgent.md)―brightly shining, resplendent #Refulgent
+    - [Refute](../../../Refute.md)―disprove. #Refute
+    - [Regale](../../../Regale.md)―entertain. #Regale
+    - [Relegate](../../../Relegate.md)―banish; consign to inferior position. #Relegate
+    - [Remonstrate](../../../Remonstrate.md)―to object or protest #Remonstrate
+    - [Renege](../../../Renege.md)―deny; go back on. #Renege
+    - [Reparation](../../../Reparation.md)―amends; compensation. #Reparation
+    - [Repine](../../../Repine.md)―fret; complain. #Repine
+    - [Reprise](../../../Reprise.md)―recurrent action; musical repetition; repeat performance. #Reprise
+    - [Reproach](../../../Reproach.md)―blame; censure. #Reproach
+    - [Reprobate](../../../Reprobate.md)―person hardened in sin, devoid of a sense of decency. #Reprobate
+    - [Repudiate](../../../Repudiate.md)―disown; disavow. #Repudiate
+    - [Rescind](../../../Rescind.md)―cancel. #Rescind
+    - [Resolution](../../../Resolution.md)―determination. #Resolution
+    - [Resolve](../../../Resolve.md)―decide; settle; solve. #Resolve
+    - [Resolve](../../../Resolve.md)―determination. #Resolve
+    - [Reticent](../../../Reticent.md)―reserved; uncommunicative; inclined to silence Hughes preferred reticent employees to loquacious ones, noting that the formers' dislike of idle chatter #Reticent
+    - [Reverent](../../../Reverent.md)―respectful. #Reverent
+    - [Riposte](../../../Riposte.md)―retaliatory action or retort #Riposte
+    - [Rococo](../../../Rococo.md)―ornate; highly decorated. #Rococo
+    - [Rubric](../../../Rubric.md)―title or heading (in red print); directions for religious ceremony; protocol. #Rubric
+    - [Rue](../../../Rue.md)―regret #Rue
+    - [Ruse](../../../Ruse.md)―trick; stratagem. #Ruse
+    - [Sage](../../../Sage.md)―person celebrated for wisdom. #Sage
+    - [Salacious](../../../Salacious.md)―lascivious; lustful. #Salacious
+    - [Salubrious](../../../Salubrious.md)―healthful. #Salubrious
+    - [Salutary](../../../Salutary.md)―tending to improve; beneficial; wholesome. #Salutary
+    - [Sanction](../../../Sanction.md)―approve; ratify. #Sanction
+    - [Sardonic](../../../Sardonic.md)―disdainful; sarcastic; cynical. #Sardonic
+    - [Sartorial](../../../Sartorial.md)―pertaining to tailors. #Sartorial
+    - [Satiate](../../../Satiate.md)―surfeit; satisfy fully. #Satiate
+    - [Saturate](../../../Saturate.md)―soak. #Saturate
+    - [Saturnine](../../../Saturnine.md)―gloomy. #Saturnine
+    - [Satyr](../../../Satyr.md)―half-human, half-bestial being in the court of Dionysus, portrayed as wanton and cunning. #Satyr
+    - [Savor](../../../Savor.md)―enjoy; have a distinctive flavor, smell, or quality. #Savor
+    - [Schematic](../../../Schematic.md)―relating to an outline or diagram; using a system of symbols. #Schematic
+    - [Secrete](../../../Secrete.md)―hide away or cache; produce and release a substance into an organism. #Secrete
+    - [Sedition](../../../Sedition.md)―resistance to authority; insubordination. #Sedition
+    - [Sedulous](../../../Sedulous.md)―diligent. #Sedulous
+    - [Seismic](../../../Seismic.md)―pertaining to earthquakes. #Seismic
+    - [Sensual](../../../Sensual.md)―devoted to the pleasures of the senses; carnal; voluptuous. #Sensual
+    - [Sensuous](../../../Sensuous.md)―pertaining to the physical senses; operating through the senses. #Sensuous
+    - [Sentient](../../../Sentient.md)―aware, concious, able to preceive #Sentient
+    - [Servile](../../../Servile.md)―slavish; cringing. #Servile
+    - [Sextant](../../../Sextant.md)―navigation tool used to determine a ship's latitude and longitude. #Sextant
+    - [Shard](../../../Shard.md)―fragment, generally of pottery. #Shard
+    - [Sidereal](../../../Sidereal.md)―relating to the stars. #Sidereal
+    - [Simian](../../../Simian.md)―monkeylike. #Simian
+    - [Simile](../../../Simile.md)―comparison of one thing with another, using the word like or as. #Simile
+    - [Sinecure](../../../Sinecure.md)―well-paid position with little responsibility. #Sinecure
+    - [Singular](../../../Singular.md)―unique; extraordinary; odd. #Singular
+    - [Sinuous](../../../Sinuous.md)―winding; bending in and out; not morally honest. #Sinuous
+    - [Skeptic](../../../Skeptic.md)―doubter; person who suspends judgment until he has examined the evidence supporting a point of view. #Skeptic
+    - [Sobriety](../../../Sobriety.md)―moderation (especially regarding indulgence in alcohol); seriousness. #Sobriety
+    - [Sodden](../../../Sodden.md)―soaked; dull, as if from drink. #Sodden
+    - [Solicitous](../../../Solicitous.md)―worried, concerned. #Solicitous
+    - [Soliloquy](../../../Soliloquy.md)―talking to oneself. #Soliloquy
+    - [Solvent](../../../Solvent.md)―able to pay all debts. #Solvent
+    - [Somatic](../../../Somatic.md)―pertaining to the body; physical. #Somatic
+    - [Soporific](../../../Soporific.md)―sleep producing. #Soporific
+    - [Sordid](../../../Sordid.md)―filthy; base; vile. #Sordid
+    - [Specious](../../../Specious.md)―seemingly reasonable but incorrect. #Specious
+    - [Spectrum](../../../Spectrum.md)―colored band produced when a beam of light passes through a prism. #Spectrum
+    - [Spendthrift](../../../Spendthrift.md)―someone who wastes money. #Spendthrift
+    - [Sporadic](../../../Sporadic.md)―occurring irregularly. #Sporadic
+    - [Squalor](../../../Squalor.md)―filthy, wretched condition #Squalor
+    - [Staccato](../../../Staccato.md)―played in an abrupt manner; marked by abrupt, sharp sound. #Staccato
+    - [Stanch](../../../Stanch.md)―check flow of blood. #Stanch
+    - [Stentorian](../../../Stentorian.md)―extremely loud. #Stentorian
+    - [Stigma](../../../Stigma.md)―token of disgrace; brand. #Stigma
+    - [Stint](../../../Stint.md)―be thrifty; set limits. #Stint
+    - [Stint](../../../Stint.md)―supply; allotted amount; assigned portion of work. He performed his daily stint cheerfully and willingly. #Stint
+    - [Stipulate](../../../Stipulate.md)―make express conditions, specify. #Stipulate
+    - [Stolid](../../../Stolid.md)―having or showing little emotion #Stolid
+    - [Stratified](../../../Stratified.md)―divided into classes; arranged into strata. #Stratified
+    - [Striated](../../../Striated.md)―marked with parallel bands; grooved. #Striated
+    - [Stricture](../../../Stricture.md)―critical comments; severe and adverse criticism. #Stricture
+    - [Strident](../../../Strident.md)―loud and harsh. #Strident
+    - [Strut](../../../Strut.md)―pompous walk. #Strut
+    - [Strut](../../../Strut.md)―supporting bar. #Strut
+    - [Stultify](../../../Stultify.md)―cause to appear or become stupid or inconsistent; frustrate or hinder. #Stultify
+    - [Stupefy](../../../Stupefy.md)―make numb; stun; amaze. #Stupefy
+    - [Stygian](../../../Stygian.md)―literary dark. #Stygian
+    - [Subpoena](../../../Subpoena.md)―writ summoning a witness to appear. #Subpoena
+    - [Subside](../../../Subside.md)―settle down; descend; grow quiet. #Subside
+    - [Substantiate](../../../Substantiate.md)―verify; support. #Substantiate
+    - [Substantive](../../../Substantive.md)―essential; pertaining to the substance. #Substantive
+    - [Subsume](../../../Subsume.md)―include; encompass. #Subsume
+    - [Subversive](../../../Subversive.md)―tending to overthrow; destructive. #Subversive
+    - [Succor](../../../Succor.md)―aid; assistance; relief. #Succor
+    - [Suffrage](../../../Suffrage.md)―the right to vote #Suffrage
+    - [Sundry](../../../Sundry.md)―various; several. #Sundry
+    - [Supersede](../../../Supersede.md)―cause to be set aside; replace. #Supersede
+    - [Supine](../../../Supine.md)―lying on back. #Supine
+    - [Supplant](../../../Supplant.md)―replace; usurp. #Supplant
+    - [Suppliant](../../../Suppliant.md)―entreating; beseeching. #Suppliant
+    - [Supplicant](../../../Supplicant.md)―one who asks humbly and earnestly #Supplicant
+    - [Supposition](../../../Supposition.md)―hypothesis; surmise. #Supposition
+    - [Syllogism](../../../Syllogism.md)―logical formula consisting of a major premise, a minor premise and a conclusion; deceptive. #Syllogism
+    - [Sylvan](../../../Sylvan.md)―pertaining to the woods; rustic. #Sylvan
+    - [Tacit](../../../Tacit.md)―understood; not put into words. #Tacit
+    - [Talisman](../../../Talisman.md)―charm. #Talisman
+    - [Tangential](../../../Tangential.md)―peripheral; only slightly connected; digressing. #Tangential
+    - [Tautology](../../../Tautology.md)―unnecessary repetition #Tautology
+    - [Taxonomy](../../../Taxonomy.md)―science of classification #Taxonomy
+    - [Tenet](../../../Tenet.md)―doctrine; dogma. #Tenet
+    - [Tenuous](../../../Tenuous.md)―thin; rare; slim. #Tenuous
+    - [Terrestrial](../../../Terrestrial.md)―on or relating to the earth. #Terrestrial
+    - [Theocracy](../../../Theocracy.md)―government of a community by religious leaders. #Theocracy
+    - [Thespian](../../../Thespian.md)―pertaining to drama. #Thespian
+    - [Timbre](../../../Timbre.md)―quality of a musical tone produced by a musical instrument. #Timbre
+    - [Tirade](../../../Tirade.md)―extended scolding; denunciation. #Tirade
+    - [Toady](../../../Toady.md)―servile flatterer; yes man. #Toady
+    - [Tome](../../../Tome.md)―large volume. #Tome
+    - [Torpor](../../../Torpor.md)―lethargy; sluggishness; dormancy. #Torpor
+    - [Torque](../../../Torque.md)―twisting force; force producing rotation. #Torque
+    - [Tortuous](../../../Tortuous.md)―winding; full of curves. #Tortuous
+    - [Tout](../../../Tout.md)―publicize; praise excessively. #Tout
+    - [Tractable](../../../Tractable.md)―docile. #Tractable
+    - [Transgression](../../../Transgression.md)―violation of a law; sin. #Transgression
+    - [Transient](../../../Transient.md)―momentary; temporary; staying for a short time. #Transient
+    - [Translucent](../../../Translucent.md)―partly transparent. #Translucent
+    - [Travail](../../../Travail.md)―painful labor. #Travail
+    - [Travesty](../../../Travesty.md)―comical parody; treatment aimed at making something appear ridiculous. #Travesty
+    - [Treatise](../../../Treatise.md)―article treating a subject systematically and thoroughly. #Treatise
+    - [Tremulous](../../../Tremulous.md)―trembling; wavering She was tremulous more from excitement than from fear. #Tremulous
+    - [Trepidation](../../../Trepidation.md)―fear; trembling agitation. #Trepidation
+    - [Truculence](../../../Truculence.md)―agressiveness; ferocity. #Truculence
+    - [Tryst](../../../Tryst.md)―meeting. #Tryst
+    - [Tumid](../../../Tumid.md)―swollen; pompous; bombastic. #Tumid
+    - [Turbid](../../../Turbid.md)―muddy; having the sediment disturbed. #Turbid
+    - [Turgid](../../../Turgid.md)―swollen; distended. #Turgid
+    - [Tutelary](../../../Tutelary.md)―protective; pertaining to a guardianship. #Tutelary
+    - [Uncanny](../../../Uncanny.md)―strange; mysterious. #Uncanny
+    - [Undulating](../../../Undulating.md)―moving in waves #Undulating
+    - [Unfeigned](../../../Unfeigned.md)―genuine; real. #Unfeigned
+    - [Untenable](../../../Untenable.md)―unsupportable. #Untenable
+    - [Untoward](../../../Untoward.md)―unfortunate; annoying. #Untoward
+    - [Usury](../../../Usury.md)―lending money at illegal rates of interest. #Usury
+    - [Vacillate](../../../Vacillate.md)―waver; fluctuate. #Vacillate
+    - [Vacuous](../../../Vacuous.md)―empty; lacking in ideas; stupid. #Vacuous
+    - [Valedictory](../../../Valedictory.md)―pertaining to farewell. #Valedictory
+    - [Vapid](../../../Vapid.md)―insipid; inane. #Vapid
+    - [Variegated](../../../Variegated.md)―many-colored. #Variegated
+    - [Vaunt](../../../Vaunt.md)―to boast, drag #Vaunt
+    - [Venal](../../../Venal.md)―capable of being bribed The venal policeman accepted the bribe offered him by the speeding motorist whom he had stopped. #Venal
+    - [Vendetta](../../../Vendetta.md)―blood feud. #Vendetta
+    - [Venerate](../../../Venerate.md)―revere. #Venerate
+    - [Veracious](../../../Veracious.md)―truthful. #Veracious
+    - [Verbose](../../../Verbose.md)―wordy. #Verbose
+    - [Vertigo](../../../Vertigo.md)―dizziness. #Vertigo
+    - [Vexation](../../../Vexation.md)―irritation, annoyance #Vexation
+    - [Viable](../../../Viable.md)―capable of maintaining life; practicable; workable. #Viable
+    - [Vindictive](../../../Vindictive.md)―revengeful. #Vindictive
+    - [Virtuoso](../../../Virtuoso.md)―highly skilled artist. #Virtuoso
+    - [Visage](../../../Visage.md)―face; appearance. #Visage
+    - [Viscous](../../../Viscous.md)―sticky, gluey. #Viscous
+    - [Vitiate](../../../Vitiate.md)―spoil the effect of; make inoperative. #Vitiate
+    - [Vituperative](../../../Vituperative.md)―abusive; scolding He became more vituperative as he realized that we were not going to grant him his wish. #Vituperative
+    - [Vivisection](../../../Vivisection.md)―act of dissecting living animals. #Vivisection
+    - [Vogue](../../../Vogue.md)―popular fashion. #Vogue
+    - [Volatile](../../../Volatile.md)―changeable; explosive; evaporating rapidly. #Volatile
+    - [Vortex](../../../Vortex.md)―whirlwind; whirlpool; center of turbulence; predicament into which one is inexorably plunged. #Vortex
+    - [Warranted](../../../Warranted.md)―justified #Warranted
+    - [Wary](../../../Wary.md)―very cautious. #Wary
+    - [Welter](../../../Welter.md)―wallow. #Welter
+    - [Welter](../../../Welter.md)―turmoil; bewildering jumble. #Welter
+    - [Whimsical](../../../Whimsical.md)―capricious; fanciful. #Whimsical
+    - [Wistful](../../../Wistful.md)―vaguely longing; sadly pensive. #Wistful
+    - [Zealot](../../../Zealot.md)―fanatic; person who shows excessive zeal. #Zealot
+- 
+- 

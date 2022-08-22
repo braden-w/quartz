@@ -1,0 +1,481 @@
+{
+  "switcher:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h3": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:insert-embed": [],
+  "editor:toggle-checklist-status": [],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "8"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-tag": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "nldates-obsidian:nlp-dates": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "juggl:open-vis": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "daily-notes:goto-next": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "metaedit:metaEditRun": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-editors": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-outliner:fold": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-outliner:unfold": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-another-quick-switcher:filename-recent-search": [],
+  "obsidian-another-quick-switcher:move": [],
+  "obsidian-another-quick-switcher:recent-search": [],
+  "obsidian-another-quick-switcher:normal-search": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:insert-templater": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "9"
+    }
+  ],
+  "templater-obsidian:Template/Edit Tags.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:Settings/Template/Edit Tags.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

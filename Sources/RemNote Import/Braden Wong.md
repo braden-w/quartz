@@ -1,0 +1,1823 @@
+---
+title: Braden Wong
+date: "2022-06-28"
+date modified: "2022-06-30"
+---
+
+# Braden Wong
+- Notes
+	- Yale Courses
+		- First Semester
+				- General structure of cash flow statement; only need to know the three major sections, and a basic understanding of what each section shows (no need to know specific line items in each section).
+				- General structure of balance sheet (the three major components); know at least two major items in each of the three components.
+		- Alexander Hamilton Society
+			- [September 28th, 2020](Daily Document/September 28th, 2020.md) The end of history
+				- The End of History↔The idea that we have reached the ultimate form of government
+					- description of history→linear progression
+				- Positive liberty vs. Negative liberty
+					- Positive liberty↔Free from government
+					- Negative liberty↔Liberty to rights, clean water, etc.
+				- originated from→Karl Marx
+				- separates liberalism from nationalism because→generally, liberal changes were driven by nationalistic pride/revolutions
+				- Hevel's belief
+					- All human behavior in the material world is rooted in a prior state of consciousness
+					- Yet another unfortunate legacy of Marxism is our tendency to retreat into materialist or utilitarian explanations of political or historical phenomena, and our disinclination to believe in the autonomous power of ideas
+		- Math 230
+			- [August 31st, 2020](Daily Document/August 31st, 2020.md)
+				- Number of primes of form n^2-1 and n^2+1―1 (just 3) and unknown
+			- Proofs [September 2nd, 2020](Daily Document/September 2nd, 2020.md)
+				- Proof Based Math Steps ↓
+					1. Make up definitions
+					2. Conjecture (make statements)
+					3. Prove (discern which statements are true)
+				- If $A$ then $B$
+					- ![](https://remnote-user-data.s3.amazonaws.com/rVHfO-umC66vLwm39ETVp0ghBcMAYc40XoGXQJ5q4uKXV85keRfPfZhViIXiPn2ID9Y1NH7lhCoTS65wY4dbi6lo44kXSKqE5-XkYi2MNFG8munNC1oZ7tHoKC9bRoi9)
+					- written as→$A \Rightarrow B$
+					- is true unless A is {{ true}} B is {{false}}
+						- for example→if ^^the moon is made of cheese^^, then ^^5 is even^^ is true
+				- Iff A and B
+					- written as→$A \Leftrightarrow B$
+					- is true if→$A \Rightarrow B$ and $B \Rightarrow A$
+						- example→"x is odd" iff "x+1 is even"
+						- we also call A and B→equivalent
+				- Vacuously true
+					- the counterexample
+					- ![](https://remnote-user-data.s3.amazonaws.com/MZC5WU2jSs5W-S7M3QDdEXqXNPYGPyGbCz69IvIVJd0L05pP5S3WOWb-oPZddyjws6jrFiBsVa6UmSUFzitIRhZ8KF0ZA0mhYnPED4C26t7yBqqTausfRILINP4hnJZR)
+				- Components of Proof
+					- comma→and
+					- ∀↔forall
+				- ![](https://remnote-user-data.s3.amazonaws.com/9OO5KZgaSqAfg88DMzDJQ_o9sgxbyq_imtz7aSh9-qu-V7se7mdAYonyHQP2BPzdN1HIKSgKTZHrkkXZpnuqZjUSlCrzpWjj3760AR99v3eR-MEL9RguoUms-RP5JVtp)
+				-
+			- [September 4th, 2020](Daily Document/September 4th, 2020.md)
+				- Proof Techniques ↓
+					- Direct Proof
+					- Contradiction
+					- Induction
+				- Theorem↔Something that is true and proven
+			- Induction, Rational Numbers [September 7th, 2020](Daily Document/September 7th, 2020.md)
+				- Real numbers↔can be expressed as (possible repeating) decimal
+				- ∃↔there exists
+			- [https://math.berkeley.edu/~hutching/teach/proofs.pdf](proofs.pdf.md)
+				- Quantifier↔"for every" and "there exists"
+					- example→For every integer x, x is even.There exists an integerxsuch thatxis even
+				- "x is even" is not a statement unless you↔define x. This is called a quantifier
+			- [Proof Writing Techniques](proofs.pdf (1).md)
+				-
+				- Proof by Contrapositive
+					- the inspiration→prove that the opposite in reverse is true.
+					- ![](https://remnote-user-data.s3.amazonaws.com/LMFw7qLk4MMESlrOli_hnsXZZfSx_WLUoIRCNI4YJ685nOVBA1KEK1LsBbKANlM24X4WjHO9HoU5NkZ15iJ1AC_gTMByqC3ZzOD5wDiaehCTvO01InlSUj38zfzmvjw6)
+				- Proof by Contradiction
+					- the inspiration→prove the opposite is false
+					- ![](https://remnote-user-data.s3.amazonaws.com/BN2CO8kBNuveJYaZecZ5nRVOluY4_k2LIlLZoUctxhooTWhWLPqHXgDifLNNerXqQKJl8VewwbTY7R2znaXDOybZMHGv_AqgsPgmVbL2UsDZr3EaFYS0pFd6UsepmEkM)
+				- Proof by cases
+					- the inspiration→split into cases and prove for each
+					- ![](https://remnote-user-data.s3.amazonaws.com/d5FQM-ayU4lfB3QlclPsnt4xJFhsWPzn7IkPtDYBJEfa_jUTWG9tDmJs3ks9SgNbBx3CGeEiuIrMaC2xXrlAgwox9BAIahabAHmNtg1eFFOJTK4HWWyQrNlT3D3nnLV1)
+				- Proof by induction
+					- base case→The statement is true in the case where n= 1
+					- inductive step→if the statement is true for n=k, then the statement is also true for n=k+1
+				- Proof by strong induction
+					- different inductive step from [Proof by induction](Braden Wong/Notes/Yale Courses/Math 230/Proof Writing Techniques/Proof by induction.md)→if the statement is true for all values of 1≤n < k, then the statement is also true for n=k. #[[Proof by induction]]
+					- ![](https://remnote-user-data.s3.amazonaws.com/LZ_D_4TrgQLINCsA5qdqqedM8mZUleYsQRdeE8WQFB1bYY8OlclLSOmaXwrMLygf2lnXW9gG1NXwoDJUfdfnSDxYKxecPt67jOJDSVr-MMT70j-mFkOCQXDFuVXmnKVu)→![](https://remnote-user-data.s3.amazonaws.com/5Lj14n1XRmiIUx0Gn0GCwi4GWexll4fvlXLGVG8P3NRce__YuxC0Fst296Dx7wFz7K5Wr9AB1WiJBamFf9ajS52pJxznA7eJOviXLlymtOjGKKZMqS0mNiUW1Wo3fZG4)
+			- Sets
+				- Injective, surjective, bijective [September 9th, 2020](Daily Document/September 9th, 2020.md)
+					- ![](https://remnote-user-data.s3.amazonaws.com/9T3VFNydHBA6XYfGxbf-IZJgrf22jfSpJLq3c4wpbTuBTZRBRwuoQsDlH81A9j-3s4_-Qqt3xOYbR025ZhIGBvxYmyQ17_eDT6HTzqhQd3TBWf3wnZBOYHw8KEJgr0SW)
+					- injective→every B is hit at most once. Iff f(x) = f(y) then x must = y
+					- surjective→every B is hit at least once. Iff for all y, there exists x where f(x)=y
+					- bijective→every B is hit exactly once. Iff both injective and surjective
+				- Image of function Im(f)↔{Set of all outputs f(a)}, or {Set of all b where there exists a such that f(a)=b}
+				- Countable↔A set $S$ is countable iff there exists a surjection such that g: $\mathbb{N}$--> $S$
+					- $\mathbb{Z}$ is→countable ![](https://remnote-user-data.s3.amazonaws.com/0mxPql3M43TIeZtJdPstth6FpFHDvRg-RstZQkUC8ezlwZ4KCKwl1lNnzTZ7EAYc2yzBxCK-_SszrQ4FkZjfp9gdTIAIUDARLnnkpGYrE4wCStNCg_Ll_-DWNe43XJRX) The right side covers all Z using natural numbers
+					- Any set that you can describe is countable (even numbers, odd integers, etc.)
+					- Cantor's diagonal argument↔(0,1) is not countable
+						- proof by→contradiction. Suppose (0,1) is countable and therefore f(N) -> (0,1) is a surjection. This means that for all $b\in (0,1)$there exists$a$such that $f(a)=b$
+						- ![](https://remnote-user-data.s3.amazonaws.com/rftK5gm0vJehk8RtxdLEdnwkFcY5m2F_ykKnlABjd2DZe1DHZohyWvG9zEUTzxFzM7VeA2lfNxKiM1mY39ey7lgCPwaur_WfWrpSraBL7z9zyIcv5UKOyTij7Fk_-sSu)  Consider random results for (1,2,3,4)
+						- ![](https://remnote-user-data.s3.amazonaws.com/NX4t3TAaYUz4fABcCLHAUU5ktxXyUfe-AJrDDcuzo7NtZvHWD3za63pbxGDwHT-7XCDbR2fi96maf7MypLXyxDIoS5Wui9C4oW5WXh7D_qAdpZY_UM8u_8DGCthjS9hn)
+						- ![](https://remnote-user-data.s3.amazonaws.com/OsD-JA39BhsAKrrHpRAYpYvUSM1j4-EdsT4VtzYKw9iMDj-PEfpnFC9yp94tQbT0DItcdbV7axR_D1fJjuyPx0lXAWAc7H3UBjz5ACAuOa2wFtnE6OIY1wzQsIDfvnye)
+						- Implications ↓
+							- $R$is uncountable
+							- $Q\neq R$ since $Q$ is countable and $R$ is not$$
+							- There are real numbers that can't be described in any way$$
+				- Lower, upper bounds, sup, inf
+					- Given $S\subseteq R$ $$
+						- $L\in R$is a lower bound iff→for all $x\in S$ , $L\leq x$ .
+						- $U\in R$is a lower bound iff→for all $x\in S$ , $U\geq x$ .
+						- Supremum sup()↔Least of upper bound for S
+						- Infinum inf()↔Greatest of lower bound for S
+						- sups, infs, lower, and upper bounds do not {{need to belong}} in $S$
+						- difference between bounds and sup or inf→bounds can be any number and there are infinite bounds. However, there is only one sup or inf
+					- warmup: Find set $S\in R$ with no sup or inf→$R$ has no sup or inf, any set that extends infinitely in a direction
+						- find a set with a inf but no sup→$N$
+					- $\empty$
+						- how many upper and lower bounds?→infinitely many
+						- sup or inf?→none, because infinitely many bounds $$$$
+					- $R$ is dedekind complete→If $S$ is nonempty set of $R$ and $S$ has an upper bound, it has a least upper bound (sup). If $S$ has lower bound, it has a greatest upper bound (inf).$$ #Theorem
+						- If $S\subseteq R$ then S has at most one sup and one inf #Proposition
+							- prove this by↔contradiction. Suppose $x$ and $y$ are both sups of S. Then both$x$and$y$ are least upper bounds. So $x\leq y$because $x$ is a least upper bound and $y$ is an upper bound. Likewise $y\leq x$because $y$ is a least upper bou nd and $x$ is an upper bound. Therefore $x=y$ . $$
+						- use the above in the following proof::: ↓
+							- Suppose $S\subseteq R$ , $S\neq 0$and $S$has an upper bound. We prove a least upper bound $L$exists by creating one digit at a time. We use the inspiration from$\sqrt 2$. You keep on increasing the next digit until it's just under an upper bound, giving us $L$.
+							- We now prove that $L$is the least upper bound, or that for all $x\in S$that $x\leq L$. Use contradiction to find $x>L$. Now compare $x$ and $L$'s first few digits until they differ$$
+							- ![](https://remnote-user-data.s3.amazonaws.com/ew14TSFTm6N10TrLFFa44KtM1hxwb7nj6d3KTzprrEQYP2Bc3vbJyATQaXcA7n2AfEBx7KCgbHcX_BX7_dwYXLHSWsAZhFGbzgcseeOJhLghsLmjiF3zU6iJUx30sDoV)
+							- This digit of $x$ must be bigger than $L$. However, from the manner in which we formed $L$, this is impossible, because every digit of $L$ is as big as possible without being too big. Therefore, $$$x\leq L$.$$
+						- ![](https://remnote-user-data.s3.amazonaws.com/7g55QaZyEeKb2lGX4QuyPOEMg9ko1BW7EFv-kAyDw_I89C_MHWx1FKqM2TrpiAMol2qR8HZHhlOQk-11ip33S8iYpMcxNgQ_M-g3T-VW3at8b9BTD7Q6NvqFSQzVH3Wq)
+						- $R$ is the only set with [R is dedekind complete](Braden Wong/Notes/Yale Courses/Math 230/Sets/Lower, upper bounds, sup, inf/R is dedekind complete.md)$$ and is an ordered field.
+						-
+					- For all $x\in R$, if $x>0$ , then there exists $y\in R$ such that $0<y<x$ #Theorem
+						- proof→let $y=\frac{x}{2}.$ $\square$
+					- For all $x\in R$, if $x>0$ , then there exists $y\in Q$ such that $0<y<x$ #Theorem
+						- proof→let $y$ be $x$ all the way until the first nonzero digit. After that, set the remaining digits of $y$ to zero. Optionally, divide $y$ by two. This guarantees a rational number output.
+				- Maximums and minimums
+					- $L$ is the minimum iff $L\in S$ and $L=\inf(S)$ .
+					- $L$ is the maximum iff $L\in S$ and $L=\sup(S)$ .
+					- If S is a finite subset of $R$, then S must have a maximum and minimum
+					- Maximums and minimums must be members of a set
+				- Sequence
+					- definition→A list of elements in S $a_1,a_2,a_3,…,a_n,…$ until infinite. Repeats are okay
+					- $a_n$ is increasing iff→for all $n\in N$ ,$a_{n+1}\geq a_n$ . Strictly increasing if > not >=
+					- $a_n$is decreasing iff→for all $n\in N$ ,$a_{n+1}\leq a_n$ . Strictly decreasing if < not <=
+					- Monotone iff→$a_n$always is [ a_n is decreasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n is decreasing iff.md) or [ a_n  is increasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n  is increasing iff.md)
+					- Monotone Convergence Theorem↔$a_n$ is a sequence of reals. If $a_n$ is monotone and bounded, the sequence converges
+				- Limits (of a [Sequence](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence.md))
+					- definition→Say $a_n$ is a sequence of reals and $L\in R$ . $L$ is the limit iff for all $\epsilon > 0$there exists $N \in N$ such that for all $n>N$, $|a_n-L|<\epsilon$ .
+						- The difference between $a_n$ and limit L is approaching zero
+					- $a_n \rightarrow L$ means that [Sequence](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence.md)$a_n$is approaching L
+					- If $a_n$ is a [Sequence](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence.md) and $a_n \rightarrow L_1$and $a_n \rightarrow L_2$ , then $L_1=L_2$$$
+					- [September 25th, 2020](Daily Document/September 25th, 2020.md)
+					- Triangle inequality↔$|a+b|\leq |a|+|b|$
+						- $|x_1+x_2+…+x_i|\leq |x_1|+|x_2|+|x_3|….+|x_i|$
+							- We prove this through rewriting this as $|(x_1+x_2+…+x_{i-1})+x_i|\leq |x_1+x_2+…+x_{i-1}|+|x_i|$.
+					- $x_n=(-1)^n$ does not converge
+					- $xa_n\to xA+y \iff \forall \epsilon>0, \exist N\in N, \forall n>N, |xa_n+y-(xA+y)|<\epsilon.$
+				- Continuous↔Let $A\subseteq R$ and f:$a\to$ R, and $x\in A$. We say f is continuous at $x$ iff $\forall \epsilon > 0, \exist \delta>0$ such that $\forall y \in A$, if $|x-y|<\delta,$then $|f(x)-f(y)|<\epsilon$.
+					- f is continuous (on A) iff it's continuous at each $x\in A$$$
+					- general proof template→![](https://remnote-user-data.s3.amazonaws.com/CpYpfu0Oh2LmklaX-pJwwtJMif9VsEtYIk8oWCtSWLvD6Wu5ZYVhorTnKotxZ36BJWAK-7biZv7IMPSoDyGnSRRKzPak8B9XY3V0ppQK8T1bDUyRWdv5d5N1ayLlI2tP)
+					- example→Prove that $f: R\to R$ via $f(x)=x^2$ is continuous
+						- proof→We are trying to find that for all $\epsilon >$0, there exists $\delta$ such that if $|x-y|<\delta$, then $|f(x)-f(y)|=|x^2-y^2|<\epsilon.$
+							- Let $x\in R$ be arbitrary. Let $\epsilon>0$ be arbitrary.
+							- Our goal is to set $\delta$ to a convenient value
+								- $|f(x)-f(y)|=|x^2-y^2|=|x-y||x+y|<\delta\cdot|x+y|$
+								- The big jump is to write $|x+y|$as $|2x+(y-x)|$
+								- ^^$\delta|2x+(y-x)|\leq \delta(|2x|+|y-x|)\leq \delta(2|x|+\delta)\leq \delta(2|x|+1)\leq \delta$^^
+							- Therefore, $|f(x)-f(y)|<\epsilon$
+							- $$
+					- Intermediate Value Theorem↔If $f:R\to R$ is continuous on an interval $[a,b]$. If $L$ is between $f(a)$ and $f(b)$, then $\exist c \in (a,b)$ such that $f(c)=L.$
+						- proof→![](https://remnote-user-data.s3.amazonaws.com/aUI0VMQ4U370LC2tvT6QiUI_7aTOp3KeUvy0qcpk9yJL8POtM-U5N6D6M28LWC3mNIJ2EFXIaXETkedJbK3Hk8hx0cWqxBsLjMt4KIjYvVm773bbNl2rOSJFEf2sMi4Y)
+					-
+				- Vectors
+					- definition→if $S$ is any set and $n\in N$, then ![](https://remnote-user-data.s3.amazonaws.com/U8g1mRNeTGnOEiOMWyDtMBhKwtF2vaa60ja71rFe1iLnEtkYEdoJVeR141bMGlZQnmEsH7GjyRnXlzg2g3I7jjsR9Zy1hPDMwtFYYKZe7_A853rDxO3DFTXUqZEWs76x)$$$S^n$ is the set of ordered lists with $n$ components which are each in $S$. ![](https://remnote-user-data.s3.amazonaws.com/p_kcV0X8KlaQ8e_ulRDUaUL8Nn-NB_Su7Jp1iJw6XudFb1Anptip9vZgAkhPDc8PIjABrym6PppyxV_2_VLV8_wUnJC97PMNyIYJ-ZSCJwxk_XECOZjx0S-9HIjhHCh7)
+					- Zero vector↔$\vec 0$ or $\begin{pmatrix}0\\0\\0\end{pmatrix}$
+					- Length (or norm)
+						- definition→$||\vec x|| =$$\sqrt{\vec x \cdot \vec x}$
+						- properties ↓
+							1. $||\vec x||\geq 0$ with equality iff $\vec x = 0$
+							2. $||\alpha \vec x||=|\alpha|\cdot ||\vec x||$
+							3. $||\vec x + \vec y|| \leq ||\vec x|| + ||\vec y||$
+					- Distance between $\vec x$ and $\vec y$
+						- definition→$||\vec x - \vec y|| = d(\vec x, \vec y).$
+						- properties ↓
+							1. $d(\vec x, \vec y)\geq 0$ with equality iff $\vec x = \vec y$$$
+							2. $d(\vec x, \vec y) = d(\vec y, \vec x)$
+							3. $\forall Z\in R^n$, $d(\vec x, \vec y)\leq d(\vec x, \vec z) + d(\vec z, \vec y)$
+					- Cauchy-Schwarz inequality↔$\vec x \cdot \vec y \leq ||\vec x|| \cdot ||\vec y||$ with equality iff one vector is a {{**multiple**}} of the other
+					- Convergence↔$\vec x_k$converges to $L$ iff $\forall \epsilon>0, \exist N\in N$ such that $\forall n>N, d(\vec x _ k, \vec L)<\epsilon$. $\vec x_k$ converges iff $\exist L \in R^n$ to which $\vec x_k \to \vec L.$
+					-
+				- Day 24: Spaces, spans
+			- Day 15: Helpful Continuity
+				- Sequential definition of continuity↔Say $A\subseteq R^n, B\subseteq R^m,$ and $f:A\to B.$The following are equivalent:
+					- F is continuous at $\vec x$$$
+					- For any sequence of inputs $\vec y_k\in A.$If $\vec y_k\to\vec x$, then $f(\vec y_k) \to f(\vec x)$$$
+				- $\epsilon-\delta$ form of continuity $\iff$ [Sequential definition of continuity](Braden Wong/Notes/Yale Courses/Math 230/Day 15: Helpful Continuity/Sequential definition of continuity.md)
+				- Open ball centered at $\vec x$ with radius $r$, aka$B_r(\vec x))$↔$B_r(\vec x) = { \vec y \in R^n : d(\vec x, \vec y)<r}$
+				- Let $S \subseteq R^n$
+					- We say $S$ is open iff↔for all $\vec x \in S$, there exists $r>0$ such that $B_r(\vec x) \subseteq S.$ $$$$ $$
+					- We say $S$ is closed iff↔its complement in $R^n$ is open. $$$$
+					- Clopen if↔Both closed and open
+						- $R$ and complement of$R$ is {}, and so both are clopen from vacuously true
+				- Closure↔The result of "closing" a set, which can be applied to an open or closed set.
+				- $a_0\in (0,1), a_n=\sqrt{a_{n-1}}$ $$$a_n\to1$$$
+			- Day 17↔Closures, Limit of functions
+				- Closure of $Q$ is $R$
+				- A set $S$ in $T$ iff intersection of $T$ and $\bar S$ is $T$
+				- Limit↔Let $$$u\subseteq R^n$ and $f:u\to R^m$. We say$\lim_{\vec x \to \vec p} f(\vec x) = \vec L$ iff $\forall \epsilon>0, \exists \delta$ such that if $y\in u$ adn $0<d(\vec y,\vec p)<\delta$ then $d(f(\vec y), \vec L)<\epsilon$.
+			- Day 18↔Limits, Partial Derivates
+				- Common strategy↔Let y = mx, y=3x, x=3y, etc.. If you get different values, then limit DNE
+			- Day 19↔Bolzano-Weierstrass
+			- Day 20↔Mean Value Theorem
+				- Use [Mean Value Theorem (MVT)](Braden Wong/Notes/Yale Courses/Math 230/Day 22: MVT, Fermat/Mean Value Theorem (MVT).md)↔Whenever you need info relating function to derivative #[[Mean Value Theorem (MVT)]]
+			- Day 21: Images of sets, maxes and mins, Extreme Value Theorem
+				- Maximum and minumum values↔Values within range such that all f(x)<= max or >= min
+				- Extreme Value Theorem↔If $C\subseteq R^n$ is closed and bounded and f is continuous, then f attains a max and min value over $C$.
+					- proof→Because closed and bounded, it follows that there's a Sup and Inf. Because its closed, Sup and Inf are in the set, and we are done
+			- Day 22: MVT, Fermat
+				- Fermat's Theorem↔If $f$ is differentiable and if$f$has a maximum at $x=c\in (a,b)$ . Then $f'(c)=0$
+				- Mean Value Theorem (MVT)↔Say $f$ is differentiable on $(a,b)$ and continuous on $[a,b]$. Then there exists $c\in(a,b)$ where $f'(c)=\frac{f(b)-f(a)}{b-a}$.
+			- Day 23: Vector Spaces and Fields & Day 24: Spaces, spans
+				- Fields↔A field $F$ is a set with two operations, + and *, and the arithmetic behaves nicely. Closed under +, -, *, /
+				- Vector space over a field $F$↔A set of "vectors" V where there's a "nice" way to add vectors and multiply by scalars.
+					- There exists a zero vector
+					- $\vec x+\vec y = \vec y + \vec x \in V$ . Closed under addition (and commutative).
+					- $\alpha x \in V$. Closed under scalar multiplication
+				- Field $F$ is the set of all working scalars or $\alpha$s.
+				- If $F$ is a field, $F^n$ is a vector space over $F$
+				- Spans↔Say $V$ is a vector space over $F$ and $S={\vec v_1, \vec v_2, …, \vec v_k}\subseteq V$. Then the span of $S$ is $span(S)=\{\sum_{i=1}^k\lambda_i \vec v _ i:\lambda_i\in F\} = \{\lambda_1\vec v_1, \lambda_1\vec v_1+\lambda_2\vec v_2, …, \lambda_1\vec v_1+\lambda_2\vec v_2+…+\lambda_k\vec v_k\}$
+					- We say {{ S spans W }} iff $span(s)=W$
+					- $span(S)\leq V$ . The span of any vector space is a subspace of V
+					- Spans are the space of all possible combinations/sum of all the vectors
+			- Day 25: More vector spaces, subspaces, span, linear independence
+				- Vector Subspaces (denoted $W\leq V$ to show that W is a subspace of V)↔We say $W\subseteq V$ is a subspace of $V$ iff $W$ is a vector space (so is V) over same field
+					- Proposition: Say $V$ is a vector space over $F$, and $W\subseteq V$. Then $W \leq V$ iff ↓
+						1. $\vec 0 \in W$
+						2. $\forall \vec x, \vec y \in W$, $\vec x + \vec y \in W$
+						3. $\forall \vec x \in W$ and $\forall \alpha \in F$, $\alpha \vec x \in W$.$$
+				- Proof that [span(S)\leq V  . The span of any vector space is a subspace of V](Braden Wong/Notes/Yale Courses/Math 230/Day 23: Vector Spaces and Fields & Day 24: Spaces, spans/Spans/span(S)\leq V  . The span of any vector space is a subspace of V.md)
+					- Proved in notes
+				- Linear independence↔Let $V$ be a vector space over $F$, and $S\subseteq V$. We say $S$ is linearly independent iff $\sum_{i=1}^k c_i\vec s_i = \vec 0$ implies $c_1=c_2=c_3=c_4=…=c_k=0$ . Otherwise, $S$ is linearly independent.
+					- Inspiration: $span(\{1, x, x^2, x^3, x^4\}) = span({1, x, x^2, x^3+2x, x^4-2}) = (\text{All polynomials of degree}\leq 4)$ but there is redundancy for the second expression.
+					- Properties
+						- Zero representation↔A linear combination of the form $\sum^k_{i=1}\alpha_iu_i=0$ .
+							- Called trivial if $\alpha_1=…=\alpha_k=0$
+						- A set is [Linear independence](Braden Wong/Notes/Yale Courses/Math 230/Day 25: More vector spaces, subspaces, span, linear independence/Linear independence.md) if all zero-representation by distinct elements are trivial
+						- If $0\in S$ then $S$ is linearly dependent
+						- A set containing a linear dependent subset is linear dependent
+						- A subset of linear independent set is linearly independent
+			- Day 26: Linear maps (Properties and examples), definitions of sine and cosine
+				- Linear map↔Say $u$ and $V$ are vector spaces over $F$. $T:U\to V$ is a linear map **iff** $\forall \alpha,\beta \in F$ and $\forall \vec x, \vec y \in u, T(\alpha \cdot \vec x + \beta \cdot \vec y) = \alpha T(\vec x) + \beta T(\vec y)$
+					- Properties, following this iff ↓
+						1. $T(\cdot \vec x + \cdot \vec y) = T(\vec x) + T(\vec y)$
+						2. $T(\alpha \vec x) = \alpha T(\vec x)$
+						3. $T(\vec 0) = \vec 0$
+						4. $T(\sum_{i=1}^k\alpha_i \vec x_i) = \sum_{i=1}^k\alpha T(\vec x_i)$
+				- Rotation matrix↔$R_\alpha\begin{pmatrix} 1 \\ 0 \end{pmatrix}$ is defined to be $\begin{pmatrix} \cos(\alpha) \\ \sin(\alpha) \end{pmatrix}$
+				- If $:u\to V$ is linear and $\{T(\vec s_1), T(\vec s_2), …, T(\vec s_k)\}$ are linearly independent, then $\{\vec s_1, \vec s_2, …, \vec s_n\}$ is also linearly independent
+			- Day 27: Linear maps and (independent sets, spanning sets, and bases), matrices
+				- Theorem 27.1↔If $T:u\to V$ is linear injection, then $S\subseteq u$ is linearly independent iff $T(s)$is linearly independent
+				- Theorem 27.2↔If $T:u\to V$ is a linear surjection, then $S$ spans $u$ iff $T(s)$ spans $V$
+				- Surjection preserves {{spanning}} sets↔S spans u iff T(s) spans V assuming $T:u\to V$ is linearly surjective
+				- Injection preserve {{independent}} sets↔S is linearly independent iff T(S) is linearly independent assuming T is linearly injective
+				- BasisSay $V$ is a vector space over $F$ and $S\subseteq V$ . Then $S$ is a basis for $V$ iff ↓
+					1. $S$ is linearly independent ↓
+						- Is the only solution for $c_1x_1+c_2x_2+…+c_kx_k=0$ when $c_1=c_2=…=c_k=0$ ?
+					2. $span(S)=V$ ↓
+						- Does there exist a unique solution for $c_1x_1+c_2x_2+…+c_kx_k=y$ for all $y$ ?
+				- Proposiition↔Say $V$ is a vector space over $F$ and $S = \{s_1, s_2, …, s_k\} \subseteq V$ . Then consider $T:F^k \to V$ via $T \begin{pmatrix} x_1 \\ x_2 \\ … \\ x_k \end{pmatrix} = x_1s_1+x_2s_2+…+x_ks_k$ .
+					- $T$ is linear
+					- $S$ is linearly independent iff $Ker(T) - \{0\}$ iff T is an injection
+					- $S$ spans $V$ iff $T$ is surjective
+					- $S$ is a basis for $V$ iff $T$ is a bijection
+				- Matrices↔an $n$ by $m$ matrix over $F$ is an $n$ by $m$ array of elements of $F$
+					- ![](https://remnote-user-data.s3.amazonaws.com/ikFZdM7YTkAUcMY0LSYs87AUUZOLsVOyX6QAYkVi_nDgnPxXgHfZggzdQfv7stvyK1yTmGzpVulJQIszIGLH0W-CzQuS1E8awn2WabDcQPvkVjWb-WnWec6M5V43CgNY.png)
+			- Day 28: Matrices, linear maps as matrices
+				- [Matrices](Braden Wong/Notes/Yale Courses/Math 230/Day 27: Linear maps and (independent sets, spanning sets, and bases), matrices/Matrices.md)
+					- Addition, scalar multiplications, transpose, multiply
+						- Matrix Multiplication↔Left matrix top to bottom row x Right matrix left to right column
+						- ![](https://remnote-user-data.s3.amazonaws.com/AStFS1qcRe7YQc7jJR6z3tMyyCDAFYCkUvAvWzV1PGcuU4X34wTmRjYkMO6V9Z3UQTqQj-ZSkqw1fxfl93JyuBg3HvgKXHn_ViyVCAhbbNPyoVPGAU8jgc8NspMPi8sM.png)
+					- Properties of Matrix Arithmetic ↓
+						1. Existence of $0$ matrix
+						2. $(A+B)^T = A^T + B^T$
+						3. $(\alpha A)^T = \alpha A^T$
+						4. $(AB)^T = B^TA^T$
+						5. $(A+B)C=AC+BC$
+						6. $A(B+C)=AB+AC$
+						7. $A(BC)=(AB)C$
+						8. $A(\lambda B) = \lambda (AB)$
+					- Matrix multiplication **order matters a lot**
+					- Can't divide matrices
+					- $AB=AC \not\implies B=C$
+					- $A^2=0 \not\implies A=0$
+				- Proposition 28.1↔![](https://remnote-user-data.s3.amazonaws.com/IsFkYGfl0OnbvkW5JTNCx69bja7FD-ybKiAo6Ewc-v5Z3rpo5nDvsY95btFhFyNxPBs-s0tgzP4-pj-tXAWVdlt83O1NFW5p4Svar_QHZU99utBDcWIiWOK1Dtotnj5L.png)
+				- Theorem 28.1↔If $T:F^n\to F^m$ is linear, then there exists a unique matrix $A \in Mat_{mxn}(F)$ such that $\forall \vec x \in F^n$, $T(\vec x) = A\vec x$
+					- **1 to 1 correspondence to linear maps and corresponding matrices**
+			- Day 29: Finishing linear maps as matrices
+				- ![](https://remnote-user-data.s3.amazonaws.com/ASNuYZURK6ChKXInjLh94eqAgw_sMno1YfpegQKdveLBP9k4VXIaGsx8lxbDovZ5tim87-fhNh8tWLLHKUu2ZG-SurdRVRexDgvUJ0q43J5p41DqYQbfVjzcOxh0Z86d.png)
+				- Proposition 29.1: If $A$ and $B$ are matrices for which $AB$ makes sense, then $T_{AB}(\vec x) = T_A \circ T_B(\vec x)$ , or $AB(\vec x) = A (B \vec x)$
+					- This explains why matrix multiplication is defined as it is
+					- Also explains why it's not commutative, because $T_A(T_B(\vec x)) \neq T_B(T_A(\vec x))$ . When applying linear maps (which are a type of function), the order matters. Since linear maps analogize to matrices, it works out.
+				- Picture of linear algebra↔
+					- ![](https://remnote-user-data.s3.amazonaws.com/7E0VzdTD6GjRPIDiRzvuyaimRRYQB0v5WrwR9Axil551r6lF1GWwOPwwBunT2GV2aykKPvRCgClCGyAUhvDi2t1VXjpA8dAdRsvHz_E75rTjJf_6FEjrzsfnvum3_-IQ.png)
+					- Often, if you don't understand why something works, convert it to its corresponding area and it'll make sense
+					- For example, the following states are the same ↓
+						- Columns of $A$ are linearly independent
+						- $T$ is an injection
+						- $ker(T)=\{\vec 0 \}$
+					- Another example ↓
+						- Columns of $A$ span $F^m$
+						- $T$ is a surjection
+						- $Im(T) = F^m$
+				- Identity Matrix (Proposition 29.2)↔$I_mA=A$ and $AI_n+A$
+				- Definition of cos and sin↔![](https://remnote-user-data.s3.amazonaws.com/5Bbg86LSoCCo2pGKzX9u9i7VwBeR_1B4CnDRtT3SwG9uJY0yFek15ooWex__aW4mgz-GS4vXAMBMMZinsx-WdSrtkohLGfgj-dPNO-7Qaj0ha_CWHiRMIg1VTeKkHimp.png)
+				- Jacobian↔If $u \subseteq R^n$ is an open subset and $f:u\to R^m$ and $\vec p \in u$, then the Jacobian of $f$ at $\vec p$ $Jac_f(\vec p)$ is the m x n matrix whose jth column is ![](https://remnote-user-data.s3.amazonaws.com/dE5wUg1EaU8iu8uUrZO0vsxYM03io7ctzX43ERO0SpgWPiG5-HfRZ-GI8IPO-Up1hhNJxNLb-ReURUisKeSeECVqp9RpSiTJFTjAEZsjNMvloh6xE9IfSY7PSzHvzAG3.png)
+				- It is a matrix of all partial derivatives
+			- Day 30: Derivatives in R^n (as linear approximations), connection to Jacobian
+				- Linear approx of f(1.02, -.3) using f(1, 0) and Jacobian![](https://remnote-user-data.s3.amazonaws.com/eEJMRW1wF4rW3cui8GJaS2viiQ8MbzOO3EGn6e034O9t9XPokrh2fqvWTwly0GVMxzIVGRHtkbMDxPhMSd3-xqiLNLPEn_sk7lA1SoTCLkhww8f81N9BM4nkp4WKAAkc.png)
+				- Approximation↔For small $\vec h, f(\vec p + \vec h) \approx f(\vec p) + [Jac_f(\vec p)] * \vec h$
+				- Differential↔Say $u\subseteq R^n$is open and $f: u \to R^m$ and $\vec p \in u$. We say $f$ is differentiable at $\vec p$ iff there is a linear map $T:R^n\to R^m$ such that ![](https://remnote-user-data.s3.amazonaws.com/t3DQyBIywrLO-2aj6ZsTakcYkV9aQWc0uzxjWCStD1JnEiO-RVPyie9AhTMcmwz469vB6n6Y1o624pFeHYbfXZlS7MJQLK_BINotxX1zPGWumjPXgh2DwpIgxDIZEvI1.png)
+					- The map T, aka the derivative of f at point P↔This map $T$ will be unique if it exists
+						- We call $T$ the derivative of $f$ at $\vec p, D_f(\vec p)$
+							- It is a linear function (also written as a matrix), not just a number
+						- ![](https://remnote-user-data.s3.amazonaws.com/OytxE6V9VXCjsVPbmUTrNlusZQl82_YeyFYwHXlvhS_kjelJ0d1MjyAT76Da1SCECH6QIhq3M2IwKAFDj6QBFeyOszjcWyJ7TgpLUN2qETlY_RD8V_b38VeWGKj0noHp.png)
+					- In simple terms, something is differentialbe if there exists a really good linear approximation
+					-
+				- Theorem 30.1 (The Jacobian is the derivative of function)↔If $f:u \to R^m$ is differentiable at $\vec p$, then $(D_f(\vec p))(\vec h) = [Jac_f(\vec p)]\vec h$, and this Jacobian exists
+			- Day 31: Derivatives of linear maps, chain rule
+				- Chain rule↔Say $u\subseteq R^n, V\subseteq R^m$, and they are both open and $f:u\to R^p, g:V\to R^n$ and $\vec p \in V$ where $g(\vec p) \in u$.
+					- If f is differentiable at $g(\vec p)$ and $g$ is differentiable at $\vec p$ then $(f \circ g)$ is differentiable at $\vec p$ and ![](https://remnote-user-data.s3.amazonaws.com/xSEB9Mw3fSyOvcuFBbBQ_kylHo48MEq8XOlkj39QsuxfZQnXJ3AxgZhEeeb9kLgK3wMDX7w8kfA9vBvqdpUsPrTgSsNdQHYbkctKysyOshezcy78fEuQvBkI0-I1wQzy.png)
+					- Example↔![](https://remnote-user-data.s3.amazonaws.com/aRy0wHN27e6h8jLywEDBGh7YBLE3tXfb2n1pUj9rOFdj19CROvAzMQ-tnVIhz3wJeMe133w5lb4fO5k8KJf1UQIrm5Rb-lX-28Ek2XnenEohRD4fAvVBQ-WKRZ7RkyYp.png)
+				- Chain Rule Proof↔![](https://remnote-user-data.s3.amazonaws.com/bGdkBVhl7Lzkt36wrNqI2SPktBFsnXeE5LfivNDrtVIP8Jn51qiOwpBvH030lZTQs7NOtrvjxeSQkS4pXnHDewbAzOfXKAbK9Q34rDkC7fRiK_HLn8TWXKCsva72rpEd.png) ![](https://remnote-user-data.s3.amazonaws.com/qhZ7fwEv2B92NjYLYCxQf9ho7LyBZLpYvrZEm2yeQXS9MfHP1WykR58-agNQIFJp9vYbGZUVdxv7HsvoufEqUsLwSgmry7l5e6n4cT3QRuKaxvWX5tfm-wS2iq5JcOOl.png)
+			- Day 32: Directional derivatives and gradients
+				- Partial derivative interpretation↔If we change $\vec p$ in a particular direction $\vec p + \vec e_it$, how does $f(\vec p + \vec e_it)$ change from $f(\vec p)$?
+					- ![](https://remnote-user-data.s3.amazonaws.com/ceL0_hhPXVon9nBp8GDEpf_4Damco9g0A7YoH1LYAoaDp1AQ9Ainx9owKxjiu-jkILWsI_nKlUnHCCrmqjYM8ZR_R67MpJ6uPDWRIv7RPALA3MGXwGtSJg5VHfOhpFYm.png)
+				- Directional derivative↔Say $f:u \to R^m$ and $u\subseteq R^n$ is open and $\vec p \in u$ . If $\vec v \in R^n$ we define the directional derivative of $f$ at $\vec p$ in the direction of $\vec v$ ![](https://remnote-user-data.s3.amazonaws.com/zsg_DUMiiNSj_DgLPoddjLxeDRMKs9FN3r9TCOTI_TPDlvPvBrmOFqIVao-mOls5fRlpKbrmZJqNlVyCMDxBMSax0wk0iIUR7-yrh_6qNBiRlPuPIcjRsGS3btwl4rdB.png) provided the limit exists
+					- ![](https://remnote-user-data.s3.amazonaws.com/vmnQtEJUublnQcUBRI10Req-EB72ZF4UqvlQPsQQl0XLAoAKB9FVvCFg7ESnnvSKOxqm-ayh8YyFFdXQ0qiVKf_CZVlQN7nTSUpv-Hg5bEjIFwYTV3RQvuFUtUwbxtvt.png)![](https://remnote-user-data.s3.amazonaws.com/b4T7Z1XI1ns2Fpb9PTpnQx3TctMXihgZHhW1n0GHLRmEGQB_PBZVYuhdW6x2B16rL_r6MhQWQeahT9ZJ4joqQrqMaaAL_qUbgqJo-OAEfc1-K2brBB6irdN3f3JNsiO2.png)
+					- We can rewrite this as ![](https://remnote-user-data.s3.amazonaws.com/PDPbreVQxwlbSgFsHRdierj07MRpw7UEyhXAYnFfrUVIdn1DXOYOlNUsvVT149w3V4shq8Ape4xIxTdcA_8cmLAo3LPd8JFt2kzUGDpQrFxlUF-_MtN6uJhWUe0jkHzr.png)![](https://remnote-user-data.s3.amazonaws.com/tefrYgudYdOh_T9a55Q1C3M4rsUW7iy2_6YeD7FqAm93qS5YQVO-SBvOSF0qIx9BCrqp5tyDQjFJlnNngzlRu3bsiBEwAmkuqTvDLS85HSBCr-UGTbSYU1xc4JuK0Ts2.png)
+					- and therefore ![](https://remnote-user-data.s3.amazonaws.com/APUwGMhtepFJ3Qv0for-Q-Zep3DCEfTYGP5Z6FKSyuzvwqaCyIZ0yYTiCh1zgnMC8LEkUooTzCoNvITdcWk0BprHESLarHfciJXn0LKPfASkDuvSjoo_LEJJnlzHACxH.png)
+				- Gradient↔If $f:R^n \to R$ and if $f$ is differentiable at a point $\vec p$ , then we define the gradient of $f$ at $\vec p$ as $\nabla f = [Jac_f(\vec p)]^T$
+					- It's literally a transformed Jacobian
+						- ![](https://remnote-user-data.s3.amazonaws.com/g2ePZ6NtXjkjvWquBCoFN26WQFp2uKjNxo7-2AFbHu1DMEXTIk_FDyGX-BP_lW8hTbSXl2kdOYpdligPTL6QQNThSYsqWwfabMbF_YIDLR1pp30VV_Ylczq59o0oBflC.png)![](https://remnote-user-data.s3.amazonaws.com/HZ8jk0WNmw9hG8jtl2F3_BUy3W24-XelYMbvgneKt3_fGqL2u_I8XO9pQZscnC2DNY3_jWJNHa4_VeI8_XhMWoAysdbFKMhZ3m2ZZzSeCyrH-k0BqfCjYDrJ7ApCaGwU.png)
+				- Theorem 32.1↔![](https://remnote-user-data.s3.amazonaws.com/OWk9Gi4zraTa7Vd_RipPEVzIB_ZyY8vWAkUBhm4E17awUD3H_1rs7RB945sgraNNJruJDlT6fvzTEN7AQFoduLjZy85KVTamiiezvQRO3XDjwdFeGXomz7QMvtluIrQj.png)
+				-
+			- Day 33: C^1 implies differentiability
+				- $C^k$→Say $U\subseteq R^n$ is open and $f:u\to R^m.$ Then we say $f$ is $C^0$ iff $f$ is continuous. And for all $k\geq 1$, we say $f$ is $C^k$ iff every partial exists and those partials are all $C^{k-1}.$
+					- Aka $C^k$ means you can take $k$ partial derivatives in a row and all results are continuous
+					- $f$ is $C^1\iff$$Jac_f$ exists and is continuous as a function of $p$
+				- Theorem 33.1↔If $u\subseteq R^n$ is open and $f:u\to R^m$ is $C^1$ then $f$ is differentiable
+					- ![](https://remnote-user-data.s3.amazonaws.com/B666Pzzo8_4HZCKzG15087O-yBB1fE3RWc2asOXMVtKq32AwzjsATTdtV-Hx4DJdvEul85VBrdqp22SnT29GQirtbO93BfcMjQq0i_x7VGJYmeGVjIAkjbD3vnJ_Vhwf.png)
+			- Day 34: Graphs, images, level sets
+				- Graph of f(x)↔Graph of function over input $\{\begin{pmatrix}\vec x \\ f(\vec x)\end{pmatrix} : \vec x \in u\} \subseteq R^{n+m}$ or $\{\begin{pmatrix}\vec x \\ \vec y \\ f(\begin{pmatrix}\vec x \\ \vec y \end{pmatrix})\end{pmatrix} : \vec x, \vec y\in u\} \subseteq R^{n+m}$
+				- Image↔Graph of function's outputs, $f(u)=\{f(\vec x: \vec x \in u\}$ which is a subset of $R^m$
+				- Level Sets↔Sets of the function's inputs, of form $f^{-1}(\vec c) = \{\vec x \in u: f(\vec x) = \vec c\}\subset R^n$
+			- Day 35, 36:
+				- Smooth manifold↔A smooth manifold is a set $M\subseteq R^n$ such that
+					- $M$ is (locally) the graph of a $C^1$ function $f:u\to R^n$ where $u\subseteq R^n$ is open
+					- This is called an {{ n-dimensional }} manifold
+						- Locally, $n$ variables determine the rest
+					- Locally means you can zoom in at a point $\vec p$
+						- $\exists V\subseteq R^m$ open such that $\vec p \in V$, $M\cap V$ is the graph of a $C^1$ function
+						- At this point $\vec p$ , the area is smooth and is n-dimensional
+				- Tangent space↔Let $M\subseteq R^n$ be a smooth manifold and pick $\vec p \in M$. The tangent space of $M$ at $\vec p$$$ is $T_M(\vec p)=\{\vec v \in R^n:$ there exists a $C^1$ map $\gamma :(-1,1)\to M$ such that $\gamma(0)=\vec p$ and $\gamma^1(0)=\vec v\}$$$
+					- $\gamma:(-1,1)\to M$ is a "curve" on $M$. $\gamma(t)$ traces a smooth path $C^1$ along $M$
+					- All points where $\gamma$ passes through $\vec p$? Now take the instantaneous velocity vector $\vec v$ to get your set
+					-
+			-
+			- Pset tips
+				- Look at past problems in the same pset, they often literally apply to the question
+			-
+	- Books
+		- Never Split the Difference
+			- Mirroring
+			- It seems like…
+			- Everyone wants to say no. Saying no relaxes you and invites critique saying yes does the opposite
+			-
+			-
+		- Skin in the Game
+			- Pilots and Plumbers vs. Economists and Restaurants―Darwinian evolution of self-selection vs. external selection
+			- Reverse Golden Rule
+			- Those who create risk should bear the risk―Hammurabai code is not about eye for eye, but reducing risk asymmetry architect who kills a person, etc.
+	- Calls
+		- Effective Altruism #[[^^Effective Altruism^^]]
+			- Yale Effective Altruism Fellowship #[[^^Effective Altruism^^]]
+				- Charities[June 17th, 2020](Daily Document/June 17th, 2020.md)
+					- Four Charities
+						- Demosquito
+						- Deworming
+						- Depression
+						- Give Directly
+					- `When there is food on the table, there are many problems. When there is no food on the table, there is only one.`
+					- Pyramid Scheme, Noah Seth's point, damn we hit it off!
+						- Noah--Braden you're too hard on yourself, you are way better than average
+					- The whole idea
+					- Time arbitrage, ceiling of $80 vs. floor of $20 to clean my email, we can both be happy with $50
+					- Roast Nick Bostrom
+					- What's your biggest problem in the world? What can you do about it?
+						- EA is problem first, not solution first.
+							- What am I good at?
+					- Earning to give
+						- Funding vs. talent constrained
+					- 1. `Follow your problems, not passions`
+						- Daniel--The world orients us to be solutions first. You invest 15 years into a specific career. Problem first, second
+					- 2. Crowding out, comparative advantage, but the inherent unfairness of careers
+					-
+					-
+				- Animal Welfare | Factory Farming[July 1st, 2020](Daily Document/July 1st, 2020.md)
+					- [ Why It's Time to End Factory Farming - Quillette](https://quillette.com/2018/10/20/why-its-time-to-end-factory-farming/)
+						- Think about the horses who were replaced by cars. Cars do the same thing horses do—they move people from one place to another—but without all the {{crap}}.
+						- Farming is inefficent, at a ratio of ~{{1/10 }}
+						- Factory farming: {{99}}% in US, {{90}}% globally
+					- [Equality for Animals?](https://www.utilitarian.net/singer/by/1979----.htm)
+						- Comparison to how slavery was treated as normal
+						- We are used to regarding the oppression of blacks and women as among the most important moral and political issues facing the world today. These are serious matters, worthy of the time and energy of any concerned person. But animals? Surely the welfare of animals is in a different category altogether, a matter for old ladies in tennis shoes to worry about. How can anyone waste their time on equality for animals when so many humans are denied real equality?
+						- This attitude reflects a popular prejudice against taking the interests of animals seriously - a prejudice no better founded than the prejudice of white slaveowners against taking the interests of blacks seriously. It is easy for us to criticize the prejudices of our grandfathers, from which our fathers freed themselves. It is more difficult to distance ourselves from our own beliefs, so that we can dispassionately search for prejudices among them. What is needed now is a willingness to follow the arguments where they lead, without a prior assumption that the issue is not worth attending to.
+						- Would experimenters be prepared to perform their experiments on orphaned humans with severe and irreversible brain damage if that were the only way to save thousands? ( I say 'orphaned' in order to avoid the complication of the feelings of the human parents.) If experimenters are not prepared to use orphaned humans with severe and irreversible brain damage, their readiness to use nonhuman animals seems to discriminate on the basis of species alone, since apes, monkeys, dogs, cats and even mice and rats are more intelligent, more aware of what is happening to them, more sensitive to pain, and so on, than many brain-damaged humans barely surviving in hospital wards and other institutions. There seems to be no morally relevant characteristic
+						- Capacity for suffering
+							- If I give a horse a hard slap across its rump with my open hand, the horse may start, but it presumably feels little pain. Its skin is thick enough to protect it against a mere slap. If I slap a baby in the same way, however, the baby will cry and presumably does feel pain, for its skin is more sensitive. So it is worse to slap a baby than a horse, if both slaps are administered with equal force. But there must be some kind of blow - I don't know exactly what it would be, but perhaps a blow with a heavy stick - that would cause the horse as much pain as we cause a baby by slapping it with our hand. That is what I mean by 'the same amount of pain' and if we consider it wrong to inflict that much pain on a baby for no good reason then we must, unless we are speciesists, consider it equally wrong to inflict the same amount of pain on a horse for no good reason.
+						- Benjamin Franklin Objection
+							- 'Well', Franklin said to himself, 'if you eat one another, I don't see why we may not eat you'
+							- objections to the Ben Franklin Objection ↓
+								- Most animals that kill for food would not be able to survive if they did not, whereas we have no need to eat animal flesh.
+								- It is odd that humans should, when it suits them, use an argument that implies we ought to look to animals for moral guidance.
+								- Nonhuman animals are not capable of considering the alternatives open to them or of reflecting on the ethics of their diet.
+						- The Use of Mental Defectives
+							- also known as―"the argument from marginal cases"
+							- Counterarguments ↓
+								- Mental defectives who don't possess the capacities of normal humans should nevertheless be treated as if they did possess these capacities, since they belong to a species which typically possesses them
+								- Although mental defectives may not possess higher capacities than other animals, they are nonetheless human beings
+								- Slippery slope' argument
+					- Discussion
+						- `Pain is suffering, suffering is optional.`
+						- Decreasing demand is good but may not necessarily have the desired effect on supply
+							- Halving demands doesn't necessarily result in twice as much space per animal, but the same amount and half the size of factories
+							- The optimal strategy is not to only decrease the demand of factory farmed meat (which may have an unintended consequence on supply) but to increase the demand of ethically treated meat (which guarantees an intended consequence on supply)
+						- Chicken sexers
+						- Domestic sheep don't stop growing wool. Suppose we banned everything; would they all die off?
+						- The ideal outcome is coexistence that is mutually beneficial to both of us, like dogs
+						- Is it an evolutionary win to be factory farmed?
+							- There are more chickens now than have ever been before
+							- If we could help create them, feed them, and give them painless deaths, it could be great
+							- If there is a way to reduce suffering in transit from beginning to end, that sounds like an optimal strategy
+						- COVID causes a bunch of new concerns - Sophie
+						- Domestication
+							- Sheep
+							- Bulldogs
+					-
+					-
+				- Longtermism[July 8th, 2020](Daily Document/July 8th, 2020.md)
+					- GCBR―
+					- A catastrophe that only kills 10% of the human population is still enormously bad with the potential of being the worst catastrophe in history
+					- Nuclear Risk
+					- Biohazard
+					- AI affects wealthy nations
+						- Also has repercussions with race, people of color
+					- Is technology the largest accelerator of inequality
+					- Jessica's Example―Handwriting AI, goes online and convinces to be allowed to go online
+					- Self-driving cars
+						- The danger of the availability heuristic
+						- The cop-out solution--ID the problem, hand over to driver
+					- Nuclear Weapons
+						- Would you argue it's dangerous because it reduced hegemony?
+						- [Hegemonic Stability Theory](Hegemonic Stability Theory.md)
+						- International Treaty of
+					-
+				- [ Rational group decision-making - YouTube](https://youtu.be/6KqjT21fbT8)
+					- Plurality vs approval voting lead to drastically different outcomes
+					- Condorcet, independent agents law
+					- Truth and honesty are valued highly
+					- Consent is transitive, Preference is not transitive
+						- If people prefer x over y, and prefer y over z, it doesn't mean they pref {{z over x}}
+					- Approval voting is to be preferred over preference voting (no spoiler effect)
+					- If you prefer vanilla over chocolate, and introduce strawberry and suddenly prefer chocolate, that is {{irrational}}
+				- Career Seminar (EA Fellowship) [July 22nd, 2020](Daily Document/July 22nd, 2020.md)
+					- b to a vs a to b, profit to nonprofit
+					- Lakshana - The potential stage has grown, and so more people have a shot that otherwise would
+						- Yes, audience grown and so stage grown, but proportion of audience to creators/stage has shrunk
+					- 1% rule (Internet culture)
+					- Online school, accessibility
+					- What's your story? - Reaching out is a compliment
+					- Undergrad email is a free pass, no rep
+				-
+				--------------------- Portal ---------------------
+ -- Avoided infinite recursion -- - Oxford In-Depth Fellowship Effective Altruism #[[^^Effective Altruism^^]]
+				- [August 7th, 2020](Daily Document/August 7th, 2020.md)
+					- ITN Framework visualized 3D: Vertical shifts (priorities), horizontal shifts (another solution/cause area is discovered; change solution but doesn't change the fundamental problem), dimensional (framework)
+						- Cause Area 1 | Cause Area 2
+						- Cause Area
+							-
+				- [August 14th, 2020](Daily Document/August 14th, 2020.md)
+					- [D](https://www.godlessgeeks.com/LINKS/Dragon.htm)ragon in my garage―Invisible dragon, but there is no way to disprove.
+						- "Where's the dragon?" you ask.
+						- "Oh, she's right here," I reply, waving vaguely.  "I neglected to mention that she's an invisible dragon."
+						- You propose spreading flour on the floor of the garage to capture the dragon's footprints.
+						- "Good idea," I say, "but this dragon floats in the air."
+						- Then you'll use an infrared sensor to detect the invisible fire.
+						- "Good idea, but the invisible fire is also heatless."
+						- You'll spray-paint the dragon and make her visible.
+						- "Good idea, but she's an incorporeal dragon and the paint won't stick."  And so on.  I counter every physical test you propose with a special explanation of why it won't work.
+						- Now, what's the difference between an invisible, incorporeal, floating dragon who spits heatless fire and no dragon at all?  If there's no way to disprove my contention, no conceivable experiment that would count against it, what does it mean to say that my dragon exists?  ^^Your inability to invalidate my hypothesis is not at all the same thing as proving it true.^^
+					- [ Many Weak Arguments vs. One Relatively Strong Argument - LessWrong 2.0](https://www.lesswrong.com/posts/9W9P2snxu5Px746LD/many-weak-arguments-vs-one-relatively-strong-argument#My_previous_reliance_on_an_individual_relatively_strong_argument)
+						- Many independent weak arguments whose countargments are dependent
+						- Find shared dependencies between arguments or counterarguments and target them mercilessly
+					- Hillary Greeves - Investing in Developing Countries certain may be a net negative for society, increase X Risks and risk of conflict
+					- I like Andrew Yang
+					- Global Priorities research is only valuable if its conclusion is contrary to the status quo?
+						- Bayesian thinking: The idea that the current evaluation is in itself not 100% accurate, and we must target the alternative outcome in which the test is wrong and the answer is remarkably novel
+						- Does this create perverse incentives in Global Priorities research to generate a conclusion that is in contrary to current assessments?
+				- [August 21st, 2020](Daily Document/August 21st, 2020.md)
+					- Is–ought problem
+						- [https://philpapers.org/surveys/results.pl](https://philpapers.org/surveys/results.pl)
+							- Survey of Philosophers
+					- Expanding the moral circle - you don't know what you don't know
+					- Metaethics vs. normative philosophy
+					- Normative Philosophy
+						- Deontology
+						- Consequentialism
+						- Virtue Ethics
+					- ![](https://remnote-user-data.s3.amazonaws.com/n7l8WCbM5PtzThmQdkUSSgGUOUc583Mm4oIHBMuzKp3Sopk7a7nr2EiiINal-5YwrGBCfw5xdzJ-3fW-zF0G6Ucs0YgDl6GNLjKRwnh07IDop0lmZlU6WWINy2zt3RIZ)
+					- The scarcity mindset - Maslow's hierarchy of needs, freeing up
+						- Psychologists have shown that we tend to feel more capable of extending moral concern to others if [we’re not competing with them for scarce resources](https://journals.sagepub.com/doi/abs/10.1177/0956797612450892?journalCode=pssa) and if [our own needs are already taken care of](https://go.redirectingat.com/?id=66960X1516588&xs=1&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1025007614869&referrer=vox.com&sref=https%3A%2F%2Fwww.vox.com%2Ffuture-perfect%2F2019%2F4%2F4%2F18285986%2Frobot-animal-nature-expanding-moral-circle-peter-singer). Abraham Maslow famously illustrated this basic concept with his image of a pyramid representing our [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
+						- The washing machine, the refrigerator, the electric stove — were [a major engine of liberation for women](https://www.sciencedaily.com/releases/2009/03/090312150735.htm). Once the washing machine was invented and made widely accessible, for instance, women were freed up to do other things, like join the workforce.
+						- The ethical crux―do people have a moral obligation to engage with politics, etc.?
+							- I am sympathetic to a consequentialist view
+					- Discounting―
+						- distinction―it is different to discount because ^^you value future lives less^^, given certain outcome (where you are certain that an action would give a parallel outcome in present and future) compared to because ^^you are less certain of outcome, and value lives the same (EV)^^
+							- ^^Expected Future Utilty = Value of future lives saved * Certainty of outcome^^
+					- Do you try to maximize happiness or minimize suffering?
+						- 50-50 Idea
+							- Add 10 happy people, or decrease 10 sad people
+							- Add 10 happy people
+								- 60/110 -> 54.5454%
+							- Subtract 10 sad people
+								- 50/90 -> 55.55%
+							- Difference
+					- Insect suffering
+						- Quality vs. quantity
+							- There is no number of ordinary eight-year-olds who, when organized into a team, will become smart enough to beat a grandmaster in chess.
+							- Is there a way that the suffering of millions of small sufferings equate to one large suffering?
+							- You can't sum suffering of shallow depth to a different depth, in the same way you can't sum intelligence
+							- There is a fundamental depth cannot be obtained
+							- Rain patterings vs. a flood, a bunch of 10% efforts on a trailer vs. 100% on a trailer
+						- Lexical threshold #Ethics
+							- [ Clarifying lexical thresholds | Center for Reducing Suffering](https://centerforreducingsuffering.org/clarifying-lexical-thresholds/)
+							- Lexically worse/inferior if no amount of something can outweigh something
+								- Brussel sprouts are lexically worse than chocolate in the sense that no amount of brussel sprouts are better than one chocolate
+						- How many pig deaths equate to a human deaths?
+							- Thought experiment
+								- assumptions―the status quo represents the current threshold/general willingness/comfort of humans in how many humans die vs. how many pigs die
+								- 50 billion chickens slaughtered a year / 500,000 humans slaughtered a year = 100,000 chicken/human
+								- fallacy―nature of slaughter is different (food vs. otherwise)
+				- [August 28th, 2020](Daily Document/August 28th, 2020.md)
+					- Longtermism: Concerns and responses
+					- [ Flow-through effects - The GiveWell Blog:: Quality of life has holistically increased in every single way](https://blog.givewell.org/2013/05/15/flow-through-effects/)
+					- [ Crucial Considerations and Wise Philanthropy - Effective Altruism](https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/)
+						- utilitarian definition―consideration that radically changes the expected value of pursuing some high-level subgoal
+						- example―planning a path for hiking and realizing that your compass is broken/offset
+							- Let’s take this question: “Should I vote in the national election?” At the sort of “level one” of reasoning, you think, “Yes, I should vote to put a better candidate in office.” That clearly makes sense.
+							- Then you reflect some more: “But, my vote is extremely unlikely to make a difference. I should not vote, but put my time to better use.”
+					- [ Growth and the case against randomista development - EA Forum](https://forum.effectivealtruism.org/posts/bsE5t6qhGC65fEpzN/growth-and-the-case-against-randomista-development#5_1_Extreme_scepticism_about_growth_economics)
+						- Advocate economic growth over randomista development
+					- Randomista development―Improve the economy with only variables that can be tested through Random Control Trials
+					- [Simplifying cluelessness](simplifying_cluelessness.pdf.md)
+						- informal definition―this is the position of having no idea whatsoever what to do
+						- not―simply facing actions that take on a wide distribution of possible value
+						- generally due to issues with―imprecise credence or method
+						- cluelessness is problematic in situations where we do not have evidential symmetry
+						- cluelessness vs. uncertainty―cluelessness is a type of uncertainty. It is extreme uncertainty, or cluelessness is an uncertainty in the actual method/weighing in the decision-making process. Cluelessness is in the context of making potentially multiple decisions, while uncertainty is making a single one
+					- Simple vs. Complex cluelessness (Straightforward vs. Butterfly Effect)
+						- symmetry―there's a way to tell the difference how your actions have directly led to a good or bad outcomes/missed out on the outcome
+						- symmetrical example―meeting someone in the street, delays them causing them to take a different job, different sperm reaches egg, etc.
+						- simple has straightforward outcomes, complex has the butterfly effect
+					- Activity Buckets
+						- Short term and long term interventions
+							- No room for only short term effect, as that's a band-aid
+							- Help the global poor
+							- Donate to Malaria Consortium or Deworm the world
+							- Work for GiveWell
+							- Donate to GiveDirectly
+						- Create a flourishing long term future
+							- Work on AI Safety and Ethics
+								- Get a position at OpenAI
+								- Fund CHAI
+							- Policy
+								- Conduct policy and political research in regards to voting and lawmaking
+							- Improve mental health around the world
+						- Spread awareness for Effective Altruism
+							- Recruit for EA Club
+							- Promote awareness to coworkers of Effective Atlruism
+				- [September 3rd, 2020](Daily Document/September 3rd, 2020.md)
+					- Are we living in an influential time?
+					- Three scenarios ↓
+						1. Peace.
+						2. A nuclear war that kills 99 per cent of the world’s existing population.
+						3. A nuclear war that kills 100 per cent.
+						- The difference between 2 and 3 is much much bigger than―1 and 2 (even though most people would believe the opposite)
+					- Are we living in the most influential time in human history?
+						- In the past, you represented a smaller proportion of the population and would be able to enact a greater percentage of change. However, technology improves the scope of influence
+						- **Population and technology are both exponential growth curves**
+							- rate of growth comparison―tech is more
+							- start comparison―population starts earlier
+							- eclipsing―there will be a point in which technology eclipses population and your ability to influence tomorrow will be greater than it is today, not less
+					- Lock in events―locking in ethical values and unable to change, meaning that before the lock-in event is much more influential
+					- **Is there any action that we can do in the future that adds value to the past?**
+						- inspiration―the primary reason we pick the past is the idea that the past influences the future, but what if we pick future actions because they add value to the past?
+				- [September 11th, 2020](Daily Document/September 11th, 2020.md)
+					- Chance of extinction this century?
+					- Nick Bostrom's argument on our future of technology―There's a point in which afterwards technology will rapidly increase/peak or rapidly decline
+						- Unstable vs. Stable equilibrium, idea of a ball in a valley or a mountain
+						- The ball is on a mountain in which technological progress is the x axis
+					- Dan's Deglobalizing, or the idea that centralization enables decentralizatino
+						- Centralizing AI for food may enable smaller communities to be self-sustaining
+						- Centralization may lead towards a greater discrepancy between achievement, such as the internet
+						-
+			- Individuals
+				- Cian Call [June 13th, 2020](Daily Document/June 13th, 2020.md) #[[^^Effective Altruism^^]]
+					- Compute, Memory, Bandwidth
+				- Kaleem Call #[[^^Effective Altruism^^]]
+					- Get a MacBook Pro 16
+					- Go for double majors
+						- Summer sessions
+					- Get an external monitor
+						- Data Scientist with four vertical monitors for one spreadsheet
+					- Don't stay in your dorm room
+					- Noise Cancelling Headphones [ Sony Headphones](https://www.amazon.com/Sony-Noise-Cancelling-Headphones-WH1000XM3/dp/B07G4MNFS1?th=1)
+				- Lonis Call #[[^^Effective Altruism^^]]
+					- Friends: Career or You
+					- Signaling vs. Skills
+					- Learning
+					- Get in the system to break the system
+				- Call with Jessica #[[^^Effective Altruism^^]]
+					- Facebook University
+					- Study Abroad to finish requirements
+					- Light Fellowship
+					- Domestic Summer Award
+					- Yale House
+					- Jessica's Workload
+						- Two CS classes and TA CS50
+						- 40 Hour Psets
+						- Full time EA
+						- OFFICE HOURS!
+					-
+				- Call with Kaleem [July 20th, 2020](Daily Document/July 20th, 2020.md)
+					- Immortality? - DALYs, generational change continues, finite number of ideas per life
+					- Different moral languages are developed because they are developed in a space that they are not a part of
+					- Create spaces that are inclusive and expose ideas, allow elderly to continue engaging
+					- "Telephone effect"-some ideas are echoed from Twitter to Fox News to conservatives, etc.
+					- Alcohol, lead poisoning should be looked into more often
+				- Daniel Wang - Brown University
+					- Partner story with the founder, hilarious
+						- Are you vegan?
+						- I consider killing myself
+						- Monist and dualist
+					- Opinion vs. Evaluation - Damaging
+						- Opinion has no evidence
+					- Separating the policy from the politicians
+						- Politicians and law making should be separate
+						- Rank results/problems, not policy
+							- Experts take care of policy
+						- Politicians
+							- Rank choice
+							- Reddit for lawmaking
+							- Problems | Solutions
+							- Politicians | Lawmaker
+							- Ranked Poll | Lawmaker
+							- Poll | Politicians | Lawmakers
+							- Ranked Poll | Lawmaker
+						- Animal Welfare
+							- Most vegans use ethos to convince others whereas most
+							- What about carbon emissions?
+							- 70-80% of Amazon is for agriculture
+						- What makes an ineffective altruist? (Brown Altruism Fellowship, many were not ready)
+							- Poor intellectual openness, many were social justice backgrounds
+							- Use 3rd level thinking to override 1st
+						- Maximize happiness or suffering? Usually people weigh the sums of one of the following: ↓
+							1. Happiness + Suffering = Net
+							2. Happiness = Net
+							3. Suffering = Net
+						- North Korea is really good at misallocating resources
+						--------------------- Portal ---------------------
+ -- Avoided infinite recursion -- - Politicians
+						-
+					-
+				- [Daniel Wang - Brown University](Braden Wong/Notes/Calls/Effective Altruism/Individuals/Daniel Wang - Brown University.md) with Andre
+					- Morality of infantcide
+					- Dumb People
+					- Knowledge is confluence of truth and belief
+						- [Gettier Case Example](Braden Wong/Notes/Coursera Courses/Philosophy/Gettier Case Example.md) is therefore knowledge
+					- Knowledge is confluence of truth and belief that is also rightfully reasoned
+						- [Gettier Case Example](Braden Wong/Notes/Coursera Courses/Philosophy/Gettier Case Example.md) is therefore not knowledge
+					- Affirmative Action
+						- Is it for looking at leaders with similar lived experiences vs. physiological similarity
+					- The N Word
+						- Ethnicity vs. Race
+							- British blacks?
+					- I find you very cute
+		- Yale
+			- Call with Herman
+				- Best use of time? FROCOs
+				- Any common avoidable mistakes incoming freshmen make? Talk to DUS and Deans and Emotional Wellness, Read College Emails
+				- Anything overpacked? Someone from IJndia brought an entire pantry of Indian spices and made banana chips LOL
+			- Call with Rohan [August 4th, 2020](Daily Document/August 4th, 2020.md)
+				- Best use of time? Take campus jobs
+				- Worst use of time? Unorganized extracurriculars, don't be afraid to drop
+			- Call with Funbotics [August 8th, 2020](Daily Document/August 8th, 2020.md)
+				- Favorite classes? - AFAM, etc.
+				- 201 vs. 223 - 201
+				- Common avoidable mistakes - Major in psychology, sleeping with your suitemates LOL
+				-
+			- Yale FOOT
+				- Are humans part of nature or not?
+					- Nature -> Us -> Technology, but now Technology -> Us -> Nature
+					- We are facing an unprecedented problem as we grow so rapidly, our understanding of nature no longer leads us to fear as much
+					- Nature controlled us, and we controlled technology. But now, technology controls us, and we control nature.
+				- What is wilderness? Is it a construct?
+					- There is an inherent bias in wilderness because it is a construct. We have evolved so quickly that there is no way to have a constant definition of wilderness.
+						- An animal regards what humans create as nature? To them, nature has erected natural new structures around them.
+						- A beaver regards a human dam as nature in the same way that a human regards a beaver dam.
+						- As humans, we have an inherent bias of seeing everything through a human lens.
+					- Animals do not regard humans as separate, but as other animals. Or as God. Is introducing invasive species morally bad? Animals may view it objectively, while we view it subjectively. Because we have control over our actions and understand it.
+				- What don't you want to lose when you get older?
+					- My ability to be forgiven for my mistakes.
+				- What can't you wait to do once you get older?
+					- Call people by their first names. Make meaningful connections with adults.
+				- Can you stop growing up?
+					- 80% of your growing up takes place outside of your control, in your surroundings. Your friends, your job, etc. Doing so would be to not take advantage of the opportunities given to the coming of age
+			- Call with Yvonne Froco
+				- Not even that you miss 100% of the shots you don't take, but the compliment: that you fail all 100 times is expontentially close to zero, and that doing so should be recognized as a profound achievement.
+				- [My silence is a choice. Silence is not the absence of thought, but its ultimate manifestation.](Braden Wong/IdeasRemNote Graph/Writing List of Ideas/My silence is a choice. Silence is not the absence of thought, but its ultimate manifestation..md)
+		- Friends
+			- Calls with Frank and Evelyn
+				- [July 1st, 2020](Daily Document/July 1st, 2020.md)
+					- Thoughts on ACA-5
+						- What's the intended goal?
+						- Kaldor Hicks and Pareto Principle
+						- Affirmative Action gives both an excuse for success and failure
+					- 1968
+					- Add up all of pollution, US eclipses China
+					- [Great Firewall Of China](Great Firewall Of China.md)
+					- China's giving wealth to poor African countries
+						- The counterfactual, they're going to be
+						- Don't be friends with poor nations
+						- The huge port that only has 5 ships per year
+				- [July 4th, 2020](Daily Document/July 4th, 2020.md)
+					- How is US Currency international―Bretton Woods conference
+					- Why is it not―Why would I be gambling with my money when someone is rolling the dice?
+					- Who Will Be the Global Leader?
+						- US wins the cultural victory (Civ V)
+						- Technological deadlock? (Jordan)
+							- `Technology disappoints in the short run, surprises in the long run.`
+							- Moore's law―Progress doubles every two years
+								- exponential because―more computing can be used to unlock even more computing
+					- Russia and China team up
+						- Who backstabbed who?
+					- Tech
+					- Deepfakes
+						- Originally for porn-literally small brain
+					- Nature documentaries
+						- Fake noise
+						- Scripted
+					- UBI Downsides
+						- Lowering wages in reponse?
+						- Abuse birth rate
+					- Good YouTube
+						- Techquickie
+						- Economics Explained
+						- Coleman Hughes
+						- Two Minute Papers
+					- Take power to end power
+					- Frank's Mom loves China, Father hates mainland
+					- Evelyn's Mom is incredibly Westernized
+					- Military as a social safety network
+						- It isn't necessarily the most efficient way of investments
+							- Satellites
+				- [July 8th, 2020](Daily Document/July 8th, 2020.md)
+					- Everyone will die
+						- The culture will not endure, but the system will
+							- What if the system that we created, designed to combat a racist culture, is now antiracist to the point of being racist
+						- Who would you wish to die?
+							- Most people will already be irrelevant when they're old, so people who stay relevant are not the rule, but the exception
+							- Therefore, I wish people to live longer
+						- Who should live longer?
+							- People should live longer
+								- Vietnam, World War II, Holocaust survivors
+								- Anyone who grew up with conventional warefare
+					- Pushy girls?
+					- Give everyone a stable income ` The issue isn't inequality (or inequity I guess), but a lack of cash`
+						- Give Trump supporters a stable income, they wouldn't support Trump
+						- Give young college students a stable income, heck they might be conservative
+					- When you're strapped for cash and the only problem is to get enough money, it's easy to scapegoat the millionaires and billionaires
+					- When you have cash, even able to purchase the products that these billionaires made possible, I would dare say that your life would be very different
+					- Success gives you a different kind of perspective
+					- Live life as a sprint, not a marathon
+						- Approach the day as a series of sprints, and zoom out and marathon. Marathon of sprints. 2 hours of continuous work is worse than 30 minutes in 4 splits
+					- The best advice: avoid zero days at all costs. Live nonzero
+						- Anything more than zero is improvement. Zero is atrophy. If I get nothing done in a day, it sucks. But if I do one push-up, I get stronger. If I do one math problem, I get smarter. Avoid nonzeroes at all costs
+				- [July 11th, 2020](Daily Document/July 11th, 2020.md)
+					- The glories of the cloud
+					- Automation of service vs. manufacturing: automating requires no infrastructure, service is more likely
+					- Companies lose millions on passwords
+					- Cloud compute is effective because sending compute power is fast and easy, so scaling is easy. Imagine ice cream parlor that scales perfectly without inventory because there's an ice cream cloud that can send it perfectly
+			- Call with Grace Hopper, then Justin Lai [August 10th, 2020](Daily Document/August 10th, 2020.md)
+				- Roasting our respective cities
+				- Justin's Metal Straw
+					- [Gettier Case Example](Braden Wong/Notes/Coursera Courses/Philosophy/Gettier Case Example.md)―like how we thought that Justin had a straw because he cared about the environment, it is in fact completely false because he only likes the sensation #[[^^Gettier Case Example^^]]
+				- Affirmative Action, Police, Leaked Bodycam Footage
+				- Justin's a Prankster--"We need more people like you in engineering. When I'm driving on a bridge, I want to feel a bump that had absolutely no reason to be there structurally…" You're full of shit XD
+				- Shoes, New York, etc.
+			- Call with Yalies, Longtermism-Not applications, but philosophic implications
+				- Race to Mars--Good thing?
+					- I think we're thinking of this as inherently zero sum when it doesn't have to be
+					- Growing the pie, not the slice
+					- Perhaps the allocation is not optimal, but an increase in innovation in general is a net positive for society
+				- The romanticize of something as life or death (survival of the species) encourages sacrifice
+				- Not what longtermism is or what counts as it, but if it is true
+					- [ Introducing longtermism](https://80000hours.org/articles/future-generations/#why-think-the-future-matters-more-than-the-present)
+						- A typical social discount rate might be 1% per year, which means that benefits in 100 years are only worth 36% as much as benefits today, and benefits in 1000 years are worth almost nothing.
+				- Discounting
+					- Discounting as a concept works, but not quantitatively and measurably
+					- The fundamental trade of immediate certain gain vs. long-term potential immense gains (over compounded)
+					- Norwegian Sovereign Wealth fund - Set as a mandate to place more emphasis on future generations
+				- How many animal lives is a human life worth? My most standards, people are uncomfortable with this comparison, but is it somehow more palatable to do this with potential humans because they do not exist?
+				- `Is it inherently good to bring people into existence`
+					- The repugnant conclusion/scenario (Counter of Utilitarianism)―We should bring as many people as possible into existence until the net increase is zero. Quality of life doesn't matter.
+					- `Are we trying to maximize happiness or minimize suffering?`
+						- The utilitarian argument is yes, the other one is no
+						- Most religions have at a central tenet that life is suffering
+						- If climate change is inevitable, should we bring more people in if they might not live? -More chance that some people live. If 10% survive, then more likely to keep human existence in place
+							- Would you kill Baby Hitler? One person can cause immense suffering, but can also cause immense happiness
+					- Anti-natalism―Unborn babies / Is it wrong to bring someone into existence if their life is complete suffering
+						- The paradox of utilitarianism is why should we have the authority to prevent suffering when suffering is in fact subjective, and we are incapable of measuring the potential suffering an organism will endure. Whereas the measurement of happiness does not need to be exact in order for it to be worth it
+			--------------------- Portal ---------------------
+ -- Avoided infinite recursion -- -
+		- Google CSSI
+			- Algorithms and Data Structures
+				- [July 10th, 2020](Daily Document/July 10th, 2020.md)
+					- Good Use of Time: Message Masters Students, Networking (Sending an email to professors in freshman year), Research (Can be automation projects), Leetcode Contests
+					- Waste of Time: Leetcode, Hackathons, Applying, Studying for an A over A-
+				- [July 17th, 2020](Daily Document/July 17th, 2020.md)
+					- Prioritize Academics, universities have unique resources whereas personal projects no advantage
+				- [July 24th, 2020](Daily Document/July 24th, 2020.md)
+					- Russian culture―suffering together. Higher suicide rate in happier countries, not saddest countries.
+					- Hedonic treadmill/hedonic adaptation
+					- Set Context―Separate work from play, get accountability buddies
+						- You are much more likely to let yourself down than someone else
+				- [July 26th, 2020](Daily Document/July 26th, 2020.md)
+					- Find professors
+					- Find people who went to other companies
+					- Practicing writing Rec Letters
+					- Alisha
+			- Data Structures
+				- [July 22nd, 2020](Daily Document/July 22nd, 2020.md)
+					- Approach smaller companies to get your foot in the door (big companies will have large lines) and **follow up with the connections you make**
+					- If you could start again as a freshman, what's the one activity you would prioritize the most, and one you would deprioritize?―Get used to group settings
+		- Miscellaneous
+			- YouthAI First Meeting: John Cohn[August 13th, 2020](Daily Document/August 13th, 2020.md)
+				- Play! Start playing, hands on, and build things.
+		- Call with Data Structures CSSI [July 22nd, 2020](Daily Document/July 22nd, 2020.md)
+		-
+		-
+		- ^^Friends^^
+		- Call with Oxford EA
+		- Car
+		- College
+		- Effective Altruism #[[^^Effective Altruism^^]]
+		-
+	- Math
+		- Intermediate Algebra
+			- Remainder Theorem―Remainder of $f(x)$ divided by $(x-a)$ is $f(a)$
+			- Factor Theorem―$(x-s)$ divides$f(x)$ __if and only if __ $f(s) = 0$
+			- Rational Root Theorem
+			-
+		-
+	- Programming
+		- Web Dev
+			- [ 4 Things You Have to Unlearn to Become a Better Programmer | by Li-Hsuan Lung | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-things-you-have-to-unlearn-to-become-a-better-programmer-547adf476445)
+				- Replace loops with higher-order functions (for-each, functional programming)
+				- Replace conditionals with data structures and polymorphism
+				- Replace literal variable names with purposeful variable names
+				- Forget global scope exists
+		- Python Functions
+			- *args―Pass an arbitrary number of positional arguments to your functionZ
+				- usage―
+					- def foo(*args):foo(1, 2, 'end')
+						- print(type(args))
+						- for arg in args:
+							- print(arg)
+							-
+					- foo(1, 2, 'end')
+			- **kwargs―Pass a varying number of keyworded arguments to your function
+				- usage―
+					- def foo2(**kwargs):
+						- print(type(kwargs))
+						- for keyword, value in kwargs.items():
+							- print(f'{keyword}={value}')
+					- foo2(a=1, b=2, z='end')
+			- Multiple Assignment―a = b = c = 1
+			- Sequence Unpacking―a, b, c = [1, 2, 3]
+				- Variable swapping―` a, b = (1, 2)`
+					- `a, b = b, a`
+			- All and any―Check if all elements in an iterable are True, and if any element is True
+				- all([True, True, 1, 'hello']) = True
+				- any([0, False, True, '', []]) = True
+			- Help―help around function to learn more ![](https://remnote-user-data.s3.amazonaws.com/tkLwPTu57etpNglWjBJqDU9v-ztY5V_1HdO0JLNAd4yBn3x5-BU48lE-TwCdSyKb97JuMR6xKpxXH1JRsOy9NBSutBvm9JEN_EpuOQtkiT-A_Zas0vVgzz_fvhz7TX07)
+				- help(print)
+			- Enum―list variables next to list![](https://remnote-user-data.s3.amazonaws.com/_uBssAN84SGrv3v5i8ugobl66up0FCsFK5L_G6Af41QysgPsTCOtzalimbChXXHvHcJXRzST18XUzynG4fbiMc5j9Zm4yXwTRHveVsluj6d_6Z8FFgtl6VLHoqWjIYF-)
+			- Enumerate―loop over an iterable and with an automatic counter ![](https://remnote-user-data.s3.amazonaws.com/qZ1-DWFy66L4O0TNuqbavzJKlJ6GjXUYTN73LBMRxxHS6PrCKcIQcr_lTEWoiMoVWh-8YjJbkXHgc-44r4HdjEWEoOoM0Q5J7KFWy_-5M3frar6gdAEU88KKrRzXHDxE)
+			- Dir()―returns a list of the attributes and methods of any object
+			- How to quickly swap variables―a, b = b, a
+			- How to chain comparison operators for if a < b and b < c―if a < b < c:
+			- returns a list of the attributes and methods―Dir()
+	- Coursera Courses
+		- COVID-19
+		- Dog Emotions & Cognition ↓
+			1. Canine paradoxHow did dogs become dogs when they are not close to wolves at first? ↓
+				- The rise of humans as superpredators―we learn to throw projectiles, outcompete all predators
+				- All predators wiped except wolves and bears
+				- We even trained some dogs to kill wolves
+			2. Morgan's CanonAttribute action to simplest psychical faculty ↓
+				- Morgan's trap - 2 traps ![](https://remnote-user-data.s3.amazonaws.com/c1ndHeJTqfsIr-OZpt2q7474fn50fBLJcDQO3Y9FtLlx9HAoktMyG82zIO3Wukr9Z561DMKSmlY2Xp11XDNAkbRx_6WEzK5EmYyyLCWxR4vjTr5xd4IJRpEDSy2o0RbE) ![](https://remnote-user-data.s3.amazonaws.com/WM4k9jUW-G-mq7NmnwFcpDyKrMsccD6aAP13GoQGa1m0r1sS-RKXYq5xzDKc9OpiJA0xQRKlmiPVW1yXxtCJVN0xDFH7fq3TOhcd9aZF6gBy1gj3d0TKVjiHutDwYl7_)
+					- Monkeys who figured trap 1 used same strategy on trap 2
+					- Can trial and error, but not understand causal chain
+					- ^^Dogs have inferential reasoning^^―they can learn to open doors with the presence of humans to train/demonstrate how to open
+			3. Central Tenet of Experimental PsychologyAll behavior potentially explained by multiple psych. mechanisms ↓
+				- Behavior
+					- Mech 1
+					- Mech 2
+					- Mech 3
+					- Mech 4
+				- Evolution definition in terms of allele―change in allele frequency over time
+				- Cognition―Flexibility, mental flexibility, mental trial and error
+				- Tinbergen 4 levels analysis for biological traits ↓
+					1. Phylogenetic (Phylem) - species
+					2. Ontogenetic (Path) - developmental paths
+					3. Functional (Payoff of trait) - what does it allow you to do?
+					4. Proximate (Mechanism) - how does it work?
+					- 4 levels do not compete, but help reveal each other
+			4. Dog Pointer Experiment vs. Chimps ↓
+				- Dogs understand gestures
+					- Use rock to point to right one, dogs get right but not Chimps
+				- Puppies can understand human gestures/novel markers as 6 weeks, while wolves do not have that ability, even when raised by humans
+			5. Empathy is demonstrated early by contagious yawning
+				- Bonobos―Good-willed and prefer to share w/ strangers
+					- Closer relatives than chimps, but have none of the dark traits of humans and chimps
+					- They selected towards interested/less violent males, perhaps due to matriarchy
+				- Contagious yawning demonstrates social behavior
+		- Philosophy ↓
+			1. Emotivismmoral judgements from emotion ↓
+				- Knowledge (classical account)―Knowledge is true belief, and requires truth
+			2. ^^Gettier Case Example^^^^ ^^ ↓
+				- Stopped Clock - Bertrand Russell
+				- Sheep Framer Sees
+				- Actually thought true, and thought true, but not through understanding or intuition, but luck
+				- Raise question - If true belief is justified, is it still [Knowledge (classical account)](Braden Wong/Notes/Coursera Courses/Philosophy/Emotivism/Knowledge (classical account).md)?
+				- Radical skeptic―we know very little
+					- Brain-in-vat hypo
+			3. Why Obey Law? Theory ↓
+				1. Benefit - Obligated because we benefit
+				2. Consent
+				3. Fairness
+				- Philosophical anarchism―no obligation to follow the law
+				- Believing or not believing miracles (testimonies)
+					- Hume
+						- Hume's Definition of a miracle―a violation of natural law
+							- The evidence in favor of a miracle will always be outweighed by the evidence for the law of nature
+					- Reid
+						- stance on [Hume's Definition of a miracle](Braden Wong/Notes/Coursera Courses/Philosophy/Why Obey Law? Theory/Believing or not believing miracles (testimonies)/Hume/Hume's Definition of a miracle.md)―Against because of the [Principle of Credulity](Braden Wong/Notes/Coursera Courses/Philosophy/Why Obey Law? Theory/Believing or not believing miracles (testimonies)/Reid/Principle of Credulity.md). We are hardwired to rely on testimony--children are most trusting of them from birth. #[[Hume's Definition of a miracle]]
+						- Principle of Credulity―We are hardwired to rely on testimony--children are most trusting of them from birth.
+					- Kant
+						- Don't trust testimonies
+				- Are Scientific Theories true?
+					- Views on the construction of scientific theories―
+						- syntactic―structure
+						- episteme―why believe?
+						- semantic―meaning
+						-
+					- Identity Theory―mental state = brain activity (mind = neurons)
+					- Chinese Room―Machines control syntax, but not semantics
+					- Constructive Empiricist―science aims to produce theories that are empirically adequate rather than true, and to accept a theory involves no more belief than that it is empirically adequate
+			-
+			-
+		- Communicating Effectively in Teams
+			-
+			- Transmission model―Model, communication as a linear process of sending and receiving messages from one person to another (default communication process model)
+				- ![](https://remnote-user-data.s3.amazonaws.com/D92jUzF8kXFPwrITN-nTd3D55lYRSvMEQnrA5jQqTCX7fhkb0AFI0Alc1rbW4QasMM3aPR0fu9dypS6W85WMP1FvoaA_ZBzUrffrsxeFHRIc9d2w91UOXNeEdVD_jV5N)
+			- Context―Circumstances that form the setting for group communication
+			- Pluralism―The idea that there are many social worlds and constructs
+			- Preferred mode of talk
+			- Scale―Small group vs. big group in communication
+				- The Boulder City Council is planning a public meeting to discuss how to manage and develop a new parcel of open space land that the City of Boulder recently acquired. This is an important public issue and many people have strong opinions about what to do--or not do--with the land. The City Council wants citizen input, but there are so many people interested in this issue that it will be impossible to involve everyone at a public meeting. So the City Council creates a "citizen's input panel" made up of ten Boulder residents who will gather input from the entire community and represent these interests to the City Council in a report to be presented at the upcoming public meeting.
+			- Socialization―The learning of norms, values, and behaviors to fit into a culture or group
+			- Phase Model for groups―Linear phases
+				- Forming
+				- Storming
+				- Norming
+				- Performing
+			- 5 Best Communication Practices ↓
+				- Multiple alternatives
+				- Dissent and debate
+				- Assumption testing
+				- Perceived fairness
+				- Well-defined criteria
+				- \
+			- Decision-Making Traps
+				- Anchoring―First one is most impressive
+				- Status quo
+				- Sunk Costs
+				- Confirming evidence
+				- Framing
+				- Estimating & forecasting
+			- 6 Team Conflict-Resolving Tactics
+				- Use facts, more information
+				- Multiple Alternatives
+				- Commonly agreed upon goals
+				- Inject humor
+				- Balanced power structure―Group members feel that they are being heard
+				- Unnecessary consensus―Disagreement is inevitable and we don't always have to force consensus to make process
+			- 4 Principles of Principled Negotiations
+				- Problems, not people
+				- Interests, not positions
+					- The orange analogy: Skin vs. flesh
+				- Options
+				- Standards
+			- 3 waves of virtual works
+				- 1st wave―Virtual freelancers, whole new level of workers in 1980s
+				- 2nd wave―Virtual corporate colleagues
+				- 3rd wave―Virtual coworkers, human interaction preserved
+			- Presenteeism vs Absenteeism―Presenteeism is less productive but more traditional
+			- Models of Communication Technology
+				- Media richness―Effective communication is a function of media richness and ambiguity
+					- Using the right rich vs. lean media depending if topic is ambiguous vs. specific
+					- ![](https://remnote-user-data.s3.amazonaws.com/fIG6w-v9pVB5CKt0IvZcfjKjl2Pu3RMpWBNEkMkwWIuDK7I54A3dHCfuS5d_xaMNFYdbo5C5q3d6wOkwIyw4UQ7nGTsgG1KUhqS8jwdgooNazK6lDCFSy2yYcDLs3xo8)
+				- Dual Capacity Model―Means of communication have different cultural contexts
+			- Nature of Communication
+			- Diversity among competing interests
+			-
+		- Predictive Analytics for Business Nanodegree
+			- Methodology Map
+				- ![](https://remnote-user-data.s3.amazonaws.com/wFqMGeO3y7J71bi3hWc6EpxYH8_zys2GeEbKOB6_0jYswq38BY24FDCXozzWIfTYsH2GHh1zn4zhrsSZ-Xuo7HdGtXJJRYn0ynt87SgAktvH2UPqJxJ-VYbV_sRIT-wM)
+			- Non-Predictive Analysis 4 Categories ↓
+				-
+				-
+				- Geospatial Analysis―Location based. Calculating trade areas, store locations, etc.
+				- Segmentation Analysis―Grouping data together into categories
+				- Aggregation Analysis―Calculating a value across a group. Adding up all profit in year, month, etc.
+				- Descriptive Statistics―Mean, Median, Mode, Standard Deviation, Interquartile range, etc. of data
+			- Data Science Classification Models (Based Off Target Measurement)
+				- Types of Data Science Numerical Classification Models (3)
+					- Continuous vs. Count―Any measurement in range vs. integer
+					- Time-Based―Forecasting
+				- Types of Data Science Non-Numerical Classification Models (2)―Binary (2 choices), non-binary (3 or more)
+			-
+			- Linear Regression
+				- Functions in Excel
+					- Slope()
+					- Intercept()
+					- Rsq()
+					- Correl()
+						- $r$―Correlation Coefficient
+						- $r^2$―Coefficient of determination
+						- r >.7 is pretty good, (.5, .7) is okay, <.3 is not useful
+					- Slope()
+				- Linear Regression (Single and Multiple)―$y=mx+b$ and $y=b_0+b_1x_1+b_2x_2$
+					- Using regression in Data Analysis add on of Excel―![](https://remnote-user-data.s3.amazonaws.com/i1mjRzy9a7RGMMXwCWEMht8TzTAW2BwfW8e0EResaRwK5BBhR6DdeiAFtW51vAzQOQhv6N4GHFo-ycytnLVL2_sf_x7hupYLqBP_4buZWJQZph39Pqq07EAz49Iye-PV)
+					- Dummy variables―a variable that takes two values, generally one or zero
+						- a much better way of using {{categorical }}variables in regression
+						- ^^add one dummy variable for ^^^^{{one less than the number of unique values in the categorical variable}}^^^^ ^^
+						- if the variable is binary, you'd add {{one }}dummy
+						- if there are four categories, you'd add {{three }}dummy variables.
+						- example―![](https://remnote-user-data.s3.amazonaws.com/ipad3678zEIO80jPFfNi6P4rQm0jvFKUz_SGxHVLciGwqKcibPMwrM0LlcdaR-syK9tuM1Y6oW5-c_NYjy03A_-Gga_p17MyGzErs7cylM3AG1Euan1dCgl52lNW-G7E)  The location (west, east ,etc.) is a dummy variable that is 1 if true and 0 if false
+						-
+			- Types of Data
+				- Structured―Rows and columns, Excel
+				- Unstructured
+				- Semistructured―HTML, JSON
+			- Dirty Data―Data with errors or duplicates in entering
+				- examples―incorrect name spelling, duplicate entries, wrong/old address
+			-
+			-
+			-
+		- Data Science Math Skills
+			- Product Rule
+				- formula 1―$P(A,B) = P(A|B) \cdot P(B)$
+				- formula 2―$P(A|B) = \frac{P(A,B)}{P(B)}$
+				- old definition of independence―$P(A,B)=P(A)P(B)$
+					- ![](https://remnote-user-data.s3.amazonaws.com/bnNc6_-Uh438aQNrKAQIdRclaq73V3YBgfLW--HGngUYx3ZGcNqX0JHxPyOQ_GLgL486Ae1oeSrqa0Saeqgyq70of0iZUJh_xQztJ9F02DwVfEr9skuLgRUmiNZeFtTD)
+				- new definition of independence―$P(A|B)=P(A)$
+			- Bayes' Theorem
+				- problem use case―Inverse probability problems
+				- ![](https://remnote-user-data.s3.amazonaws.com/rLJpBog4WAbg3Kep3mKr7RsdeieUcXRHW805k4yqA2uHyYyvHqwvYY8pehoFpbTjMuo0FNDkRxqp3i3vXDCOO50m8wTm9nT7sQf8dpR0DfwZ19_jTL7s9aS16I9qq2yK)
+			-
+			-
+			-
+			-
+		- Algorithmic Toolbox and Data Structures (Google)
+			- Algorithmic Toolbox
+				- [ Course 1 — Algorithmic toolbox — Part 1: Introduction](https://towardsdatascience.com/course-1-algorithmic-toolbox-part-1-introduction-c29b8175430f)
+					- Naïve Algorithms
+				- [ Course 1 — Algorithmic toolbox — Part 2: Big-O and Greedy](https://towardsdatascience.com/course-1-algorithmic-toolbox-part-2-big-o-and-greedy-6265d9065f05)
+					- Greedy Algorithms―maxim
+						- safe move―Consistent with some optimal solution
+						- method ↓
+							1. Make a greedy choice
+							2. Prove it is a safe move
+							3. Reduce to a subproblem
+							4. Solve the subproblem
+						- knapsack (applied greedy method) ↓
+							1. Choose highest value object (greedy choice)
+							2. Proved it is safe move (maximizes value)
+							3. Reduce remaining subsection of knapsack as subproblem
+							4. Apply 1. on remaining subproblem
+				- [ Course 1 — Algorithmic toolbox — Part 3: Divide and Conquer](https://towardsdatascience.com/course-1-algorithmic-toolbox-part-3-divide-and-conquer-dd9022bfa2c0)
+					- Divide and Conquer
+						- Multiplying Polynomials Problem
+							- pairwise problem―pair $a_0b_0, a_1b_0, a_0b_1, a_1b_1$
+							- Karatsuba Algorithms―note that $a_1b_0+a_0b_1=(a_1+a_0)(b_1+b_0)-a_1b_1-a_0b_0$
+								- advantage―only need to calculate 3 instead of 4 terms
+							- $$
+				- [ Course 2 — Data structure — Part 2: Priority queues and Disjoint set](https://towardsdatascience.com/course-2-data-structure-part-2-priority-queues-and-disjoint-set-ed11a0383011)
+					- Dynamic Program
+						- The Coin Problem
+							- visualize RecursiveChange―![](https://remnote-user-data.s3.amazonaws.com/ykH8tXM-BZSifzkkh-5iGeCkvZfS19oaXJJXU1yn0RoN8mcOm3x_PH9qqq8ItjyJx3briHD1WO1f_8f6EPDeX7ZjPEr2Q4qc3iqNYVmWToOzDfpi9VRXWArBP8KuECB9)
+						- definition―precompute and storing subproblems to find solution
+						- similar to―recursion
+						- helpful for―overlapping subproblems, solving the same problem many times
+			-
+			- Data Structures
+				- [ Course 2 — Data structure — Part 1: The Basic data structures](https://towardsdatascience.com/course-2-data-structure-part-1-the-basic-data-structures-4f4b5bd380c1)―Arrays read and write with O(1), Linked Lists insert after (and before with Double Linked) with O(1)
+					- Arrays vs. Linked List Advantages?―Arrays read and write with O(1), Linked Lists insert after (and before with Double Linked) with O(1)
+					- Arrays
+						- advantage for access―constant time for read and write
+						- only adding operation with O(1) time―append (all others require shifting)![](https://remnote-user-data.s3.amazonaws.com/ixLZ6K12Y0-LCwxp2hFOOx44bw_3FPyxzjHvX-sDv5xMchU7Xogw4E15e-eY1t9th0aIp473U_-Lq7E2pnmS9HoJNwJDYBaYd3rr5zbRDZd5aSK5s3pnefWUV-4Im3jN)
+					- Linked Lists
+						- tail pointer―an additional node that points to the value of the tail element ![](https://remnote-user-data.s3.amazonaws.com/bw0sVzFizYgQ1BPR9BQE1hs-clMATcCsqswHdN1hCijtoPyTg2yB0xdNqi9iUp9rcetv9_civYCXbYv5x75WQbeTRrb6aOlJBfYTTAXzyp6reS2tJSarifiYMWhRYIpK)
+						- Operations―
+							- PopFront―O(1)
+							- PushFront―O(1)
+							- No tail
+								- PushBack―O(n)
+								- PopBack―O(n)
+							- Tail
+								- PushBack―O(1)
+								- PopBack―O(n)
+							- ![](https://remnote-user-data.s3.amazonaws.com/RmQ_H3zr5EMyJfDIrGNNOQxrZeRAm6JExEIQNE1fJyvy3Pvou7ksQojl-yWG2BX5fyLBKFSW8Fmh8B088j0uDzoY5SORvStzE4_LXC5m4QzwIIpCtvilV2SaPjTZgGjw)
+						- Singly vs. Doubly Linked List―PopBack and AddBefore are now O(1)
+							- ![](https://remnote-user-data.s3.amazonaws.com/VShrlzYE6CXFxad2zpuIu5rF7-ZuDX9LWmNQW9WT-pFr2pSvt3f1kGrsILIZ7-Ph0PNsslXAEmNb4cbDOyCPLhPiTzMOjAvQ8QIAaGi8xvrYLphkAXsrMOb5ww9IKGZI)
+					- Stacks―Adding and taking from the top of the list
+						- runtime O() of each stack operation (Push, Pop, Top, Empty)―O(1)
+						- cool implementation―Linked List, since shifting is an O(1) operation
+					- Queues―First first serve
+						- operations―Enqueue, dequeue
+					- Dynamic Array―Array that resizes to add new elements
+						- Stores array, capacity, and size
+							- Which one is bigger?―Capacity (doubles every so often)
+				- [ Course 2 — Data structure — Part 2: Priority queues and Disjoint set](https://towardsdatascience.com/course-2-data-structure-part-2-priority-queues-and-disjoint-set-ed11a0383011)
+					- Priority Queues (vs. queues)―No front or back, but a bag of assigned priorities![](https://remnote-user-data.s3.amazonaws.com/XzbOy7TX7QSxwy0-SZQlzzfE76FazBrL3io0-qrWfdev64aPWruCzblXtc43C179DQrJ4le0u8TJP02HTIkBqvmmBWYQbk1ImMfpMW5IaPFEkWlP_qj1vi4vZNpoXiPh)
+						- useful in many different algorithms (like Dijsktra's)
+						- Functions in a priority queue ↓
+							- Remove
+							- GetMax
+							- ChangePriority
+						- using an unsorted array vs. sorted getMax() runtime―O($n$) vs. O(1)
+						- using an unsorted array vs. sorted insert() runtime―O(1) vs. O($n$)
+					- Binary Tree―Tree with roots
+						- complete binary tree (aka heap)―All levels filled except possibly lowest one, which is filled {{ left }} to {{ right }}
+						- Heap―A binary tree that is a [complete binary tree (aka heap)](Braden Wong/Notes/Coursera Courses/Algorithmic Toolbox and Data Structures (Google)/Data Structures/ Course 2 — Data structure — Part 2: Priority queues and Disjoint set/Binary Tree/complete binary tree (aka heap).md)
+						- Height―The maximum number of edges, not nodes
+							- A tree with only one node has height {{ 0 }}
+					- [Heap](Braden Wong/Notes/Coursera Courses/Algorithmic Toolbox and Data Structures (Google)/Data Structures/ Course 2 — Data structure — Part 2: Priority queues and Disjoint set/Binary Tree/Heap.md) Sort―create a heap/binary tree and swap until root is largest node, then prepend to output and swap with the last node
+						- Sift―Look at children nodes and replace swap parent with child if greater
+							- Insert uses {{SiftUp}} t
+							- SiftDown―Start from top node and work down
+								- runtime―based off the height of the tree but also how many children per node (to be compared), or O($n\log n$ )
+								- Used in {{ extractMax }} to replace root node with last leaf and let it sift down the tree
+							- SiftUp―Start from bottom node and work up
+								- runtime―based off the height of the tree, or O($\log n$ )
+								- Used in {{ insert }} function to attach a value to a bottom leaf and let it bubble up the node tree
+						- used with heap sort―start with quicksort, if runtime appears to be worse than $n\log n$ , then switch to heap sort
+					- Disjoint Sets―
+						- Union(a,b)―Attaches shorter of a or b to the taller tree's root. If a and b have same [Height](Braden Wong/Notes/Coursera Courses/Algorithmic Toolbox and Data Structures (Google)/Data Structures/ Course 2 — Data structure — Part 2: Priority queues and Disjoint set/Binary Tree/Height.md), then attach a to b
+						- Rank Heuristic―Compares tree heights and places shorter under taller
+						- Path Compression Heuristic―Finds root of node and attaches node directly to root (height becomes 1)
+				- Amortized Cost―A schedule that pays the average cost of something over time
+					- example with $6,000 car in 5 years/60 months―amortized cost is $100 per month
+					- Amortized Analysis 3 Methods ↓
+						- Aggregate Method
+						- Banker's Method―Use tokens to simulate payment
+						- Physicist Method―Model algo with a formula
+			- Trees
+				- search functions: {{depth}}-first search vs. {{breadth}}-first search―{{depth}}-first search vs. {{breadth}}-first search
+				- Depth-first search methods ↓
+					- Left to right, up to down
+					- InOrderTraversal (binary trees)―Print left child, parent, then right child
+					- PreOrderTraversal―Print children, then parent
+			-
+			-
+			-
+		- Science of Success
+			- <25% success related to IQ
+			- Growth mindset vs. fixed mindset
+			- Stereotype threat―Feel at risk of conforming to stereotypes about their social group.
+			- Social Capital (Don't confuse with human capital)―Mutually reciprocal relationships that benefit all, the resources you get from personal and professional relationships
+			- Nobody wants to work with a deenergizer, even if they know more than someone who makes them feel good
+			- Nearly 80% of professionals have a blind spot--what they perceive as a strength but others see as a weakness
+			- Susan Fiske - People make assumptions about your warmth and competence within the first few seconpds of meeting you.
+		- Successful Career Development
+			- Netweaving―What I can do for you, not what you can do for me (networking)
+			- Go into networking event as a research opportunity to find successful and interesting people in a variety of industries, not for a job search
+			- My explanations
+				- Please describe one of your career interests.
+					- The application of data ownership with artificial intelligence to provide alternate income streams to the public. This is analogous to as if Youtube paid its users a share of their data used to train Machine Learning recommendation models.
+				- Create a LinkedIn headline that you might use to enter your expressed field of interest.
+					- Artificial intelligence and data ownership to supercharge business models and economies
+				- Please explain the link between your career interest and the LinkedIn headline.
+					- The LinkedIn summary encapsulates my ultimate career interest but also in terms of what employers may seek, alternative business models
+			- Today's engineering graduate is obsolete in less than five years.
+		- The Essentials of Global Health
+			- Intro / Global Terms
+				- Social determinant―The conditions in which people are born, grow, work, live and age and the wider set of forces in systems shaping the conditions of daily life.
+				- Direct determinants of health―Sex, genetics, etc.
+				- Sustainable development goals (SDGs)―Goals set in 2015 for 2030
+				- UNICEF―specialized agency of the United Nations system
+				- Product development partnership―Nonprofit that enables public, private, academic, and philanthropic sectors to work together to enable research for development of diagnostics, drugs, vaccines, etc.
+				- Which of the following are the specialized agencies of the United Nations that are most involved with health?―UNICEF, WHO
+			- Mortality rates
+				- maternal mortality ratio―Number of woman who die from pregnancy related causes for every 100,000 live births
+				- neonatal mortality rate―Number of deaths to infants under 28 days of age in a given year per 1,000 live births in that year
+				- As countries get better developed and people live longer in them, neonatal deaths represent a {{greater }}fraction of all under five child deaths
+			- Disability Adjusted Life Year (DALY)
+				- definition―A composite health gap measure that takes account of the years of life lost due to premature death and the years of life spent living with disability
+				- Years of Life Lost (YLL) due to premature death―years of life lost due to dying before your time
+				- Years of Life Lost due to Disability (YLD)―number of years you live with a certain disability multiplied by weight of disability
+				- equation―[Years of Life Lost (YLL) due to premature death](Braden Wong/Notes/Coursera Courses/The Essentials of Global Health/Disability Adjusted Life Year (DALY)/Years of Life Lost (YLL) due to premature death.md) + [Years of Life Lost due to Disability (YLD)](Braden Wong/Notes/Coursera Courses/The Essentials of Global Health/Disability Adjusted Life Year (DALY)/Years of Life Lost due to Disability (YLD).md)
+				- affects men or women more―women
+			- Epidemiological transition―transition from a disease profile of predominantly [Communicable Diseases](Braden Wong/Notes/Coursera Courses/The Essentials of Global Health/Epidemiological transition/Communicable Diseases.md) to one that's predominantly [Non-communicable Diseases (NCD)'s](Braden Wong/Notes/Coursera Courses/The Essentials of Global Health/Epidemiological transition/Non-communicable Diseases (NCD)'s.md)
+				- Non-communicable Diseases (NCD)'s―disease that cannot be spread from person to person
+				- Communicable Diseases―disease that can be spread from person to person
+				- Over the last several decades, the share of total deaths attributable to noncommunicable diseases and injuries has {{increased}}
+			- Neglected Tropical Diseases (NTDs)―group of parasitic and bacterial infections that are mainly prevalent in tropical and subtropical areas
+			-
+		- [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome)
+			- Neural Nets
+				- Feed Forward Neural Networks―no loops
+				- Convolutional Neural Networks―Apply filter to image or sequence of images
+					- use cases―Image recognition
+				- Recurrent Neural Nets―Sequence of input data matters
+					- use cases―Natural Language Processing
+			- Amazon Tools
+				- Rekognition―Recognizes celebrities, objects, structures
+				- Deeplens Ecosystem
+					- Sagemaker―Train and validate ML model
+					- DeepLens―Create a computer vision model
+					- Lambda―Create project function s
+					- Greengrass―Deploy [Lambda](Braden Wong/Notes/Coursera Courses/Getting Started with AWS Machine Learning/Amazon Tools/Deeplens Ecosystem/Lambda.md) functions
+		- Big History
+			- Stars
+				- Population 1
+					- luminous, they're hot, they're young, and metal-rich
+				- Population 2
+					- older, less luminous, cooler, colder, metal-poor
+				- Massive stars live fast and die young
+			- Planets
+				- Formed gently
+				- Planetary formations past the ice belt enable formations of large gas giants
+				- Jupiter's rampage into the asteroid belt theory
+					- Explains why
+						- Mars is smaller than normal (Jupiter threw away a lot of material)
+						- No planets near the asteroid belt (the materials there are moving way too quickly to form a planet)
+					- The only thing that stopped was the resonance of Jupiter and Saturn
+				- Hundreds of mars-sized protoplanets in the early solar system, only 4 survived and others were ejected
+			- Earth Moon System
+				- Collision of protoplanet with Earth, causing melting of Earth
+				- Peculiar characteristics
+					- Extraordinary amount of angular momentum
+					- Moon was molten sometime in its history
+					- Earth is water, Moon is bone dry
+					- Chemical and material similarites from Earth
+			- The Earth
+				- Earth is extraordinarily dense
+					- Volume calculated in ancient times, mass extrapolated from gravity
+					- density = 5.5 tons/cubic meter, but crust is much less dense than this
+					- Deep earth must be very dense
+				- Study of shockwaves through
+					- Slow waves through only solid
+						- Stopped at 2900 km, indicating change to liquid
+					- Fast waves through solid and liquid
+			- Humans
+				- Collective learning means that humans have acquired more and more information about their environments
+				- Over time, hominin ancestors became increasingly less sexually dimorphic
+				- One key cognitive difference between humans and chimpanzees―
+					- Humans have better abilities to imitate and learn by imitation. Allows more than one teacher, uncles and aunts and etc.
+				- Collective learning―ability of a species to accumulate more information with each passing generation than is lost by the next.
+		- Nomads
+			- Palaeolithic―Nomad, characterized by stone tools
+			- Humans have been foragers for approximately {{ 95 }} % of their history.
+			- What are the four world zones?
+				- Afro-Eurasia
+				- Australasia
+				- Pacific Islands
+				- Americas
+		- Future
+			- Climate Change
+				- Temperatures have only risen about a degree since the Industrial Revolution
+				- and that doesn't sound like much
+	- YouTube Notes
+		- [ Which of these TWO ways do you perceive time?](https://youtu.be/5b0Nn9jE5Hc) #Science
+			- Time is objectively measured but subjectively understood
+			- Are you moving through time or is time moving through you?
+				- the 12pm meeting was moved forward by 2 hours―![](https://remnote-user-data.s3.amazonaws.com/BglYsVgRGmLJW71AR-spm1xnaZMKpZ1GwNX-yzGXAZQXpZGb6UJ7rsHahCEp1taqFhhURWThmkiJRFCdVXSkyr4UFVlZlDvvf6t6r6HQhU_Hs1CCewz9CnVV1Zs_3QpG)
+			- Ego-moving perspective―![](https://remnote-user-data.s3.amazonaws.com/lQWahlK74RwCEFlcTDTMsV_qiiwbFLIcUTWq0Q51OwzdYmRNeArvGtcBInx8tFD5-RNwt2fYYXLfomj_Z0-uSgxvuoYVcTvwgnR9zyi5gKE3CWFAlTnrxE7BBABZvegp)
+			- Time-Moving Perspective―![](https://remnote-user-data.s3.amazonaws.com/ndnPFnBcjt7nuIYC59g-x4_UPSzTAQUKwc6vmBNu5EALW6aXdOVtnboJLRf4UXD9T0y5u_Yc5xH27Ihc5CYfpQqxWG559A_BGdJ600f96RB9r39Mysuw805jvW39Clzg)
+		- [ An Actual Review of Titanfall 2 - YouTube](https://www.youtube.com/watch?v=L5uaeT_5HpQ) #Gaming
+			- A mediocre game done well is infinitely better than a good game done poorly
+			- The comments on that Call of Duty really confused me
+				- Despite no recollection of having set them to disabled, about half of them seemed to be anyways
+			- If it's not worth your money, it's at least worth your time
+			- A meta isn't designed, it's discovered
+		- Cold War [ What game theory teaches us about war | Simon Sinek](https://www.youtube.com/watch?v=0bFs6ZiynSU&list=WL&index=15) #Leadership
+			- The United States declared that it won, but the Soviets had {{dropped out }}of the infinite game
+				- The Cold War is an {{infinite game}}, not a finite one
+			- Nuclear, Ideology, Economic―Life, Liberty, Happiness
+		- [ Why Scurvy Shouldn't Exist](https://youtu.be/rn5I5tfsFN8) #Science #Science
+			- What Vitamin C is necessary for―Collagen Production
+			- We lost the gene for Scurvy through {{random mutations}}
+		- [ Shark Tonic Immobility](https://www.youtube.com/watch?v=zeEUgZlogkM)―Flipping or stroking nose allows a trancelike state #Science
+			- Shark Notes
+				- Breathing
+					- Many are able to gulp air through Buccal {{Pump}}ing
+					- Obligate Ram Ventilators
+				- Lack of Swim Bladders allows them to ascend and descend {{rapid}}ly
+				- Can hear {{low }}frequencies in a small hole in their skin
+				- Electrosensory System
+				- Reproduction ↓
+					- Oviporous―Egg-laying
+					- Vivoporous―Live Birth
+					- Ovovivoparous―Live birth with egg laying
+					- Intrauterine Cannabalism
+				-
+				- Coloration
+					- The gray top and white bottom of sharks is an example of {{counter-shading}}
+				- Eyes
+					- Reflect light through retina {{twice}} for low light sensitivity
+					- {{Eyelids }}close when biting prey
+				- Male vs. Female
+					- Claspers―Doubled male genitalias
+		- [ Why Does Hair Grow The Way It Does?](https://www.youtube.com/watch?v=sMCgOQj37IY) #Science
+			- Hair is made of {{ keratin}}
+			- Androgenetic hair is produced by hormones during {{adolescence}} (i.e. pubic hair)
+			- Gray hair comes from a {{ lack of color }} and is not a color itself
+		- [ Adam Smith: The Grandfather of Economics](https://www.youtube.com/watch?v=NqUSDi-mvqw)
+			- The prevailing theory at Smith's time was {{ mercantalism }} , a zero-sum theory
+			- Adam Smith's guiding hand of the free market was a counter to {{ mercantalism }}
+			- The process of creating value (a tool is worth more than the sum of its parts) is also known as manufacturing
+		- [ Robotics Expert Breaks Down 13 Robot Scenes From Film & TV | WIRED - YouTube](https://www.youtube.com/watch?v=PJO8oks6zZk) #Science
+			- Utility Functions―Willingness to give and take. Would save a lot of problems
+		- [ No, Your Dog Doesn't Think You're the "Alpha" - YouTube](https://www.youtube.com/watch?v=3EyLLTQCGjc)
+			- Alpha Wolves―Were studied with Wolves from many different packs, so their hierarchy was based off dominance
+			- Typically based off family values
+		- [ HOW TO LURK IN VALORANT - Playing specific roles, Guide to Lurking and not being a baiter. - YouTube](https://www.youtube.com/watch?v=acrz_Po9LzA) #Gaming
+			- Don't peek as a lurker, go the other way (your job is not to entry)
+			- Shift walk
+		- [Get MORE KILLS and STOP DYING!](https://www.youtube.com/watch?v=1NE09BF8pGs) #Gaming
+			- Incorporate mini jiggles into your peeking
+			- Peeking
+				- Pre-Aiming
+				- Tracing
+				- Prefire Peeking
+				- Strafe Shooting
+				- Clear One Angle At A Time
+				- Angle Advantage
+			- Wide Swinging―Only if you are facing one enemy / angle
+			- Shoulder Peeking
+				- Bunny Hop Shoulder Peeking―Jump airstrafe across corner
+			- Crouch Peeking
+		- MacBook Power Tips #Technology
+			- Emoji Keyboard―Ctrl+Command+Space
+			- Autocomplete―F5
+			- Select Text in a box―Option + Click Drag
+			- Preview in Finder on single or multiple selections―Press Space
+			- Change login page with information
+		- As Fast As Possible #Technology
+			- Nearest Neighbor Scaling Mode (TV's playing blurry Video Games)―Alternative to normal TV upscaling. Upscaling and heavy algorithms blur edges to make it seem more lifelike, at the cost of pixels
+			- Why is there no Channel 1?―TV and Radio were interfering, so Channel 1 was axed. FCC never shifted Channel 2 to be called Channel 1.
+			- DDR5 Ram―Faster Hz
+			- Computer CPUs
+				- lga―Land Grid Array
+				- pga―Pin Grid Array
+			- Video Compression
+				- Spatial Compresssion (Intraframe) [JPEG]―chromasampling -> macroblocks
+				- Temporal (Interframe)[mpeg]―i frame -> b frame -> b frame -> p frame
+					- i frame―JPEG
+					- b frame―interpolation between p and i frames
+					- p frame―constructed using move instructions
+			-
+			-
+		- Make your most important decisions at 10:30 AM #Productivity
+		- [ Why Are Pandas Black and White? - YouTube](https://www.youtube.com/watch?v=hMgKEzr_Gt8&t=55s) #Science
+			- Need both as snow and in the trees
+			- Black around eyes for masks
+			- Pandas can differentiate masks and can remember from an entire year
+		- Make your most important decisions at 10:30 AM
+		- [ A Flaw In Street Design May Be Costing Lives - Cheddar Explains - YouTube](https://www.youtube.com/watch?v=yyWYvovLvMQ&t=68s)
+			- Safe street design led to shift in driver behavior that led to speeding up, which in turn actually killed more
+			- Speed is the biggest killers
+		- [ The Unseen Inefficiency of Escalator Etiquette - Cheddar Explains - YouTube](https://www.youtube.com/watch?v=vbsoO2c7gCM)
+			- The split in elevator leads to inefficiency and danger of collapse
+			- Standing on both sides (no walk lane) leads to 30% increase in capacity
+		- [ The Problem with Auto-Tune](https://youtu.be/05hTQC1CZko)
+			- Auto-Tune vs. Pitch Correction―Pitch correction is EVERYWHERE
+			- You shouldn't be afraid of the obvious auto-tune (T-Pain, Kesha), but the ones where you can't notice
+		- [Why is Blue rare in Nature?](https://www.youtube.com/watch?v=3g246c6Bv58)
+			- Blue is engineered, not pigmented.
+		- [ How Oak Trees Manipulate Squirrels To Abandon Their Acorns - YouTube](https://www.youtube.com/watch?v=DPCL9kj7_bU)
+			- Predator satiation, like Cicadas
+			- Mast years are higher yield. These are much better than to spread it out evenly, as this overwhelms the current squirrel population but doesn't lead to a long-term increase in squirrel population
+		- [https://www.youtube.com/watch?v=hUhisi2FBuw](https://www.youtube.com/watch?v=hUhisi2FBuw)
+		- [ Why San Francisco Has No Active Cemeteries - Cheddar Explains - YouTube](https://www.youtube.com/watch?v=OzagOUTsV8A)
+		- [https://www.youtube.com/watch?v=URlA7irXpp0](https://www.youtube.com/watch?v=URlA7irXpp0)
+			- Salmon sushi is a European invention from Norway because Pacific Salmon has parasites (but Atlantic doesn't)
+			- Chinese takeout box is American, never been used in China
+		- [Why Don't Birds Lay Square Eggs?](https://www.youtube.com/watch?v=otvvUzFh5Do)
+			- Ovals are not necessarily symmetrical (egg-shaped in Latin), but egg-shaped. Ellipse is symmetrical
+			- The curve for an egg is stronger than half circle, which is called a catenary
+			- Eggs shapes are from membrane, not shell (you can dissolve shell and still same shape)
+			- Odd shape may allow roll in circles rather than straight
+			-
+			-
+			- Universal dimension less variables and fine structure
+			- Changing a few variables would change the world drastically
+			-
+		- [What the Wright Brothers Should Actually Be Famous For](https://youtu.be/9S7H8TlkBC4)
+			- Wright brothers made steering possible
+			- Meticulous use of wind tunnel, even corrected values from the 17th century
+		- [ The Bizarre World of Animal Flight | Compilation](https://www.youtube.com/watch?v=a-7GUYDKpnM&t=56s)
+			- Slideslip―When a plane yaws but still goes in the same direction. This is dangerous because lift decreases
+				- Vertical tail helps correct sideslip and applies correct force
+			- Black backs help flying because they absorb heat and radiate to the back to ease air moving over the top
+			- Spiders use differences in electric fields to balloon up and down
+			- Bats
+				- 1/5 of all mammal species
+				- Have different immune systems because they fly
+				- To fly, mitochondria is in overdrive, have lots of oxidative stress which means lots of DNA damage
+				- Bats are able to fix DNA damage from overdrive
+				- However, DNA damage is also occurrence in disease. Bats suppress inflammation
+		- Spice
+			- Spice kills bacteria
+			- More prevalent in equator where bacteria is more common
+		- [ Do larger animals take longer to pee? - David L. Hu - YouTube](https://youtu.be/EidLGwyYpBE)
+			- The other Golden Rule
+		- [ Why are some people left-handed? - Daniel M. Abrams - YouTube](https://www.youtube.com/watch?v=TGLYcYCm2FM)
+			- The number of lefties reflects a balance of cooperative and competitive society
+			- Competitive pushes to 50-50 to gain fighting advantage
+				- i.e. baseball (50% of all big hitters are left)
+			- Cooperative pushes to 100-0 to gain tool-sharing/asset advantage
+				- i.e. golf players (only 4% are lefty)
+		- Real Engineering
+			- [A10](https://youtu.be/wk6Qr6OO5Xo)
+				- APU is an extra engine that allows main engine to start (often seen in back tail of airlines)
+				- Gun recoil halves forward thrust
+					- ![](https://remnote-user-data.s3.amazonaws.com/BBVlnjwhjUEXvFrFvtqDvrp8haKi4g-SuatQsdnBsEFt0wFHzdC3_8F3p83GdTX1REhIp8giKubZCA847CfaG-SiaVHKyb-cvXTrYAuiZdug9Ly8PG-DPNoxXzjwQelD)
+			- Wing Dihedrals
+				- Restoring force
+			- [ Why Fighter Jets Can Be Too Unstable - YouTube](https://www.youtube.com/watch?v=h6NsYyAUOHE)
+				- Stable vs. unstable equilibrium
+				- The use of the rear canards/horizontal as a restoring force
+					- Using downwash
+					- ![](https://remnote-user-data.s3.amazonaws.com/WbSyVH8BK-2UlVRhvlOdCa8TxOYJSPXxf_el3Jq24uzKPXLWxb4Mj-X2EIzjlVCGs4uoUOuah2V9YKvva1U06PWzyV4v_95gJQny7dwSsDC-apWnVaIz7UJc422S2yNu)
+					- ![](https://remnote-user-data.s3.amazonaws.com/9Wh1UBQSvbVJvA4nIhwohgXH44ftJ2NEFtmrbxyasObYVpjFzAfp5t_mlS6nvdpTIN9BS4-rL8eTcYttWx7gyB4ek6BwU1KgcksVsd14AydbI5SGdc0IR6DCD6QLc96b)
+					- Using angle of attack to increase/decrease downward force at end
+					- ![](https://remnote-user-data.s3.amazonaws.com/bkdwiEM_WtHWQhszTqpZJaWv5jEOdUa5A3Mdlj7-VTkq83pLq4fDRGgao0UkG6pTfm5ayu2LkIBH4EV9epgr1sSaPdaXoKFIHGm4d1dKr0Ar9iO-D-diA-ABbXjIYEGx)
+	- Podcasts
+		- Breathe through nose, not mouth
+			- Breathing out of mouth releases 40% more than nose
+			- Nose takes in 20% more oxygen than equivalent through mouth
+			- Tape up mouth, through nose
+			- Exhales should be completely in and out
+				- The body needs a balance of CO2 and O2, not enough CO2 is a bad thing
+				- Breathe normally and slowly
+				- Hypoventilation: double breathe out and then breathe in while running
+					- What triggers a need to breathe is not Oxygen, but CO2
+		- Lex Fridman
+			- Grant Sanderson
+				- Exponential Growth Curve
+					- Feynman is an incredibly deep thinker beyond the womanizer he is known for (as seen through his letter to his wife)
+						- Reinvention, trying to approach the problem by yourself. You gain a bunch of ^^inarticulatable^^ intuitions around the topic, formulations of counterexamples, etc.
+					- Rate of change is proportional to the amount of the thing in itself
+						- Internet: Creating more content allows you to create more content
+						- Software you write allows you to write more software
+						--------------------- Portal ---------------------
+							-
+			- Sheldon Solomon
+				- Psychologists, don't mistake statistical precision for knowledge
+				- John Locke
+					- Neoliberal/Conservative framework by today's standard, but used to bring down divine right/monarchy
+					- State of nature vs. social contract
+				- Marxism
+					- Marxism was a terrible economist, but great analysis of future problems with capitalism. Right problem
+			- Michael Malice: Anarchy
+				- Superman helps good people, batman hurts bad people
+				- Anyone who calls anarchy a utopia is a critic of anarchy
+				- "The problem with democracy is that those who need leaders are not qualified to choose them" - Michael Malice
+				- Language is a successful example of anarchy
+			- Jim Gates: Physics
+				- The architecture which enables our consciousness has no patent on consciousness #[[Ideas^[RemNote Graph](https://www.nhanvu327.com/rem-plugins/graph)]]
+		- Conversations with Tyler
+			- John Maynard Keynes
+				- Keynes discussed eugenics, concerns that India would out breed the English, and the idea that England was a great colonizing force
+				- Keynes was a complicated personality
+		- James Clear
+			- [ The 2 Types of Growth: Which Growth Curve Are You Following?](https://jamesclear.com/growth-curves)
+				- Type 1: Logarithmic Growth Curve
+					- ![](https://remnote-user-data.s3.amazonaws.com/zY2wQbhgnAe91dOnw0BNbxAHX4KhARRpDOc21jzcjE6gEEM1nSjwL8hAnelWvkqXO-EMbMw34EPNwu2X9YSuWuuoI6FhtILGnrZIoZ0bTKp7hTaTmWgvgN_Kp65gKLBq)
+					- examples ↓
+						- Fitness and Strength Training: The “beginner gains” come quickly at first, but then it becomes more difficult to get stronger each week.
+						- Literacy: Children and young students make massive leaps as they learn how to read. Meanwhile, college students and well-educated adults have to put in a focused effort to expand their vocabulary beyond commonly used words.
+						- Language proficiency: Learning how to speak even a rudimentary level of a new language opens up a whole new world. However, there are only meager gains left for fluent speakers to discover.
+						- Weight Loss: It may be relatively easy to shed five pounds within a week or two, but then the progress slows. Each successive pound of fat loss is more stubborn than the last.
+						- Musical skill: Improvements come quickly for a novice guitar player. Improvements come very slowly for a concert pianist.
+				- Type 2: Exponential Growth Curve
+					-
+					- ![](https://remnote-user-data.s3.amazonaws.com/OxI7gkVIJCfeH9Gkie7zH7i6y6GWhFfFRLvSDIGvMuw9r7M50idqCALPX1P-ta_m7KJeE9hywvAUEZ_tXt5xW21f7L2bOuSMQYf3OxcjZ8arYxu9WWP2XZmfc0ZW5_oK)
+					- examples ↓
+						- Investments and wealth: Thanks to the power of compound interest, your retirement savings start out as a small treasure in the early years, but balloon in size during the final decade or two of savings.
+						- Email subscribers and website traffic: New websites receive just a trickle of traffic here and there, but as the weeks and months roll on those trickles can build into a raging river of visitors and subscribers.
+						- Entrepreneurship and business growth: The assets that you build for your business stack on top of one another and revenue compounds throughout the life of a successful business.
+						- Social media followers: When you only have 100 followers, getting another 100 followers may take six months. Once you have 1,000 followers, however, getting the next 100 may only take one month. Once you have 100,000 followers, getting another 100 probably takes one day. Your growth rate snowballs.
+		- The Portal
+			- Peter Thiel #[[The Portal]]
+				- Powerful to powerless takes power
+				- Hyper capitalism and hyper socialism with ubi
+				- Almost all companies began with two people. Google Apple Facebook. Entrepreneurship is not alone.
+				- Slave ship near slave ship. One is independent
+				- Closed fist can't receive
+				- Positive sum
+				- How do we tell a story that motivates sacrifice, incredibly hard work, for gratification of a future that is not intrinsically violent
+					- Space Age, World War 2, etc., was a fight for the death
+				- Germany is pessimistic but comfortable, California is optimistic but uncomfortable
+				- Extreme pessimism says no point, extreme optimism says no need to do anything
+				- Two interesting points Eric learned
+					- Government is a monopoly on violence
+					- Nation is a group of people who've agreed to forget something in common
+				- Endowment per student
+				-
+			- Julius Caesar
+				- Triumvirate ↓
+					- Caesar
+					- Pompey
+					- Crassius
+			- Andrew Yang
+				- Make lifestyle around work
+			- Timur Kuran
+				- Préférence falsification―People's do not disclose that their hidden preference does not match their exoteric preference
+				- Eso and exo teric
+				- Cultural revolution of Turkey
+					- turks, not Muslims―Rapid secularization leads to preference falsification
+			- Men, Women, and Nikola [June 9, 2020](June 9, 2020.md)
+				- Men like watching, women like being watched.
+				- Men are like a mirror, the idea of being admired is what interests women
+				- Nikola
+				-
+			- [June 11, 2020](June 11, 2020.md)
+				- We're the only nation that stayed together after Civil War
+				- Men are wired to be expendable
+				- Ghandi prioritized nonviolence, violence, then pacifism. If choose between violence and pacifism, choose violence. Ghandi is not the person we thought.
+				- That time 14 & 15 year old boys beat the U S Women's National Soccer Team
+			- [June 13, 2020](June 13, 2020.md)
+				- Compute, Memory, Bandwidth
+				- Andrew Yang Interview with Eric
+				- Making lifestyle around work
+				-
+			- Rabbi Wolfe
+				- Christianity is portable
+					- As long as you believe in Jesus
+					- Enables separation of church and state
+				- Judaism is familial
+					- Cultural implications, you can be a Jewish Atheist
+					- Creation in religious law, not like Roman Empire
+			-
+			-
+			-
+			-
+			-
+			-
+			-
+		- Coleman Hughes
+			- Coverage Bias #[[Coleman Hughes]]
+				- For every George Floyd, there's a Tony Timpa.
+				- For every Breonna Taylor, there's a Duncan Lemp.
+				- For every Philando Castile, there's a Daniel Shaver.
+			- What happens after reparations? [June 10, 2020](June 10, 2020.md) #[[Coleman Hughes]]
+				- As an apology? When I apologize to my girlfriend, it is an acknowledgement that ends conflict. Will reparations truly heal racial conflict?
+			- Neil deGrasse Tyson #[[Coleman Hughes]]
+				- The percentage death in custody based off race is statistically insignificant
+				- The percent of getting into custody based off race is significant
+			- Stephen Pinker #[[Coleman Hughes]]
+				- Lead caused crime spike theory
+				- Incarceration rate of African Americans has continually decreased since 2001
+			- Thomas Chatterto #[[Coleman Hughes]]
+				- Native Americans are twice as likely to be killed by police than African Americans
+	- Favorite Stories
+		- Running for President in Student Council
+		- Writing Competitions, and getting a B in Mr. Sylvia's Class
+		- Sierra Katow
+- Ideas^[RemNote Graph](https://www.nhanvu327.com/rem-plugins/graph)
+- Contrarian Views
+	- Xenophilic Restrictionist
+		- I love immigrants, I hate they way they are used
+	- Discrepancies in achievement between men and women is understandable
+		- High standard deviation of men leads to higher proportions at the extremes
+	- The scarcity mindset
+		- [When there is food on the table, there are many problems. When there is no food on the table, there is only one.](Braden Wong/Notes/Calls/Effective Altruism/Yale Effective Altruism Fellowship/CharitiesJune 17th, 2020/When there is food on the table, there are many problems. When there is no food on the table, there is only one..md)
+	- Smart but not educated
+	- Gatling gun, potential violence helps prevent actualized violence
+- Writing List of Ideas
+	-
+	- [August 19th, 2020](Daily Document/August 19th, 2020.md) An ethical can of words, not because we are evolving too slowly, but because we are evolving too quickly
+	- Comforting Thoughts for Regret and Failure
+		- Avoid getting hurt twice. First for not doing it, and second for dealing with the repercussions.
+		- How to Get Out
+			- 1.Own It
+			- 2. Just for fun
+		- Let Go
+			- If you're holding onto something, you can't receive anything. Release your hand
+	- You’re alone in this world
+		- The average number of times anyone in this audience thinks about you a day is 0. The average person does not have enough time to be thinking about you, but thinking about themselves. That is the most beautiful things ever.
+		- Everyone is pushing and pursuing their own agendas.
+			- It’s not a thought you should fear, you should use it to push yourself towards full self reliance and freedom.
+			- It’s liberating.
+			- [https://thepowermoves.com/the-50th-law/](https://thepowermoves.com/the-50th-law/)
+			- ["What you do in the dark is what makes you shine in the light"](Braden Wong/IdeasRemNote Graph/Quotes/High Value Grit Mindsets (Habits, Perserverance)/Habits - Perseverance       /"What you do in the dark is what makes you shine in the light".md)
+		- Zero Sum Mindset
+			- [Praise others. It will bring them peace of mind.  Do not expect others to praise you. It will bring you peace of mind.](Braden Wong/IdeasRemNote Graph/Quotes/James Clear/Praise others. It will bring them peace of mind.  Do not expect others to praise you. It will bring you peace of mind..md)
+	- My silence is a choice. Silence is not the absence of thought, but its ultimate manifestation.
+	- Context
+	- Not because you'll be gone, but because you won't be here.
+	- Practice
+		- Really important to apply concepts to remember the [Context](Braden Wong/IdeasRemNote Graph/Writing List of Ideas/Context.md)to use it.
+		- Memorize [Context](Braden Wong/IdeasRemNote Graph/Writing List of Ideas/Context.md) not content
+		- Not what to know but when to use
+		- It is not so much ^^what ^^strategies but ^^when ^^to use it.
+	- Leadership
+		- Leadership is manipulation - not of people, but of words. Word things the right way
+	- Writing
+		- Write It Like an Email
+			- There was an experiment a couple of decades back that teachers conducted. They gave their students two assignments:
+			- a) Write a composition on paper
+			- b) Write on the same topic in an email
+			- They were surprised to find that almost everyone scored higher in writing the email. There was something about this medium of typed text that released the burden off of the kids’ chests and allowed them to be natural. They didn’t use too many fancy words, and they just said what they wanted to say in an organic, direct way.
+			- I’ve found that a great way to start writing a new blog post is to tell yourself that you’re writing an email to an old friend after one or two glasses of wine.
+	- What has been done before, can be done again (The story of the four minute mile)
+		- Why do you think we remember the first, but not the second? Following pushed boundaries is natural of human condition. Likewise, it is important to leverage this to our advantage. Read about other people's stories.
+		- Two types of inspiration, quotes, or stories that show the impossible
+	-
+- Ideas Journal
+	- [June 8th, 2020](Daily Document/June 8th, 2020.md)
+		- Goal oriented behavior can arise from goalless deterministic physical processes #[[Oh Shit]]
+			- The goal of math is to generalize, not particularize
+		- Nikola #Memories
+		- Physics vs. Biology
+			- Physics wishes to generalize in spite of the details, biology wishes to generalize the details
+		- Coleman Hughes
+			- Zimbabwe
+			- Outpacing our parents, two steps behind are demonized
+			- Obama reversed his stance on gay marriage on 2010 #[[Oh Shit]]
+			- We are in for a rude awakening if we apply the same standards onto our parents unto ourselves #[[Oh Shit]]
+	- [June 13th, 2020](Daily Document/June 13th, 2020.md)
+		- Physics
+			- Turbulent vs. Laminar Flow
+			- The rule vs. the exception
+			- Create turbulence, skin friction vs. pressure friction in Golf Ball
+			- Eddies
+		- Photography
+			- Faux Waist
+			- Chin down
+			- Extend neck
+			- Drop hip
+			- Push Chin Forward
+		- Eric Weinstein Podcast with Son
+		- EA Topics
+			- Self-Driving Cars are supervised learning
+			- Input vs. Output (GDP, Work)
+			- Availability heuristic with 9/11
+			- Save 10,000 lives
+			- Orthogonality Thesis
+		- Poland, Switzerland, Madrid, Berkeley, London, Scotland, Spain
+	- [August 20th, 2020](Daily Document/August 20th, 2020.md)
+		- The problem of identity politics and biology
+			- Natural Selection is a machine which takes A) VARIATION, subjects it to B) DIFFERENTIAL SUCCESS, and makes it C) HERITABLE to begin again. Here's the rub: A)=Diversity B)=Inequality C)=Privilege
+	- [October 7th, 2020](Daily Document/October 7th, 2020.md)
+		- That and which: The difference of American and the rest of the world
+		- "That" is referring to limiting, whwereas which is not limiting
+	- Talk with Andrew, Jonathan, and Kevin[October 31st, 2020](Daily Document/October 31st, 2020.md)
+		- 10xer. People scale but Talent Doesn't
+	- [November 9th, 2020](Daily Document/November 9th, 2020.md)
+		- Call with Andre
+			- We talked about what to do when we don't vibe with people, time fixes relationships, when people are special, having a type vs. not a type
+			- You can be skeptical while being open-minded. Skeptical and close-minded are not mutually exclusive #[[Ideas^[RemNote Graph](https://www.nhanvu327.com/rem-plugins/graph)]]
+			- Validation. That other people are on the same boat. Honestly, that is the best part of talking about it.
+	- [November 10th, 2020](Daily Document/November 10th, 2020.md)
+		- Quora
+			- Math is the logic of certainty, whereas statistics is the logic of uncertainty #[[Ideas^[RemNote Graph](https://www.nhanvu327.com/rem-plugins/graph)]]
+		- Call with Kyung Mi Lee on Writing
+			- Hold a position. Do not simply regurgitate the prompt. You will make a tautology #[[Ideas^[RemNote Graph](https://www.nhanvu327.com/rem-plugins/graph)]]
+			- If you highlight your topic sentences and copy paste them to a separate essay, it will write a separate essay
+	- [November 11th, 2020](Daily Document/November 11th, 2020.md)
+		- Engineering Jokes
+			- "The optimist says the glass is half full, the pessimist says the glass is half empty. The engineer says the glass is twice as big as it needs to be." Best. quote. ever. #Type/Joke
+			- A mathematician, a physicist, and an engineer were all given a red rubber ball and told to find the volume. The mathematician carefully measured the diameter and evaluated a triple integral. The physicist filled a beaker with water, put the ball in the water, and measured the total displacement. The engineer looked up the model and serial numbers in his red-rubber-ball table. #Type/Joke
+		- [ Joshua Simpson's answer to What do you know that most people don’t? - Quora](https://qr.ae/pNOeCf)
+	- [November 18th, 2020](Daily Document/November 18th, 2020.md)
+		- Population Ethics
+			- It could be ethical to consume meat because the life of a cow is net positive
+			- Measuring a life worth living vs. what is tall?
+				- Tall is subjectively defined
+				- But I would say that the analogy is ^^not^^ proper because while there exists an absolute metric to measure length, ther is none for a life
+					- 5 feet to you should mean the same to you as 5 feet to me
+			- Fear of Missing Out in College? #[[Writing List of Ideas]]
+				- There are people who would like this problem of missing out. The fact that we are sad about missing out on opportunity is a privilege.
+	-
+	-
+- Quotes
+	- description on page→Quotes are a rather unique art form. Of them, there is a unique and ineffable quality to a good one. Too great or extreme to be expressed or described in words.
+	- Productivity #Productivity
+		-
+		- Effective vs. Efficient ["Rowing harder doesn't help if the boat is headed in the wrong direction." -Kenichi Ohmae](Braden Wong/IdeasRemNote Graph/Quotes/James Clear/"Rowing harder doesn't help if the boat is headed in the wrong direction." -Kenichi Ohmae.md)
+	- High Value Grit Mindsets (Habits, Perserverance) #[[High Value Grit Mindsets]]
+		- Habits / Perseverance #[[Habits / Perseverance]]
+			- "What you do in the dark is what makes you shine in the light"
+			- "You throw a bucket of water on a rock and it doesn't do anything. You let a drop of water fall onto a rock everyday, it creates a hole in that rock."
+			- “You are only entitled to the action, never to its fruits.” - Bhagavad Gita, the ancient Sanskrit scripture
+			- [What has been done before, can be done again (The story of the four minute mile)](Braden Wong/IdeasRemNote Graph/Writing List of Ideas/What has been done before, can be done again (The story of the four minute mile).md)
+			- “When you're good at something, you'll tell everyone. When you're great at something, they'll tell you.”― Walter Payton
+			- "If you don't get what you want, it's a sign either that you did not seriously want it, or that you tried to bargain over the price." ―Rudyard Kipling
+			- Fall Down 7 Times, Stand up 8
+			- You're your best advocate. Don't also be your worst enemy.
+			- "What you do in the dark is what makes you shine in the light"
+		- Risk Taking #[[Risk Taking]]
+			- The biggest risk is not taking any. The biggest failure is never failing. Ask the impossible questions. I am certain that there's a good chance that after this talk, many of you won't try. Statistics is not on your side. But that means that even wanting to be better makes you different, a minority that separates you from everyone else.
+			- Be the best at what you do, or the only one doing it
+			- The biggest risk is not taking one
+		- Misc.
+			- Nothing is boring. If you're bored you're boring
+		-
+	- Interpersonal (Making Friends)
+		- Making Friends / Caring
+			- To the world you may be one person; but to one person you may be the world
+			- "Nobody cares how much you know, until they know how much you care" Theodore Roosevelt
+			- If you want to make friends, make people feel better when you're with them than when you are not
+			- “There isn’t anyone you couldn’t love once you’ve heard their story. ”― Mary Lou Kownacki
+			- “Humility is not thinking less of yourself, it's thinking of yourself less.”― CS Lewis
+			-
+		- Conversation
+			- "Speak only when you fully intend on finishing your sentence" - Charisma in Command
+			- "A good listener is one who helps us overhear ourselves." - Yahia Lababid
+			- Comforting
+				- “You do not get to make me extraordinary as an excuse not to succeed.” — Lisa Nichols.
+	- James Clear
+		- Praise others. It will bring them peace of mind. Do not expect others to praise you. It will bring you peace of mind.
+		- Most failures are one-time costs. Most regrets are recurring costs. The pain of inaction stings longer than the pain of incorrect action.
+		- "Your success depends on the risks you take. Your survival depends on the risks you avoid."
+		- Opportunity: "If you spend too much time working on good things, then you don’t have much time left to work on great things." - James Clear
+		- "Procrastinating on something important is choosing to delay a better future."
+		- “Most people don’t have trouble with focusing. They have trouble with deciding.”-James Clear
+		- Asking Good Questions
+			- The physicist Isidor Isaac Rabi on the importance of good questions (and good mothers):
+			- “My mother made me a scientist without ever intending to.
+			- Every other Jewish mother in Brooklyn would ask her child after school: 'So? Did you learn anything today?'
+			- But not my mother.
+			- 'Izzy,' she would say, 'did you ask a good question today?'
+			- That difference — asking good questions — made me become a scientist.”
+		- Results vs. Lifestyle
+			- "In the long-run, the people who succeed are the ones who want to live the lifestyle that precedes the results.
+			- Stop asking, "What results do I want to have?"
+			- Start asking, "What lifestyle do I want to live?"
+			- It's common to want results. It's rare to want the lifestyle."
+		- “Winning is great, sure, but if you are really going to do something in life, the secret is learning how to lose. Nobody goes undefeated all the time. If you can pick up after a crushing defeat, and go on to win again, you are going to be a champion someday." --Wilma Rudolph
+		- Taking Shots
+			- "A few things you need to achieve exceptional results:
+			- 1) Quantity: You take lots of shots.
+			- 2) Quality: You take thoughtful shots.
+			- 3) Consistency: You keep shooting for a long time.
+			- 4) Feedback. You take better shots over time.
+			- 5) Luck: You get a few favorable bounces."
+		- Avoid Debt
+			- "Don’t spend what you haven’t earned.
+			- Avoid financial debt. Don’t spend money you haven’t earned.
+			- Avoid social debt. Don’t spend goodwill you haven’t earned.
+			- Avoid calendar debt. Don’t spend (free) time you haven’t earned.
+			- The disciplined earner can be a guilt-free spender."
+		- "Most people think they lack motivation when they really lack clarity."
+		- "What looks like talent is often careful preparation. What looks like skill is often persistent revision."
+		- "Rowing harder doesn't help if the boat is headed in the wrong direction." -Kenichi Ohmae
+		- "Feel compliments as deeply as you feel insults."
+		- Reading vs. Reflection
+			- "Reading can teach you the best of what others already know.
+			- Reflection can teach you the best of what only you can know."
+		- "Be radically proactive about any behavior that pays off in 10 years."
+		- Ignorance vs. Genius
+			- "To simplify before you understand the details is ignorance.
+			- To simplify after you understand the details is genius."
+		- 5-Step
+			- "A 5-step process for nearly anything:
+			- 1) Explore widely. Find out what is possible.
+			- 2) Test cheaply. Run small, quick experiments. Sample things.
+			- 3) Edit ruthlessly. Focus on the best. Cut everything else.
+			- 4) Repeat what works. Don't quit on a good idea.
+			- 5) Return to 1."
+	- Me
+		- "The quality of your life is determined by the problems you have to solve, while your potential is by the problems you want to solve."
+		- Know what you want and find what others want--Me
+		- I'm surrounded by children but I'm the only one comfortable showing it
+		- If I'm immature then why am I surrounded by children
+	- We do not inherit the Earth from our ancestors—we borrow it from our children
+	- "Content doesn't determine our happiness but context"
+		- Vietnam Story
+			- It wasn't long before one American in the truck said, "This place stinks." Another said, "These people live just like animals." Finally, a young air force man said, "Yeah, they got nothin' to live for; they may as well be dead."
+			- What could you say? It seemed true enough.
+			-
+			- But just then, an old sergeant in the truck spoke up. He was the quiet type who never said much. In fact, except for his uniform, he kind of reminded you of one of the tough men in the village. He looked at the young airman and said, "You think they got nothin' to live for, do you? Well, if you are so sure, why don't you just take my knife, jump down off the back of this truck, and go try to kill one of them?"
+			-
+			- There was dead silence in the truck. . . .
+			-
+			- The sergeant went on to say, "I don't know either why they value their lives so much. Maybe it's those snotty nosed kids, or the women in the pantaloons. But whatever it is, they care about their lives and the lives of their loved ones, same as we Americans do. And if we don't stop talking bad about
+			- them, they will kick us out of this country!"
+			-
+			- [A soldier] asked him what we Americans, with all our wealth, could do to prove our respect for the peasants' human equality despite their destitution. The sergeant answered easily, "You got to be brave enough to jump off the back of this truck, knee deep in the mud and sheep dung. You got to have the courage to walk through this village with a smile on your face. And when you see the smelliest, scariest looking peasant, you got to be able to look him in the face and let him know, just with your eyes, that you know he is a man who hurts like you do, and hopes like you do, and wants for his kids just like we all do. It is that way or we lose."
+			-
+			- The code of the Ethical Warrior, even as an aspiration, shows that the American armed forces have come a long way from a time when its soldiers referred to Vietnamese peasants as gooks, slopes, and slants and when the military was slow to investigate atrocities against civilians such as the massacre at My Lai. As former Marine captain Jack Hoban, who helped to implement the Ethical Warrior program, wrote to me, "When I first joined the Marines in the 1970s it was 'Kill, kill, kill.' The probability that there would have been an honor code that trained marines to be 'protectors of all others — including the enemy, if possible' would have been o percent."
+	-
+- I’ve always found it simple to make things complicated, but for me, writing is the opposite: it is the translation of the intangible to the tangible. My thoughts have had time over the years to become incredibly grand and complex, but that means I must expand my ability to condense these ideas into tiny words.
+- "Not everyone's a king but anyone can wear the crown"

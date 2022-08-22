@@ -1,0 +1,1109 @@
+{
+  "main": {
+    "id": "d6895abc0c1d1127",
+    "type": "split",
+    "children": [
+      {
+        "id": "5896d35c18b4937b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-06-26 Call with Carrie About Abortion, Common Law Marriage, and Politics.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5896d35c18b4937b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-26 Call with Carrie About Abortion, Common Law Marriage, and Politics.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":86},\"to\":{\"line\":10,\"ch\":86}}}"
+            },
+            {
+              "leaf": "5896d35c18b4937b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Leetcode.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5896d35c18b4937b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e6024eb133bbf7fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-06-28 Call with Carrie, Talking About Giving up.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e6024eb133bbf7fc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2022-06-28 Call with Carrie, Talking About Giving up.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":35},\"to\":{\"line\":14,\"ch\":35}}}"
+            },
+            {
+              "leaf": "e6024eb133bbf7fc",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cd27b433e9882e82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Salary Negotiation - Make More Money, Be More Valued - Kalzumeus Software.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cd27b433e9882e82",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Salary Negotiation - Make More Money, Be More Valued - Kalzumeus Software.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1936835324a03ef9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/BRST 158.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1936835324a03ef9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/BRST 158.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":23},\"to\":{\"line\":37,\"ch\":23}},\"scroll\":33.18210504784716}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e4540830155b76d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Journal/Personal Life/Expose Yourself and the Person You're Asking Questions to as Much Surface Area as Possible.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e4540830155b76d4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Journal/Personal Life/Expose Yourself and the Person You're Asking Questions to as Much Surface Area as Possible.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "22cc38e22f0a7ec8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Gossip Evolved as a Social Incentive for Alignment.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "22cc38e22f0a7ec8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Gossip Evolved as a Social Incentive for Alignment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}},\"scroll\":0.6666666113916503}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1e581e7af1c278fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/BRST 158.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1e581e7af1c278fb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/BRST 158.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":17},\"to\":{\"line\":51,\"ch\":17}},\"scroll\":33.218501273941726}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "68364feeee92b32d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Courses/Courses.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "68364feeee92b32d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/Courses.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":204,\"ch\":15},\"to\":{\"line\":204,\"ch\":15}},\"scroll\":197.7121073179921}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "f2f7ac15d58c286a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Yale in London.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f2f7ac15d58c286a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Yale in London.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f2f7ac15d58c286a",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fa8958d67495a309",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/BRST 214.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "fa8958d67495a309",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/BRST 214.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":27},\"to\":{\"line\":59,\"ch\":27}},\"scroll\":43.94002432034006}"
+            },
+            {
+              "leaf": "fa8958d67495a309",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Royal Albert Hall.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fa8958d67495a309",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b433dc548de63997",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Yale in London.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b433dc548de63997",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Yale in London.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":10},\"to\":{\"line\":11,\"ch\":10}}}"
+            },
+            {
+              "leaf": "b433dc548de63997",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Royal Albert Hall.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7e1ac9e911c61f70",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/London Tips.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7e1ac9e911c61f70",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/London Tips.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7e1ac9e911c61f70",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "46375f08afd48817",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/An Economist Gets Lunch.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "46375f08afd48817",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/An Economist Gets Lunch.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e78481495f89c811",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/BRST 214.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e78481495f89c811",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/BRST 214.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":105},\"to\":{\"line\":61,\"ch\":105}},\"scroll\":52.64015943834642}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a45e002ad850464e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-06-15.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a45e002ad850464e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-06-15.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":11},\"to\":{\"line\":1,\"ch\":11}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a45e002ad850464e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/Introduction to Machine Learning.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":104,\"ch\":72},\"to\":{\"line\":104,\"ch\":72}},\"scroll\":101.03299893913378}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5dc90ed9b6599cb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Cultural Appropriation.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5dc90ed9b6599cb5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Cultural Appropriation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5dc90ed9b6599cb5",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "f9729d0fce108260",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/An Economist Gets Lunch.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f9729d0fce108260",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/An Economist Gets Lunch.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":24},\"to\":{\"line\":37,\"ch\":24}},\"scroll\":3.7142854300142014}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ad55a4f0f133b93d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Courses/ML Safety Scholars Program/Hyperplane.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ad55a4f0f133b93d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":27.970895454063115}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "22bd7caa0ad76d5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Courses/ML Safety Scholars Program/Hyperplane.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "22bd7caa0ad76d5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/ML Safety Scholars Program/Hyperplane.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9999999170874754}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b10a519bdc8a23a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Write Git Commit Messages That Your Colleagues Will Love.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b10a519bdc8a23a3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Write Git Commit Messages That Your Colleagues Will Love.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":46}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b10a519bdc8a23a3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Man's Not Hot.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":23.980253998577883}"
+            },
+            {
+              "leaf": "b10a519bdc8a23a3",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b9926c2e8affc66a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Things Carrie and I Have in Common.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b9926c2e8affc66a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Things Carrie and I Have in Common.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cf1e01ef25b27a67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Entertaining Lecture From London Police Officer.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cf1e01ef25b27a67",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Entertaining Lecture From London Police Officer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":17},\"to\":{\"line\":13,\"ch\":17}}}"
+            },
+            {
+              "leaf": "cf1e01ef25b27a67",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "39205eafe2e61b4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content/Favorite Questions/Descriptive Versus Prescriptive, Intelligent Design Versus Iterative Approach (of Evolution), and Pragmatically Approaching the World.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "39205eafe2e61b4b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Content/Favorite Questions/Descriptive Versus Prescriptive, Intelligent Design Versus Iterative Approach (of Evolution), and Pragmatically Approaching the World.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":37},\"to\":{\"line\":23,\"ch\":37}},\"scroll\":9.789847081178035}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1450683a31c714e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Art is Sex.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1450683a31c714e6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Art is Sex.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":12},\"to\":{\"line\":11,\"ch\":12}}}"
+            },
+            {
+              "leaf": "1450683a31c714e6",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "8c376f6c82ff3fb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Podcasts/Podcast Notes.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8c376f6c82ff3fb0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Podcasts/Podcast Notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "917f8c5ceae01f84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Blenheim Palace.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "917f8c5ceae01f84",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Blenheim Palace.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":44},\"to\":{\"line\":12,\"ch\":44}}}"
+            },
+            {
+              "leaf": "917f8c5ceae01f84",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a501e6bd99de37cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Books/Book Notes.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a501e6bd99de37cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Books/Book Notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":24},\"to\":{\"line\":30,\"ch\":24}},\"scroll\":4.047618652797501}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0bc22bd14e9c3a74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Podcasts/Snipd Exports.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0bc22bd14e9c3a74",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Podcasts/Snipd Exports.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1175,\"ch\":10},\"to\":{\"line\":1172,\"ch\":0}},\"scroll\":1142.5825232005827}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d8e725d495fe2c2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/How TV Biased Quick, Unhealthy, Ready to Eat Dinners.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d8e725d495fe2c2f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/How TV Biased Quick, Unhealthy, Ready to Eat Dinners.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":95},\"to\":{\"line\":7,\"ch\":95}}}"
+            },
+            {
+              "leaf": "d8e725d495fe2c2f",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "be120b35922be842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/If You Can Type Faster Than 40 WPM, You Are Good.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "be120b35922be842",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/If You Can Type Faster Than 40 WPM, You Are Good.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "be120b35922be842",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "319f000813cf504a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Limited Not By Typing Speed, but Thinking Speed.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "319f000813cf504a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Limited Not By Typing Speed, but Thinking Speed.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "319f000813cf504a",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "6392818d0710727f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/BRST 158.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6392818d0710727f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/BRST 158.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":13.705156964805596}"
+            },
+            {
+              "leaf": "6392818d0710727f",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2253279618d897d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a80faed3d71f58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bec273b90fe8721",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "074c96a60d01c1c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pragmatic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "93f60ca6cbba109e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "dfd501c53675d170",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.0136413574219
+  },
+  "right": {
+    "id": "c4039ee670e72ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e47a504f53e7cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee95ae254b7e1a7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cards/Fleeting Notes/Cultural Appropriation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "fc671d4392537bde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cards/Fleeting Notes/Cultural Appropriation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "44db496cc06a6d59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5d13290708417403",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cards/Fleeting Notes/Cultural Appropriation.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "97f8937beaaaae1b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "53fd432c184edd8c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e8bc6365fe420445",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8d048c8e2368a566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934d9ead3c4d6a3f",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5dc90ed9b6599cb5",
+  "lastOpenFiles": [
+    "Cards/Fleeting Notes/Cultural Appropriation.md",
+    "Sources/Daily Note/2022-06-15.md",
+    "Cards/Fleeting Notes/An Economist Gets Lunch.md",
+    "Sources/Courses/ML Safety Scholars Program/Hyperplane.md",
+    "Sources/Courses/Introduction to Machine Learning.md",
+    "Cards/Fleeting Notes/Why Steph Curry's Shot is so accurate—Minimal Knee Bend and Consistent Energy Transfer. He Uses Wrist to Control Depth of Shot..md",
+    "Cards/Fleeting Notes/Don't Bend Your Knees Too Much, or the Ball Will Go Long.md",
+    "Cards/Fleeting Notes/BRST 214.md",
+    "Cards/Fleeting Notes/London Tips.md",
+    "Cards/Fleeting Notes/Yale in London.md"
+  ]
+}

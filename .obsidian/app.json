@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "showFrontmatter": true,
+  "vimMode": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "Cards/Fleeting Notes",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Cards/Fleeting Notes",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

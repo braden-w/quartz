@@ -1,0 +1,46 @@
+---
+aliases: Best of Applications
+date: "2022-06-09"
+date modified: "2022-06-09"
+title: Applications
+---
+
+# Applications
+[[SMW Application]]
+[[Rotary Scholarship]]
+[[Presidential Scholars]]
+[[Hugo Reid]]
+[[Foothills]]
+[[Salutatorian Questionnaire]]
+[[Valedictorian Application]]
+[[Charles Ding]]
+[[Yale Housing]]
+[[YEA Fellowship]]
+[[The Patch]]
+[[Content/Applications/Valedictorian Speech]]
+[[Application for The EA Oxford Remote In-Depth Fellowship]]
+[[HackMIT]]
+[[IvyHacks]]
+[[The 2020 Impact Summit Application]]
+[[HCC Candidate Statement]]
+[[Yale Entrepreneurship Society]]
+[[GRC Yale 2020-2021 Application]]
+[[ShARE Application]]
+[[Yale Computer Society]]
+[[HCC Candidate Statement]]
+[[YUDI Application]]
+[[YSQR Application 2020-21]]
+[[The Good Show Application]]
+[[Microsoft Explore]]
+[[EA University Facilitator Application Form]]
+[[Tartanhacks]]
+[[YES Internship Program Application]]
+[[2022-02-10 YES Incubator Application Spring 2022]]
+[[2022-02-09 Letter to Phil Trammel to Apply to Impact Economics]]
+[[2021-04-19 HCC Exec]]
+[[2022-02-14 Yale in London and Study Abroad]]
+[[2022-02-23 80,000 Hours Interview Application]]
+[[2022-03-25 GCP Summer Internship Application]]
+[[2022-04-18 80,000 Hours Advising Responses]]
+[[2022-04-24 Questions for Student Milestone Fund]]
+[[2022-05-07 ML Safety Scholars]]

@@ -1,0 +1,980 @@
+{
+  "main": {
+    "id": "bb4576e046ff1d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a674e053079456",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/2021-04-08 Message to Dante About Housing.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MOCs/Writeup Snippets.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/2021-04-08 Message to Dante About Housing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/2021-07-08 Post for Project YAM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":13},\"to\":{\"line\":1,\"ch\":13}}}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Shia Le'Bouf's Apology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Braden Wong.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":19.912760416666668}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/What I've Done in Quarantine.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a6a674e053079456",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c33157224e615e98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal Life/2021-11-03.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c33157224e615e98",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/2021-11-03.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c33157224e615e98",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/Name the CASA Dragon? Dragon deez nuts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":7}}}"
+            },
+            {
+              "leaf": "c33157224e615e98",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/😜 Jokes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c33157224e615e98",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "49c6247889cdab34",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/If You Want to Know About Me, Read ENFJ Docs. They Are Spot On.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "49c6247889cdab34",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/If You Want to Know About Me, Read ENFJ Docs. They Are Spot On.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "68859f683499e83b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Leetcode Schedule.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "68859f683499e83b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Leetcode Schedule.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}}}"
+            },
+            {
+              "leaf": "68859f683499e83b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/From 2.8 GPA to Netflix Senior Software Engineer | Dev Stories.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "68859f683499e83b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004 Media Notes/Book Notes/Book Notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "68859f683499e83b",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e0d75bf83d00332c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e0d75bf83d00332c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":29},\"to\":{\"line\":1,\"ch\":29}},\"scroll\":0.6153846153846154}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cba5e2c36e826617",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOCs/Stories.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "cba5e2c36e826617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Dragon Story.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":45},\"to\":{\"line\":9,\"ch\":45}}}"
+            },
+            {
+              "leaf": "cba5e2c36e826617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MOCs/Stories.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "cba5e2c36e826617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MOCs/Advice.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":3.220450281425891}"
+            },
+            {
+              "leaf": "cba5e2c36e826617",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Just Open With \\\"Hi, My Name Is…\\\".md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a36d6a48acef84f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Use This MORNING ROUTINE To Destroy Laziness & Eliminate BRAIN FOG! - Andrew Huberman.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a36d6a48acef84f6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Use This MORNING ROUTINE To Destroy Laziness & Eliminate BRAIN FOG! - Andrew Huberman.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":51},\"to\":{\"line\":3,\"ch\":51}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "8c30170f1d8a00e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Never Split the Difference.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8c30170f1d8a00e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Never Split the Difference.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "305dd6b001a950b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Leetcode.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "305dd6b001a950b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Leetcode.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":15},\"to\":{\"line\":2,\"ch\":15}}}"
+            },
+            {
+              "leaf": "305dd6b001a950b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Maximizing Productivity, Physical & Mental Health with Daily Tools - Huberman Lab Podcast #28.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.583333333333334}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "67de2c4b6cbcfdb9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Watch These 55 Minutes if You Want to Be a Millionaire in 2022.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "67de2c4b6cbcfdb9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Watch These 55 Minutes if You Want to Be a Millionaire in 2022.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
+            },
+            {
+              "leaf": "67de2c4b6cbcfdb9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/James Gosling - Java, JVM, Emacs, and the Early Days of Computing.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "67de2c4b6cbcfdb9",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "63e0eff528f76c81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Template/Note Template.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "63e0eff528f76c81",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template/Note Template.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":79},\"to\":{\"line\":7,\"ch\":79}}}"
+            },
+            {
+              "leaf": "63e0eff528f76c81",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ce7df16e7fe2e9ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Cainism.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ce7df16e7fe2e9ff",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Cainism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9b59b15788c4c6cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/King Snake.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9b59b15788c4c6cb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/King Snake.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":21},\"to\":{\"line\":3,\"ch\":21}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fd11c1019cc01234",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-05-22 Speech at Court of Honor.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "fd11c1019cc01234",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal Life/2022-01-31 Delicious Wasabi Peppercorn Steak with Amelie, Albert, Dante, and Josh. Joking About John Brockett story.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":91},\"to\":{\"line\":0,\"ch\":91}}}"
+            },
+            {
+              "leaf": "fd11c1019cc01234",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Daily Notes/2022-05-22 Speech at Court of Honor.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fd11c1019cc01234",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Researching Vs. Explaining Strategies.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5e99da597b8a0a93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/2022-05-16 Lunch at Kuro Shiro with Winnie.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5e99da597b8a0a93",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/2022-05-16 Lunch at Kuro Shiro with Winnie.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0.6153846153846154}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e79e856f3ef3902a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "005 Writing/Favorite Questions/Entrepreneurship.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e79e856f3ef3902a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Favorite Questions/Entrepreneurship.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e79e856f3ef3902a",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a26742f4ebf19b49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "005 Writing/Favorite Questions/Descriptive Vs. Prescriptive, and Pragmatically Approaching the World.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a26742f4ebf19b49",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Favorite Questions/Descriptive Vs. Prescriptive, and Pragmatically Approaching the World.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "a26742f4ebf19b49",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fdb5db526b1bfdb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Course Notes/PSYC 130/PSYC 130 Introduction to Cognitive Science.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "fdb5db526b1bfdb0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Notes/PSYC 130/PSYC 130 Introduction to Cognitive Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "fdb5db526b1bfdb0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Cognitive Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "fdb5db526b1bfdb0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005 Writing/Posts/Fleventy Five.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "871011fa7dd99d7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Focus on the Next Step.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "871011fa7dd99d7d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Focus on the Next Step.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            },
+            {
+              "leaf": "871011fa7dd99d7d",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ef5f26b88ab88c66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Never Split the Difference.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ef5f26b88ab88c66",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Never Split the Difference.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ef5f26b88ab88c66",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/2022-05-12 Sleep Appointment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ef5f26b88ab88c66",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Meditation.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "4bf27605206e923c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Youtube Notes on Chris Voss.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4bf27605206e923c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Youtube Notes on Chris Voss.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4bf27605206e923c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Untitled 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4bf27605206e923c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Youtube Notes on Chris Voss.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}}}"
+            },
+            {
+              "leaf": "4bf27605206e923c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/2022-05-12 Sleep Appointment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "97acd256cc860607",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Hot Saudi Arabia Exercise.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "97acd256cc860607",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Permanent Notes/Hot Saudi Arabia Exercise.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "481cf5ada3f4fb57",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Originals.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "481cf5ada3f4fb57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Creativity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "481cf5ada3f4fb57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Fleeting Notes/Originals.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":2}"
+            },
+            {
+              "leaf": "481cf5ada3f4fb57",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0856a037f880251",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e4370be696fdf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef7ee777c7d824e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "48696608a38a72cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Type/Advice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7be204e8debfe993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f0b57e5ed4f138f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0a8c8f139f3482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947670733675c727",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "947670733675c727",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "947670733675c727",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Recruiting/Coding Interview Cheatsheet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}},\"scroll\":0.6031746031746031}"
+                },
+                {
+                  "leaf": "947670733675c727",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "da3ccf0ed3b04d90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f4eaa3326fd34ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c37fd2a6c6b766",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1ce8e0b8c23f21fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0c9f5e5bec3b6f75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7e6aac608ca0becb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "601bd72c6c8eaf4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c7884945afe24c",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.0188446044922
+  },
+  "active": "e0d75bf83d00332c",
+  "lastOpenFiles": [
+    "Fleeting Notes/2022-06-09 YouTube Video Ideas From GPT-3.md",
+    "Fleeting Notes/Leetcode Schedule.md",
+    "MOCs/Stories.md",
+    "Permanent Notes/Dragon Story.md",
+    "MOCs/Advice.md",
+    "Permanent Notes/Just Open With \"Hi, My Name Is…\".md",
+    "Fleeting Notes/If You Want to Know About Me, Read ENFJ Docs. They Are Spot On.md",
+    "Personal Life/2021-11-03.md",
+    "Personal Life/Name the CASA Dragon? Dragon deez nuts.md",
+    "Personal Life/😜 Jokes.md"
+  ]
+}
