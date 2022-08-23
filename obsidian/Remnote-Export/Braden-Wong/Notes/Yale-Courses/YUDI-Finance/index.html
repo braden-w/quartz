@@ -1,0 +1,165 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=description content="Accrual Accounting GAAP (Generally Accepted Accounting Principles)↔Guidelines accountants use to prepare financial reports revenue is “earned” by a company when it provides→a good or service revenue and expense does not need to be incurred at the same time as cash is being received for example, say Toyota buys $10MM in car parts from suppliers in 2020, but doesn’t sell the cars those parts were used to make until 2022."><title>🧙‍♂️Optim</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://braden-w.github.io/quartz//icon.png><link href=https://braden-w.github.io/quartz/styles.5410d3380168c54e3df0aa1fd1d2312f.min.css rel=stylesheet><link href=https://braden-w.github.io/quartz/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://braden-w.github.io/quartz/js/darkmode.88ed88da9a3165d431ef1df4e618aad8.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/util.9825137f5e7825e8553c68ce39ac9e44.min.js></script>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script src=https://unpkg.com/@floating-ui/core@0.7.3></script>
+<script src=https://unpkg.com/@floating-ui/dom@0.5.4></script>
+<script src=https://braden-w.github.io/quartz/js/popover.abe6a51cc7138c5dff00f151dd627ad1.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
+<script>const BASE_URL="https://braden-w.github.io/quartz/",fetchData=Promise.all([fetch("https://braden-w.github.io/quartz/indices/linkIndex.ac85de99ecb5a3d6c7d48287a5b64302.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://braden-w.github.io/quartz/indices/contentIndex.846a145ffcbb182b173ef4e5f48a1e55.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),initPopover("https://braden-w.github.io/quartz",!0,!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!1;drawGraph("https://braden-w.github.io/quartz",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/braden-w.github.io\/quartz\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFD95KB4J"></script>
+<script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-XYFD95KB4J",{anonymize_ip:!1})}</script><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://braden-w.github.io/quartz/js/full-text-search.24827f874defbbc6d529926cbfcfb493.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://braden-w.github.io/quartz/>🧙‍♂️Optim</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><p class=meta>Last updated
+Unknown
+<a href=https://github.com/braden-w/quartz/tree/hugo/content/obsidian/Remnote%20Export/Braden%20Wong/Notes/Yale%20Courses/YUDI%20Finance.md rel=noopener>Edit Source</a></p><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents></nav></details></aside><p>Accrual Accounting
+GAAP (Generally Accepted Accounting Principles)↔Guidelines accountants use to prepare financial reports
+revenue is “earned” by a company when it provides→a good or service
+revenue and expense does not need to be incurred at the same time as cash is being received
+for example, say Toyota buys $10MM in car parts from suppliers in 2020, but doesn’t sell the cars those parts were used to make until 2022. The $10MM expense will be counted on the Income Statement in the year→2022
+Apple pays one of its software engineers a $300,000 salary in a lump-sum payment at the end of each year. Six months into the year, Apple has incurred $150,000 in expenses even though they have paid $0 in cash.
+An industrial bakery buys $2MM in flour which it will use to make bread and pays immediately in cash. At the time of payment, $0 in expenses have been incurred. Over the next year, the company sells $5MM worth of bread, in which it used $1MM of the aforementioned flour. Throughout that year, the company has incurred $1MM of expenses associated with its flour $2MM purchase.
+Three major financial statements that are fundamental to financial analysis
+Income Statement:: Understanding revenues and expenses using Accrual Accounting #<a class="internal-link broken">Accrual Accounting</a>
+all listed items are↔taxable
+general structure</p><pre><code>        Revenue
+        COGS
+        Gross Profit↔Revenue - COGS
+        Gross Profit Margin↔Percent of revenue left after cost.Gross Profit / Revenue
+        Operating Expenses↔Anything not directly related to price of goods made
+            SG&amp;A↔Selling, General &amp; Administrative Expense
+            R&amp;D
+            D&amp;A
+        Operating Income↔Total earnings before tax and interest. Gross Profit - Operating Expenses
+        Non-operating costs↔Not reflective of operating costs. Lawsuits, sudden fires, emergencies, etc.
+        Pre-Tax Income↔All revenues and expenses except tax. Operating Income - Interest Expense + Other Income
+        Tax Expense↔Applied % tax to all previous items, because all listed items are taxable
+        Net Income↔Total earnings left for investors after all previous summed. The sum of all revenues and expenses
+        Interest Payments
+        
+    The income statement shows the revenues a company earns and the expenses they incur over a given period of time. Revenues and expenses are accounted for using the accrual accounting method. The sum of all these revenues and expenses lead to a figure called net income, which is a measure of profitability.
+Cash Flow Statement
+    purpose is to reconcile→the difference Net Income and the actual flow of cash
+    corrects for→depreciation/invisible costs and untaxed income
+    Cash Flow from Operations (CFO)
+        Net Income
+        ADD D&amp;A
+        SUBTRACT Accounts Receivable because it hasn't come yet
+        SUBTRACT Inventory because increasing inventory means cash has flowed out
+        ADD Accounts Payable because we still have the money/haven't paid it out yet
+        Pattern Cis to  add  changes in liabilities and  subtract   changes in assets.
+    Cash Flow from Investing (in capital and other companies) (CFI)
+        Capital Expenditures (CapEx)↔PP&amp;E
+        Purchase/Sales of Securities↔Selling/Buying stocks of other companies
+        M&amp;A Activity
+    Cash Flow from Financing (CFF)
+        Equity Issuing/Buybacks
+        Debt Issuing/Repayment
+        Dividend
+    As we learned above, a revenue or expense on the income statement (under accrual accounting) does not necessarily align with an inflow or outflow of cash. Therefore, the net income figure at the bottom of the income statement almost never reflects net inflow or outflow of cash. The cash flow statement is used to reconcile this net income figure to a “change in cash” figure that reflects actual cashflow. In other words, it starts with net income and makes the appropriate adjustments so that we know how much cash entered/left the company in aggregate. Like the income statement, this is showing change over a given period of time.
+Balance Sheet
+    used as→snapshot of current assets, debt, equity
+    Assets, Debt, Equity Equation↔Assets = Debt (aka Liabilities) + Equity
+    Assets
+        Cash
+        Inventory
+        Accounts Receivable
+        Prepaid Expenses
+        Marketable Securities
+        Net PP&amp;E
+        Goodwill↔Giving more than a company asks for when buying out and acquiring their assets
+    Liabilities
+        Accounts Payable
+        Deferred Revenue
+        Short Term Debt
+        Long Term Debt
+    Equity
+        Common Stock↔# Shares * Par Value
+        Additional Paid-In Capital (APIC)↔# Shares * (Share Price - Par Value)
+        Common Stock + Additional Paid-In Capital (APIC)→Total Cashflows from stock issuance #<a class="internal-link broken">Additional Paid-In Capital (APIC)</a> 
+        Treasury Stock↔Amount of money spent repurchasing shares
+            it's a Contra-Equity because↔increasing treasury stock decreases equity, there is less of the pie to be financed
+        Retained Earnings↔Sum of all periods' (net income - dividends)
+    The balance sheet shows a snapshot of company’s asset, liability, and equity items at a specific point in time (unlike the IS and CFS, which show change over a given period of time). 
+        The key accounting equation that defines the balance sheet is Assets = Liabilities + Equity
+</code></pre><p>Questions
+Basic understanding of each of the three financial statements and what purpose they each serve.
+How accrual accounting works and whether or not revenue is considered &ldquo;earned&rdquo; in a hypothetical transaction that we present you with.
+revenue is “earned” by a company when it provides goods and services
+General structure of income statement (all listed line items and what each means).
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; Portal &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
+Braden Wong</p><pre><code>General structure of cash flow statement; only need to know the three major sections, and a basic understanding of what each section shows (no need to know specific line items in each section).
+    --------------------- Portal ---------------------
+        Braden Wong
+General structure of balance sheet (the three major components); know at least two major items in each of the three components.
+    --------------------- Portal ---------------------
+        Braden Wong
+</code></pre><p>Week 1: DCF&rsquo;s
+DCF
+Discounted Cash Flow (DCF) assumes that a company is worth the sum of all its future cash flows, discounted to the present to account for the time value of money.
+DCF is an intrinsic valuation method, meaning it doesn&rsquo;t rely on the valuation of other companies.
+Two parts: Explicit + Terminal Periods</p><pre><code>    Steps for Explicit
+        Step 1: Project our FCFF
+            EBIT↔Operating Income
+            Find EBIT
+            Project Cash Flows
+            Project Change in Net Working Capital (Current Assets - Current Liabilities)
+            FCF = EBIT * (1-Tax Rate)
+        Step 2: Discounting Cash Flows
+            The discount rate used in DCF is the  WACC (Weighted Average Cost of Cpital)
+            WACC↔Cost of Equity * (E/(E+D)) + Cost of Debt * (D/(E+D)) * (1-Tax)
+            2a. Cost of equity
+                Cost of Equity is found using the  Capital Asset Pricing Model (CAPM)
+                Cost of Equity = R_rf + Beta * (R_m-R_rf)
+                    https://remnote-user-data.s3.amazonaws.com/PXv-2mK889ngAf4mBBBSkMRVSBj11HDv-SgPbaDXchSAiu5yeBZAZQX2wWraHZT_ppegf_VY5W-ZA1doYA8fgSMSuRnPCyW_gbb4UadW63LA0mP6TXBx-Qs2wab0PuZ3
+                     R_{rf}→ Risk-free rate of return
+                    Beta of the equity↔Correlation to the market
+                        What's the beta of a slot machine?→0. Because a slot machine is not dependent on the market.
+                    Rate of the return of the market
+                    “What does beta represent, in plain English?”↔The risk of the company relative to the risk of the stock market as a whole.
+    Steps for Terminal
+        Two methods: Perpetuity Growth Method or Exit Multiples Method
+        Perpetuity Growth Method↔assumes cash flows will continue until infinity, and will grow a low stable rate
+            FCF↔First Year Cash Flow
+            “What is the formula for unlevered FCF ?”↔FCF = EBIT * (1 – Tax Rate) 
+                + D&amp;A
+                - CapEx
+                - Change in NWC
+            General perpetuity formula↔Present value = Initial payment/(Discount rate - Growth rate)
+            Terminal Value formula↔Terminal Value = FCF at T+ 1/(WACC-g) = (FCF at T)(1+g) / (WACC-g) where T is the number of years we explicitly forecast
+        Exit Multiple Method↔assumes that
+            Look at ratios that peer companies are being traded at, assume company will be sold at a  similar ratio  at the end of the explicit forecast 
+</code></pre><p>Week 2: Private Equity
+Private Equity Firms
+Private Equity Funds↔separate branches of Private Equity Firms, for legal reasons, vs. firms as the master branch
+How they make money
+Management fee↔Often near 2%
+Carry↔Slice of profits, often after thresholds
+Why is PE profit a lot
+LBO↔Leveraged Buyouts - Acquire with lots of debt
+Multiple of Money (MoM)↔How much we&rsquo;ve multiplied our money before exit (New Equity/Old Equity)
+Internal Rate of Return (IRR)↔Annualized effect of compounding interest rate
+formula→(Original Investment) (1+IRR)^T=Final Value&
+Semester Review
+Enterprise Value
+Equity Value
+Comparable companies analysis↔Valuation based off metrics of similar companies in same markett
+Precedent transaction analysis↔Valuation based off past buyouts of similar companies
+DCF Basics
+What are the basic steps of a DCF?→https://remnote-user-data.s3.amazonaws.com/pH1fIu4LUBShhh313BiFbIHL369h-DPvI-SOk1uxU0DdfVM1S9Vqs7LIETd-q5iNt2qIdaWYJ_o3sEhObgQQTjCSBOwoOgbGn-CK_CTXUn6trOFe5MHdMjh12vdcHhw2.png
+What is the discount rate used? How is this calculated?→Discount rate is often from the WACC
+<a href=https://remnote-user-data.s3.amazonaws.com/vPKcq9qA32YZtqzKiuMmJLZirrOvghtMoarCW0zUF_OLNcMa7-E-XwR1zwo1N-x9_YYzFlrquEd3vaQFC6bkRVnmYiOk78yE5pVdxU93gJyVwmYSWUFYH8rEJ4c_vuc2.png rel=noopener>https://remnote-user-data.s3.amazonaws.com/vPKcq9qA32YZtqzKiuMmJLZirrOvghtMoarCW0zUF_OLNcMa7-E-XwR1zwo1N-x9_YYzFlrquEd3vaQFC6bkRVnmYiOk78yE5pVdxU93gJyVwmYSWUFYH8rEJ4c_vuc2.png</a>
+What is the CAPM model for finding Cost of Equity?
+What is Beta a measure of?
+What sort of assumptions go into a DCF?
+What are the two methods for finding terminal value?
+What is, and what drives, an LBO model?
+M&A Analysis
+What is M&A?
+What strategic and financial rationales drive M&A?
+How do we measure the impact of M&A on a company?
+How to do merger math (e.g. accretion/dilution analysis)?
+How do buy-side and sell-side processes differ?</p></article><hr><div class=page-end id=footer><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li>No backlinks found</li></ul></div><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://braden-w.github.io/quartz/js/graph.abd4bc2af3869a96524d7d23b76152c7.js></script></div></div><div id=contact_buttons><footer><p>Made by Braden Wong using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p><ul><li><a href=https://braden-w.github.io/quartz/>Home</a></li><li><a href=https://twitter.com/_jzhao>Twitter</a></li><li><a href=https://github.com/braden-w>Github</a></li></ul></footer></div></div></body></html>

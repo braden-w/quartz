@@ -1,0 +1,453 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=description content="Fleeting Notes Database <%% name: new database description: new description columns: file: key: file input: markdown label: File accessor: file isMetadata: true skipPersist: false isDragDisabled: false csvCandidate: true config: enable_media_view: true media_width: 100 media_height: 100 isInline: true source_data: current_folder tags: input: tags key: tags accessor: tags label: tags position: 0 options: - { label: &ldquo;Topics/Happiness&rdquo;, backgroundColor: &ldquo;hsl(332, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Context&rdquo;, backgroundColor: &ldquo;hsl(306, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Surroundings&rdquo;, backgroundColor: &ldquo;hsl(191, 95%, 90%)&rdquo;} - { label: &ldquo;Quotes&rdquo;, backgroundColor: &ldquo;hsl(257, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Generalist&rdquo;, backgroundColor: &ldquo;hsl(349, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Specialist&rdquo;, backgroundColor: &ldquo;hsl(61, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Leadership&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Feedback&rdquo;, backgroundColor: &ldquo;hsl(197, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Criticism&rdquo;, backgroundColor: &ldquo;hsl(174, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Comeback&rdquo;, backgroundColor: &ldquo;hsl(42, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Monkey&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Evolution&rdquo;, backgroundColor: &ldquo;hsl(148, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Racism&rdquo;, backgroundColor: &ldquo;hsl(133, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Comeback&rdquo;, backgroundColor: &ldquo;hsl(213, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Masculinity&rdquo;, backgroundColor: &ldquo;hsl(354, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Relationships&rdquo;, backgroundColor: &ldquo;hsl(272, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Sex&rdquo;, backgroundColor: &ldquo;hsl(311, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Writeup_Snippets&rdquo;, backgroundColor: &ldquo;hsl(183, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Texts&rdquo;, backgroundColor: &ldquo;hsl(220, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Negotiation&rdquo;, backgroundColor: &ldquo;hsl(18, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Writeup_Snippets/Posts&rdquo;, backgroundColor: &ldquo;hsl(244, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Coding&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;} - { label: &ldquo;team-special-projects&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Start_with_Why&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Effective_Altruism&rdquo;, backgroundColor: &ldquo;hsl(99, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Meals&rdquo;, backgroundColor: &ldquo;hsl(290, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Advice&rdquo;, backgroundColor: &ldquo;hsl(61, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Admissions&rdquo;, backgroundColor: &ldquo;hsl(262, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Courses&rdquo;, backgroundColor: &ldquo;hsl(223, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Resume&rdquo;, backgroundColor: &ldquo;hsl(106, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Applications&rdquo;, backgroundColor: &ldquo;hsl(333, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Sleep&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Reference&rdquo;, backgroundColor: &ldquo;hsl(85, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/YouTube&rdquo;, backgroundColor: &ldquo;hsl(78, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Blogging&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;} - { label: &ldquo;summer-incubator&rdquo;, backgroundColor: &ldquo;hsl(276, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/YEA&rdquo;, backgroundColor: &ldquo;hsl(270, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Entrepreneurship&rdquo;, backgroundColor: &ldquo;hsl(35, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Calls&rdquo;, backgroundColor: &ldquo;hsl(113, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Calls&rdquo;, backgroundColor: &ldquo;hsl(143, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Recruiting&rdquo;, backgroundColor: &ldquo;hsl(143, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Writeup_Snippets/Texts&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Writeup_Snippets/Requests&rdquo;, backgroundColor: &ldquo;hsl(265, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/NP_Hard&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/NP_Complete&rdquo;, backgroundColor: &ldquo;hsl(355, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/NP&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Complexity&rdquo;, backgroundColor: &ldquo;hsl(318, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Navy_Seals&rdquo;, backgroundColor: &ldquo;hsl(78, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Inspiration&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Grit&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Excuses&rdquo;, backgroundColor: &ldquo;hsl(160, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Disability&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Radiation&rdquo;, backgroundColor: &ldquo;hsl(343, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Health&rdquo;, backgroundColor: &ldquo;hsl(111, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Facts&rdquo;, backgroundColor: &ldquo;hsl(316, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/French&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;} - { label: &ldquo;Quotes/Proverbs&rdquo;, backgroundColor: &ldquo;hsl(178, 95%, 90%)&rdquo;} - { label: &ldquo;Coding&rdquo;, backgroundColor: &ldquo;hsl(322, 95%, 90%)&rdquo;} - { label: &ldquo;Source/Talks&rdquo;, backgroundColor: &ldquo;hsl(209, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Software_Engineering&rdquo;, backgroundColor: &ldquo;hsl(189, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Monopoly&rdquo;, backgroundColor: &ldquo;hsl(71, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Video_Games&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Affirmative_Action&rdquo;, backgroundColor: &ldquo;hsl(27, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/College&rdquo;, backgroundColor: &ldquo;hsl(141, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Inequality&rdquo;, backgroundColor: &ldquo;hsl(2, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/University&rdquo;, backgroundColor: &ldquo;hsl(177, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(338, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Artificial_Intelligence&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;} - { label: &ldquo;Clubs&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;} - { label: &ldquo;Effective_Altruism&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;} - { label: &ldquo;Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(55, 95%, 90%)&rdquo;} - { label: &ldquo;Organization&rdquo;, backgroundColor: &ldquo;hsl(11, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/World_War_2&rdquo;, backgroundColor: &ldquo;hsl(162, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/War&rdquo;, backgroundColor: &ldquo;hsl(102, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Diplomacy&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Chemical_Weapons&rdquo;, backgroundColor: &ldquo;hsl(205, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Always_Check_Contracts&rdquo;, backgroundColor: &ldquo;hsl(45, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/English&rdquo;, backgroundColor: &ldquo;hsl(303, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Fun_Facts&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Aggression&rdquo;, backgroundColor: &ldquo;hsl(16, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(163, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Conservatism&rdquo;, backgroundColor: &ldquo;hsl(251, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Progressivism&rdquo;, backgroundColor: &ldquo;hsl(176, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Natural_Selection&rdquo;, backgroundColor: &ldquo;hsl(176, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Insects&rdquo;, backgroundColor: &ldquo;hsl(137, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Altruism&rdquo;, backgroundColor: &ldquo;hsl(80, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Growth&rdquo;, backgroundColor: &ldquo;hsl(250, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Tests&rdquo;, backgroundColor: &ldquo;hsl(297, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Cheating&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Residual_Graph&rdquo;, backgroundColor: &ldquo;hsl(248, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Motivation&rdquo;, backgroundColor: &ldquo;hsl(315, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Specialization&rdquo;, backgroundColor: &ldquo;hsl(222, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Reproduction&rdquo;, backgroundColor: &ldquo;hsl(284, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Daughter&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Children&rdquo;, backgroundColor: &ldquo;hsl(3, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Algorithms&rdquo;, backgroundColor: &ldquo;hsl(195, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Graph_Theory&rdquo;, backgroundColor: &ldquo;hsl(30, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Physics&rdquo;, backgroundColor: &ldquo;hsl(41, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Currency&rdquo;, backgroundColor: &ldquo;hsl(224, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Productivity&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/AdviceProductivi&rdquo;, backgroundColor: &ldquo;hsl(287, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Wheat&rdquo;, backgroundColor: &ldquo;hsl(310, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Disruptive_Technologies&rdquo;, backgroundColor: &ldquo;hsl(132, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Bread&rdquo;, backgroundColor: &ldquo;hsl(138, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Greedy_Algorithms&rdquo;, backgroundColor: &ldquo;hsl(192, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Britain&rdquo;, backgroundColor: &ldquo;hsl(36, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Vacation&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Country&rdquo;, backgroundColor: &ldquo;hsl(134, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Emotions&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Political_Science&rdquo;, backgroundColor: &ldquo;hsl(358, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Welding&rdquo;, backgroundColor: &ldquo;hsl(168, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Steel&rdquo;, backgroundColor: &ldquo;hsl(268, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Economics&rdquo;, backgroundColor: &ldquo;hsl(330, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Power&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;} - { label: &ldquo;Concepts&rdquo;, backgroundColor: &ldquo;hsl(294, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Programming&rdquo;, backgroundColor: &ldquo;hsl(100, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Computer_Science&rdquo;, backgroundColor: &ldquo;hsl(333, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Typing&rdquo;, backgroundColor: &ldquo;hsl(86, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Writing&rdquo;, backgroundColor: &ldquo;hsl(49, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Showers&rdquo;, backgroundColor: &ldquo;hsl(197, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Cold_Showers&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Twitter&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Yale_University&rdquo;, backgroundColor: &ldquo;hsl(344, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Psychology&rdquo;, backgroundColor: &ldquo;hsl(267, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Social_Contract_Theory&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Religion&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Confucianism&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Conservatism, Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(83, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Stress&rdquo;, backgroundColor: &ldquo;hsl(125, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Morning&rdquo;, backgroundColor: &ldquo;hsl(103, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Habits&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Exercise&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Takes&rdquo;, backgroundColor: &ldquo;hsl(146, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Counter-Strike&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Bayesian_Thinking&rdquo;, backgroundColor: &ldquo;hsl(80, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Motto&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Mantra&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Life&rdquo;, backgroundColor: &ldquo;hsl(252, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Technology&rdquo;, backgroundColor: &ldquo;hsl(271, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Microprocessors&rdquo;, backgroundColor: &ldquo;hsl(10, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Brazil&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Self-Improvement&rdquo;, backgroundColor: &ldquo;hsl(198, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Constructive_Feedback&rdquo;, backgroundColor: &ldquo;hsl(50, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Meditation&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Defense, Topics/Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Scaling&rdquo;, backgroundColor: &ldquo;hsl(146, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Policy&rdquo;, backgroundColor: &ldquo;hsl(212, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Spotify&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Philosophy&rdquo;, backgroundColor: &ldquo;hsl(114, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Questions&rdquo;, backgroundColor: &ldquo;hsl(135, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Congress&rdquo;, backgroundColor: &ldquo;hsl(124, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Overthink&rdquo;, backgroundColor: &ldquo;hsl(309, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Drones&rdquo;, backgroundColor: &ldquo;hsl(269, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Cost_Benefit_Analysis&rdquo;, backgroundColor: &ldquo;hsl(351, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Game_Theory&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Elections&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Machine_Learning&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Tips&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Impact_Investing&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;} - { label: &ldquo;Cheating&rdquo;, backgroundColor: &ldquo;hsl(17, 95%, 90%)&rdquo;} - { label: &ldquo;Students&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Longtermism&rdquo;, backgroundColor: &ldquo;hsl(171, 95%, 90%)&rdquo;} - { label: &ldquo;Empathy&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Labor&rdquo;, backgroundColor: &ldquo;hsl(57, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/SpaceX&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Engineering&rdquo;, backgroundColor: &ldquo;hsl(178, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Trust_the_Process&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Flow_Problems&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Work&rdquo;, backgroundColor: &ldquo;hsl(285, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Food&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Compensation&rdquo;, backgroundColor: &ldquo;hsl(67, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Friends&rdquo;, backgroundColor: &ldquo;hsl(40, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Story&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Youtube_Notes&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Trade_Integration&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Trade&rdquo;, backgroundColor: &ldquo;hsl(297, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Rage&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Protest&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Anger&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Music&rdquo;, backgroundColor: &ldquo;hsl(3, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Cycles&rdquo;, backgroundColor: &ldquo;hsl(156, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Monogamy&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Society&rdquo;, backgroundColor: &ldquo;hsl(24, 95%, 90%)&rdquo;} - { label: &ldquo;Joke&rdquo;, backgroundColor: &ldquo;hsl(261, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Populism&rdquo;, backgroundColor: &ldquo;hsl(104, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Favorite&rdquo;, backgroundColor: &ldquo;hsl(289, 95%, 90%)&rdquo;} - { label: &ldquo;Youtube_Notes&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Domestic&rdquo;, backgroundColor: &ldquo;hsl(282, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Women&rdquo;, backgroundColor: &ldquo;hsl(264, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Interpersonal&rdquo;, backgroundColor: &ldquo;hsl(332, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Storytelling&rdquo;, backgroundColor: &ldquo;hsl(7, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Content_Creation&rdquo;, backgroundColor: &ldquo;hsl(344, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Zettelkasten&rdquo;, backgroundColor: &ldquo;hsl(317, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Map_of_Content&rdquo;, backgroundColor: &ldquo;hsl(212, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Web_Development&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Family&rdquo;, backgroundColor: &ldquo;hsl(215, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Adversity&rdquo;, backgroundColor: &ldquo;hsl(312, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Conflict&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Reflection&rdquo;, backgroundColor: &ldquo;hsl(338, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Immigration&rdquo;, backgroundColor: &ldquo;hsl(181, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Questions&rdquo;, backgroundColor: &ldquo;hsl(135, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Bonding&rdquo;, backgroundColor: &ldquo;hsl(5, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Lists&rdquo;, backgroundColor: &ldquo;hsl(245, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Intuition&rdquo;, backgroundColor: &ldquo;hsl(226, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Braden_Wong&rdquo;, backgroundColor: &ldquo;hsl(122, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Friendship&rdquo;, backgroundColor: &ldquo;hsl(49, 95%, 90%)&rdquo;} - { label: &ldquo;Reaching_Out&rdquo;, backgroundColor: &ldquo;hsl(97, 95%, 90%)&rdquo;} - { label: &ldquo;Writing/Interpersonal&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Generations&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Democracy&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Nuclear_Risk&rdquo;, backgroundColor: &ldquo;hsl(275, 95%, 90%)&rdquo;} - { label: &ldquo;India&rdquo;, backgroundColor: &ldquo;hsl(280, 95%, 90%)&rdquo;} - { label: &ldquo;Testing&rdquo;, backgroundColor: &ldquo;hsl(0, 95%, 90%)&rdquo;} - { label: &ldquo;Type/YouTube_Notes&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Whales&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Orcas&rdquo;, backgroundColor: &ldquo;hsl(314, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Animals&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Personal_Life&rdquo;, backgroundColor: &ldquo;hsl(155, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Language&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Heritage&rdquo;, backgroundColor: &ldquo;hsl(262, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Private_Prisons&rdquo;, backgroundColor: &ldquo;hsl(93, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Political_Science/Politics&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Police&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Criminal_Justice&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Fashion, Topics/Waste, Topics/Fast_Fashion&rdquo;, backgroundColor: &ldquo;hsl(157, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Melting_Pot&rdquo;, backgroundColor: &ldquo;hsl(40, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Fitness&rdquo;, backgroundColor: &ldquo;hsl(67, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Java&rdquo;, backgroundColor: &ldquo;hsl(108, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Flying&rdquo;, backgroundColor: &ldquo;hsl(185, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Flight&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Airlines&rdquo;, backgroundColor: &ldquo;hsl(220, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Biases&rdquo;, backgroundColor: &ldquo;hsl(121, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Beliefs&rdquo;, backgroundColor: &ldquo;hsl(112, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Snakes&rdquo;, backgroundColor: &ldquo;hsl(162, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Schedule&rdquo;, backgroundColor: &ldquo;hsl(93, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Leetcode&rdquo;, backgroundColor: &ldquo;hsl(171, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Calculus&rdquo;, backgroundColor: &ldquo;hsl(183, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Passive_Income&rdquo;, backgroundColor: &ldquo;hsl(225, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Active_Income&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Virus&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;} - { label: &ldquo;Class&rdquo;, backgroundColor: &ldquo;hsl(111, 95%, 90%)&rdquo;} - { label: &ldquo;University&rdquo;, backgroundColor: &ldquo;hsl(256, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Preference_Update&rdquo;, backgroundColor: &ldquo;hsl(190, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Preference_Change&rdquo;, backgroundColor: &ldquo;hsl(303, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Experience&rdquo;, backgroundColor: &ldquo;hsl(347, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Computers&rdquo;, backgroundColor: &ldquo;hsl(184, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Expanding_the_Pie&rdquo;, backgroundColor: &ldquo;hsl(190, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Energy&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Population_Ethics&rdquo;, backgroundColor: &ldquo;hsl(219, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Phrases&rdquo;, backgroundColor: &ldquo;hsl(44, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Education&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Optimization_Problems&rdquo;, backgroundColor: &ldquo;hsl(142, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Ford-Fulkerson&rdquo;, backgroundColor: &ldquo;hsl(188, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Flow_Networks&rdquo;, backgroundColor: &ldquo;hsl(314, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Podcast_Notes&rdquo;, backgroundColor: &ldquo;hsl(331, 95%, 90%)&rdquo;} - { label: &ldquo;Progress&rdquo;, backgroundColor: &ldquo;hsl(157, 95%, 90%)&rdquo;} - { label: &ldquo;Examples&rdquo;, backgroundColor: &ldquo;hsl(218, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Meeting/Calls&rdquo;, backgroundColor: &ldquo;hsl(1, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Cut&rdquo;, backgroundColor: &ldquo;hsl(275, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Military&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Disease&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Biorisk&rdquo;, backgroundColor: &ldquo;hsl(113, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Unfairness, Topics/Rage, Topics/Inequality, Topics/Inequity, Topics/Anger, Topics/Fairness&rdquo;, backgroundColor: &ldquo;hsl(200, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Ideas&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Existential_Risk&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Wealth&rdquo;, backgroundColor: &ldquo;hsl(182, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Open_Source&rdquo;, backgroundColor: &ldquo;hsl(292, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Creativity&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/YPU&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Failure&rdquo;, backgroundColor: &ldquo;hsl(2, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Income&rdquo;, backgroundColor: &ldquo;hsl(331, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Google&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Flutter&rdquo;, backgroundColor: &ldquo;hsl(85, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Gen_Z&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Boomer_Generation&rdquo;, backgroundColor: &ldquo;hsl(43, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Why&rdquo;, backgroundColor: &ldquo;hsl(109, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Mission&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Invasion&rdquo;, backgroundColor: &ldquo;hsl(307, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/International_Relations&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Machine_Learning/Models&rdquo;, backgroundColor: &ldquo;hsl(356, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Skin_in_the_Game&rdquo;, backgroundColor: &ldquo;hsl(345, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Commitment_Problems&rdquo;, backgroundColor: &ldquo;hsl(69, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Lontermism&rdquo;, backgroundColor: &ldquo;hsl(46, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Prioritization&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Effective&rdquo;, backgroundColor: &ldquo;hsl(235, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Progressivism, Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(263, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Quantum_Physics&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;} - { label: &ldquo;Duality&rdquo;, backgroundColor: &ldquo;hsl(205, 95%, 90%)&rdquo;} - { label: &ldquo;Hardware&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Warning&rdquo;, backgroundColor: &ldquo;hsl(69, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Signaling&rdquo;, backgroundColor: &ldquo;hsl(311, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Home_Invasion&rdquo;, backgroundColor: &ldquo;hsl(17, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Demonstrations_of_Irrationality&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Emotion&rdquo;, backgroundColor: &ldquo;hsl(45, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/SAT_Problem&rdquo;, backgroundColor: &ldquo;hsl(4, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Radio&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/5G_Regulators&rdquo;, backgroundColor: &ldquo;hsl(182, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Utilitarianism&rdquo;, backgroundColor: &ldquo;hsl(247, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Consequentialism&rdquo;, backgroundColor: &ldquo;hsl(345, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Suffering&rdquo;, backgroundColor: &ldquo;hsl(72, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Russia&rdquo;, backgroundColor: &ldquo;hsl(285, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Fairness&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Examples&rdquo;, backgroundColor: &ldquo;hsl(158, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Apology&rdquo;, backgroundColor: &ldquo;hsl(256, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Signalling&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Simplicity&rdquo;, backgroundColor: &ldquo;hsl(75, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Ease&rdquo;, backgroundColor: &ldquo;hsl(65, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Themes&rdquo;, backgroundColor: &ldquo;hsl(130, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Solutions&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Stanford&rdquo;, backgroundColor: &ldquo;hsl(177, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Clubs&rdquo;, backgroundColor: &ldquo;hsl(103, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Learning&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;} - { label: &ldquo;Comparisons&rdquo;, backgroundColor: &ldquo;hsl(132, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Concepts&rdquo;, backgroundColor: &ldquo;hsl(203, 95%, 90%)&rdquo;} - { label: &ldquo;AI&rdquo;, backgroundColor: &ldquo;hsl(187, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Tesla&rdquo;, backgroundColor: &ldquo;hsl(5, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Philanthropy&rdquo;, backgroundColor: &ldquo;hsl(77, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Battery_Revolution&rdquo;, backgroundColor: &ldquo;hsl(204, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Art&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Television&rdquo;, backgroundColor: &ldquo;hsl(41, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Deterrence&rdquo;, backgroundColor: &ldquo;hsl(195, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Opinions&rdquo;, backgroundColor: &ldquo;hsl(260, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Preparedness&rdquo;, backgroundColor: &ldquo;hsl(52, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Boxing&rdquo;, backgroundColor: &ldquo;hsl(343, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Epistemics&rdquo;, backgroundColor: &ldquo;hsl(92, 95%, 90%)&rdquo;} - { label: &ldquo;Type/YouTube Facts&rdquo;, backgroundColor: &ldquo;hsl(121, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Profitability&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Business&rdquo;, backgroundColor: &ldquo;hsl(15, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Writeup_Snippets&rdquo;, backgroundColor: &ldquo;hsl(184, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/World_War_I&rdquo;, backgroundColor: &ldquo;hsl(281, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Class&rdquo;, backgroundColor: &ldquo;hsl(358, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Phage&rdquo;, backgroundColor: &ldquo;hsl(277, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Bacteria&rdquo;, backgroundColor: &ldquo;hsl(350, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Disney&rdquo;, backgroundColor: &ldquo;hsl(87, 95%, 90%)&rdquo;} - { label: &ldquo;Skincare&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Book_Notes&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Topology&rdquo;, backgroundColor: &ldquo;hsl(286, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Math&rdquo;, backgroundColor: &ldquo;hsl(352, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Unfairness&rdquo;, backgroundColor: &ldquo;hsl(26, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Monkeys&rdquo;, backgroundColor: &ldquo;hsl(128, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Grapes&rdquo;, backgroundColor: &ldquo;hsl(327, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Experimental_Study&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;} - { label: &ldquo;Simplicity&rdquo;, backgroundColor: &ldquo;hsl(66, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Simplicity_is_Key&rdquo;, backgroundColor: &ldquo;hsl(347, 95%, 90%)&rdquo;} - { label: &ldquo;Inspiration&rdquo;, backgroundColor: &ldquo;hsl(192, 95%, 90%)&rdquo;} - { label: &ldquo;Motivation&rdquo;, backgroundColor: &ldquo;hsl(74, 95%, 90%)&rdquo;} - { label: &ldquo;Speeches&rdquo;, backgroundColor: &ldquo;hsl(225, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Speech&rdquo;, backgroundColor: &ldquo;hsl(198, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Discovery&rdquo;, backgroundColor: &ldquo;hsl(56, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Connotation&rdquo;, backgroundColor: &ldquo;hsl(359, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Negative_Freedom&rdquo;, backgroundColor: &ldquo;hsl(267, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Financial_Freedom&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Entitlement&rdquo;, backgroundColor: &ldquo;hsl(18, 95%, 90%)&rdquo;} - { label: &ldquo;Type/Concept&rdquo;, backgroundColor: &ldquo;hsl(191, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Stimulus&rdquo;, backgroundColor: &ldquo;hsl(66, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Sensory_Overload&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Morning_Routine&rdquo;, backgroundColor: &ldquo;hsl(158, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Julius_Caesar&rdquo;, backgroundColor: &ldquo;hsl(215, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Credible_Commitment&rdquo;, backgroundColor: &ldquo;hsl(257, 95%, 90%)&rdquo;} - { label: &ldquo;Youtube&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Diminishing_Marginal_Returns&rdquo;, backgroundColor: &ldquo;hsl(102, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Dependency&rdquo;, backgroundColor: &ldquo;hsl(202, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Basketball&rdquo;, backgroundColor: &ldquo;hsl(141, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Siblings&rdquo;, backgroundColor: &ldquo;hsl(59, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Sports&rdquo;, backgroundColor: &ldquo;hsl(235, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Men&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Feminism&rdquo;, backgroundColor: &ldquo;hsl(306, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Summarize&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Organization&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Parenting&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Optimism&rdquo;, backgroundColor: &ldquo;hsl(341, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Never_Split_the_Difference&rdquo;, backgroundColor: &ldquo;hsl(179, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Python&rdquo;, backgroundColor: &ldquo;hsl(227, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Functions&rdquo;, backgroundColor: &ldquo;hsl(236, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Moments, Topics/Present, Topics/Time, Topics/Stoicism&rdquo;, backgroundColor: &ldquo;hsl(299, 95%, 90%)&rdquo;} - { label: &ldquo;Topics/Inspirational&rdquo;, backgroundColor: &ldquo;hsl(72, 95%, 90%)&rdquo;} config: enable_media_view: true media_width: 100 media_height: 100 isInline: false categories: input: select accessor: categories key: categories label: categories position: 100 options: - { label: &ldquo;Podcast&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;} - { label: &ldquo;Derived&rdquo;, backgroundColor: &ldquo;hsl(38, 95%, 90%)&rdquo;} - { label: &ldquo;Article&rdquo;, backgroundColor: &ldquo;hsl(8, 95%, 90%)&rdquo;} - { label: &ldquo;Video&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;} config: enable_media_view: true media_width: 100 media_height: 100 isInline: false source_data: current_folder config: enable_show_state: true group_folder_column: remove_field_when_delete_column: false cell_size: normal sticky_first_column: false show_metadata_created: false show_metadata_modified: false source_data: current_folder source_form_result: root filters: %%>"><title>🧙‍♂️Optim</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://braden-w.github.io/quartz//icon.png><link href=https://braden-w.github.io/quartz/styles.5410d3380168c54e3df0aa1fd1d2312f.min.css rel=stylesheet><link href=https://braden-w.github.io/quartz/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://braden-w.github.io/quartz/js/darkmode.88ed88da9a3165d431ef1df4e618aad8.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/util.9825137f5e7825e8553c68ce39ac9e44.min.js></script>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script src=https://unpkg.com/@floating-ui/core@0.7.3></script>
+<script src=https://unpkg.com/@floating-ui/dom@0.5.4></script>
+<script src=https://braden-w.github.io/quartz/js/popover.abe6a51cc7138c5dff00f151dd627ad1.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
+<script src=https://braden-w.github.io/quartz/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
+<script>const BASE_URL="https://braden-w.github.io/quartz/",fetchData=Promise.all([fetch("https://braden-w.github.io/quartz/indices/linkIndex.ac85de99ecb5a3d6c7d48287a5b64302.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://braden-w.github.io/quartz/indices/contentIndex.846a145ffcbb182b173ef4e5f48a1e55.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),initPopover("https://braden-w.github.io/quartz",!0,!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!1;drawGraph("https://braden-w.github.io/quartz",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/braden-w.github.io\/quartz\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFD95KB4J"></script>
+<script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-XYFD95KB4J",{anonymize_ip:!1})}</script><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://braden-w.github.io/quartz/js/full-text-search.24827f874defbbc6d529926cbfcfb493.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://braden-w.github.io/quartz/>🧙‍♂️Optim</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><p class=meta>Last updated
+Unknown
+<a href=https://github.com/braden-w/quartz/tree/hugo/content/obsidian/Cards/Fleeting%20Notes/Fleeting%20Notes%20Database.md rel=noopener>Edit Source</a></p><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents></nav></details></aside><a href=#fleeting-notes-database><h1 id=fleeting-notes-database><span class=hanchor arialabel=Anchor># </span>Fleeting Notes Database</h1></a><p>&lt;%%
+name: new database
+description: new description
+columns:
+<strong>file</strong>:
+key: <strong>file</strong>
+input: markdown
+label: File
+accessor: <strong>file</strong>
+isMetadata: true
+skipPersist: false
+isDragDisabled: false
+csvCandidate: true
+config:
+enable_media_view: true
+media_width: 100
+media_height: 100
+isInline: true
+source_data: current_folder
+tags:
+input: tags
+key: tags
+accessor: tags
+label: tags
+position: 0
+options:
+- { label: &ldquo;Topics/Happiness&rdquo;, backgroundColor: &ldquo;hsl(332, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Context&rdquo;, backgroundColor: &ldquo;hsl(306, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Surroundings&rdquo;, backgroundColor: &ldquo;hsl(191, 95%, 90%)&rdquo;}
+- { label: &ldquo;Quotes&rdquo;, backgroundColor: &ldquo;hsl(257, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Generalist&rdquo;, backgroundColor: &ldquo;hsl(349, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Specialist&rdquo;, backgroundColor: &ldquo;hsl(61, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Leadership&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Feedback&rdquo;, backgroundColor: &ldquo;hsl(197, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Criticism&rdquo;, backgroundColor: &ldquo;hsl(174, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Comeback&rdquo;, backgroundColor: &ldquo;hsl(42, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Monkey&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Evolution&rdquo;, backgroundColor: &ldquo;hsl(148, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Racism&rdquo;, backgroundColor: &ldquo;hsl(133, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Comeback&rdquo;, backgroundColor: &ldquo;hsl(213, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Masculinity&rdquo;, backgroundColor: &ldquo;hsl(354, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Relationships&rdquo;, backgroundColor: &ldquo;hsl(272, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Sex&rdquo;, backgroundColor: &ldquo;hsl(311, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Writeup_Snippets&rdquo;, backgroundColor: &ldquo;hsl(183, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Texts&rdquo;, backgroundColor: &ldquo;hsl(220, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Negotiation&rdquo;, backgroundColor: &ldquo;hsl(18, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Writeup_Snippets/Posts&rdquo;, backgroundColor: &ldquo;hsl(244, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Coding&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;}
+- { label: &ldquo;team-special-projects&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Start_with_Why&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Effective_Altruism&rdquo;, backgroundColor: &ldquo;hsl(99, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Meals&rdquo;, backgroundColor: &ldquo;hsl(290, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Advice&rdquo;, backgroundColor: &ldquo;hsl(61, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Admissions&rdquo;, backgroundColor: &ldquo;hsl(262, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Courses&rdquo;, backgroundColor: &ldquo;hsl(223, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Resume&rdquo;, backgroundColor: &ldquo;hsl(106, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Applications&rdquo;, backgroundColor: &ldquo;hsl(333, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Sleep&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Reference&rdquo;, backgroundColor: &ldquo;hsl(85, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/YouTube&rdquo;, backgroundColor: &ldquo;hsl(78, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Blogging&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;}
+- { label: &ldquo;summer-incubator&rdquo;, backgroundColor: &ldquo;hsl(276, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/YEA&rdquo;, backgroundColor: &ldquo;hsl(270, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Entrepreneurship&rdquo;, backgroundColor: &ldquo;hsl(35, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Calls&rdquo;, backgroundColor: &ldquo;hsl(113, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Calls&rdquo;, backgroundColor: &ldquo;hsl(143, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Recruiting&rdquo;, backgroundColor: &ldquo;hsl(143, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Writeup_Snippets/Texts&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Writeup_Snippets/Requests&rdquo;, backgroundColor: &ldquo;hsl(265, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/NP_Hard&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/NP_Complete&rdquo;, backgroundColor: &ldquo;hsl(355, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/NP&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Complexity&rdquo;, backgroundColor: &ldquo;hsl(318, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Navy_Seals&rdquo;, backgroundColor: &ldquo;hsl(78, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Inspiration&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Grit&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Excuses&rdquo;, backgroundColor: &ldquo;hsl(160, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Disability&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Radiation&rdquo;, backgroundColor: &ldquo;hsl(343, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Health&rdquo;, backgroundColor: &ldquo;hsl(111, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Facts&rdquo;, backgroundColor: &ldquo;hsl(316, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/French&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;}
+- { label: &ldquo;Quotes/Proverbs&rdquo;, backgroundColor: &ldquo;hsl(178, 95%, 90%)&rdquo;}
+- { label: &ldquo;Coding&rdquo;, backgroundColor: &ldquo;hsl(322, 95%, 90%)&rdquo;}
+- { label: &ldquo;Source/Talks&rdquo;, backgroundColor: &ldquo;hsl(209, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Software_Engineering&rdquo;, backgroundColor: &ldquo;hsl(189, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Monopoly&rdquo;, backgroundColor: &ldquo;hsl(71, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Video_Games&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Affirmative_Action&rdquo;, backgroundColor: &ldquo;hsl(27, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/College&rdquo;, backgroundColor: &ldquo;hsl(141, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Inequality&rdquo;, backgroundColor: &ldquo;hsl(2, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/University&rdquo;, backgroundColor: &ldquo;hsl(177, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(338, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Artificial_Intelligence&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;}
+- { label: &ldquo;Clubs&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;}
+- { label: &ldquo;Effective_Altruism&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;}
+- { label: &ldquo;Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(55, 95%, 90%)&rdquo;}
+- { label: &ldquo;Organization&rdquo;, backgroundColor: &ldquo;hsl(11, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/World_War_2&rdquo;, backgroundColor: &ldquo;hsl(162, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/War&rdquo;, backgroundColor: &ldquo;hsl(102, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Diplomacy&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Chemical_Weapons&rdquo;, backgroundColor: &ldquo;hsl(205, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Always_Check_Contracts&rdquo;, backgroundColor: &ldquo;hsl(45, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/English&rdquo;, backgroundColor: &ldquo;hsl(303, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Fun_Facts&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Aggression&rdquo;, backgroundColor: &ldquo;hsl(16, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(163, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Conservatism&rdquo;, backgroundColor: &ldquo;hsl(251, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Progressivism&rdquo;, backgroundColor: &ldquo;hsl(176, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Natural_Selection&rdquo;, backgroundColor: &ldquo;hsl(176, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Insects&rdquo;, backgroundColor: &ldquo;hsl(137, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Altruism&rdquo;, backgroundColor: &ldquo;hsl(80, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Growth&rdquo;, backgroundColor: &ldquo;hsl(250, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Tests&rdquo;, backgroundColor: &ldquo;hsl(297, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Cheating&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Residual_Graph&rdquo;, backgroundColor: &ldquo;hsl(248, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Motivation&rdquo;, backgroundColor: &ldquo;hsl(315, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Specialization&rdquo;, backgroundColor: &ldquo;hsl(222, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Reproduction&rdquo;, backgroundColor: &ldquo;hsl(284, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Daughter&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Children&rdquo;, backgroundColor: &ldquo;hsl(3, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Algorithms&rdquo;, backgroundColor: &ldquo;hsl(195, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Graph_Theory&rdquo;, backgroundColor: &ldquo;hsl(30, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Physics&rdquo;, backgroundColor: &ldquo;hsl(41, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Currency&rdquo;, backgroundColor: &ldquo;hsl(224, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Productivity&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/AdviceProductivi&rdquo;, backgroundColor: &ldquo;hsl(287, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Wheat&rdquo;, backgroundColor: &ldquo;hsl(310, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Disruptive_Technologies&rdquo;, backgroundColor: &ldquo;hsl(132, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Bread&rdquo;, backgroundColor: &ldquo;hsl(138, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Greedy_Algorithms&rdquo;, backgroundColor: &ldquo;hsl(192, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Britain&rdquo;, backgroundColor: &ldquo;hsl(36, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Vacation&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Country&rdquo;, backgroundColor: &ldquo;hsl(134, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Emotions&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Political_Science&rdquo;, backgroundColor: &ldquo;hsl(358, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Welding&rdquo;, backgroundColor: &ldquo;hsl(168, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Steel&rdquo;, backgroundColor: &ldquo;hsl(268, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Economics&rdquo;, backgroundColor: &ldquo;hsl(330, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Power&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;}
+- { label: &ldquo;Concepts&rdquo;, backgroundColor: &ldquo;hsl(294, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Programming&rdquo;, backgroundColor: &ldquo;hsl(100, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Computer_Science&rdquo;, backgroundColor: &ldquo;hsl(333, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Typing&rdquo;, backgroundColor: &ldquo;hsl(86, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Writing&rdquo;, backgroundColor: &ldquo;hsl(49, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Showers&rdquo;, backgroundColor: &ldquo;hsl(197, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Cold_Showers&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Twitter&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Yale_University&rdquo;, backgroundColor: &ldquo;hsl(344, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Psychology&rdquo;, backgroundColor: &ldquo;hsl(267, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Social_Contract_Theory&rdquo;, backgroundColor: &ldquo;hsl(336, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Religion&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Confucianism&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Conservatism, Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(83, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Stress&rdquo;, backgroundColor: &ldquo;hsl(125, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Morning&rdquo;, backgroundColor: &ldquo;hsl(103, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Habits&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Exercise&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Takes&rdquo;, backgroundColor: &ldquo;hsl(146, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Counter-Strike&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Bayesian_Thinking&rdquo;, backgroundColor: &ldquo;hsl(80, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Motto&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Mantra&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Life&rdquo;, backgroundColor: &ldquo;hsl(252, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Technology&rdquo;, backgroundColor: &ldquo;hsl(271, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Microprocessors&rdquo;, backgroundColor: &ldquo;hsl(10, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Brazil&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Self-Improvement&rdquo;, backgroundColor: &ldquo;hsl(198, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Constructive_Feedback&rdquo;, backgroundColor: &ldquo;hsl(50, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Meditation&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Defense, Topics/Hot_Takes&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Scaling&rdquo;, backgroundColor: &ldquo;hsl(146, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Policy&rdquo;, backgroundColor: &ldquo;hsl(212, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Spotify&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Philosophy&rdquo;, backgroundColor: &ldquo;hsl(114, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Questions&rdquo;, backgroundColor: &ldquo;hsl(135, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Congress&rdquo;, backgroundColor: &ldquo;hsl(124, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Overthink&rdquo;, backgroundColor: &ldquo;hsl(309, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Drones&rdquo;, backgroundColor: &ldquo;hsl(269, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Cost_Benefit_Analysis&rdquo;, backgroundColor: &ldquo;hsl(351, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Game_Theory&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Elections&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Machine_Learning&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Tips&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Impact_Investing&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;}
+- { label: &ldquo;Cheating&rdquo;, backgroundColor: &ldquo;hsl(17, 95%, 90%)&rdquo;}
+- { label: &ldquo;Students&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Longtermism&rdquo;, backgroundColor: &ldquo;hsl(171, 95%, 90%)&rdquo;}
+- { label: &ldquo;Empathy&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Labor&rdquo;, backgroundColor: &ldquo;hsl(57, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/SpaceX&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Engineering&rdquo;, backgroundColor: &ldquo;hsl(178, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Trust_the_Process&rdquo;, backgroundColor: &ldquo;hsl(23, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Flow_Problems&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Work&rdquo;, backgroundColor: &ldquo;hsl(285, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Food&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Compensation&rdquo;, backgroundColor: &ldquo;hsl(67, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Friends&rdquo;, backgroundColor: &ldquo;hsl(40, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Story&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Youtube_Notes&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Trade_Integration&rdquo;, backgroundColor: &ldquo;hsl(239, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Trade&rdquo;, backgroundColor: &ldquo;hsl(297, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Rage&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Protest&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Anger&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Music&rdquo;, backgroundColor: &ldquo;hsl(3, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Cycles&rdquo;, backgroundColor: &ldquo;hsl(156, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Monogamy&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Society&rdquo;, backgroundColor: &ldquo;hsl(24, 95%, 90%)&rdquo;}
+- { label: &ldquo;Joke&rdquo;, backgroundColor: &ldquo;hsl(261, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Populism&rdquo;, backgroundColor: &ldquo;hsl(104, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Favorite&rdquo;, backgroundColor: &ldquo;hsl(289, 95%, 90%)&rdquo;}
+- { label: &ldquo;Youtube_Notes&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Domestic&rdquo;, backgroundColor: &ldquo;hsl(282, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Women&rdquo;, backgroundColor: &ldquo;hsl(264, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Interpersonal&rdquo;, backgroundColor: &ldquo;hsl(332, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Storytelling&rdquo;, backgroundColor: &ldquo;hsl(7, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Content_Creation&rdquo;, backgroundColor: &ldquo;hsl(344, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Zettelkasten&rdquo;, backgroundColor: &ldquo;hsl(317, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Map_of_Content&rdquo;, backgroundColor: &ldquo;hsl(212, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Web_Development&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Family&rdquo;, backgroundColor: &ldquo;hsl(215, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Adversity&rdquo;, backgroundColor: &ldquo;hsl(312, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Conflict&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Reflection&rdquo;, backgroundColor: &ldquo;hsl(338, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Immigration&rdquo;, backgroundColor: &ldquo;hsl(181, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Questions&rdquo;, backgroundColor: &ldquo;hsl(135, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Bonding&rdquo;, backgroundColor: &ldquo;hsl(5, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Lists&rdquo;, backgroundColor: &ldquo;hsl(245, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Intuition&rdquo;, backgroundColor: &ldquo;hsl(226, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Braden_Wong&rdquo;, backgroundColor: &ldquo;hsl(122, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Friendship&rdquo;, backgroundColor: &ldquo;hsl(49, 95%, 90%)&rdquo;}
+- { label: &ldquo;Reaching_Out&rdquo;, backgroundColor: &ldquo;hsl(97, 95%, 90%)&rdquo;}
+- { label: &ldquo;Writing/Interpersonal&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Generations&rdquo;, backgroundColor: &ldquo;hsl(115, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Democracy&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Nuclear_Risk&rdquo;, backgroundColor: &ldquo;hsl(275, 95%, 90%)&rdquo;}
+- { label: &ldquo;India&rdquo;, backgroundColor: &ldquo;hsl(280, 95%, 90%)&rdquo;}
+- { label: &ldquo;Testing&rdquo;, backgroundColor: &ldquo;hsl(0, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/YouTube_Notes&rdquo;, backgroundColor: &ldquo;hsl(13, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Whales&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Orcas&rdquo;, backgroundColor: &ldquo;hsl(314, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Animals&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Personal_Life&rdquo;, backgroundColor: &ldquo;hsl(155, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Language&rdquo;, backgroundColor: &ldquo;hsl(199, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Heritage&rdquo;, backgroundColor: &ldquo;hsl(262, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Private_Prisons&rdquo;, backgroundColor: &ldquo;hsl(93, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Political_Science/Politics&rdquo;, backgroundColor: &ldquo;hsl(145, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Police&rdquo;, backgroundColor: &ldquo;hsl(335, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Criminal_Justice&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Fashion, Topics/Waste, Topics/Fast_Fashion&rdquo;, backgroundColor: &ldquo;hsl(157, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Melting_Pot&rdquo;, backgroundColor: &ldquo;hsl(40, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Fitness&rdquo;, backgroundColor: &ldquo;hsl(67, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Java&rdquo;, backgroundColor: &ldquo;hsl(108, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Flying&rdquo;, backgroundColor: &ldquo;hsl(185, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Flight&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Airlines&rdquo;, backgroundColor: &ldquo;hsl(220, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Biases&rdquo;, backgroundColor: &ldquo;hsl(121, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Beliefs&rdquo;, backgroundColor: &ldquo;hsl(112, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Snakes&rdquo;, backgroundColor: &ldquo;hsl(162, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Schedule&rdquo;, backgroundColor: &ldquo;hsl(93, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Leetcode&rdquo;, backgroundColor: &ldquo;hsl(171, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Calculus&rdquo;, backgroundColor: &ldquo;hsl(183, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Passive_Income&rdquo;, backgroundColor: &ldquo;hsl(225, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Active_Income&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Virus&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;}
+- { label: &ldquo;Class&rdquo;, backgroundColor: &ldquo;hsl(111, 95%, 90%)&rdquo;}
+- { label: &ldquo;University&rdquo;, backgroundColor: &ldquo;hsl(256, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Preference_Update&rdquo;, backgroundColor: &ldquo;hsl(190, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Preference_Change&rdquo;, backgroundColor: &ldquo;hsl(303, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Experience&rdquo;, backgroundColor: &ldquo;hsl(347, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Computers&rdquo;, backgroundColor: &ldquo;hsl(184, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Expanding_the_Pie&rdquo;, backgroundColor: &ldquo;hsl(190, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Energy&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Population_Ethics&rdquo;, backgroundColor: &ldquo;hsl(219, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Phrases&rdquo;, backgroundColor: &ldquo;hsl(44, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Education&rdquo;, backgroundColor: &ldquo;hsl(300, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Optimization_Problems&rdquo;, backgroundColor: &ldquo;hsl(142, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Ford-Fulkerson&rdquo;, backgroundColor: &ldquo;hsl(188, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Flow_Networks&rdquo;, backgroundColor: &ldquo;hsl(314, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Podcast_Notes&rdquo;, backgroundColor: &ldquo;hsl(331, 95%, 90%)&rdquo;}
+- { label: &ldquo;Progress&rdquo;, backgroundColor: &ldquo;hsl(157, 95%, 90%)&rdquo;}
+- { label: &ldquo;Examples&rdquo;, backgroundColor: &ldquo;hsl(218, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Meeting/Calls&rdquo;, backgroundColor: &ldquo;hsl(1, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Cut&rdquo;, backgroundColor: &ldquo;hsl(275, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Military&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Disease&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Biorisk&rdquo;, backgroundColor: &ldquo;hsl(113, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Unfairness, Topics/Rage, Topics/Inequality, Topics/Inequity, Topics/Anger, Topics/Fairness&rdquo;, backgroundColor: &ldquo;hsl(200, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Ideas&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Existential_Risk&rdquo;, backgroundColor: &ldquo;hsl(175, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Wealth&rdquo;, backgroundColor: &ldquo;hsl(182, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Open_Source&rdquo;, backgroundColor: &ldquo;hsl(292, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Creativity&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/YPU&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Failure&rdquo;, backgroundColor: &ldquo;hsl(2, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Income&rdquo;, backgroundColor: &ldquo;hsl(331, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Google&rdquo;, backgroundColor: &ldquo;hsl(37, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Flutter&rdquo;, backgroundColor: &ldquo;hsl(85, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Gen_Z&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Boomer_Generation&rdquo;, backgroundColor: &ldquo;hsl(43, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Why&rdquo;, backgroundColor: &ldquo;hsl(109, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Mission&rdquo;, backgroundColor: &ldquo;hsl(321, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Invasion&rdquo;, backgroundColor: &ldquo;hsl(307, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/International_Relations&rdquo;, backgroundColor: &ldquo;hsl(230, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Machine_Learning/Models&rdquo;, backgroundColor: &ldquo;hsl(356, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Skin_in_the_Game&rdquo;, backgroundColor: &ldquo;hsl(345, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Commitment_Problems&rdquo;, backgroundColor: &ldquo;hsl(69, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Lontermism&rdquo;, backgroundColor: &ldquo;hsl(46, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Prioritization&rdquo;, backgroundColor: &ldquo;hsl(21, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Effective&rdquo;, backgroundColor: &ldquo;hsl(235, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Progressivism, Topics/Politics&rdquo;, backgroundColor: &ldquo;hsl(263, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Quantum_Physics&rdquo;, backgroundColor: &ldquo;hsl(167, 95%, 90%)&rdquo;}
+- { label: &ldquo;Duality&rdquo;, backgroundColor: &ldquo;hsl(205, 95%, 90%)&rdquo;}
+- { label: &ldquo;Hardware&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Warning&rdquo;, backgroundColor: &ldquo;hsl(69, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Signaling&rdquo;, backgroundColor: &ldquo;hsl(311, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Home_Invasion&rdquo;, backgroundColor: &ldquo;hsl(17, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Demonstrations_of_Irrationality&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Emotion&rdquo;, backgroundColor: &ldquo;hsl(45, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/SAT_Problem&rdquo;, backgroundColor: &ldquo;hsl(4, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Radio&rdquo;, backgroundColor: &ldquo;hsl(127, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/5G_Regulators&rdquo;, backgroundColor: &ldquo;hsl(182, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Utilitarianism&rdquo;, backgroundColor: &ldquo;hsl(247, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Consequentialism&rdquo;, backgroundColor: &ldquo;hsl(345, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Suffering&rdquo;, backgroundColor: &ldquo;hsl(72, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Russia&rdquo;, backgroundColor: &ldquo;hsl(285, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Fairness&rdquo;, backgroundColor: &ldquo;hsl(319, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Examples&rdquo;, backgroundColor: &ldquo;hsl(158, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Apology&rdquo;, backgroundColor: &ldquo;hsl(256, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Signalling&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Simplicity&rdquo;, backgroundColor: &ldquo;hsl(75, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Ease&rdquo;, backgroundColor: &ldquo;hsl(65, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Themes&rdquo;, backgroundColor: &ldquo;hsl(130, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Solutions&rdquo;, backgroundColor: &ldquo;hsl(246, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Stanford&rdquo;, backgroundColor: &ldquo;hsl(177, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Clubs&rdquo;, backgroundColor: &ldquo;hsl(103, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Learning&rdquo;, backgroundColor: &ldquo;hsl(48, 95%, 90%)&rdquo;}
+- { label: &ldquo;Comparisons&rdquo;, backgroundColor: &ldquo;hsl(132, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Concepts&rdquo;, backgroundColor: &ldquo;hsl(203, 95%, 90%)&rdquo;}
+- { label: &ldquo;AI&rdquo;, backgroundColor: &ldquo;hsl(187, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Tesla&rdquo;, backgroundColor: &ldquo;hsl(5, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Philanthropy&rdquo;, backgroundColor: &ldquo;hsl(77, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Battery_Revolution&rdquo;, backgroundColor: &ldquo;hsl(204, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Art&rdquo;, backgroundColor: &ldquo;hsl(154, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Television&rdquo;, backgroundColor: &ldquo;hsl(41, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Deterrence&rdquo;, backgroundColor: &ldquo;hsl(195, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Opinions&rdquo;, backgroundColor: &ldquo;hsl(260, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Preparedness&rdquo;, backgroundColor: &ldquo;hsl(52, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Boxing&rdquo;, backgroundColor: &ldquo;hsl(343, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Epistemics&rdquo;, backgroundColor: &ldquo;hsl(92, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/YouTube Facts&rdquo;, backgroundColor: &ldquo;hsl(121, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Profitability&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Business&rdquo;, backgroundColor: &ldquo;hsl(15, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Writeup_Snippets&rdquo;, backgroundColor: &ldquo;hsl(184, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/World_War_I&rdquo;, backgroundColor: &ldquo;hsl(281, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Class&rdquo;, backgroundColor: &ldquo;hsl(358, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Phage&rdquo;, backgroundColor: &ldquo;hsl(277, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Bacteria&rdquo;, backgroundColor: &ldquo;hsl(350, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Disney&rdquo;, backgroundColor: &ldquo;hsl(87, 95%, 90%)&rdquo;}
+- { label: &ldquo;Skincare&rdquo;, backgroundColor: &ldquo;hsl(139, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Book_Notes&rdquo;, backgroundColor: &ldquo;hsl(140, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Topology&rdquo;, backgroundColor: &ldquo;hsl(286, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Math&rdquo;, backgroundColor: &ldquo;hsl(352, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Unfairness&rdquo;, backgroundColor: &ldquo;hsl(26, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Monkeys&rdquo;, backgroundColor: &ldquo;hsl(128, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Grapes&rdquo;, backgroundColor: &ldquo;hsl(327, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Experimental_Study&rdquo;, backgroundColor: &ldquo;hsl(131, 95%, 90%)&rdquo;}
+- { label: &ldquo;Simplicity&rdquo;, backgroundColor: &ldquo;hsl(66, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Simplicity_is_Key&rdquo;, backgroundColor: &ldquo;hsl(347, 95%, 90%)&rdquo;}
+- { label: &ldquo;Inspiration&rdquo;, backgroundColor: &ldquo;hsl(192, 95%, 90%)&rdquo;}
+- { label: &ldquo;Motivation&rdquo;, backgroundColor: &ldquo;hsl(74, 95%, 90%)&rdquo;}
+- { label: &ldquo;Speeches&rdquo;, backgroundColor: &ldquo;hsl(225, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Speech&rdquo;, backgroundColor: &ldquo;hsl(198, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Discovery&rdquo;, backgroundColor: &ldquo;hsl(56, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Connotation&rdquo;, backgroundColor: &ldquo;hsl(359, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Negative_Freedom&rdquo;, backgroundColor: &ldquo;hsl(267, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Financial_Freedom&rdquo;, backgroundColor: &ldquo;hsl(153, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Entitlement&rdquo;, backgroundColor: &ldquo;hsl(18, 95%, 90%)&rdquo;}
+- { label: &ldquo;Type/Concept&rdquo;, backgroundColor: &ldquo;hsl(191, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Stimulus&rdquo;, backgroundColor: &ldquo;hsl(66, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Sensory_Overload&rdquo;, backgroundColor: &ldquo;hsl(70, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Morning_Routine&rdquo;, backgroundColor: &ldquo;hsl(158, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Julius_Caesar&rdquo;, backgroundColor: &ldquo;hsl(215, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Credible_Commitment&rdquo;, backgroundColor: &ldquo;hsl(257, 95%, 90%)&rdquo;}
+- { label: &ldquo;Youtube&rdquo;, backgroundColor: &ldquo;hsl(14, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Diminishing_Marginal_Returns&rdquo;, backgroundColor: &ldquo;hsl(102, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Dependency&rdquo;, backgroundColor: &ldquo;hsl(202, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Basketball&rdquo;, backgroundColor: &ldquo;hsl(141, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Siblings&rdquo;, backgroundColor: &ldquo;hsl(59, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Sports&rdquo;, backgroundColor: &ldquo;hsl(235, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Men&rdquo;, backgroundColor: &ldquo;hsl(348, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Feminism&rdquo;, backgroundColor: &ldquo;hsl(306, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Summarize&rdquo;, backgroundColor: &ldquo;hsl(91, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Organization&rdquo;, backgroundColor: &ldquo;hsl(305, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Parenting&rdquo;, backgroundColor: &ldquo;hsl(357, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Optimism&rdquo;, backgroundColor: &ldquo;hsl(341, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Never_Split_the_Difference&rdquo;, backgroundColor: &ldquo;hsl(179, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Python&rdquo;, backgroundColor: &ldquo;hsl(227, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Functions&rdquo;, backgroundColor: &ldquo;hsl(236, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Moments, Topics/Present, Topics/Time, Topics/Stoicism&rdquo;, backgroundColor: &ldquo;hsl(299, 95%, 90%)&rdquo;}
+- { label: &ldquo;Topics/Inspirational&rdquo;, backgroundColor: &ldquo;hsl(72, 95%, 90%)&rdquo;}
+config:
+enable_media_view: true
+media_width: 100
+media_height: 100
+isInline: false
+categories:
+input: select
+accessor: categories
+key: categories
+label: categories
+position: 100
+options:
+- { label: &ldquo;Podcast&rdquo;, backgroundColor: &ldquo;hsl(81, 95%, 90%)&rdquo;}
+- { label: &ldquo;Derived&rdquo;, backgroundColor: &ldquo;hsl(38, 95%, 90%)&rdquo;}
+- { label: &ldquo;Article&rdquo;, backgroundColor: &ldquo;hsl(8, 95%, 90%)&rdquo;}
+- { label: &ldquo;Video&rdquo;, backgroundColor: &ldquo;hsl(84, 95%, 90%)&rdquo;}
+config:
+enable_media_view: true
+media_width: 100
+media_height: 100
+isInline: false
+source_data: current_folder
+config:
+enable_show_state: true
+group_folder_column:
+remove_field_when_delete_column: false
+cell_size: normal
+sticky_first_column: false
+show_metadata_created: false
+show_metadata_modified: false
+source_data: current_folder
+source_form_result: root
+filters:
+%%></p></article><hr><div class=page-end id=footer><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li>No backlinks found</li></ul></div><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://braden-w.github.io/quartz/js/graph.abd4bc2af3869a96524d7d23b76152c7.js></script></div></div><div id=contact_buttons><footer><p>Made by Braden Wong using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p><ul><li><a href=https://braden-w.github.io/quartz/>Home</a></li><li><a href=https://twitter.com/_jzhao>Twitter</a></li><li><a href=https://github.com/braden-w>Github</a></li></ul></footer></div></div></body></html>
