@@ -8,7 +8,7 @@ tags:
 title: Linguistic determinism
 ---
 
-# Linguistic Determinism
+# Linguistic determinism
 Language limits/determines thought. The words we possess determine the things that we can know. In contrast to [[Linguistic Prescription]].
 
 ## Evidence for

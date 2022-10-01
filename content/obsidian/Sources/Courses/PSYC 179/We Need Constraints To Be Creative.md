@@ -1,7 +1,7 @@
 ---
 aliases: Write an Essay About Bananas, Creativity and Constraints
 date: "2022-01-02"
-date modified: "2022-02-01"
+date modified: "2022-09-18"
 title: We Need Constraints To Be Creative
 ---
 

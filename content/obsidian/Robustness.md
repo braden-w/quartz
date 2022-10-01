@@ -8,7 +8,7 @@ date modified: "2022-08-12"
 ---
 
 # Robustness
-Create models that are resilient to adversaries, unusual situations, and Black Swan events.
+Create models that are resilient to adversaries, unusual situations, and [[The Black Swan|Black Swan]] events.
 
 ## Adversarial Robustness
 Handle unforseen attacks.

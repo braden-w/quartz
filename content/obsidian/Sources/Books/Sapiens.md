@@ -1,6 +1,9 @@
 ---
 date: "2022-06-09"
-date modified: "2022-06-18"
+date modified: "2022-08-19"
+tags:
+ - On/Evolution
+ - Type/Source/Book
 title: Sapiens
 ---
 

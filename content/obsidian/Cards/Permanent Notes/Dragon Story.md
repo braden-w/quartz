@@ -1,11 +1,11 @@
 ---
 tags:
-- Type/Source/Story
+- Type/Source/Story/Derived
 - On/Transhumanism
 - On/Effective_Altruism
 - On/Death
 date: "2022-06-16"
-date modified: "2022-06-16"
+date modified: "2022-08-19"
 title: Dragon Story
 ---
 

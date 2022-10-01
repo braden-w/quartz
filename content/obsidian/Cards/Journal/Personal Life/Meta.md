@@ -6,4 +6,4 @@ title: Meta
 ---
 
 # Meta
-[[Recruiting | Internships]]
+[[Cards/Journal/Personal Life/Guide to Recruiting | Internships]]

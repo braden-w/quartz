@@ -1,11 +1,12 @@
 ---
+aliases: Heavy Tail, Heavy Tailed Distributions
 tags:
  - On/Statistics
  - On/Artificial_Intelligence/Safety
  - Type/Concept
 title: Long Tailed Distributions
 date: "2022-08-03"
-date modified: "2022-08-03"
+date modified: "2022-08-19"
 ---
 
 # Long Tailed Distributions

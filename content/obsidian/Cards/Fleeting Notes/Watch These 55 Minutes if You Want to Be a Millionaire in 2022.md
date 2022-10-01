@@ -1,8 +1,7 @@
 ---
 tags:
-- Type/Advice
-- On/Youtube_Notes
 - On/Wealth
+- #Type/Source/Video 
 date: "2022-06-16"
 date modified: "2022-06-16"
 title: Watch These 55 Minutes if You Want to Be a Millionaire in 2022

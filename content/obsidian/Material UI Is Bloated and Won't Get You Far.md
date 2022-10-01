@@ -1,10 +1,11 @@
 ---
+aliases: Material UI Rant
 tags:
  - On/Software_Engineering/Web_Development/Frontend
  - Type/Hot_Take/Derived
 title: '[[Material UI]] Is Bloated and Won''t Get You Far'
 date: "2022-08-18"
-date modified: "2022-08-18"
+date modified: "2022-09-27"
 ---
 
 # [[Material UI]] Is Bloated and Won't Get You Far

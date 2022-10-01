@@ -1,6 +1,6 @@
 ---
 date: "2021-10-13"
-date modified: "2022-06-15"
+date modified: "2022-09-29"
 title: Avoidant (20%)
 ---
 

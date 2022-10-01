@@ -1,7 +1,7 @@
 ---
 title: Braden Wong
 date: "2022-06-28"
-date modified: "2022-06-30"
+date modified: "2022-09-14"
 ---
 
 # Braden Wong
@@ -19,7 +19,7 @@ date modified: "2022-06-30"
 					- Negative liberty↔Liberty to rights, clean water, etc.
 				- originated from→Karl Marx
 				- separates liberalism from nationalism because→generally, liberal changes were driven by nationalistic pride/revolutions
-				- Hevel's belief
+				- Hegel's belief
 					- All human behavior in the material world is rooted in a prior state of consciousness
 					- Yet another unfortunate legacy of Marxism is our tendency to retreat into materialist or utilitarian explanations of political or historical phenomena, and our disinclination to believe in the autonomous power of ideas
 		- Math 230
@@ -47,7 +47,6 @@ date modified: "2022-06-30"
 					- comma→and
 					- ∀↔forall
 				- ![](https://remnote-user-data.s3.amazonaws.com/9OO5KZgaSqAfg88DMzDJQ_o9sgxbyq_imtz7aSh9-qu-V7se7mdAYonyHQP2BPzdN1HIKSgKTZHrkkXZpnuqZjUSlCrzpWjj3760AR99v3eR-MEL9RguoUms-RP5JVtp)
-				-
 			- [September 4th, 2020](Daily Document/September 4th, 2020.md)
 				- Proof Techniques ↓
 					- Direct Proof
@@ -62,7 +61,6 @@ date modified: "2022-06-30"
 					- example→For every integer x, x is even.There exists an integerxsuch thatxis even
 				- "x is even" is not a statement unless you↔define x. This is called a quantifier
 			- [Proof Writing Techniques](proofs.pdf (1).md)
-				-
 				- Proof by Contrapositive
 					- the inspiration→prove that the opposite in reverse is true.
 					- ![](https://remnote-user-data.s3.amazonaws.com/LMFw7qLk4MMESlrOli_hnsXZZfSx_WLUoIRCNI4YJ685nOVBA1KEK1LsBbKANlM24X4WjHO9HoU5NkZ15iJ1AC_gTMByqC3ZzOD5wDiaehCTvO01InlSUj38zfzmvjw6)
@@ -90,7 +88,7 @@ date modified: "2022-06-30"
 					- Any set that you can describe is countable (even numbers, odd integers, etc.)
 					- Cantor's diagonal argument↔(0,1) is not countable
 						- proof by→contradiction. Suppose (0,1) is countable and therefore f(N) -> (0,1) is a surjection. This means that for all $b\in (0,1)$there exists$a$such that $f(a)=b$
-						- ![](https://remnote-user-data.s3.amazonaws.com/rftK5gm0vJehk8RtxdLEdnwkFcY5m2F_ykKnlABjd2DZe1DHZohyWvG9zEUTzxFzM7VeA2lfNxKiM1mY39ey7lgCPwaur_WfWrpSraBL7z9zyIcv5UKOyTij7Fk_-sSu)  Consider random results for (1,2,3,4)
+						- ![](https://remnote-user-data.s3.amazonaws.com/rftK5gm0vJehk8RtxdLEdnwkFcY5m2F_ykKnlABjd2DZe1DHZohyWvG9zEUTzxFzM7VeA2lfNxKiM1mY39ey7lgCPwaur_WfWrpSraBL7z9zyIcv5UKOyTij7Fk_-sSu) Consider random results for (1,2,3,4)
 						- ![](https://remnote-user-data.s3.amazonaws.com/NX4t3TAaYUz4fABcCLHAUU5ktxXyUfe-AJrDDcuzo7NtZvHWD3za63pbxGDwHT-7XCDbR2fi96maf7MypLXyxDIoS5Wui9C4oW5WXh7D_qAdpZY_UM8u_8DGCthjS9hn)
 						- ![](https://remnote-user-data.s3.amazonaws.com/OsD-JA39BhsAKrrHpRAYpYvUSM1j4-EdsT4VtzYKw9iMDj-PEfpnFC9yp94tQbT0DItcdbV7axR_D1fJjuyPx0lXAWAc7H3UBjz5ACAuOa2wFtnE6OIY1wzQsIDfvnye)
 						- Implications ↓
@@ -120,7 +118,6 @@ date modified: "2022-06-30"
 							- This digit of $x$ must be bigger than $L$. However, from the manner in which we formed $L$, this is impossible, because every digit of $L$ is as big as possible without being too big. Therefore, $$$x\leq L$.$$
 						- ![](https://remnote-user-data.s3.amazonaws.com/7g55QaZyEeKb2lGX4QuyPOEMg9ko1BW7EFv-kAyDw_I89C_MHWx1FKqM2TrpiAMol2qR8HZHhlOQk-11ip33S8iYpMcxNgQ_M-g3T-VW3at8b9BTD7Q6NvqFSQzVH3Wq)
 						- $R$ is the only set with [R is dedekind complete](Braden Wong/Notes/Yale Courses/Math 230/Sets/Lower, upper bounds, sup, inf/R is dedekind complete.md)$$ and is an ordered field.
-						-
 					- For all $x\in R$, if $x>0$ , then there exists $y\in R$ such that $0<y<x$ #Theorem
 						- proof→let $y=\frac{x}{2}.$ $\square$
 					- For all $x\in R$, if $x>0$ , then there exists $y\in Q$ such that $0<y<x$ #Theorem
@@ -134,7 +131,7 @@ date modified: "2022-06-30"
 					- definition→A list of elements in S $a_1,a_2,a_3,…,a_n,…$ until infinite. Repeats are okay
 					- $a_n$ is increasing iff→for all $n\in N$ ,$a_{n+1}\geq a_n$ . Strictly increasing if > not >=
 					- $a_n$is decreasing iff→for all $n\in N$ ,$a_{n+1}\leq a_n$ . Strictly decreasing if < not <=
-					- Monotone iff→$a_n$always is [ a_n is decreasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n is decreasing iff.md) or [ a_n  is increasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n  is increasing iff.md)
+					- Monotone iff→$a_n$always is [ a_n is decreasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n is decreasing iff.md) or [ a_n is increasing iff](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence/ a_n is increasing iff.md)
 					- Monotone Convergence Theorem↔$a_n$ is a sequence of reals. If $a_n$ is monotone and bounded, the sequence converges
 				- Limits (of a [Sequence](Braden Wong/Notes/Yale Courses/Math 230/Sets/Sequence.md))
 					- definition→Say $a_n$ is a sequence of reals and $L\in R$ . $L$ is the limit iff for all $\epsilon > 0$there exists $N \in N$ such that for all $n>N$, $|a_n-L|<\epsilon$ .
@@ -161,12 +158,11 @@ date modified: "2022-06-30"
 							- $$
 					- Intermediate Value Theorem↔If $f:R\to R$ is continuous on an interval $[a,b]$. If $L$ is between $f(a)$ and $f(b)$, then $\exist c \in (a,b)$ such that $f(c)=L.$
 						- proof→![](https://remnote-user-data.s3.amazonaws.com/aUI0VMQ4U370LC2tvT6QiUI_7aTOp3KeUvy0qcpk9yJL8POtM-U5N6D6M28LWC3mNIJ2EFXIaXETkedJbK3Hk8hx0cWqxBsLjMt4KIjYvVm773bbNl2rOSJFEf2sMi4Y)
-					-
 				- Vectors
 					- definition→if $S$ is any set and $n\in N$, then ![](https://remnote-user-data.s3.amazonaws.com/U8g1mRNeTGnOEiOMWyDtMBhKwtF2vaa60ja71rFe1iLnEtkYEdoJVeR141bMGlZQnmEsH7GjyRnXlzg2g3I7jjsR9Zy1hPDMwtFYYKZe7_A853rDxO3DFTXUqZEWs76x)$$$S^n$ is the set of ordered lists with $n$ components which are each in $S$. ![](https://remnote-user-data.s3.amazonaws.com/p_kcV0X8KlaQ8e_ulRDUaUL8Nn-NB_Su7Jp1iJw6XudFb1Anptip9vZgAkhPDc8PIjABrym6PppyxV_2_VLV8_wUnJC97PMNyIYJ-ZSCJwxk_XECOZjx0S-9HIjhHCh7)
 					- Zero vector↔$\vec 0$ or $\begin{pmatrix}0\\0\\0\end{pmatrix}$
 					- Length (or norm)
-						- definition→$||\vec x|| =$$\sqrt{\vec x \cdot \vec x}$
+						- definition→$||\vec x|| =$\sqrt{\vec x \cdot \vec x}$
 						- properties ↓
 							1. $||\vec x||\geq 0$ with equality iff $\vec x = 0$
 							2. $||\alpha \vec x||=|\alpha|\cdot ||\vec x||$
@@ -179,7 +175,6 @@ date modified: "2022-06-30"
 							3. $\forall Z\in R^n$, $d(\vec x, \vec y)\leq d(\vec x, \vec z) + d(\vec z, \vec y)$
 					- Cauchy-Schwarz inequality↔$\vec x \cdot \vec y \leq ||\vec x|| \cdot ||\vec y||$ with equality iff one vector is a {{**multiple**}} of the other
 					- Convergence↔$\vec x_k$converges to $L$ iff $\forall \epsilon>0, \exist N\in N$ such that $\forall n>N, d(\vec x _ k, \vec L)<\epsilon$. $\vec x_k$ converges iff $\exist L \in R^n$ to which $\vec x_k \to \vec L.$
-					-
 				- Day 24: Spaces, spans
 			- Day 15: Helpful Continuity
 				- Sequential definition of continuity↔Say $A\subseteq R^n, B\subseteq R^m,$ and $f:A\to B.$The following are equivalent:
@@ -228,7 +223,7 @@ date modified: "2022-06-30"
 						1. $\vec 0 \in W$
 						2. $\forall \vec x, \vec y \in W$, $\vec x + \vec y \in W$
 						3. $\forall \vec x \in W$ and $\forall \alpha \in F$, $\alpha \vec x \in W$.$$
-				- Proof that [span(S)\leq V  . The span of any vector space is a subspace of V](Braden Wong/Notes/Yale Courses/Math 230/Day 23: Vector Spaces and Fields & Day 24: Spaces, spans/Spans/span(S)\leq V  . The span of any vector space is a subspace of V.md)
+				- Proof that [span(S)\leq V . The span of any vector space is a subspace of V](Braden Wong/Notes/Yale Courses/Math 230/Day 23: Vector Spaces and Fields & Day 24: Spaces, spans/Spans/span(S)\leq V . The span of any vector space is a subspace of V.md)
 					- Proved in notes
 				- Linear independence↔Let $V$ be a vector space over $F$, and $S\subseteq V$. We say $S$ is linearly independent iff $\sum_{i=1}^k c_i\vec s_i = \vec 0$ implies $c_1=c_2=c_3=c_4=…=c_k=0$ . Otherwise, $S$ is linearly independent.
 					- Inspiration: $span(\{1, x, x^2, x^3, x^4\}) = span({1, x, x^2, x^3+2x, x^4-2}) = (\text{All polynomials of degree}\leq 4)$ but there is redundancy for the second expression.
@@ -315,7 +310,6 @@ date modified: "2022-06-30"
 							- It is a linear function (also written as a matrix), not just a number
 						- ![](https://remnote-user-data.s3.amazonaws.com/OytxE6V9VXCjsVPbmUTrNlusZQl82_YeyFYwHXlvhS_kjelJ0d1MjyAT76Da1SCECH6QIhq3M2IwKAFDj6QBFeyOszjcWyJ7TgpLUN2qETlY_RD8V_b38VeWGKj0noHp.png)
 					- In simple terms, something is differentialbe if there exists a really good linear approximation
-					-
 				- Theorem 30.1 (The Jacobian is the derivative of function)↔If $f:u \to R^m$ is differentiable at $\vec p$, then $(D_f(\vec p))(\vec h) = [Jac_f(\vec p)]\vec h$, and this Jacobian exists
 			- Day 31: Derivatives of linear maps, chain rule
 				- Chain rule↔Say $u\subseteq R^n, V\subseteq R^m$, and they are both open and $f:u\to R^p, g:V\to R^n$ and $\vec p \in V$ where $g(\vec p) \in u$.
@@ -333,7 +327,6 @@ date modified: "2022-06-30"
 					- It's literally a transformed Jacobian
 						- ![](https://remnote-user-data.s3.amazonaws.com/g2ePZ6NtXjkjvWquBCoFN26WQFp2uKjNxo7-2AFbHu1DMEXTIk_FDyGX-BP_lW8hTbSXl2kdOYpdligPTL6QQNThSYsqWwfabMbF_YIDLR1pp30VV_Ylczq59o0oBflC.png)![](https://remnote-user-data.s3.amazonaws.com/HZ8jk0WNmw9hG8jtl2F3_BUy3W24-XelYMbvgneKt3_fGqL2u_I8XO9pQZscnC2DNY3_jWJNHa4_VeI8_XhMWoAysdbFKMhZ3m2ZZzSeCyrH-k0BqfCjYDrJ7ApCaGwU.png)
 				- Theorem 32.1↔![](https://remnote-user-data.s3.amazonaws.com/OWk9Gi4zraTa7Vd_RipPEVzIB_ZyY8vWAkUBhm4E17awUD3H_1rs7RB945sgraNNJruJDlT6fvzTEN7AQFoduLjZy85KVTamiiezvQRO3XDjwdFeGXomz7QMvtluIrQj.png)
-				-
 			- Day 33: C^1 implies differentiability
 				- $C^k$→Say $U\subseteq R^n$ is open and $f:u\to R^m.$ Then we say $f$ is $C^0$ iff $f$ is continuous. And for all $k\geq 1$, we say $f$ is $C^k$ iff every partial exists and those partials are all $C^{k-1}.$
 					- Aka $C^k$ means you can take $k$ partial derivatives in a row and all results are continuous
@@ -355,18 +348,13 @@ date modified: "2022-06-30"
 				- Tangent space↔Let $M\subseteq R^n$ be a smooth manifold and pick $\vec p \in M$. The tangent space of $M$ at $\vec p$$$ is $T_M(\vec p)=\{\vec v \in R^n:$ there exists a $C^1$ map $\gamma :(-1,1)\to M$ such that $\gamma(0)=\vec p$ and $\gamma^1(0)=\vec v\}$$$
 					- $\gamma:(-1,1)\to M$ is a "curve" on $M$. $\gamma(t)$ traces a smooth path $C^1$ along $M$
 					- All points where $\gamma$ passes through $\vec p$? Now take the instantaneous velocity vector $\vec v$ to get your set
-					-
-			-
 			- Pset tips
 				- Look at past problems in the same pset, they often literally apply to the question
-			-
 	- Books
 		- Never Split the Difference
 			- Mirroring
 			- It seems like…
 			- Everyone wants to say no. Saying no relaxes you and invites critique saying yes does the opposite
-			-
-			-
 		- Skin in the Game
 			- Pilots and Plumbers vs. Economists and Restaurants―Darwinian evolution of self-selection vs. external selection
 			- Reverse Golden Rule
@@ -394,8 +382,6 @@ date modified: "2022-06-30"
 					- 1. `Follow your problems, not passions`
 						- Daniel--The world orients us to be solutions first. You invest 15 years into a specific career. Problem first, second
 					- 2. Crowding out, comparative advantage, but the inherent unfairness of careers
-					-
-					-
 				- Animal Welfare | Factory Farming[July 1st, 2020](Daily Document/July 1st, 2020.md)
 					- [ Why It's Time to End Factory Farming - Quillette](https://quillette.com/2018/10/20/why-its-time-to-end-factory-farming/)
 						- Think about the horses who were replaced by cars. Cars do the same thing horses do—they move people from one place to another—but without all the {{crap}}.
@@ -436,8 +422,6 @@ date modified: "2022-06-30"
 						- Domestication
 							- Sheep
 							- Bulldogs
-					-
-					-
 				- Longtermism[July 8th, 2020](Daily Document/July 8th, 2020.md)
 					- GCBR―
 					- A catastrophe that only kills 10% of the human population is still enormously bad with the potential of being the worst catastrophe in history
@@ -454,7 +438,6 @@ date modified: "2022-06-30"
 						- Would you argue it's dangerous because it reduced hegemony?
 						- [Hegemonic Stability Theory](Hegemonic Stability Theory.md)
 						- International Treaty of
-					-
 				- [ Rational group decision-making - YouTube](https://youtu.be/6KqjT21fbT8)
 					- Plurality vs approval voting lead to drastically different outcomes
 					- Condorcet, independent agents law
@@ -471,14 +454,12 @@ date modified: "2022-06-30"
 					- Online school, accessibility
 					- What's your story? - Reaching out is a compliment
 					- Undergrad email is a free pass, no rep
-				-
 				--------------------- Portal ---------------------
  -- Avoided infinite recursion -- - Oxford In-Depth Fellowship Effective Altruism #[[^^Effective Altruism^^]]
 				- [August 7th, 2020](Daily Document/August 7th, 2020.md)
 					- ITN Framework visualized 3D: Vertical shifts (priorities), horizontal shifts (another solution/cause area is discovered; change solution but doesn't change the fundamental problem), dimensional (framework)
 						- Cause Area 1 | Cause Area 2
 						- Cause Area
-							-
 				- [August 14th, 2020](Daily Document/August 14th, 2020.md)
 					- [D](https://www.godlessgeeks.com/LINKS/Dragon.htm)ragon in my garage―Invisible dragon, but there is no way to disprove.
 						- "Where's the dragon?" you ask.
@@ -603,7 +584,6 @@ date modified: "2022-06-30"
 					- Dan's Deglobalizing, or the idea that centralization enables decentralizatino
 						- Centralizing AI for food may enable smaller communities to be self-sustaining
 						- Centralization may lead towards a greater discrepancy between achievement, such as the internet
-						-
 			- Individuals
 				- Cian Call [June 13th, 2020](Daily Document/June 13th, 2020.md) #[[^^Effective Altruism^^]]
 					- Compute, Memory, Bandwidth
@@ -631,7 +611,6 @@ date modified: "2022-06-30"
 						- 40 Hour Psets
 						- Full time EA
 						- OFFICE HOURS!
-					-
 				- Call with Kaleem [July 20th, 2020](Daily Document/July 20th, 2020.md)
 					- Immortality? - DALYs, generational change continues, finite number of ideas per life
 					- Different moral languages are developed because they are developed in a space that they are not a part of
@@ -671,8 +650,6 @@ date modified: "2022-06-30"
 						- North Korea is really good at misallocating resources
 						--------------------- Portal ---------------------
  -- Avoided infinite recursion -- - Politicians
-						-
-					-
 				- [Daniel Wang - Brown University](Braden Wong/Notes/Calls/Effective Altruism/Individuals/Daniel Wang - Brown University.md) with Andre
 					- Morality of infantcide
 					- Dumb People
@@ -698,7 +675,6 @@ date modified: "2022-06-30"
 				- Favorite classes? - AFAM, etc.
 				- 201 vs. 223 - 201
 				- Common avoidable mistakes - Major in psychology, sleeping with your suitemates LOL
-				-
 			- Yale FOOT
 				- Are humans part of nature or not?
 					- Nature -> Us -> Technology, but now Technology -> Us -> Nature
@@ -848,21 +824,16 @@ date modified: "2022-06-30"
 			- YouthAI First Meeting: John Cohn[August 13th, 2020](Daily Document/August 13th, 2020.md)
 				- Play! Start playing, hands on, and build things.
 		- Call with Data Structures CSSI [July 22nd, 2020](Daily Document/July 22nd, 2020.md)
-		-
-		-
 		- ^^Friends^^
 		- Call with Oxford EA
 		- Car
 		- College
 		- Effective Altruism #[[^^Effective Altruism^^]]
-		-
 	- Math
 		- Intermediate Algebra
 			- Remainder Theorem―Remainder of $f(x)$ divided by $(x-a)$ is $f(a)$
 			- Factor Theorem―$(x-s)$ divides$f(x)$ __if and only if __ $f(s) = 0$
 			- Rational Root Theorem
-			-
-		-
 	- Programming
 		- Web Dev
 			- [ 4 Things You Have to Unlearn to Become a Better Programmer | by Li-Hsuan Lung | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-things-you-have-to-unlearn-to-become-a-better-programmer-547adf476445)
@@ -877,7 +848,6 @@ date modified: "2022-06-30"
 						- print(type(args))
 						- for arg in args:
 							- print(arg)
-							-
 					- foo(1, 2, 'end')
 			- **kwargs―Pass a varying number of keyworded arguments to your function
 				- usage―
@@ -965,14 +935,10 @@ date modified: "2022-06-30"
 						- syntactic―structure
 						- episteme―why believe?
 						- semantic―meaning
-						-
 					- Identity Theory―mental state = brain activity (mind = neurons)
 					- Chinese Room―Machines control syntax, but not semantics
 					- Constructive Empiricist―science aims to produce theories that are empirically adequate rather than true, and to accept a theory involves no more belief than that it is empirically adequate
-			-
-			-
 		- Communicating Effectively in Teams
-			-
 			- Transmission model―Model, communication as a linear process of sending and receiving messages from one person to another (default communication process model)
 				- ![](https://remnote-user-data.s3.amazonaws.com/D92jUzF8kXFPwrITN-nTd3D55lYRSvMEQnrA5jQqTCX7fhkb0AFI0Alc1rbW4QasMM3aPR0fu9dypS6W85WMP1FvoaA_ZBzUrffrsxeFHRIc9d2w91UOXNeEdVD_jV5N)
 			- Context―Circumstances that form the setting for group communication
@@ -1025,13 +991,10 @@ date modified: "2022-06-30"
 				- Dual Capacity Model―Means of communication have different cultural contexts
 			- Nature of Communication
 			- Diversity among competing interests
-			-
 		- Predictive Analytics for Business Nanodegree
 			- Methodology Map
 				- ![](https://remnote-user-data.s3.amazonaws.com/wFqMGeO3y7J71bi3hWc6EpxYH8_zys2GeEbKOB6_0jYswq38BY24FDCXozzWIfTYsH2GHh1zn4zhrsSZ-Xuo7HdGtXJJRYn0ynt87SgAktvH2UPqJxJ-VYbV_sRIT-wM)
 			- Non-Predictive Analysis 4 Categories ↓
-				-
-				-
 				- Geospatial Analysis―Location based. Calculating trade areas, store locations, etc.
 				- Segmentation Analysis―Grouping data together into categories
 				- Aggregation Analysis―Calculating a value across a group. Adding up all profit in year, month, etc.
@@ -1041,7 +1004,6 @@ date modified: "2022-06-30"
 					- Continuous vs. Count―Any measurement in range vs. integer
 					- Time-Based―Forecasting
 				- Types of Data Science Non-Numerical Classification Models (2)―Binary (2 choices), non-binary (3 or more)
-			-
 			- Linear Regression
 				- Functions in Excel
 					- Slope()
@@ -1059,17 +1021,13 @@ date modified: "2022-06-30"
 						- ^^add one dummy variable for ^^^^{{one less than the number of unique values in the categorical variable}}^^^^ ^^
 						- if the variable is binary, you'd add {{one }}dummy
 						- if there are four categories, you'd add {{three }}dummy variables.
-						- example―![](https://remnote-user-data.s3.amazonaws.com/ipad3678zEIO80jPFfNi6P4rQm0jvFKUz_SGxHVLciGwqKcibPMwrM0LlcdaR-syK9tuM1Y6oW5-c_NYjy03A_-Gga_p17MyGzErs7cylM3AG1Euan1dCgl52lNW-G7E)  The location (west, east ,etc.) is a dummy variable that is 1 if true and 0 if false
-						-
+						- example―![](https://remnote-user-data.s3.amazonaws.com/ipad3678zEIO80jPFfNi6P4rQm0jvFKUz_SGxHVLciGwqKcibPMwrM0LlcdaR-syK9tuM1Y6oW5-c_NYjy03A_-Gga_p17MyGzErs7cylM3AG1Euan1dCgl52lNW-G7E) The location (west, east ,etc.) is a dummy variable that is 1 if true and 0 if false
 			- Types of Data
 				- Structured―Rows and columns, Excel
 				- Unstructured
 				- Semistructured―HTML, JSON
 			- Dirty Data―Data with errors or duplicates in entering
 				- examples―incorrect name spelling, duplicate entries, wrong/old address
-			-
-			-
-			-
 		- Data Science Math Skills
 			- Product Rule
 				- formula 1―$P(A,B) = P(A|B) \cdot P(B)$
@@ -1080,10 +1038,6 @@ date modified: "2022-06-30"
 			- Bayes' Theorem
 				- problem use case―Inverse probability problems
 				- ![](https://remnote-user-data.s3.amazonaws.com/rLJpBog4WAbg3Kep3mKr7RsdeieUcXRHW805k4yqA2uHyYyvHqwvYY8pehoFpbTjMuo0FNDkRxqp3i3vXDCOO50m8wTm9nT7sQf8dpR0DfwZ19_jTL7s9aS16I9qq2yK)
-			-
-			-
-			-
-			-
 		- Algorithmic Toolbox and Data Structures (Google)
 			- Algorithmic Toolbox
 				- [ Course 1 — Algorithmic toolbox — Part 1: Introduction](https://towardsdatascience.com/course-1-algorithmic-toolbox-part-1-introduction-c29b8175430f)
@@ -1115,7 +1069,6 @@ date modified: "2022-06-30"
 						- definition―precompute and storing subproblems to find solution
 						- similar to―recursion
 						- helpful for―overlapping subproblems, solving the same problem many times
-			-
 			- Data Structures
 				- [ Course 2 — Data structure — Part 1: The Basic data structures](https://towardsdatascience.com/course-2-data-structure-part-1-the-basic-data-structures-4f4b5bd380c1)―Arrays read and write with O(1), Linked Lists insert after (and before with Double Linked) with O(1)
 					- Arrays vs. Linked List Advantages?―Arrays read and write with O(1), Linked Lists insert after (and before with Double Linked) with O(1)
@@ -1184,9 +1137,6 @@ date modified: "2022-06-30"
 					- Left to right, up to down
 					- InOrderTraversal (binary trees)―Print left child, parent, then right child
 					- PreOrderTraversal―Print children, then parent
-			-
-			-
-			-
 		- Science of Success
 			- <25% success related to IQ
 			- Growth mindset vs. fixed mindset
@@ -1229,7 +1179,6 @@ date modified: "2022-06-30"
 				- Communicable Diseases―disease that can be spread from person to person
 				- Over the last several decades, the share of total deaths attributable to noncommunicable diseases and injuries has {{increased}}
 			- Neglected Tropical Diseases (NTDs)―group of parasitic and bacterial infections that are mainly prevalent in tropical and subtropical areas
-			-
 		- [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome)
 			- Neural Nets
 				- Feed Forward Neural Networks―no loops
@@ -1327,7 +1276,6 @@ date modified: "2022-06-30"
 					- Vivoporous―Live Birth
 					- Ovovivoparous―Live birth with egg laying
 					- Intrauterine Cannabalism
-				-
 				- Coloration
 					- The gray top and white bottom of sharks is an example of {{counter-shading}}
 				- Eyes
@@ -1383,8 +1331,6 @@ date modified: "2022-06-30"
 					- i frame―JPEG
 					- b frame―interpolation between p and i frames
 					- p frame―constructed using move instructions
-			-
-			-
 		- Make your most important decisions at 10:30 AM #Productivity
 		- [ Why Are Pandas Black and White? - YouTube](https://www.youtube.com/watch?v=hMgKEzr_Gt8&t=55s) #Science
 			- Need both as snow and in the trees
@@ -1415,11 +1361,8 @@ date modified: "2022-06-30"
 			- The curve for an egg is stronger than half circle, which is called a catenary
 			- Eggs shapes are from membrane, not shell (you can dissolve shell and still same shape)
 			- Odd shape may allow roll in circles rather than straight
-			-
-			-
 			- Universal dimension less variables and fine structure
 			- Changing a few variables would change the world drastically
-			-
 		- [What the Wright Brothers Should Actually Be Famous For](https://youtu.be/9S7H8TlkBC4)
 			- Wright brothers made steering possible
 			- Meticulous use of wind tunnel, even corrected values from the 17th century
@@ -1479,7 +1422,6 @@ date modified: "2022-06-30"
 						- Internet: Creating more content allows you to create more content
 						- Software you write allows you to write more software
 						--------------------- Portal ---------------------
-							-
 			- Sheldon Solomon
 				- Psychologists, don't mistake statistical precision for knowledge
 				- John Locke
@@ -1509,7 +1451,6 @@ date modified: "2022-06-30"
 						- Weight Loss: It may be relatively easy to shed five pounds within a week or two, but then the progress slows. Each successive pound of fat loss is more stubborn than the last.
 						- Musical skill: Improvements come quickly for a novice guitar player. Improvements come very slowly for a concert pianist.
 				- Type 2: Exponential Growth Curve
-					-
 					- ![](https://remnote-user-data.s3.amazonaws.com/OxI7gkVIJCfeH9Gkie7zH7i6y6GWhFfFRLvSDIGvMuw9r7M50idqCALPX1P-ta_m7KJeE9hywvAUEZ_tXt5xW21f7L2bOuSMQYf3OxcjZ8arYxu9WWP2XZmfc0ZW5_oK)
 					- examples ↓
 						- Investments and wealth: Thanks to the power of compound interest, your retirement savings start out as a small treasure in the early years, but balloon in size during the final decade or two of savings.
@@ -1532,7 +1473,6 @@ date modified: "2022-06-30"
 					- Government is a monopoly on violence
 					- Nation is a group of people who've agreed to forget something in common
 				- Endowment per student
-				-
 			- Julius Caesar
 				- Triumvirate ↓
 					- Caesar
@@ -1549,7 +1489,6 @@ date modified: "2022-06-30"
 				- Men like watching, women like being watched.
 				- Men are like a mirror, the idea of being admired is what interests women
 				- Nikola
-				-
 			- [June 11, 2020](June 11, 2020.md)
 				- We're the only nation that stayed together after Civil War
 				- Men are wired to be expendable
@@ -1559,7 +1498,6 @@ date modified: "2022-06-30"
 				- Compute, Memory, Bandwidth
 				- Andrew Yang Interview with Eric
 				- Making lifestyle around work
-				-
 			- Rabbi Wolfe
 				- Christianity is portable
 					- As long as you believe in Jesus
@@ -1567,13 +1505,6 @@ date modified: "2022-06-30"
 				- Judaism is familial
 					- Cultural implications, you can be a Jewish Atheist
 					- Creation in religious law, not like Roman Empire
-			-
-			-
-			-
-			-
-			-
-			-
-			-
 		- Coleman Hughes
 			- Coverage Bias #[[Coleman Hughes]]
 				- For every George Floyd, there's a Tony Timpa.
@@ -1604,7 +1535,6 @@ date modified: "2022-06-30"
 	- Smart but not educated
 	- Gatling gun, potential violence helps prevent actualized violence
 - Writing List of Ideas
-	-
 	- [August 19th, 2020](Daily Document/August 19th, 2020.md) An ethical can of words, not because we are evolving too slowly, but because we are evolving too quickly
 	- Comforting Thoughts for Regret and Failure
 		- Avoid getting hurt twice. First for not doing it, and second for dealing with the repercussions.
@@ -1619,9 +1549,9 @@ date modified: "2022-06-30"
 			- It’s not a thought you should fear, you should use it to push yourself towards full self reliance and freedom.
 			- It’s liberating.
 			- [https://thepowermoves.com/the-50th-law/](https://thepowermoves.com/the-50th-law/)
-			- ["What you do in the dark is what makes you shine in the light"](Braden Wong/IdeasRemNote Graph/Quotes/High Value Grit Mindsets (Habits, Perserverance)/Habits - Perseverance       /"What you do in the dark is what makes you shine in the light".md)
+			- ["What you do in the dark is what makes you shine in the light"](Braden Wong/IdeasRemNote Graph/Quotes/High Value Grit Mindsets (Habits, Perserverance)/Habits - Perseverance /"What you do in the dark is what makes you shine in the light".md)
 		- Zero Sum Mindset
-			- [Praise others. It will bring them peace of mind.  Do not expect others to praise you. It will bring you peace of mind.](Braden Wong/IdeasRemNote Graph/Quotes/James Clear/Praise others. It will bring them peace of mind.  Do not expect others to praise you. It will bring you peace of mind..md)
+			- [Praise others. It will bring them peace of mind. Do not expect others to praise you. It will bring you peace of mind.](Braden Wong/IdeasRemNote Graph/Quotes/James Clear/Praise others. It will bring them peace of mind. Do not expect others to praise you. It will bring you peace of mind..md)
 	- My silence is a choice. Silence is not the absence of thought, but its ultimate manifestation.
 	- Context
 	- Not because you'll be gone, but because you won't be here.
@@ -1642,7 +1572,6 @@ date modified: "2022-06-30"
 	- What has been done before, can be done again (The story of the four minute mile)
 		- Why do you think we remember the first, but not the second? Following pushed boundaries is natural of human condition. Likewise, it is important to leverage this to our advantage. Read about other people's stories.
 		- Two types of inspiration, quotes, or stories that show the impossible
-	-
 - Ideas Journal
 	- [June 8th, 2020](Daily Document/June 8th, 2020.md)
 		- Goal oriented behavior can arise from goalless deterministic physical processes #[[Oh Shit]]
@@ -1708,12 +1637,9 @@ date modified: "2022-06-30"
 					- 5 feet to you should mean the same to you as 5 feet to me
 			- Fear of Missing Out in College? #[[Writing List of Ideas]]
 				- There are people who would like this problem of missing out. The fact that we are sad about missing out on opportunity is a privilege.
-	-
-	-
 - Quotes
 	- description on page→Quotes are a rather unique art form. Of them, there is a unique and ineffable quality to a good one. Too great or extreme to be expressed or described in words.
 	- Productivity #Productivity
-		-
 		- Effective vs. Efficient ["Rowing harder doesn't help if the boat is headed in the wrong direction." -Kenichi Ohmae](Braden Wong/IdeasRemNote Graph/Quotes/James Clear/"Rowing harder doesn't help if the boat is headed in the wrong direction." -Kenichi Ohmae.md)
 	- High Value Grit Mindsets (Habits, Perserverance) #[[High Value Grit Mindsets]]
 		- Habits / Perseverance #[[Habits / Perseverance]]
@@ -1732,7 +1658,6 @@ date modified: "2022-06-30"
 			- The biggest risk is not taking one
 		- Misc.
 			- Nothing is boring. If you're bored you're boring
-		-
 	- Interpersonal (Making Friends)
 		- Making Friends / Caring
 			- To the world you may be one person; but to one person you may be the world
@@ -1740,7 +1665,6 @@ date modified: "2022-06-30"
 			- If you want to make friends, make people feel better when you're with them than when you are not
 			- “There isn’t anyone you couldn’t love once you’ve heard their story. ”― Mary Lou Kownacki
 			- “Humility is not thinking less of yourself, it's thinking of yourself less.”― CS Lewis
-			-
 		- Conversation
 			- "Speak only when you fully intend on finishing your sentence" - Charisma in Command
 			- "A good listener is one who helps us overhear ourselves." - Yahia Lababid
@@ -1807,17 +1731,11 @@ date modified: "2022-06-30"
 		- Vietnam Story
 			- It wasn't long before one American in the truck said, "This place stinks." Another said, "These people live just like animals." Finally, a young air force man said, "Yeah, they got nothin' to live for; they may as well be dead."
 			- What could you say? It seemed true enough.
-			-
 			- But just then, an old sergeant in the truck spoke up. He was the quiet type who never said much. In fact, except for his uniform, he kind of reminded you of one of the tough men in the village. He looked at the young airman and said, "You think they got nothin' to live for, do you? Well, if you are so sure, why don't you just take my knife, jump down off the back of this truck, and go try to kill one of them?"
-			-
 			- There was dead silence in the truck. . . .
-			-
 			- The sergeant went on to say, "I don't know either why they value their lives so much. Maybe it's those snotty nosed kids, or the women in the pantaloons. But whatever it is, they care about their lives and the lives of their loved ones, same as we Americans do. And if we don't stop talking bad about
 			- them, they will kick us out of this country!"
-			-
 			- [A soldier] asked him what we Americans, with all our wealth, could do to prove our respect for the peasants' human equality despite their destitution. The sergeant answered easily, "You got to be brave enough to jump off the back of this truck, knee deep in the mud and sheep dung. You got to have the courage to walk through this village with a smile on your face. And when you see the smelliest, scariest looking peasant, you got to be able to look him in the face and let him know, just with your eyes, that you know he is a man who hurts like you do, and hopes like you do, and wants for his kids just like we all do. It is that way or we lose."
-			-
 			- The code of the Ethical Warrior, even as an aspiration, shows that the American armed forces have come a long way from a time when its soldiers referred to Vietnamese peasants as gooks, slopes, and slants and when the military was slow to investigate atrocities against civilians such as the massacre at My Lai. As former Marine captain Jack Hoban, who helped to implement the Ethical Warrior program, wrote to me, "When I first joined the Marines in the 1970s it was 'Kill, kill, kill.' The probability that there would have been an honor code that trained marines to be 'protectors of all others — including the enemy, if possible' would have been o percent."
-	-
 - I’ve always found it simple to make things complicated, but for me, writing is the opposite: it is the translation of the intangible to the tangible. My thoughts have had time over the years to become incredibly grand and complex, but that means I must expand my ability to condense these ideas into tiny words.
 - "Not everyone's a king but anyone can wear the crown"

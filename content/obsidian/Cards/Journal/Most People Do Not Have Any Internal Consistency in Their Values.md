@@ -7,4 +7,4 @@ title: Most People Do Not Have Any Internal Consistency in Their Values
 # Most People Do Not Have Any Internal Consistency in Their Values
 [[The Allure of Internal Consistency]]
 
-[[Morality||Ethics]], [[Cognitive Science]]
+[[Morality||Ethics]], [[Cognitive science]]

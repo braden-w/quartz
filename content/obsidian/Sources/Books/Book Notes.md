@@ -18,6 +18,7 @@ title: Book Notes
 [[Work]]
 [[Homo Deus]]
 [[Poor Economics]]
+[[Sapiens]]
 [[The Elephant in the Brain]]
 [[Smart People Should Build Things]]
 [[No Cure for Being Human]]
@@ -30,7 +31,13 @@ title: Book Notes
 [[Outliers]]
 [[An Economist Gets Lunch]]
 [[Clean Code]]
+[[The Great Stagnation - How America Ate All the Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better]]
 [[Average is Over]]
+
+
+[[Becoming]]
+[[Rage (Book)]]
+[[The Complacency Class]]
 
 # To Be Read
 [[Infinite Jest]]
@@ -39,3 +46,7 @@ title: Book Notes
 [[Snowcrash]]
 [[Dune]]
 [[Media Notes/Book Notes/Sapiens]]
+
+```dataview
+table file.ctime from #Type/Source/Book and -outgoing([[Book Notes]]) sort file.ctime ASCENDING
+```

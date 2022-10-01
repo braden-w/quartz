@@ -1,6 +1,6 @@
 ---
 date: "2022-07-21"
-date modified: "2022-08-03"
+date modified: "2022-09-12"
 draft: false
 tags:
 - On/Artificial_Intelligence
@@ -62,26 +62,7 @@ title: ML Safety Scholars Program
 
 > Some studies have found a reverse Flynn effect with declining scores for those with high IQ. In 1987, Flynn took the position that **the very large increase indicates that IQ tests do not measure intelligence but only a minor sort of "abstract problem-solving ability" with little practical significance**.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Resources
 [GitHub MIT Course Notes](https://phillipi.github.io/6.882/2020/notes/6.036_notes.pdf)
 [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)>)
-

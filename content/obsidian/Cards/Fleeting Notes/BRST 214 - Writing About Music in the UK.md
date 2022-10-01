@@ -5,7 +5,7 @@ tags:
  - Type/Source/Course
 title: BRST 214 - Writing About Music in the UK
 date: "2022-07-04"
-date modified: "2022-08-14"
+date modified: "2022-08-19"
 ---
 
 # BRST 214 - Writing About Music in the UK
@@ -193,6 +193,10 @@ Is it gatekeeping?
 		- If you can confess a weakness to the reader, you gain a kind of authority that you are telling it straight
 		- The lack of virtue signalying seems like honesty
 	- Dont' just say "you're interested "
+	
+### Trip to Liverpool
+- The origins for Strawberry Hill and Penny Lane
+	- Everyone on the Beatles wrote a song about home
 
 ## Week 4
 

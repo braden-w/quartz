@@ -1,8 +1,9 @@
 ---
+aliases: Quote
 tags:
 - Type/Quote
 date: "2022-06-15"
-date modified: "2022-06-16"
+date modified: "2022-09-13"
 title: Quotes
 ---
 

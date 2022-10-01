@@ -5,7 +5,7 @@ tags:
  - Type/Source/Book
 title: Average is Over
 date: "2022-08-07"
-date modified: "2022-08-15"
+date modified: "2022-09-12"
 ---
 
 # Average is Over
@@ -36,6 +36,8 @@ date modified: "2022-08-15"
 - Petty entrepreneurship in less developed countries is overrated. Many of them would be better with stable factory jobs
 - The Limbo Generation
 - Threshold earners don’t strive
+
+## Freestyle Chess and Computers
 - Chess Grandmasters call ugly moves, “that’s a computer move.”
 - Freestyle chess and stressful situations
 - Freestyle chess is raw and requires speed of processing
@@ -126,6 +128,31 @@ date modified: "2022-08-15"
 - The Rent is Too Damn High by Matt Iglesias
 - Texas has poor health and crime and education, but most . But California
 - For the average Joe, Jacksonville Florida is more livable than Vancouver (even though it’s rated well)
+
+## Trends to Moving to Affordable Housing and Higher Purchasing Power
+- Increase in places like Houston and Mexico, where you can live off fixed expenses 
+- Creating Mexico like area in America, as an option for lower income
+- You may decry this, but nobody is being forced to live in a "shantytowns"
+- El Paso is parasitic off Juarez rather than the other way around. Few actually want Juarez to disappear
+- Berlin has good rent because of over building while Soviet Union destroyed East Berlin economy. The result is a nice place to settle down 
+
+### Keeping Children is Expensive
+- Poor women suffer the most in the shift
+- Divorced, widowed, etc. are more vulnerable
+- Keeping custody of your children or having more is an expensive preference, but it won’t be going away soon
+
+## We Will Not Be Revolutionary
+- We will become more conservative. This is simply because we’ll be older
+- The crime rate has dropped precipitously (even more than expected) with wealth inequality
+- Wealth Inequality and Domestic Peace are possible and not necessarily mutually exclusivd  
+- Response to Threat of Revolution Argument
+	- Medieval times had high inequality and low mobility, yet was stable (even though we may find it objectionable)
+	- Predictions of violence tell more about predictors than actual society
+	- Commentators use threat of violence as rhetorical force while not directly encouraging it, as if it is a cosmic force
+
+## Americans Will Become More Conservative, Seeking Community and Getting More for Less, Less Taxes, Etc.
+- Most Americans are delusioned by both parties and looking someone to unite and get something done, which is not a revolution waiting to happen
+- Conservative will become the beliefs of the economically left behind
 
 # References
 - (References:: [Choose A Table - Libby Data Export](https://share.libbyapp.com/data/954567b2-dadd-47c1-9f02-6e39a00c2769/choose_table?path=libbyjourney-1423863-average-is-over&tables%5B%5D=Reading+Journey&tables%5B%5D=Bookmarks&tables%5B%5D=Highlights&tables%5B%5D=Circulation))

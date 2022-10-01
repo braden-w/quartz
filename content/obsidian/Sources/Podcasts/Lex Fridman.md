@@ -22,7 +22,7 @@ title: Lex Fridman
 
 ## Conservative Vs. Liberal
 - What is [[Rationalism]]?
-- What is [[Empiricism]]?
+- What is [[Sources/Podcasts/Empiricism]]?
 - Who is [[Edmund Burke]]?
 
 ## Harvard Medicine

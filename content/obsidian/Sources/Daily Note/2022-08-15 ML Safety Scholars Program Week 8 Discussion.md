@@ -18,4 +18,4 @@ date modified: "2022-08-16"
 - Might recommend based off a single linear metric, even though there are multiple linear metric
 	- See [[Why Charities Usually Don't Differ Astronomically in Expected Cost-Effectiveness]]
 - Acting off the recommendation could actually lead to the market reacting in such a way that it becomes untrue
-	- See [[Type 2 Systems]] from [[The Black Swan|Black Swan]]
+	- See [[Level 2 Chaos]] from [[The Black Swan|Black Swan]]

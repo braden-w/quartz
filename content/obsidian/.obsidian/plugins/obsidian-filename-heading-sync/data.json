@@ -14,5 +14,6 @@
     "Settings/Template/Note Template.md": null
   },
   "ignoreRegex": "(\\[\\[.*\\]\\]|Kanban Boards)",
-  "useFileOpenHook": true
+  "useFileOpenHook": false,
+  "useFileSaveHook": true
 }

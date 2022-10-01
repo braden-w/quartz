@@ -1,6 +1,9 @@
 ---
 date: "2022-06-09"
-date modified: "2022-06-15"
+date modified: "2022-09-09"
+tags:
+ - Type/Source/Book
+ - On/Entrepreneurship
 title: Super Founders
 ---
 

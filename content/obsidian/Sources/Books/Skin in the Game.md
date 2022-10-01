@@ -1,6 +1,6 @@
 ---
 date: "2022-03-06"
-date modified: "2022-06-15"
+date modified: "2022-09-16"
 title: Skin in the Game
 ---
 
@@ -57,3 +57,19 @@ Never buy what you can rent the three F’s: what you float, what you fly, and w
 An employee is by definition more useful within org than outside
 
 Employing is a means of risk management
+
+## How one is enslaved
+- Expats receive a lot of pay, but end up being chained down to the companies that provide for them
+- You may have many luxuries, but you are enslaved
+- People who curse on social media or violating social norms may be criticized, but
+	- It's an expensive signal that you are truly free
+	- It is a signal of honesty
+	- It is [[Countersignaling]]
+- "Slaves" in this context need approval, are tied to bureaucracy, and have little freedom
+- Obama's administrator were afraid of rocking the boat with the [[Bob Reuben Trade]]
+
+## Ethical dilemmas tied to families and friends
+- We prefer protagonists to not have a family that complicates their ethical decision making
+	- [[The entire human race is their family]]
+- Banks love people with families, because they have vulnerabiltiies
+- To make ethical choices, you cannot have dilemmas between the particular (friends, family) and the general

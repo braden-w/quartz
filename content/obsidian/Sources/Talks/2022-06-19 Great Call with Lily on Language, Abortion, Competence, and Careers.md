@@ -6,7 +6,7 @@ tags:
  - Type/Source/Call
 title: '[[2022-06-19]] Great Call with Lily on Language, Abortion, Competence, and Careers'
 date: "2022-07-02"
-date modified: "2022-07-02"
+date modified: "2022-08-19"
 ---
 
 # [[2022-06-19]] Great Call with Lily on Language, Abortion, Competence, and Careers
@@ -20,4 +20,3 @@ date modified: "2022-07-02"
 - People who are super [[Competence|Competent]] and take 8 classes
 - Guy who just thinks
 - Guy who has [[Google]] asking him to work as a junior and another paying for him in Hawaii
-

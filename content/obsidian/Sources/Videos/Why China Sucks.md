@@ -1,7 +1,7 @@
 ---
 aliases: Why China is Bad, The Case Against China
-date: 2022-06-16
-date modified: "2022-06-30"
+date: "2022-08-02"
+date modified: "2022-09-04"
 tags:
 - Youtube
 - Type/Source/Video
@@ -23,4 +23,4 @@ title: Why China Sucks
 [[The Fall of China]]
 
 # References
-- (References:: button::`button-edit`)
+- [From extremely hot to very cold, 2022 summer in China is full of chaos/melting glaciers, epidemic... - YouTube](https://www.youtube.com/watch?v=ApMhM8IURQ8)

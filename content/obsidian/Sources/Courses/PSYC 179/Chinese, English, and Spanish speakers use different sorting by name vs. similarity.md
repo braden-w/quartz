@@ -6,7 +6,7 @@ date modified: "2022-06-16"
 title: 'Chinese, English, and Spanish speakers use different sorting by name vs. similarity'
 ---
 
-# Chinese, English, and Spanish Speakers Use Different Sorting by Name Vs. Similarity
+# Chinese, English, and Spanish speakers use different sorting by name vs. similarity
 
 ## Result
 Speakers diverged drastically when sorting by name (note the differences in name)

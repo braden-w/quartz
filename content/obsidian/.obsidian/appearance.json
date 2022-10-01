@@ -1,11 +1,12 @@
 {
   "translucency": true,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 12,
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "naked-embeds"
-  ]
+  ],
+  "accentColor": ""
 }

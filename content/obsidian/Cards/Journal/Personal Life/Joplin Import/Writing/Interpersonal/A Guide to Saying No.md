@@ -1,14 +1,10 @@
 ---
 date: "2022-06-09"
-date modified: "2022-06-15"
+date modified: "2022-09-06"
 title: A Guide to Saying No
 ---
 
-# A Guide to Saying No
-A Guide to Saying No
-
-A Guide to Saying No
-
+# A guide to saying no
 Monday, July 29, 2019
 
 9:31 AM

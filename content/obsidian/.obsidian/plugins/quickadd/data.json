@@ -24,7 +24,7 @@
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
-      "prepend": false,
+      "prepend": true,
       "task": false,
       "openFileInNewTab": {
         "enabled": false,
@@ -111,6 +111,40 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "03ee9824-d1b1-42ba-a5c9-e00a326e4fcc",
+      "name": "New Application",
+      "type": "Capture",
+      "command": false,
+      "appendLink": true,
+      "captureTo": "Content/Applications/Applications.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "horizontal",
         "focus": true
       },
       "openFile": false,

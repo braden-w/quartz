@@ -11,7 +11,7 @@ title: Arrhenotoky
 # Arrhenotoky
 When unfertilized eggs turn to [[Male]]s
 
-Incentive of [[Female]] workers switches from reproducing to helping the [[Queen]].
+Incentive of [[Female]] workers switches from reproducing to helping the Queen.
 
 ![](https://i.imgur.com/71EI0ez.png)
 

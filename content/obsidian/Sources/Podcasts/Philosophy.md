@@ -10,7 +10,7 @@ title: Philosophy
 
 What is [[Rationalism]]?
 
-What is [[Empiricism]]?
+What is [[Sources/Podcasts/Empiricism]]?
 
 [[Ideal Sex, Love and Romance with Machines on Behalf by Slavoj Žižek]]
 [[Philosophers]]
@@ -28,4 +28,4 @@ What is [[Empiricism]]?
 [[Metaphysics]]
 [[Value Theory]]
 
-[[Epistemics]]
+[[Epistemology]]

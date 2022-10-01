@@ -168,15 +168,6 @@
       "key": "ArrowLeft"
     }
   ],
-  "obsidian-git:commit-push-specified-message": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
   "app:go-forward": [
     {
       "modifiers": [
@@ -486,5 +477,14 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "quickadd:choice:1bbacdf6-8a7b-4dc6-a406-ffbf3475a1fb": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": []
 }

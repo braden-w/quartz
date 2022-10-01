@@ -1,11 +1,15 @@
 ---
-title: '[[2022-06-26]] Call with Lily for Three Hours About Babies, Parenting, and EA'
+tags:
+ - Type/Source/Call
+ - On/Parenting
+ - On/Economics
+title: '2022-06-26 Call with Lily for Three Hours About Babies, Parenting, and EA'
 date: "2022-07-02"
-date modified: "2022-07-02"
+date modified: "2022-09-09"
 ---
 
-# [[2022-06-26]] Call with Lily for Three Hours About Babies, Parenting, and EA
-- Babies are the largest underrepresented stakeholders of birth
+# 2022-06-26 Call with Lily for Three Hours About Babies, Parenting, and EA
+- [[Who Should Decide Who Is Allowed to Have Children?|Babies are the Largest Underrepresented Stakeholders Of Birth]]
 - You Should Teach Basic Child Psychology to Parents
 	- 4 Parenting Styles and Knowing the Best One
 		- Authoritarian
@@ -24,9 +28,9 @@ date modified: "2022-07-02"
 	- More parents
 	- Why societies value fewer people
 		- For societies that value innovation
-			- Value of investing in education went up (due to higher technology)
+				- Value of investing in education went up (due to higher technology)
 			- It became more valuable to have more children with human capital rather than labor capital
-	- Malthusian model to Sol
+	- [[Malthusian Model]] to Sol
 	- Malthus didn’t take into account of rate of technology changing rate of growth, and more people are around to innovate
 	- [[In the Long Run, We're All Dead]]
 - Micro is just Calculus, Macro is just Models
@@ -39,7 +43,7 @@ date modified: "2022-07-02"
 	- Podcasts
 		- Snipd
 - Long Distance
-	- Tips for Long Distance
+	- Tips for [[Long Distance]]
 		- Remember it’s not long term
 		- Don’t compare to before
 	- Time Zones is Extra Hard
@@ -59,10 +63,13 @@ date modified: "2022-07-02"
 	- Unpacking
 	- I Used to be Afraid of False Rape Allegations
 		- We both agreed that As long as you present yourself well and are genuinely nice, the chances of you getting a false allegation is low
-- Monogamy
-	- Humans Definitely Evolved for Long Term Pair Bonding
-		- Concealed Ovulation
-	- We should have monogamy but multiple sexual partners 30 years out
+- [[Monogamy]]
+	- [[Humans Definitely Evolved for Long Term Pair Bonding]]
+		- [[Women Evolved Concealed Ovulation to Get Higher Parental Investment]]
+			- [[Concealed Ovulation]]
+	- [[We Did Not Evolve to Have Long Term Relationships Past 40 Years]] and [[Older People Cheat More Often]].
 	- [[We Should Make Marriage Opt In]]
 		- It avoids divorce being the last resort and being the boil over point
 		- [[We Are Not Evolved for Long Term Pair Bonding Past 40 Years Old]]
+
+![[FILE_3928.pdf]]

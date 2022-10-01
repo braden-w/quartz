@@ -1,11 +1,11 @@
 ---
 aliases: Male vs. Female Investment in Reproduction
 date: "2021-12-02"
-date modified: "2022-06-12"
-title: Minimal Parental Investment
+date modified: "2022-08-19"
+title: 'Minimal [[Parental Investment]]'
 ---
 
-# Minimal Parental Investment
+# Minimal [[Parental Investment]]
 
 ## Females
 - Larger sex cell

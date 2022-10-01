@@ -1,6 +1,6 @@
 ---
 date: "2022-01-02"
-date modified: "2022-06-28"
+date modified: "2022-09-12"
 title: Courses
 ---
 
@@ -8,7 +8,7 @@ title: Courses
 
 ## Coursera Courses
 - COVID-19
-	- PCR ↓ 
+	- PCR ↓
 		1. Denature―Separate into 2 single strands @96'C
 		2. Anneal―Primers bind to singles @55'C
 		3. Extension―Taq polymerase enzyme reassembles @72'C
@@ -16,7 +16,7 @@ title: Courses
 	- COVID
 		- 80% symptoms,$r_0$= 2.2
 		- $r_0$―How many one person infects
-		- Chest CT symptoms ↓ 
+		- Chest CT symptoms ↓
 			1. Ground glass opacity
 			2. Consolidations
 			3. Crazy paving
@@ -42,10 +42,10 @@ title: Courses
 			- for example, say Toyota buys $10MM in car parts from suppliers in 2020, but doesn’t sell the cars those parts were used to make until 2022. The $10MM expense will be counted on the Income Statement in the year→2022
 			- Apple pays one of its software engineers a $300,000 salary in a lump-sum payment at the end of each year. Six months into the year, Apple has incurred {{$150,000}} in expenses even though they have paid {{$0}} in cash.
 			- An industrial bakery buys $2MM in flour which it will use to make bread and pays immediately in cash. At the time of payment, {{$0}} in expenses have been incurred. Over the next year, the company sells $5MM worth of bread, in which it used $1MM of the aforementioned flour. Throughout that year, the company has incurred {{$1MM}} of expenses associated with its flour $2MM purchase.
-	- Three major financial statements that are fundamental to financial analysis ↓ 
-		- Income Statement:: Understanding revenues and expenses using [Accrual Accounting](Braden Wong/Notes/Yale Courses/YUDI Finance/Accrual Accounting.md) #[[Accrual Accounting]]  ↓ 
+	- Three major financial statements that are fundamental to financial analysis ↓
+		- Income Statement:: Understanding revenues and expenses using [Accrual Accounting](Braden Wong/Notes/Yale Courses/YUDI Finance/Accrual Accounting.md) #[[Accrual Accounting]] ↓
 			- all listed items are↔taxable
-			- general structure ↓ 
+			- general structure ↓
 				- Revenue
 				- COGS
 				- Gross Profit↔[Revenue](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Income Statement:: Understanding revenues and expenses using Accrual Accounting/general structure/Revenue.md) - [COGS](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Income Statement:: Understanding revenues and expenses using Accrual Accounting/general structure/COGS.md)
@@ -64,18 +64,18 @@ title: Courses
 		- Cash Flow Statement
 			- purpose is to reconcile→the difference [Net Income](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Cash Flow Statement/Cash Flow from Operations (CFO)/Net Income.md) and the actual flow of cash
 			- corrects for→depreciation/invisible costs and untaxed income
-			- Cash Flow from Operations (CFO) ↓ 
+			- Cash Flow from Operations (CFO) ↓
 				- Net Income
 				- ADD D&A
 				- SUBTRACT Accounts Receivable because it hasn't come yet
 				- SUBTRACT Inventory because increasing inventory means cash has flowed out
 				- ADD Accounts Payable because we still have the money/haven't paid it out yet
-				- Pattern Cis to {{ add }} changes in liabilities and {{ subtract }}  changes in assets.
-			- Cash Flow from Investing (in capital and other companies) (CFI) ↓ 
+				- Pattern Cis to {{ add }} changes in liabilities and {{ subtract }} changes in assets.
+			- Cash Flow from Investing (in capital and other companies) (CFI) ↓
 				- Capital Expenditures (CapEx)↔PP&E
 				- Purchase/Sales of Securities↔Selling/Buying stocks of other companies
 				- M&A Activity
-			- Cash Flow from Financing (CFF) ↓ 
+			- Cash Flow from Financing (CFF) ↓
 				- Equity Issuing/Buybacks
 				- Debt Issuing/Repayment
 				- Dividend
@@ -83,7 +83,7 @@ title: Courses
 		- Balance Sheet
 			- used as→snapshot of current assets, debt, equity
 			- Assets, Debt, Equity Equation↔Assets = Debt (aka Liabilities) + Equity
-			- Assets ↓ 
+			- Assets ↓
 				- Cash
 				- Inventory
 				- Accounts Receivable
@@ -91,33 +91,32 @@ title: Courses
 				- Marketable Securities
 				- Net PP&E
 				- Goodwill↔Giving more than a company asks for when buying out and acquiring their assets
-			- Liabilities ↓ 
+			- Liabilities ↓
 				- Accounts Payable
 				- Deferred Revenue
 				- Short Term Debt
 				- Long Term Debt
-			- Equity ↓ 
+			- Equity ↓
 				- Common Stock↔# Shares * Par Value
 				- Additional Paid-In Capital (APIC)↔# Shares * (Share Price - Par Value)
-				- [Common Stock](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Balance Sheet/Equity/Common Stock.md) + [Additional Paid-In Capital (APIC)](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Balance Sheet/Equity/Additional Paid-In Capital (APIC).md)→Total Cashflows from stock issuance #[[Additional Paid-In Capital (APIC)]] 
+				- [Common Stock](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Balance Sheet/Equity/Common Stock.md) + [Additional Paid-In Capital (APIC)](Braden Wong/Notes/Yale Courses/YUDI Finance/Three major financial statements that are fundamental to financial analysis/Balance Sheet/Equity/Additional Paid-In Capital (APIC).md)→Total Cashflows from stock issuance #[[Additional Paid-In Capital (APIC)]]
 				- Treasury Stock↔Amount of money spent repurchasing shares
 					- it's a Contra-Equity because↔increasing treasury stock decreases equity, there is less of the pie to be financed
 				- Retained Earnings↔Sum of all periods' (net income - dividends)
-			- The balance sheet shows a snapshot of company’s asset, liability, and equity items at a specific point in time (unlike the IS and CFS, which show change over a given period of time). 
+			- The balance sheet shows a snapshot of company’s asset, liability, and equity items at a specific point in time (unlike the IS and CFS, which show change over a given period of time).
 				- The key accounting equation that defines the balance sheet is Assets = Liabilities + Equity
 	- Questions
 		- Basic understanding of each of the three financial statements and what purpose they each serve.
 		- How accrual accounting works and whether or not revenue is considered "earned" in a hypothetical transaction that we present you with.
 			- [revenue is “earned” by a company when it provides](Braden Wong/Notes/Yale Courses/YUDI Finance/Accrual Accounting/GAAP (Generally Accepted Accounting Principles)/revenue is “earned” by a company when it provides.md) goods and services
 		- General structure of income statement (all listed line items and what each means).
-		-   General structure of cash flow statement; only need to know the three major sections, and a basic understanding of what each section shows (no need to know specific line items in each section).
+		- General structure of cash flow statement; only need to know the three major sections, and a basic understanding of what each section shows (no need to know specific line items in each section).
 		- General structure of balance sheet (the three major components); know at least two major items in each of the three components
 	- Week 1: DCF's
 		- DCF
-			- Discounted Cash Flow (DCF) assumes that a company is worth the {{ sum}}  of all its future cash flows, discounted to the present to account for the time value of money.
+			- Discounted Cash Flow (DCF) assumes that a company is worth the {{ sum}} of all its future cash flows, discounted to the present to account for the time value of money.
 			- DCF is an {{ intrinsic }} valuation method, meaning it doesn't rely on the valuation of other companies.
 			- Two parts: Explicit + Terminal Periods
-				- 
 			- Steps for Explicit
 				- Step 1: Project our FCFF
 					- EBIT↔Operating Income
@@ -141,14 +140,14 @@ title: Courses
 				- Two methods: Perpetuity Growth Method or Exit Multiples Method
 				- Perpetuity Growth Method↔assumes cash flows will continue until infinity, and will grow a low stable rate
 					- FCF↔First Year Cash Flow
-					- “What is the formula for unlevered [FCF](Braden Wong/Notes/Yale Courses/YUDI Finance/Week 1: DCF's/DCF/Steps for Terminal/Perpetuity Growth Method/FCF.md) ?”↔FCF = EBIT * (1 – Tax Rate) 
+					- “What is the formula for unlevered [FCF](Braden Wong/Notes/Yale Courses/YUDI Finance/Week 1: DCF's/DCF/Steps for Terminal/Perpetuity Growth Method/FCF.md) ?”↔FCF = EBIT * (1 – Tax Rate)
 						- + D&A
-						- - CapEx
-						- - Change in NWC
+						- CapEx
+						- Change in NWC
 					- General perpetuity formula↔Present value = Initial payment/(Discount rate - Growth rate)
 					- Terminal Value formula↔Terminal Value = [FCF](Braden Wong/Notes/Yale Courses/YUDI Finance/Week 1: DCF's/DCF/Steps for Terminal/Perpetuity Growth Method/FCF.md) at T+ 1/(WACC-g) = ([FCF](Braden Wong/Notes/Yale Courses/YUDI Finance/Week 1: DCF's/DCF/Steps for Terminal/Perpetuity Growth Method/FCF.md) at T)(1+g) / (WACC-g) where T is the number of years we explicitly forecast
 				- Exit Multiple Method↔assumes that
-					- Look at ratios that peer companies are being traded at, assume company will be sold at a {{ similar ratio }} at the end of the explicit forecast 
+					- Look at ratios that peer companies are being traded at, assume company will be sold at a {{ similar ratio }} at the end of the explicit forecast
 	- Week 2: Private Equity
 		- Private Equity Firms
 			- Private Equity Funds↔separate branches of Private Equity Firms, for legal reasons, vs. firms as the master branch
@@ -180,6 +179,7 @@ title: Courses
 		- How do we measure the impact of M&A on a company?
 		- How to do merger math (e.g. accretion/dilution analysis)?
 		- How do buy-side and sell-side processes differ?
+
 ## Fall 2021
 - [[CPSC 323]]
 - [[Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships]]
@@ -204,3 +204,14 @@ title: Courses
 [[BRST 158]]
 [[Yale in London]]
 [[Entertaining Lecture From London Police Officer]]
+
+## Fall 2021
+[[EDST 110 Foundations of Education Theory]]
+
+### [[PSYC 140 Developmental Psychology]]
+[[ECON 121|ECON 121 Intermediate Microeconomics]]
+[[HUMS 430 Thought Experiments]]
+
+[[S&DS 365 Intermediate Machine Learning]]
+[[HIST 271 European Intellectual History Since Nietzsche]]
+[[Hist 260 tolstoy's war and peace]]

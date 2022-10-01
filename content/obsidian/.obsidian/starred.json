@@ -114,6 +114,31 @@
       "type": "file",
       "title": "The Definitive Vim Guide",
       "path": "Sources/Articles/The Definitive Vim Guide.md"
+    },
+    {
+      "type": "file",
+      "title": "Your brain is literally a neural network. Your attitude towards the world can change imperceptibly, ever-so-slightly changing weights when accepting new training data, even if the original input is gone.",
+      "path": "Your Brain is Literally a Neural Network. Your Attitude Towards the World Can Change Imperceptibly, Ever-so-slightly Changing Weights When Accepting New Training Data, Even if the Original Input is Gone..md"
+    },
+    {
+      "type": "file",
+      "title": "Talking to Myself",
+      "path": "Cards/Fleeting Notes/Talking to Myself.md"
+    },
+    {
+      "type": "file",
+      "title": "Is OOP Evil???",
+      "path": "Cards/Fleeting Notes/Is OOP Evil???.md"
+    },
+    {
+      "type": "file",
+      "title": "2022 Yale Manifesto",
+      "path": "Cards/Fleeting Notes/2022 Yale Manifesto.md"
+    },
+    {
+      "type": "file",
+      "title": "List of funding for nonprofit",
+      "path": "Cards/Fleeting Notes/List of nonprofit funding.md"
     }
   ]
 }

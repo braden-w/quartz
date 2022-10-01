@@ -5,7 +5,7 @@ tags:
  - Type/Hot_Take/Derived
 title: Please Don't Use Firestore
 date: "2022-08-17"
-date modified: "2022-08-17"
+date modified: "2022-08-19"
 ---
 
 # Please Don't Use Firestore

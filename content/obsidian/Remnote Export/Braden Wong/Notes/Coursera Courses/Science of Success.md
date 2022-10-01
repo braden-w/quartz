@@ -1,7 +1,7 @@
 ---
 title: Science of Success
 date: "2022-08-02"
-date modified: "2022-08-18"
+date modified: "2022-08-22"
 ---
 
 # Science of Success

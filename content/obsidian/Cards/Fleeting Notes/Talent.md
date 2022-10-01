@@ -1,7 +1,7 @@
 ---
 title: Talent
 date: "2022-08-17"
-date modified: "2022-08-17"
+date modified: "2022-08-19"
 ---
 
 # Talent
@@ -40,15 +40,24 @@ date modified: "2022-08-17"
 Beware excessive negativity and the word "hate"
 - [["Hate" Is a Strong Word]]
 
-## Sustained Questioning
+## [[Use Sustained Questioning]]
 - **Get into uncharted territory**
 - Repeat your line of questioning until they run out
 	- Tell me a time you went to above and beyond on the job?
 		- They'll tell you their prepared answers
 		- But ask 5 times, or 8 times?
 		- See what happens when they are stressed out
-		
 
 - [[How Do You Think This Interview is Going?]]
 	- A brutal one. Consider asking twice a day at different times by different people, and compare notes
 	- Asking how much weakness the candidate wishes to disclose
+
+## Everyone is Trying to Find Talent. You Are Trying to Find the Ones Others Miss
+
+## Intelligence is Key for Predicting Inventors
+- [[G Factor]]
+- [[Inventiveness is more tied to Intelligence than Level of Education]]
+	- If you're looking for inventors, IQ is the best metric that we have
+- 66% of Variation in Inventor Profession is Explained by IQ
+- IQ plays a much less explanatory role for other professions, like a [[Doctor]] or [[Lawer]]
+	- Inventors are, on average, pretty smart

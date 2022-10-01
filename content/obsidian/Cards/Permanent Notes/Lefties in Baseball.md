@@ -1,18 +1,16 @@
 ---
+aliases: Batting Lefty, Pitching Lefty, Why left handed pitching matters in baseball
 tags:
 - Type/Fact
 - On/Left-Handedness
 - On/Baseball
 date: "2022-06-16"
-date modified: "2022-06-16"
+date modified: "2022-09-16"
 title: Lefties in Baseball
 ---
 
----
-aliases: Batting Lefty, Pitching Lefty
----
-
 # Lefties in Baseball
+[[Left-handedness]]
 ![](https://i.imgur.com/KsAhuAi.png)
 
 ## The Platoon Advantage
@@ -36,5 +34,5 @@ aliases: Batting Lefty, Pitching Lefty
 > If a manager knows that a lefty is coming up to bat, he might swap out his pitcher for a left-hander, to have a more competitive matchup.
 
 # References
-- (References:: [MLB](https://www.mlb.com/news/why-left-handed-pitching-matters-in-baseball))
+- (References:: [Why Left Handed Pitching Matters in Baseball](https://www.mlb.com/news/why-left-handed-pitching-matters-in-baseball))
 - (References:: [Applied Vision Baseball](https://appliedvisionbaseball.com/batting-left-handed-vs-right-handed/))

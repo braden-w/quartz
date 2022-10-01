@@ -20,5 +20,6 @@
     "editor:configure-toolbar"
   ],
   "showLineNumber": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }

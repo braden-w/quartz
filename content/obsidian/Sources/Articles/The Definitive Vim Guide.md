@@ -16,6 +16,9 @@ title: The Definitive Vim Guide
 [[VIM Registers]]
 [[Neovim]]
 
+
 # References
 - (References:: [Boost Your Coding Fu With Visual Studio Code and Vim | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim))
 - (References:: [Learn Vim. A New Extension to Help You Learn Vim in VSCode | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/blog/learn-vim-a-new-extension-to-help-you-learn-vim-in-vscode))
+
+- (References:: [Mastering Vim - How I use Vim to the MAX - YouTube](https://www.youtube.com/watch?v=uL9oOZStezw))

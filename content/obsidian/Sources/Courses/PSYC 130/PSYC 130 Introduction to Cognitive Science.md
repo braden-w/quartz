@@ -4,7 +4,7 @@ date modified: "2022-06-17"
 title: 'PSYC 130 Introduction to [[Cognitive Science]]'
 ---
 
-# PSYC 130 Introduction to [[Cognitive Science]]
+# PSYC 130 Introduction to [[Cognitive science]]
 [[Reading Responses]]
 
 # Lecture 1

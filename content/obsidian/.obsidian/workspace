@@ -2,25 +2,30 @@
   "main": {
     "id": "6d3959407d6a4355",
     "type": "split",
+    "ophidian:layout-settings": {
+      "pane-relief:sliding-panes": {
+        "active": true
+      }
+    },
     "children": [
       {
-        "id": "8781ef193980f811",
+        "id": "769b0f46889b05dc",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8781ef193980f811",
+              "leaf": "769b0f46889b05dc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/PSYC 179/Utilitarianism.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/2022-09-15 Call with Savannah Bailey (OCS Careers).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Courses/PSYC 179/Utilitarianism.md",
+            "file": "Cards/Fleeting Notes/2022-09-15 Call with Savannah Bailey (OCS Careers).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -28,159 +33,297 @@
         }
       },
       {
-        "id": "7f6ac5240dbfbc67",
+        "id": "659a4851aecf2c47",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "659a4851aecf2c47",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-16.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
+            },
+            {
+              "leaf": "659a4851aecf2c47",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Marginal rate of substitution (MRS).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-16.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a76ac2a931da4d3f",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a76ac2a931da4d3f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/2022 Yale Manifesto.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/2022 Yale Manifesto.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4c51d7afb2fba419",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4c51d7afb2fba419",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to User Interviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Guide to User Interviews.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "68f4cedf05f4340e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "68f4cedf05f4340e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Should we talk about Federer's GOAT case now? Plus US Open 2022 wrap-up.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Should we talk about Federer's GOAT case now? Plus US Open 2022 wrap-up.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c7e0be8a1d680d4a",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c7e0be8a1d680d4a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Journal/Personal Life/Guide to Recruiting.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c7e0be8a1d680d4a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Recruiting/Coding Interview Cheatsheet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":265,\"ch\":0},\"to\":{\"line\":265,\"ch\":0}},\"scroll\":228.72135416666666}"
+            },
+            {
+              "leaf": "c7e0be8a1d680d4a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Software Engineering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":9.82315112540193}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Journal/Personal Life/Guide to Recruiting.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "648289da2562b459",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "648289da2562b459",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/HIST 271 European Intellectual History Since Nietzsche.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":300,\"ch\":26},\"to\":{\"line\":300,\"ch\":26}},\"scroll\":300.9037095501184}"
+            },
+            {
+              "leaf": "648289da2562b459",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":55},\"to\":{\"line\":5,\"ch\":55}}}"
+            },
+            {
+              "leaf": "648289da2562b459",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Coding Interviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":23},\"to\":{\"line\":7,\"ch\":23}},\"scroll\":7.844618055555555}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/HIST 271 European Intellectual History Since Nietzsche.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3ddaab41c3f24dfd",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 1,
           "stack": [
             {
-              "leaf": "7f6ac5240dbfbc67",
+              "leaf": "3ddaab41c3f24dfd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/“The Man You Need don’t Look Like the Man You want.”.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":10.884887459807073}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":31},\"to\":{\"line\":29,\"ch\":31}},\"scroll\":29.9296875}"
             },
             {
-              "leaf": "7f6ac5240dbfbc67",
+              "leaf": "3ddaab41c3f24dfd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Talent.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3ddaab41c3f24dfd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/You know you're a crazy influential philosopher when I refer you by just last name, not full name.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":57},\"to\":{\"line\":1,\"ch\":57}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-21.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b60d426126dedffe",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b60d426126dedffe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":92},\"to\":{\"line\":31,\"ch\":92}},\"scroll\":31.46484375}"
+            },
+            {
+              "leaf": "b60d426126dedffe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":36},\"to\":{\"line\":27,\"ch\":36}},\"scroll\":26.927083333333332}"
+            },
+            {
+              "leaf": "b60d426126dedffe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "7f6ac5240dbfbc67",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Why Do We Get Dark Circles Under Our Eyes? - YouTube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":13.804897314375987}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cards/Fleeting Notes/Talent.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "21b35f45cb3ca2d1",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "21b35f45cb3ca2d1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":22},\"to\":{\"line\":13,\"ch\":22}},\"scroll\":12.824644549763033}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/The Case Against Gamification.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":7.917100694444445}"
             },
             {
-              "leaf": "21b35f45cb3ca2d1",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/How to Eat Healthy Without Thinking, Backed by Science.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":45.37690972222222}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":59},\"to\":{\"line\":33,\"ch\":59}},\"scroll\":33.888713496448304}"
             },
             {
-              "leaf": "21b35f45cb3ca2d1",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Simplify Your Code Setup.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":19.901571546732836}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "21b35f45cb3ca2d1",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/CSS, Behavior Libraries, and Style Systems.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":16.841232227488153}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "77f859b1d65be19e",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "77f859b1d65be19e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":91.87756714060032}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":18},\"to\":{\"line\":24,\"ch\":18}},\"scroll\":24.9296875}"
             },
             {
-              "leaf": "77f859b1d65be19e",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.7948717948717947}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":0},\"to\":{\"line\":135,\"ch\":0}},\"scroll\":14.896606156274665}"
             },
             {
-              "leaf": "77f859b1d65be19e",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/PSYC 126 Attraction and Relationships.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":365.77777777777777}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":46.20399305555556}"
             },
             {
-              "leaf": "77f859b1d65be19e",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Clippings/Is Full Stack RealIs GraphQL NecessaryIs tRPC Like gRPCDoes Tailwind Make Me Angry? STREAM VOD - YouTube.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":14.886284722222221}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Remnote Export/PSYC 126 Attraction and Relationships.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2d2db3ce6129f6a6",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+            },
             {
-              "leaf": "2d2db3ce6129f6a6",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":2},\"to\":{\"line\":13,\"ch\":2}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "98f922988ba75384",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":20},\"to\":{\"line\":50,\"ch\":20}},\"scroll\":48.3}"
+            },
             {
-              "leaf": "98f922988ba75384",
+              "leaf": "b60d426126dedffe",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/RemNote Import/Daily Document.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":18},\"to\":{\"line\":27,\"ch\":18}},\"scroll\":27.921006944444443}"
+            },
+            {
+              "leaf": "b60d426126dedffe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/My Favorite Spots at Yale.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -188,7 +331,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/RemNote Import/Daily Document.md",
+            "file": "Sources/Daily Note/2022-09-27.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -196,15 +339,1341 @@
         }
       },
       {
-        "id": "e30bc008b0c19afa",
+        "id": "845b4d0a40cf1ba5",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "845b4d0a40cf1ba5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Content/Applications/Applications.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":145,\"ch\":197},\"to\":{\"line\":145,\"ch\":197}},\"scroll\":145.58671875}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content/Applications/Applications.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d94f1e53e0a69098",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d94f1e53e0a69098",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":55},\"to\":{\"line\":102,\"ch\":55}},\"scroll\":102.89818468823994}"
+            },
+            {
+              "leaf": "d94f1e53e0a69098",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":99.46354166666667}"
+            },
+            {
+              "leaf": "d94f1e53e0a69098",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Entrepreneurship.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":16.927083333333332}"
+            },
+            {
+              "leaf": "d94f1e53e0a69098",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Be Scrappy.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":114},\"to\":{\"line\":6,\"ch\":114}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-24.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "aea0228193038e59",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "aea0228193038e59",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":103.43576388888889}"
+            },
+            {
+              "leaf": "aea0228193038e59",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "aea0228193038e59",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":26},\"to\":{\"line\":8,\"ch\":26}},\"scroll\":0.20512820512820512}"
+            },
+            {
+              "leaf": "aea0228193038e59",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/China's two types of long term outcomes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-25.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9cfc2b928ba3a496",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9cfc2b928ba3a496",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/NextJS versus SPA.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":27},\"to\":{\"line\":9,\"ch\":27}},\"scroll\":13.917100694444445}"
+            },
+            {
+              "leaf": "9cfc2b928ba3a496",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":15},\"to\":{\"line\":9,\"ch\":15}},\"scroll\":8.733506944444445}"
+            },
+            {
+              "leaf": "9cfc2b928ba3a496",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Contingency.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":13},\"to\":{\"line\":4,\"ch\":13}}}"
+            },
+            {
+              "leaf": "9cfc2b928ba3a496",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Video games.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/NextJS versus SPA.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2134bbaede3533ed",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2134bbaede3533ed",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Just because you don't need SEO doesn't mean you don't need the power of a server side framework.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":48},\"to\":{\"line\":6,\"ch\":48}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Just because you don't need SEO doesn't mean you don't need the power of a server side framework.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c74d6075c9a1bb0b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c74d6075c9a1bb0b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NextJS is better than Create react app (CRA).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":47},\"to\":{\"line\":5,\"ch\":47}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NextJS is better than Create react app (CRA).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "997b55b2ca555693",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "997b55b2ca555693",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Create react app (CRA).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Create react app (CRA).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f1e36d6f6f15287b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f1e36d6f6f15287b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":34.51065509076559}"
+            },
+            {
+              "leaf": "f1e36d6f6f15287b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/My Favorite Apps for MacOS.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":27.45659722222222}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-24.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "00850b7a1ac4b2c0",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "00850b7a1ac4b2c0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/How NextJS Works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":7.049425526504381}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/How NextJS Works.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f80af99d5edb9691",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f80af99d5edb9691",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/How SPA Works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":4},\"to\":{\"line\":9,\"ch\":4}},\"scroll\":5.9054662379421226}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/How SPA Works.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1344cb0589545a65",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1344cb0589545a65",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Now is better than ever to be working in Dev EconDevelopment.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":65},\"to\":{\"line\":5,\"ch\":65}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Now is better than ever to be working in Dev EconDevelopment.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e3776ac190c1fb02",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e3776ac190c1fb02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Journal/Personal Life/Yahoo directory vs Google search patterns.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e3776ac190c1fb02",
+              "group": null,
+              "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Matieral.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e3776ac190c1fb02",
+              "group": null,
+              "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Material.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e3776ac190c1fb02",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Most good material is forgotten.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":17.077962577962577}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Journal/Personal Life/Yahoo directory vs Google search patterns.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b31219761e387ac4",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b31219761e387ac4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":6},\"to\":{\"line\":81,\"ch\":6}},\"scroll\":86.78453038674033}"
+            },
+            {
+              "leaf": "b31219761e387ac4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":23.892659826361484}"
+            },
+            {
+              "leaf": "b31219761e387ac4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b31219761e387ac4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Broad funnel, tight filter.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-24.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cae762b26bf16867",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cae762b26bf16867",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Coding Interviews.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":28},\"to\":{\"line\":7,\"ch\":28}},\"scroll\":8.6600894501447}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Guide to Coding Interviews.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "187e8095f2bff2ec",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "187e8095f2bff2ec",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":22},\"to\":{\"line\":62,\"ch\":22}},\"scroll\":48.02131018153118}"
+            },
+            {
+              "leaf": "187e8095f2bff2ec",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Tyler Cohen.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-25.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0971f18aa05207bb",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0971f18aa05207bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Human capital is way more important than infrastructure capital.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":6.927951388888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Human capital is way more important than infrastructure capital.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "bf3a3fcefe42fe3c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "bf3a3fcefe42fe3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-20.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":16.92795138888889}"
+            },
+            {
+              "leaf": "bf3a3fcefe42fe3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "bf3a3fcefe42fe3c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Resume.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5897435897435899}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-20.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e807e22307a30b4e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e807e22307a30b4e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Ambition is selected for.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":10},\"to\":{\"line\":6,\"ch\":10}},\"scroll\":6.927951388888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Ambition is selected for.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f104ea2123713cd0",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f104ea2123713cd0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":8.92795138888889}"
+            },
+            {
+              "leaf": "f104ea2123713cd0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Software Engineering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":256},\"to\":{\"line\":25,\"ch\":256}},\"scroll\":25.974247685185187}"
+            },
+            {
+              "leaf": "f104ea2123713cd0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/2022-09-22 Swapcard Post.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":8.92795138888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-22.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ebcdb5f0059ee528",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ebcdb5f0059ee528",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":41},\"to\":{\"line\":10,\"ch\":41}},\"scroll\":10.872395833333334}"
+            },
+            {
+              "leaf": "ebcdb5f0059ee528",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/PSYC 140 Developmental Psychology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":212,\"ch\":55},\"to\":{\"line\":212,\"ch\":55}},\"scroll\":210.8843725335438}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-22.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b0243b07c0455d62",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b0243b07c0455d62",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Careers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":10.872395833333334}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Guide to Careers.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c5c668919400f909",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c5c668919400f909",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5c668919400f909",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-08-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c5c668919400f909",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Highly Impactful Careers.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":18},\"to\":{\"line\":1,\"ch\":18}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-24.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "216744bf47dbaed2",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":22.93840429929723}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":0},\"to\":{\"line\":101,\"ch\":0}},\"scroll\":96.1965272296764}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Requests for 1-1's.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":24.872395833333332}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":35},\"to\":{\"line\":39,\"ch\":35}},\"scroll\":0}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":0},\"to\":{\"line\":100,\"ch\":0}},\"scroll\":100.84114583333333}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Why I Love Tailwind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":137},\"to\":{\"line\":12,\"ch\":137}},\"scroll\":14.960027567195038}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-23.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}},\"scroll\":20.66840277777778}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.43251775848461}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":151},\"to\":{\"line\":61,\"ch\":151}},\"scroll\":61.94088466308392}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":5.946623794212218}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-22.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":13.92795138888889}"
+            },
+            {
+              "leaf": "216744bf47dbaed2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to AI safety and Artificial IntelligenceAI.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":21},\"to\":{\"line\":17,\"ch\":21}},\"scroll\":17.91793103448276}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-26.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2dafdbd19736cc99",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2dafdbd19736cc99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Dunning’s number.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":23},\"to\":{\"line\":6,\"ch\":23}},\"scroll\":6.927951388888889}"
+            },
+            {
+              "leaf": "2dafdbd19736cc99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-23.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}},\"scroll\":5.927951388888889}"
+            },
+            {
+              "leaf": "2dafdbd19736cc99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dafdbd19736cc99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-23.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "2dafdbd19736cc99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/What to learn in College.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":15},\"to\":{\"line\":7,\"ch\":15}},\"scroll\":7.879242304656669}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Dunning’s number.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ad957c8bb215d9c2",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ad957c8bb215d9c2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/My response to \\\"Do you want to be famous?\\\".md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":68},\"to\":{\"line\":5,\"ch\":68}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/My response to \"Do you want to be famous?\".md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "036f5557d65e5b76",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "036f5557d65e5b76",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Content/Favorite Questions/Favorite Questions.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}},\"scroll\":19.51128472222222}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content/Favorite Questions/Favorite Questions.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ab5a5bf42292261a",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ab5a5bf42292261a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Reconsidering career optionality.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":82},\"to\":{\"line\":1,\"ch\":82}},\"scroll\":1.935897435897436}"
+            }
+          ]
         },
         "state": {
           "type": "empty",
           "state": {}
+        }
+      },
+      {
+        "id": "be7b3815dd0d8c5f",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "be7b3815dd0d8c5f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/My Favorite Criticisms of EA.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":65},\"to\":{\"line\":6,\"ch\":65}},\"scroll\":6.927951388888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8cfbed3b55fbc494",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8cfbed3b55fbc494",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/People figure out consensus but not what they actually believe in.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":20},\"to\":{\"line\":8,\"ch\":20}},\"scroll\":8.92795138888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8344f800bd0f5465",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8344f800bd0f5465",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/EA entry level roles are rare.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}},\"scroll\":7.927951388888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a051f5dd421e92cf",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a051f5dd421e92cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/EA has a lot of Software Engineers, but struggle to find senior hires.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":40},\"to\":{\"line\":8,\"ch\":40}},\"scroll\":8.87924230465667}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "f319f83486815bb4",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f319f83486815bb4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Requests for 1-1's.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":21.92795138888889}"
+            },
+            {
+              "leaf": "f319f83486815bb4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":19},\"to\":{\"line\":11,\"ch\":19}}}"
+            },
+            {
+              "leaf": "f319f83486815bb4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Requests for 1-1's.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":253},\"to\":{\"line\":14,\"ch\":253}},\"scroll\":14.981987847222221}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "731b92aa3ae6ebac",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "731b92aa3ae6ebac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":27.9296875}"
+            },
+            {
+              "leaf": "731b92aa3ae6ebac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-24.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":73},\"to\":{\"line\":6,\"ch\":73}},\"scroll\":6.927951388888889}"
+            },
+            {
+              "leaf": "731b92aa3ae6ebac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Requests for 1-1's.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":148},\"to\":{\"line\":16,\"ch\":148}},\"scroll\":16.92795138888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-27.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ac3ab5bbcb15f733",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ac3ab5bbcb15f733",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":29.9296875}"
+            },
+            {
+              "leaf": "ac3ab5bbcb15f733",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to QuickAdd.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":1.8717948717948718}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-27.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "441d0732c9f33f3d",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "441d0732c9f33f3d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/HUMS 430 Thought Experiments.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":271,\"ch\":0},\"to\":{\"line\":271,\"ch\":0}},\"scroll\":270.90055248618785}"
+            },
+            {
+              "leaf": "441d0732c9f33f3d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":27},\"to\":{\"line\":27,\"ch\":27}},\"scroll\":27.91840277777778}"
+            },
+            {
+              "leaf": "441d0732c9f33f3d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Vegan East Asian.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/HUMS 430 Thought Experiments.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "223107012b85e8e9",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "223107012b85e8e9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Software Engineering.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":1.8717948717948718}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Guide to Software Engineering.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "42069feea7c65111",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "42069feea7c65111",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Spacetime loaf of bread.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":1.935897435897436}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Spacetime loaf of bread.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c70b0530a684dc17",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c70b0530a684dc17",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Content/Applications/Applications.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7.946623794212218}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content/Applications/Applications.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8c0de65056735e0c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8c0de65056735e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/PSYC 140 Developmental Psychology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":220.90094711917916}"
+            },
+            {
+              "leaf": "8c0de65056735e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":33},\"to\":{\"line\":11,\"ch\":33}},\"scroll\":11.92795138888889}"
+            },
+            {
+              "leaf": "8c0de65056735e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Reflections on Yalies.me.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":91},\"to\":{\"line\":6,\"ch\":91}},\"scroll\":6.927951388888889}"
+            },
+            {
+              "leaf": "8c0de65056735e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Why I Love Tailwind.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":49},\"to\":{\"line\":7,\"ch\":49}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/PSYC 140 Developmental Psychology.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "dffe3a3bf0845d5d",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "dffe3a3bf0845d5d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Productivity.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13.45920138888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Guide to Productivity.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "856e459e9805ffb1",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "856e459e9805ffb1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/People are way more likely to be oblivious than malicious. We’re all going through our own shit..md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":5.501867064973861}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/People are way more likely to be oblivious than malicious. We’re all going through our own shit..md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9ef8b9217d922f56",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9ef8b9217d922f56",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Daily Note/2022-09-21.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":15},\"to\":{\"line\":15,\"ch\":15}},\"scroll\":5.680889423076923}"
+            },
+            {
+              "leaf": "9ef8b9217d922f56",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Courses/ECON 121/ECON 121.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":22},\"to\":{\"line\":156,\"ch\":22}},\"scroll\":158.88516179952643}"
+            },
+            {
+              "leaf": "9ef8b9217d922f56",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Guide to Resume.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Daily Note/2022-09-21.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b7e443772f0ed494",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b7e443772f0ed494",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/Scooters are rad.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":6.927951388888889}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/Scooters are rad.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cbc97b767f2b16a4",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cbc97b767f2b16a4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Fleeting Notes/HIST 271 European Intellectual History Since Nietzsche.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":290,\"ch\":18},\"to\":{\"line\":290,\"ch\":18}},\"scroll\":290.2898148148148}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cards/Fleeting Notes/HIST 271 European Intellectual History Since Nietzsche.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -240,10 +1709,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "126",
+                "query": "Lian",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse"
               }
@@ -259,7 +1728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/RemNote Import/Daily Document.md"
+                "file": "Sources/Daily Note/2022-09-24.md"
               }
             }
           },
@@ -276,7 +1745,7 @@
             }
           },
           {
-            "id": "52839a4834cb6598",
+            "id": "e3d527dddeb0261c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -312,7 +1781,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -330,30 +1799,6 @@
             }
           },
           {
-            "id": "147d13b97cfe8197",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "9396ac4a88bacf30",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "52ff7fd12b440ce1",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -364,8 +1809,33 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "fbdc72ff06aec0db",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "905a1f7c8fb1f47f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sources/Daily Note/2022-09-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "580cfad99b72eb9f",
@@ -400,7 +1870,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/RemNote Import/Daily Document.md",
+                "file": "Sources/Daily Note/2022-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,20 +1887,20 @@
     "direction": "horizontal",
     "width": 246.10374450683594
   },
-  "active": "98f922988ba75384",
+  "active": "d94f1e53e0a69098",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Remnote Export/Braden Wong/Notes/Coursera Courses/Science of Success.md",
-    "Remnote Export/PSYC 126 Attraction and Relationships.md",
-    "Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships.md",
-    "Sources/Courses/PSYC 126/PSYC 126 Attraction and Relationships Final.md",
-    "Sources/Clippings/Why EAs Are Skeptical About AI Safety - EA Forum.md",
-    "Readwise/Readwise/Podcasts/EA - Why EAs are skeptical about AI Safety by Lukas Trötzmüller.md",
-    "Cards/Fleeting Notes/Speed of Inquiry.md",
-    "Cards/Quotes/Don't Kill What You Hate, Save What You Love.md",
-    "Sources/Clippings/Why Doesn't Modern Healthcare Protocol Include Yearly Full-body CAT, MRI, or PET Scans to Really See What COULD Be Wrong with Ppl? - Askscience.md",
-    "Cards/Fleeting Notes/Talent.md"
+    "Sources/Daily Note/2022-09-25.md",
+    "Cards/Fleeting Notes/Guide to Entrepreneurship.md",
+    "Cards/Fleeting Notes/Be Scrappy.md",
+    "Content/Applications/Applications.md",
+    "Sources/Daily Note/2022-09-27.md",
+    "Sources/Daily Note/2022-09-24.md",
+    "Sources/Daily Note/2022-09-26.md",
+    "Material UI Is Bloated and Won't Get You Far.md",
+    "Cards/Fleeting Notes/CSS, Behavior Libraries, and Style Systems.md",
+    "Sources/Daily Note/2022-09-21.md"
   ]
 }

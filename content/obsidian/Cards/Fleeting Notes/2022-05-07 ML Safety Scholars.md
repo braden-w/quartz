@@ -1,14 +1,14 @@
 ---
 tags:
 - On/Resume
-- On/Applications
+- Type/Application 
 date: "2022-06-16"
-date modified: "2022-06-20"
+date modified: "2022-09-12"
 title: 2022-05-07 ML Safety Scholars
 ---
 
 # 2022-05-07 ML Safety Scholars
-**Related To:** , [[Machine Learning]]
+My application for [[Machine Learning]] program.
 
 ## Full Name
 Braden Wong

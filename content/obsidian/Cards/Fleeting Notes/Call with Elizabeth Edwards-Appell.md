@@ -1,15 +1,15 @@
 ---
 tags:
+- On/Career
 - On/Political_Science
 - On/Calls
+- On/Calls 
 date: "2022-06-16"
-date modified: "2022-06-16"
+date modified: "2022-08-19"
 title: Call with Elizabeth Edwards-Appell
 ---
 
 # Call with Elizabeth Edwards-Appell
-**Related To:** , [[What Do I Want to Do?|Career Plans]],
-
 - Working in the [[Executive Branch]] (as an organization appointee or someone who climbs the ranks)
 - If [[Software Engineering]], data like Data for Progress can work. But it’s not necessarily the most neglected
 - Working at a think tank, which requires ability and communication skills

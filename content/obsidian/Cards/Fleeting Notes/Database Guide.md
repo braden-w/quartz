@@ -7,7 +7,7 @@ tags:
  - Type/Guide
 title: Database Guide
 date: "2022-08-15"
-date modified: "2022-08-18"
+date modified: "2022-08-19"
 ---
 
 # Database Guide
@@ -22,7 +22,7 @@ date modified: "2022-08-18"
 - Run on server yourself
 	- AWS EC2
 	- Railway
-	- Heroku
+	- [[Heroku]]
 	- Managed
 - Provided/autoscaled hosts on OSS tech
 	- Planetscale

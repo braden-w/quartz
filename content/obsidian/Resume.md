@@ -1,6 +1,6 @@
 ---
 date: "2022-06-09"
-date modified: "2022-06-15"
+date modified: "2022-09-13"
 title: Resume
 ---
 
@@ -121,10 +121,6 @@ Public Relations, Get Word Out, Managing
 
 Debounce
 
-## Skills
-Slack
-Asana
-
 [[2022-05-07 ML Safety Scholars]] as a list of YEA stuff I did
 
 Yhack twilio
@@ -132,3 +128,6 @@ Yhack twilio
 Regex
 
 https://docs.google.com/document/d/1coDhSTd76rSFWITIYlbKQGNgYXW9HAaiWPR7OJ7iPA4/edit#
+
+# SPF
+Building Email list to 160, website with engagement

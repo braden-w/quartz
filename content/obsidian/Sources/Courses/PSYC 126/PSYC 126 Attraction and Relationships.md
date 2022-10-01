@@ -186,7 +186,7 @@ Most people are simultaneously torn between both options
 
 ![](https://i.imgur.com/9f2PZ34.png)
 
-[[Self-Reinforcing Cycle]] explanation for why people stay in an unhappy relationship
+[[Positive feedback loop]] explanation for why people stay in an unhappy relationship
 
 ![](https://i.imgur.com/etnHhUR.png)
 
