@@ -1,5 +1,5 @@
 ---
-aliases Heroku is dead
+aliases: Heroku is dead
 date: "2022-09-19"
 date modified: "2022-09-19"
 ---
